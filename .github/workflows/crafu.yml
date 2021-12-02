@@ -1,0 +1,25 @@
+name: Crafu'r data diweddaraf
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '5,25,45 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Edrychwch ar y gronfa hon
+      uses: actions/checkout@v2
+    - name: Cymryd data diweddaraf
+      run: |-
+        curl https://www.s4c.cymru/df/programme_feed_by_category?lang=c&id=1 | jq . > ffeithiolcelf.json
+    - name: Cyflwyno a gwthio os oes newid
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
