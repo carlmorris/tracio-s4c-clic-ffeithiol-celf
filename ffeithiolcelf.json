@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "29",
-      "series_title": "Codi Pac",
-      "programme_title": "Ty Ddewi",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "clic_aired": "27 Tachwedd 2021",
-      "fav_id": "793406854",
-      "id": "802491548",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-11-27 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "59",
       "series_title": "Codi Pac",
@@ -587,6 +568,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "29",
+      "series_title": "Codi Pac",
+      "programme_title": "Ty Ddewi",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "clic_aired": "27 Tachwedd 2021",
+      "fav_id": "793406854",
+      "id": "802491548",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-11-27 12:30:00",
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Nyrsys",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y drydedd bennod, byddwn yn cwrdd â Joe sy'n nyrsio yn ardal Aberteifi ac sydd ar fin dod yn Dad. Byddwn hefyd yn gweld Caitlin sy'n brif nyrs yn ardal Rhydaman ac yn trin claf gyda chancr. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Traed Lan",
       "programme_title": null,
       "short_billing": "Cyfres chwe rhan sy'n codi'r llen ar fyd preifat a chyfrinachol yr angladdwyr.",
