@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "29",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro Selebs",
-      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "clic_aired": "27 Tachwedd 2021",
-      "fav_id": "809997292",
-      "id": "809997923",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2021-11-27 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "110",
       "series_title": "Am Dro!",
@@ -112,6 +93,25 @@
       "series_id": "833368956",
       "title": "Am Dro!",
       "date_broadcast": "2021-11-10 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "29",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro Selebs",
+      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "clic_aired": "27 Tachwedd 2021",
+      "fav_id": "809997292",
+      "id": "809997923",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2021-11-27 16:30:00",
       "vs": "0"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Y gyflwynwraig Lara Catrin sy'n herio dau ffasiynol iawn i gystadlu yn erbyn ei gilydd yn sialens Caru Siopa.  Tasg Wendy a Llio o Ynys Môn ydi prynu dillad o siopau elusen, eu trawsnewid a'u gwerthu eto.  Yr un sy'n gwneud y mwyaf o arian sy'n ennill.  Ond yr her fwyaf ydi gosod eu stondinau gwerthu ynghanol storm fawr. ",
@@ -420,7 +420,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Bryn Williams yn teithio dros y dwr i Ffrainc yn y gyfres hon i ail-ddarganfod ei wreiddiau coginio.",
@@ -647,8 +647,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "27",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -815,6 +815,25 @@
       "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": "2021-12-04 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": null,
+      "programme_title": "Dawel Nos",
+      "short_billing": "Rhaglen ddogfen am hanes y garol, ac am stori arbennig sy'n ymwneud â pherfformiad cofiadwy ohoni gan gôr o filwyr Cymreig.",
+      "thumbnail_url": "Dawel_Nos_2011_7602.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen ddogfen am hanes y garol, ac am stori arbennig sy'n ymwneud â pherfformiad cofiadwy ohoni gan gôr o filwyr Cymreig yng Ngwlad Belg ar Noswyl Nadolig 1944. Mae Dawel Nos yn un o'n carolau mwyaf adnabyddus a phoblogaidd, ac mae gan y ddarlledwraig a'r newyddiadurwraig Bethan Jones Parry ddiddordeb ynddi erioed. Mae ganddi hi a'i theulu gysylltiad arbennig â hanes y garol, a bydd hi a'i merch, Catrin Siriol, yn ymweld ag Awstria a Gwlad Belg i ddysgu mwy am y garol ac am y cysylltiad yma. ",
+      "clic_aired": "3 Rhagfyr 2021",
+      "fav_id": "499712663",
+      "id": "499712663",
+      "series_id": null,
+      "title": "Dawel Nos",
+      "date_broadcast": "2021-12-16 22:30:00",
       "vs": "0"
     },
     {
@@ -1237,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Natur a Ni",
       "programme_title": null,
       "short_billing": "Ar Natur a Ni yr wythnos hon bydd Morgan Jones yn dod i adnabod bywyd gwyllt Cymru yn well yng nghwmni naturiaethwyr brwdfrydig. Bydd cyfle hefyd i adnabod can aderyn yr wythnos a gweld dyddiadur bywyd gwyllt mis Mehefin Angharad Jones.",
@@ -1294,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1636,7 +1655,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
