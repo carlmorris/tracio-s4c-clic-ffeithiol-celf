@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "3 Lle",
       "programme_title": "Siân James",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "3 Lle",
       "programme_title": "Bryn Williams",
       "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Byd Pws - Cyfres 1",
       "programme_title": "14 Copa",
       "short_billing": "Cyfres o 2001 yn dilyn Dewi Pws wrth iddo deithio i wahanol wledydd.",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "110",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "26",
       "series_title": "Cymry ar Gynfas",
@@ -699,6 +680,25 @@
       "fav_id": "804336612",
       "id": "804336743",
       "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "110",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
       "vs": "0"
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Olion: Palu am Hanes",
       "programme_title": "Cynffig, Rhan 2",
       "short_billing": "Yr archeolegydd Dr Iestyn Jones sy'n dod o hyd i hanesion cudd wrth dwrio i'r gorffennol mewn safleoedd diddorol o gwmpas Cymru.",
