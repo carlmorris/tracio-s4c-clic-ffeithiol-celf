@@ -496,7 +496,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -534,7 +534,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 2",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "33",
-      "series_title": "Codi Pac",
-      "programme_title": "Castell Nedd",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "clic_aired": "4 Rhagfyr 2021",
-      "fav_id": "793406854",
-      "id": "802491566",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-12-04 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "57",
       "series_title": "Codi Pac",
@@ -606,6 +587,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "33",
+      "series_title": "Codi Pac",
+      "programme_title": "Castell Nedd",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "clic_aired": "4 Rhagfyr 2021",
+      "fav_id": "793406854",
+      "id": "802491566",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-12-04 12:30:00",
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn rhaglen ola¿r gyfres, bydd y ddau¿n cael profiad ¿ysbrydol¿ ym Machynys; taith wyllt draw i Ynys Echni, ac ymweliad ag ynys mwya¿ poblogaidd Cymru ¿ Ynys y Barri! ",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "100",
-      "series_title": "Dudley",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "thumbnail_url": "Dudley_2011.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "clic_aired": "17 Hydref 2021",
-      "fav_id": "540820873",
-      "id": "33243000",
-      "series_id": "33129885",
-      "title": "Dudley",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "27",
       "series_title": "Dudley",
@@ -891,6 +872,25 @@
       "series_id": "21312032",
       "title": "Dudley",
       "date_broadcast": "2021-11-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "100",
+      "series_title": "Dudley",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "thumbnail_url": "Dudley_2011.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "clic_aired": "17 Hydref 2021",
+      "fav_id": "540820873",
+      "id": "33243000",
+      "series_id": "33129885",
+      "title": "Dudley",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Her Yr Hinsawdd",
       "programme_title": "Cymru",
       "short_billing": "Yr Athro Siwan Davies sy'n esbonio mwy am oblygiadau'r newid hinsawdd presennol. ",
