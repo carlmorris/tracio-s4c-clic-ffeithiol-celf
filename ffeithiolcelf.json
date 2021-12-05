@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "27",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro Selebs",
-      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "clic_aired": "27 Tachwedd 2021",
-      "fav_id": "809997292",
-      "id": "809997923",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2021-11-27 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "108",
       "series_title": "Am Dro!",
@@ -131,6 +112,25 @@
       "series_id": "833368956",
       "title": "Am Dro!",
       "date_broadcast": "2021-11-10 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "27",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro Selebs",
+      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "clic_aired": "27 Tachwedd 2021",
+      "fav_id": "809997292",
+      "id": "809997923",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2021-11-27 16:30:00",
       "vs": "0"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Aberaeron i Langrannog",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -192,7 +192,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Arfordir Cymru: Môn",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Bedwyr Rees ar drywydd rhai o enwau'r llefydd ar hyd arfordir Môn gan obeithio cofnodi rhai ohonynt a mynd ar drywydd eu hanes. ",
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Abergwaun i Abercastell",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Bois y Rhondda yn ôl. Cawn gipolwg unigryw ar fywydau gr&#373;p o ffrindiau sydd yn dod i delerau â chymhlethdodau cymdeithas fodern, a'r brwydrau sy¿n wynebu eu cenhedlaeth nhw ar adeg ansicr. Sut bydd deinameg y ffrindiau yn newid wrth i'r bechgyn symud ymlaen i'r cam nesaf' Sut fydd eu perthynas â¿u teuluoedd yn datblygu' Bydd llawer o chwerthin a dwli wrth i¿r camerau ddilyn y criw egnïol yn llywio¿u ffordd drwy fywyd. Y tro hwn mae¿r bois yn teithio¿n bell o¿r Rhondda!  ",
@@ -515,7 +515,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Codi Hwyl - Cyfres 1",
       "programme_title": "Pennod 1",
       "short_billing": "John Pierce Jones sy'n dysgu hwylio gyda Dilwyn Morgan.",
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "57",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "34",
       "series_title": "Codi Pac",
@@ -609,8 +590,27 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "57",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Cofio",
       "programme_title": "Edward H Dafis",
       "short_billing": "Cofio pobl adnabyddus drwy ddeunydd ffilm o'r archif. ",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "109",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "26",
       "series_title": "Cymry ar Gynfas",
@@ -699,6 +680,25 @@
       "fav_id": "804336612",
       "id": "804336743",
       "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "109",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
       "vs": "0"
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "28",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "101",
       "series_title": "Dudley",
@@ -891,6 +872,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "28",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Aberdaron i Fflint",
       "short_billing": "Cyfle i fwynhau a chael eich rhyfeddu gan olygfeydd godidog glannau Cymru o'r awyr. Dilynwn holl arfordir Cymru o'r awyr - o'i dechrau i'w diwedd. Y tro hwn: o Aberdaron i Fflint.",
@@ -1289,7 +1289,7 @@
       "id": "810087925",
       "series_id": null,
       "title": "Newid Hinsawdd Newid Byd: COVID-19",
-      "date_broadcast": "2021-10-31 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "30",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y drydedd bennod, byddwn yn cwrdd â Joe sy'n nyrsio yn ardal Aberteifi ac sydd ar fin dod yn Dad. Byddwn hefyd yn gweld Caitlin sy'n brif nyrs yn ardal Rhydaman ac yn trin claf gyda chancr. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02334.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y drydedd bennod, byddwn yn cwrdd â Joe sy'n nyrsio yn ardal Aberteifi ac sydd ar fin dod yn Dad. Byddwn hefyd yn gweld Caitlin sy'n brif nyrs yn ardal Rhydaman ac yn trin claf gyda chancr. ",
-      "clic_aired": "30 Tachwedd 2021",
-      "fav_id": "804325978",
-      "id": "810461735",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2021-11-30 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "100",
       "series_title": "Nyrsys",
@@ -1347,6 +1328,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": "2021-11-08 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "30",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y drydedd bennod, byddwn yn cwrdd â Joe sy'n nyrsio yn ardal Aberteifi ac sydd ar fin dod yn Dad. Byddwn hefyd yn gweld Caitlin sy'n brif nyrs yn ardal Rhydaman ac yn trin claf gyda chancr. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02334.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y drydedd bennod, byddwn yn cwrdd â Joe sy'n nyrsio yn ardal Aberteifi ac sydd ar fin dod yn Dad. Byddwn hefyd yn gweld Caitlin sy'n brif nyrs yn ardal Rhydaman ac yn trin claf gyda chancr. ",
+      "clic_aired": "30 Tachwedd 2021",
+      "fav_id": "804325978",
+      "id": "810461735",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2021-11-30 23:00:00",
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Rhwng toriad gwawr a machlud haul ym Mhenrhyn Gwyr, cawn dreulio diwrnod ar lan y môr yng nghwmni Carys y ffotograffydd syrffio, Nia - warden Ynys Dewi yn Sir Benfro a John, y ffarmwr cregyn gleision yn y Fenai.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Eisteddfod Genedlaethol",
       "short_billing": "Cyfres newydd sbon yn clodfori campweithiau crefftus i'w trysori am byth. Bydd tri crefftwr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran mudiadau mwyaf pwysig Cymru. Y tro hwn, yr Eisteddfod Gen sy'n comisiynu cerfluniaeth arbennig.",
