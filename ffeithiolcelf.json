@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 1",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -17,25 +17,6 @@
       "series_id": "337687381",
       "title": "04 Wal Gwestai'r Byd",
       "date_broadcast": "2021-12-01 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "16",
-      "series_title": "3 Lle",
-      "programme_title": "Siân James",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_2010S4C_P11_Sian_James_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythos yma, y gantores, Siân James sydd yn ein tywys o gwmpas tri lle sydd wedi bod yn bwysig yn ei bywyd hi. Ei dewis yw ei chartref yn Llanerfyl, Powys; Llanon, ger Aberaeron a Phrifysgol Bangor.",
-      "clic_aired": "18 Tachwedd 2021",
-      "fav_id": "520950896",
-      "id": "357862390",
-      "series_id": "357862202",
-      "title": "3 Lle",
-      "date_broadcast": "2021-11-18 18:30:00",
       "vs": "0"
     },
     {
@@ -55,6 +36,25 @@
       "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": "2021-12-05 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "16",
+      "series_title": "3 Lle",
+      "programme_title": "Siân James",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_2010S4C_P11_Sian_James_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr wythos yma, y gantores, Siân James sydd yn ein tywys o gwmpas tri lle sydd wedi bod yn bwysig yn ei bywyd hi. Ei dewis yw ei chartref yn Llanerfyl, Powys; Llanon, ger Aberaeron a Phrifysgol Bangor.",
+      "clic_aired": "18 Tachwedd 2021",
+      "fav_id": "520950896",
+      "id": "357862390",
+      "series_id": "357862202",
+      "title": "3 Lle",
+      "date_broadcast": "2021-11-18 18:30:00",
       "vs": "0"
     },
     {
@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "106",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "rhaglen ola'r gyfres bydd Lisa yn tywys y criw i hen faenordy Llancaiach Fawr - taith sy'n llawn ysbryd! Awn i Sir Benfro gyda Mari cyn ei throi hi i'r gogledd at deithiau Huw yn Rhosllanerchrugog a Bleddyn i fyny i Lyn Bochlwyd yn Nyffryn Ogwen. Pedwar cystadleuydd brwd a phedair taith gerdded gofiadwy - ond pwy fydd yn mynd â'r wobr o fil o bunnoedd'",
-      "thumbnail_url": "Am_Dro_2021S4C_C4_P7_565.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "rhaglen ola'r gyfres bydd Lisa yn tywys y criw i hen faenordy Llancaiach Fawr - taith sy'n llawn ysbryd! Awn i Sir Benfro gyda Mari cyn ei throi hi i'r gogledd at deithiau Huw yn Rhosllanerchrugog a Bleddyn i fyny i Lyn Bochlwyd yn Nyffryn Ogwen. Pedwar cystadleuydd brwd a phedair taith gerdded gofiadwy - ond pwy fydd yn mynd â'r wobr o fil o bunnoedd'",
-      "clic_aired": "24 Hydref 2021",
-      "fav_id": "809997292",
-      "id": "833369188",
-      "series_id": "833368956",
-      "title": "Am Dro!",
-      "date_broadcast": "2021-11-10 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "25",
       "series_title": "Am Dro!",
@@ -134,8 +115,27 @@
       "vs": "0"
     },
     {
+      "count": "7",
+      "days_to_expire": "106",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "rhaglen ola'r gyfres bydd Lisa yn tywys y criw i hen faenordy Llancaiach Fawr - taith sy'n llawn ysbryd! Awn i Sir Benfro gyda Mari cyn ei throi hi i'r gogledd at deithiau Huw yn Rhosllanerchrugog a Bleddyn i fyny i Lyn Bochlwyd yn Nyffryn Ogwen. Pedwar cystadleuydd brwd a phedair taith gerdded gofiadwy - ond pwy fydd yn mynd â'r wobr o fil o bunnoedd'",
+      "thumbnail_url": "Am_Dro_2021S4C_C4_P7_565.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "rhaglen ola'r gyfres bydd Lisa yn tywys y criw i hen faenordy Llancaiach Fawr - taith sy'n llawn ysbryd! Awn i Sir Benfro gyda Mari cyn ei throi hi i'r gogledd at deithiau Huw yn Rhosllanerchrugog a Bleddyn i fyny i Lyn Bochlwyd yn Nyffryn Ogwen. Pedwar cystadleuydd brwd a phedair taith gerdded gofiadwy - ond pwy fydd yn mynd â'r wobr o fil o bunnoedd'",
+      "clic_aired": "24 Hydref 2021",
+      "fav_id": "809997292",
+      "id": "833369188",
+      "series_id": "833368956",
+      "title": "Am Dro!",
+      "date_broadcast": "2021-11-10 21:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn rai o werthwyr tai amlycaf Cymru gan brofi'r holl emosiwn a'r ddrama sy'n dod gyda rhoi ty ar werth.",
@@ -343,6 +343,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "33",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Moron",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Moron fydd y cynhwysyn hollbwysig heddiw a bydd Bryn yn ymweld â garddwr sy'n defnyddio technegau arbennig i dyfu llysiau er mwyn eu harddangos mewn sioeau.",
+      "clic_aired": "6 Rhagfyr 2021",
+      "fav_id": "520950903",
+      "id": "519751693",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2021-12-06 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "79",
       "series_title": "Cegin Bryn",
@@ -359,25 +378,6 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "34",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Moron",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Moron fydd y cynhwysyn hollbwysig heddiw a bydd Bryn yn ymweld â garddwr sy'n defnyddio technegau arbennig i dyfu llysiau er mwyn eu harddangos mewn sioeau.",
-      "clic_aired": "6 Rhagfyr 2021",
-      "fav_id": "520950903",
-      "id": "519751693",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2021-12-06 13:00:00",
       "vs": "0"
     },
     {
@@ -495,6 +495,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "31",
+      "series_title": "Codi Pac",
+      "programme_title": "Castell Nedd",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "clic_aired": "4 Rhagfyr 2021",
+      "fav_id": "793406854",
+      "id": "802491566",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-12-04 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "55",
       "series_title": "Codi Pac",
@@ -511,25 +530,6 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "32",
-      "series_title": "Codi Pac",
-      "programme_title": "Castell Nedd",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "clic_aired": "4 Rhagfyr 2021",
-      "fav_id": "793406854",
-      "id": "802491566",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-12-04 12:30:00",
       "vs": "0"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "26",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "99",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "26",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Gwlad Moc",
       "programme_title": null,
       "short_billing": "Cyfres o 2014 yn hel atgofion, ac yn dathlu gwasanaeth y diweddar Moc Morgan i ddarlledu a chefn gwlad. ",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
