@@ -287,7 +287,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Byd o Liw",
       "programme_title": "Dolbadarn",
       "short_billing": "Cyfres sy'n dathlu cestyll Cymru drwy ddarluniau yng nghwmni'r cyflwynydd Osi Rhys Osmond ac artistiaid amrywiol.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "25",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "98",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "25",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "97",
-      "series_title": "Nyrsys",
-      "programme_title": "Pennod 6",
-      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "clic_aired": "16 Hydref 2021",
-      "fav_id": "804325978",
-      "id": "804326152",
-      "series_id": "804326055",
-      "title": "Nyrsys",
-      "date_broadcast": "2021-11-08 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "34",
       "series_title": "Nyrsys",
@@ -1233,6 +1214,25 @@
       "series_id": "810461697",
       "title": "Nyrsys",
       "date_broadcast": "2021-12-07 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "97",
+      "series_title": "Nyrsys",
+      "programme_title": "Pennod 6",
+      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "clic_aired": "16 Hydref 2021",
+      "fav_id": "804325978",
+      "id": "804326152",
+      "series_id": "804326055",
+      "title": "Nyrsys",
+      "date_broadcast": "2021-11-08 12:05:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Llanarthne",
       "short_billing": "Mwy o ryseitiau blasus a hwyl yn y gegin gyda Beca Lyne-Pirkis.",
