@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "3 Lle",
       "programme_title": "Siân James",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "3 Lle",
       "programme_title": "Bryn Williams",
       "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Byd Pws - Cyfres 1",
       "programme_title": "14 Copa",
       "short_billing": "Cyfres o 2001 yn dilyn Dewi Pws wrth iddo deithio i wahanol wledydd.",
@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "30",
-      "series_title": "Codi Pac",
-      "programme_title": "Castell Nedd",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
-      "clic_aired": "4 Rhagfyr 2021",
-      "fav_id": "793406854",
-      "id": "802491566",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-12-04 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "54",
       "series_title": "Codi Pac",
@@ -530,6 +511,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "30",
+      "series_title": "Codi Pac",
+      "programme_title": "Castell Nedd",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P6_Castell_Nedd_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
+      "clic_aired": "4 Rhagfyr 2021",
+      "fav_id": "793406854",
+      "id": "802491566",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-12-04 12:30:00",
       "vs": "0"
     },
     {
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "34",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bedwaredd rhaglen, fe fyddwn yn dilyn Shan, rhan o dîm y shifft nos yn Sir Gaerfyrddin wrth iddi ymweld â'r claf, Dorian Thomas, sydd wedi colli ei ddwy goes oherwydd sepsis wedi damwain ddifrifol. Bydd Joe yn trin ei ffrind, Irfon, a Melissa yn rhannu profiadau gyda'i chlaf Gill yn Aberaeron. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02005-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bedwaredd rhaglen, fe fyddwn yn dilyn Shan, rhan o dîm y shifft nos yn Sir Gaerfyrddin wrth iddi ymweld â'r claf, Dorian Thomas, sydd wedi colli ei ddwy goes oherwydd sepsis wedi damwain ddifrifol. Bydd Joe yn trin ei ffrind, Irfon, a Melissa yn rhannu profiadau gyda'i chlaf Gill yn Aberaeron. ",
-      "clic_aired": "7 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461751",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2021-12-07 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "96",
       "series_title": "Nyrsys",
@@ -1236,8 +1217,27 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "34",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bedwaredd rhaglen, fe fyddwn yn dilyn Shan, rhan o dîm y shifft nos yn Sir Gaerfyrddin wrth iddi ymweld â'r claf, Dorian Thomas, sydd wedi colli ei ddwy goes oherwydd sepsis wedi damwain ddifrifol. Bydd Joe yn trin ei ffrind, Irfon, a Melissa yn rhannu profiadau gyda'i chlaf Gill yn Aberaeron. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02005-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bedwaredd rhaglen, fe fyddwn yn dilyn Shan, rhan o dîm y shifft nos yn Sir Gaerfyrddin wrth iddi ymweld â'r claf, Dorian Thomas, sydd wedi colli ei ddwy goes oherwydd sepsis wedi damwain ddifrifol. Bydd Joe yn trin ei ffrind, Irfon, a Melissa yn rhannu profiadau gyda'i chlaf Gill yn Aberaeron. ",
+      "clic_aired": "7 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461751",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2021-12-07 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Olion: Palu am Hanes",
       "programme_title": "Cynffig, Rhan 2",
       "short_billing": "Yr archeolegydd Dr Iestyn Jones sy'n dod o hyd i hanesion cudd wrth dwrio i'r gorffennol mewn safleoedd diddorol o gwmpas Cymru.",
