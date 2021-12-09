@@ -306,7 +306,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Daw¿r ail bennod o¿r gyfres newydd sbon hon o Aberystwyth, ble mae¿r gyflwynwraig Lara Catrin yn cyfarfod a dau siopwr brwd sydd am wneud arian wrth ail gylchu dillad ail law.  Mae Carwen a Dylan yn dwli ar fargen ond byddan nhw¿n cael eu herio i brynu dillad o siopau elusen cyn eu trawsnewid a¿u gwerthu eto, gyda¿r ennillydd yn cadw¿r arian i gyd.  Mae Lara yn rhannu ei syniadau clyfar i¿n perswadio ni gyd ailgylchu ein hoff ddillad. ",
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Bryn Williams yn teithio dros y dwr i Ffrainc yn y gyfres hon i ail-ddarganfod ei wreiddiau coginio.",
@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "53",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "30",
       "series_title": "Codi Pac",
@@ -530,6 +511,25 @@
       "series_id": "802491469",
       "title": "Codi Pac",
       "date_broadcast": "2021-12-04 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "53",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": null,
       "programme_title": "Dawel Nos",
       "short_billing": "Rhaglen ddogfen am hanes y garol, ac am stori arbennig sy'n ymwneud â pherfformiad cofiadwy ohoni gan gôr o filwyr Cymreig.",
@@ -758,25 +758,6 @@
       "series_id": null,
       "title": "Dawel Nos",
       "date_broadcast": "2021-12-16 22:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "7",
-      "days_to_expire": "24",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "24",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Natur a Ni",
       "programme_title": null,
       "short_billing": "Ar Natur a Ni yr wythnos hon bydd Morgan Jones yn dod i adnabod bywyd gwyllt Cymru yn well yng nghwmni naturiaethwyr brwdfrydig. Bydd cyfle hefyd i adnabod can aderyn yr wythnos a gweld dyddiadur bywyd gwyllt mis Mehefin Angharad Jones.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
