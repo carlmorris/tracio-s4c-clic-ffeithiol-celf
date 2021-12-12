@@ -685,6 +685,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "125",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "clic_aired": "17 Tachwedd 2021",
+      "fav_id": "802081093",
+      "id": "817960700",
+      "series_id": "817960474",
+      "title": "Dan Do",
+      "date_broadcast": "2021-12-04 16:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "47",
       "series_title": "Dan Do",
@@ -723,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "125",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "clic_aired": "17 Tachwedd 2021",
-      "fav_id": "802081093",
-      "id": "817960700",
-      "series_id": "817960474",
-      "title": "Dan Do",
-      "date_broadcast": "2021-12-04 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "26",
       "series_title": null,
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "21",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "94",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "21",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
