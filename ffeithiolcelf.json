@@ -268,7 +268,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Bwyd Hanesyddol",
       "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "73",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "34",
       "series_title": "Cegin Bryn",
@@ -397,6 +378,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2021-12-13 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "73",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "20",
-      "series_title": "Dudley",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae Dudley yn coginio cwningen, poussin, a tharten Lemwn. Mae hefyd yn ymweld ag Eleri Davies i weld sut mae'n gwneud ei canapes, a'i hen ysgol, Ysgol Rhydfelen, i ddysgu'r athrawon sut i wneud cous cous a physgod, a salad cynnes.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae Dudley yn coginio cwningen, poussin, a tharten Lemwn. Mae hefyd yn ymweld ag Eleri Davies i weld sut mae'n gwneud ei canapes, a'i hen ysgol, Ysgol Rhydfelen, i ddysgu'r athrawon sut i wneud cous cous a physgod, a salad cynnes.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676349",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 14:15:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "93",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "20",
+      "series_title": "Dudley",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae Dudley yn coginio cwningen, poussin, a tharten Lemwn. Mae hefyd yn ymweld ag Eleri Davies i weld sut mae'n gwneud ei canapes, a'i hen ysgol, Ysgol Rhydfelen, i ddysgu'r athrawon sut i wneud cous cous a physgod, a salad cynnes.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae Dudley yn coginio cwningen, poussin, a tharten Lemwn. Mae hefyd yn ymweld ag Eleri Davies i weld sut mae'n gwneud ei canapes, a'i hen ysgol, Ysgol Rhydfelen, i ddysgu'r athrawon sut i wneud cous cous a physgod, a salad cynnes.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676349",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 14:15:00",
       "vs": "0"
     },
     {
