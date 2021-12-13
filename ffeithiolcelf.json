@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "2",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 2",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -153,8 +153,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn rai o werthwyr tai amlycaf Cymru gan brofi'r holl emosiwn a'r ddrama sy'n dod gyda rhoi ty ar werth.",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "28",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Moron",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Moron fydd y cynhwysyn hollbwysig heddiw a bydd Bryn yn ymweld â garddwr sy'n defnyddio technegau arbennig i dyfu llysiau er mwyn eu harddangos mewn sioeau.",
-      "clic_aired": "6 Rhagfyr 2021",
-      "fav_id": "520950903",
-      "id": "519751693",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2021-12-06 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "73",
       "series_title": "Cegin Bryn",
@@ -397,6 +378,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Cegin Bryn",
+      "programme_title": "India Corn",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "India corn yw'r llysieuyn sydd ar fwydlen y bennod hon. Yn y gegin ac ar randir, bydd y cogydd Bryn Williams yn paratoi pryd tri chwrs gyda'r llysieuyn llachar, ac yn cwrdd â chwpl sy'n cadw rhandir yn Llandeilo ers iddyn nhw ymddeol. Bydd Bryn yn defnyddio eu cynnyrch i greu pryd syml ond blasus o fwyd.",
+      "clic_aired": "13 Rhagfyr 2021",
+      "fav_id": "520950903",
+      "id": "519751711",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2021-12-13 13:00:00",
       "vs": "0"
     },
     {
@@ -515,21 +515,21 @@
     },
     {
       "count": "6",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Codi Pac",
-      "programme_title": "Gwyr",
+      "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P8_Gwyr_004.jpg",
-      "duration": "24",
+      "thumbnail_url": "Codi_Pac_2019S4C_P7_Blaenau_Ffestiniog_008.jpg",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
+      "full_billing": "Geraint Hardy sydd yn Codi Pac ac ymlwybro o gwmpas Cymru. Ym Mlaenau Ffestiniog yr wythnos hon byddwn yn darganfod beth sydd gan y dref i'w chynnig, gweithgareddau difyr, llefydd i aros, bwyta ac i ymweld â nhw. ",
       "clic_aired": "11 Rhagfyr 2021",
       "fav_id": "793406854",
-      "id": "802491602",
+      "id": "802491584",
       "series_id": "802491469",
       "title": "Codi Pac",
-      "date_broadcast": "2021-12-11 13:00:00",
+      "date_broadcast": "2021-12-11 12:30:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "93",
-      "series_title": "Dudley",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "thumbnail_url": "Dudley_2011.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "clic_aired": "17 Hydref 2021",
-      "fav_id": "540820873",
-      "id": "33243000",
-      "series_id": "33129885",
-      "title": "Dudley",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "20",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "21312032",
       "title": "Dudley",
       "date_broadcast": "2021-11-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "93",
+      "series_title": "Dudley",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "thumbnail_url": "Dudley_2011.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "clic_aired": "17 Hydref 2021",
+      "fav_id": "540820873",
+      "id": "33243000",
+      "series_id": "33129885",
+      "title": "Dudley",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Gwlad Moc",
       "programme_title": null,
       "short_billing": "Cyfres o 2014 yn hel atgofion, ac yn dathlu gwasanaeth y diweddar Moc Morgan i ddarlledu a chefn gwlad. ",
@@ -1217,25 +1217,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "91",
-      "series_title": "Nyrsys",
-      "programme_title": "Pennod 6",
-      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "clic_aired": "16 Hydref 2021",
-      "fav_id": "804325978",
-      "id": "804326152",
-      "series_id": "804326055",
-      "title": "Nyrsys",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "29",
       "series_title": "Nyrsys",
@@ -1252,6 +1233,25 @@
       "series_id": "810461697",
       "title": "Nyrsys",
       "date_broadcast": "2021-12-07 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "91",
+      "series_title": "Nyrsys",
+      "programme_title": "Pennod 6",
+      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "clic_aired": "16 Hydref 2021",
+      "fav_id": "804325978",
+      "id": "804326152",
+      "series_id": "804326055",
+      "title": "Nyrsys",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
