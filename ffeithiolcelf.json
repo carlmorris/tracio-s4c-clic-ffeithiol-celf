@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -477,7 +477,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 3",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -515,25 +515,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "49",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "32",
       "series_title": "Codi Pac",
       "programme_title": "Blaenau Ffestiniog",
@@ -549,6 +530,25 @@
       "series_id": "802491469",
       "title": "Codi Pac",
       "date_broadcast": "2021-12-11 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "49",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn rhaglen ola¿r gyfres, bydd y ddau¿n cael profiad ¿ysbrydol¿ ym Machynys; taith wyllt draw i Ynys Echni, ac ymweliad ag ynys mwya¿ poblogaidd Cymru ¿ Ynys y Barri! ",
@@ -685,25 +685,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "124",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "clic_aired": "17 Tachwedd 2021",
-      "fav_id": "802081093",
-      "id": "817960700",
-      "series_id": "817960474",
-      "title": "Dan Do",
-      "date_broadcast": "2021-12-04 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "45",
       "series_title": "Dan Do",
@@ -742,6 +723,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "124",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "clic_aired": "17 Tachwedd 2021",
+      "fav_id": "802081093",
+      "id": "817960700",
+      "series_id": "817960474",
+      "title": "Dan Do",
+      "date_broadcast": "2021-12-04 16:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "24",
       "series_title": null,
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "19",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "92",
       "series_title": "Dudley",
@@ -796,6 +777,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "19",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
@@ -1103,8 +1103,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "4",
+      "count": "2",
+      "days_to_expire": "3",
       "series_title": "Her Yr Hinsawdd",
       "programme_title": "Cymru",
       "short_billing": "Yr Athro Siwan Davies sy'n esbonio mwy am oblygiadau'r newid hinsawdd presennol. ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Mor Hafren",
       "short_billing": "Cyfres newydd gyffrous wrth i¿r actorion Julian Lewis Jones a Ryland Teifi ein tywys ni ar daith bysgota ar hyd arfordir Cymru, o Fôr Hafren i Ynys Môn. Dau hen ffrind yn dianc rhag y byd a'i bethe mewn ¿bwbwl cofid¿ a campyr-fan.",
