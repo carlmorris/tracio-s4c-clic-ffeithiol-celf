@@ -363,7 +363,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Byd o Liw",
       "programme_title": "Caernarfon",
       "short_billing": "Cyfres sy'n dathlu cestyll Cymru drwy ddarluniau yng nghwmni'r cyflwynydd Osi Rhys Osmond ac artistiaid amrywiol.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -1217,25 +1217,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Jayne, bydwraig yn ardal Llanelli a Helen, sy'n nyrs gymunedol yn ymweld â chlaf gydag MS. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02648.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Jayne, bydwraig yn ardal Llanelli a Helen, sy'n nyrs gymunedol yn ymweld â chlaf gydag MS. ",
-      "clic_aired": "14 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461767",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2021-12-14 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "84",
       "series_title": "Nyrsys",
@@ -1252,6 +1233,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "28",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Jayne, bydwraig yn ardal Llanelli a Helen, sy'n nyrs gymunedol yn ymweld â chlaf gydag MS. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02648.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Jayne, bydwraig yn ardal Llanelli a Helen, sy'n nyrs gymunedol yn ymweld â chlaf gydag MS. ",
+      "clic_aired": "14 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461767",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2021-12-14 23:00:00",
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Llanarthne",
       "short_billing": "Mwy o ryseitiau blasus a hwyl yn y gegin gyda Beca Lyne-Pirkis.",
