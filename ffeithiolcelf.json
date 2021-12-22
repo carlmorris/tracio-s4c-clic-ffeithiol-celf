@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "      Chwedloni",
       "programme_title": "Chwedloni: Stori Jon",
       "short_billing": "Straeon unigryw sy'n adlewyrchu bywyd.",
@@ -40,25 +40,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
-      "series_title": "3 Lle",
-      "programme_title": "Siân James",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_2010S4C_P11_Sian_James_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythos yma, y gantores, Siân James sydd yn ein tywys o gwmpas tri lle sydd wedi bod yn bwysig yn ei bywyd hi. Ei dewis yw ei chartref yn Llanerfyl, Powys; Llanon, ger Aberaeron a Phrifysgol Bangor.",
-      "clic_aired": "18 Tachwedd 2021",
-      "fav_id": "520950896",
-      "id": "357862390",
-      "series_id": "357862202",
-      "title": "3 Lle",
-      "date_broadcast": "2021-11-18 18:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "16",
       "series_title": "3 Lle",
       "programme_title": "Bryn Williams",
@@ -74,6 +55,25 @@
       "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": "2021-12-05 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "3 Lle",
+      "programme_title": "Siân James",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_2010S4C_P11_Sian_James_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr wythos yma, y gantores, Siân James sydd yn ein tywys o gwmpas tri lle sydd wedi bod yn bwysig yn ei bywyd hi. Ei dewis yw ei chartref yn Llanerfyl, Powys; Llanon, ger Aberaeron a Phrifysgol Bangor.",
+      "clic_aired": "18 Tachwedd 2021",
+      "fav_id": "520950896",
+      "id": "357862390",
+      "series_id": "357862202",
+      "title": "3 Lle",
+      "date_broadcast": "2021-11-18 18:30:00",
       "vs": "0"
     },
     {
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "11",
-      "series_title": "Dudley",
-      "programme_title": "Llangollen",
-      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "thumbnail_url": "Dudley_2001S4C_9.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
-      "clic_aired": "28 Tachwedd 2021",
-      "fav_id": "540820873",
-      "id": "21676348",
-      "series_id": "21312032",
-      "title": "Dudley",
-      "date_broadcast": "2021-11-28 13:45:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "84",
       "series_title": "Dudley",
@@ -853,6 +834,25 @@
       "series_id": "33129885",
       "title": "Dudley",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "11",
+      "series_title": "Dudley",
+      "programme_title": "Llangollen",
+      "short_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "thumbnail_url": "Dudley_2001S4C_9.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw'r rhaglen hon o Langollen, ac mae Dudley'n coginio: Crumble o dwrci a courgettes; Bwydo teulu Nanhoron gyda brecwast go wahanol a phupur wedi'u stwffio a Tartenni o fadarch gwyllt a saws truffle.",
+      "clic_aired": "28 Tachwedd 2021",
+      "fav_id": "540820873",
+      "id": "21676348",
+      "series_id": "21312032",
+      "title": "Dudley",
+      "date_broadcast": "2021-11-28 13:45:00",
       "vs": "0"
     },
     {
