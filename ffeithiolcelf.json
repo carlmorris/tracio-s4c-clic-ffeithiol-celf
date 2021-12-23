@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "83",
-      "series_title": "Dudley",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "thumbnail_url": "Dudley_2011.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "clic_aired": "17 Hydref 2021",
-      "fav_id": "540820873",
-      "id": "33243000",
-      "series_id": "33129885",
-      "title": "Dudley",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "10",
       "series_title": "Dudley",
@@ -872,6 +853,25 @@
       "series_id": "21312032",
       "title": "Dudley",
       "date_broadcast": "2021-11-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "83",
+      "series_title": "Dudley",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "thumbnail_url": "Dudley_2011.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "clic_aired": "17 Hydref 2021",
+      "fav_id": "540820873",
+      "id": "33243000",
+      "series_id": "33129885",
+      "title": "Dudley",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
