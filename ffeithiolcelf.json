@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "145",
-      "series_title": "Adre",
-      "programme_title": "Catrin Williams",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
-      "thumbnail_url": "Adre_2021-22S4C_P6_CATRIN_WILLIAMS.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
-      "clic_aired": "20 Rhagfyr 2021",
-      "fav_id": "793406870",
-      "id": "817959768",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-06 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "28",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2021-12-24 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "145",
+      "series_title": "Adre",
+      "programme_title": "Catrin Williams",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
+      "thumbnail_url": "Adre_2021-22S4C_P6_CATRIN_WILLIAMS.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
+      "clic_aired": "20 Rhagfyr 2021",
+      "fav_id": "793406870",
+      "id": "817959768",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-06 18:30:00",
       "vs": "0"
     },
     {
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "81",
-      "series_title": "Dudley",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "thumbnail_url": "Dudley_2011.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "clic_aired": "17 Hydref 2021",
-      "fav_id": "540820873",
-      "id": "33243000",
-      "series_id": "33129885",
-      "title": "Dudley",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "8",
       "series_title": "Dudley",
@@ -853,6 +834,25 @@
       "series_id": "21312032",
       "title": "Dudley",
       "date_broadcast": "2021-11-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "81",
+      "series_title": "Dudley",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "thumbnail_url": "Dudley_2011.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "clic_aired": "17 Hydref 2021",
+      "fav_id": "540820873",
+      "id": "33243000",
+      "series_id": "33129885",
+      "title": "Dudley",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Yr arbenigwyr John Rees ac Yvonne Holder sy'n chwilota ledled y wlad am rai o drysorau Cymru. ",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Redhouse Cymru",
       "short_billing": "Stori adeilad sy'n sibrwd am gyfoeth gweithfeydd haearn Merthyr Tudful, ac am dlodi, trais a thrychineb dirdynnol. O ganolfan ddinesig i garchar a chlwb nos, Aled Hughes a Sara Huws sy'n datgelu haenau hanes hen neuadd y dre Merthyr ' Redhouse Cymru. ",
