@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": null,
       "programme_title": "9/11: Diwrnod Wnaeth Newid Fy",
       "short_billing": "Ugain mlynedd ers digwyddiadau dychrynllyd 9/11, cyfle i glywed atgofion newyddiaduron, ymatebwyr cyntaf, a phobl o Efrog Newydd oedd yn agos i safle'r dinistr yng Nghanolfan Fasnach y Byd. Bydd y Rhyfel yn Erbyn Terfysgaeth yn cael sylw, a chlywn bersbectif o Brydain, America, Irac, a hyd yn oed gan rywun oedd tu mewn i garchar diogelwch uchel. O ystyried yr argyfwng presennol sy'n datblygu yn Affganistan erbyn hyn, edrychwn ar legasi 9/11 a'r rhyfel yn enw diogelwch America a'r Gorllewin.",
@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Atgofion Carol yr Wyl",
       "short_billing": "Ymunwch â'r gantores a'r gyflwynwraig, Elin Llwyd, wrth iddi daflu golwg yn ôl ar rhai o'i hoff atgofion o gystadleuaeth Carol yr ¿yl ers 1999. Wrth i ni glywed carolau ysgolion ar draws Cymru a thu hwnt, cawn sgwrs ag ambell wyneb cyfarwydd a gystadlodd dros y blynyddoedd, sydd wedi mynd ati i ddilyn gyrfa yn y maes perfformio. Efallai bod ffasiwn a steil gwallt wedi newid ers diwedd y 90au, ond mae safon y canu wedi parhau i fod o safon uchel. Gwledd o garolau i'ch paratoi ar gyfer y Nadolig.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": null,
       "programme_title": "Bryn Fon: Chwilio am Feibion Glyndwr",
       "short_billing": "Yn ystod yr 80au fe hawliodd yr ymgyrch llosgi tai haf y penawdau a drysu heddluoedd Cymru am flynyddoedd. Ond pwy oedd Meibion Glynd¿r, y criw oedd yn honni mai nhw oedd yn gyfrifol' A pham gafodd Bryn Fôn ei gyhuddo ar gam a'i gadw yn y ddalfa' Mae'r canwr a'r actor ar drywydd atebion - ac yn benderfynol o ganfod y gwir.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": null,
       "programme_title": "Bwyd Byd Epic Chris",
       "short_billing": "Yn y bennod arbennig hon, mae Chris yn cydweithio gyda chymuned rhyngwladol Cymru i greu ryseitiau anarferol tanbaid. O'r Caribî i Ynysoedd y Philipinau, Syria a Japan - bydd cogyddion talentog o bedwar ban byd yn helpu Chris i weini'r bwyd i'r Cofis yn ei farchnad Nadoligaidd yng Nghaernarfon!",
@@ -363,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cefn Gwlad",
       "programme_title": "Mart Pontarfynach",
       "short_billing": "Ifan Jones Evans sydd adref ar ei batsh ym Mart Pontarfynach lle cawn flas ar bwysigrwydd y lle i'r gymuned leol, wrth iddo ail-agor ar ôl y cyfnod clo, a chael cwrdd â'r cymeriadau ac ymuno yn hwyl y Mart Nadolig.",
@@ -378,25 +378,6 @@
       "series_id": "826187114",
       "title": "Cefn Gwlad",
       "date_broadcast": "2022-01-02 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "59",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -416,6 +397,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2021-12-20 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "58",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -515,25 +515,6 @@
     },
     {
       "count": "4",
-      "days_to_expire": "18",
-      "series_title": "Codi Pac",
-      "programme_title": "Blaenau Ffestiniog",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P7_Blaenau_Ffestiniog_008.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn Codi Pac ac ymlwybro o gwmpas Cymru. Ym Mlaenau Ffestiniog yr wythnos hon byddwn yn darganfod beth sydd gan y dref i'w chynnig, gweithgareddau difyr, llefydd i aros, bwyta ac i ymweld â nhw. ",
-      "clic_aired": "11 Rhagfyr 2021",
-      "fav_id": "793406854",
-      "id": "802491584",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-12-11 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
       "days_to_expire": "34",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
@@ -549,6 +530,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "18",
+      "series_title": "Codi Pac",
+      "programme_title": "Blaenau Ffestiniog",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P7_Blaenau_Ffestiniog_008.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn Codi Pac ac ymlwybro o gwmpas Cymru. Ym Mlaenau Ffestiniog yr wythnos hon byddwn yn darganfod beth sydd gan y dref i'w chynnig, gweithgareddau difyr, llefydd i aros, bwyta ac i ymweld â nhw. ",
+      "clic_aired": "11 Rhagfyr 2021",
+      "fav_id": "793406854",
+      "id": "802491584",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-12-11 12:30:00",
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "Cofio Mei Jones",
       "short_billing": "Cyfeillion a chyd-berfformwyr yn talu teyrnged i ddawn a chyfraniad yr actor Mei Jones i fyd y ddrama ac adloniant yng Nghymru.",
@@ -590,8 +590,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Cymru ar Ffilm",
       "programme_title": "Byw yn y Wlad",
       "short_billing": "Beti George sy'n rhannu rhai o'r goreuon o archif BBC Cymru - ffilmiau sy'n gofnod o ddiwedd yr hen ffordd Gymreig o fyw a geni Cymru newydd.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": null,
       "programme_title": "DRYCH: Dylan a Titw i Ben Draw'r Byd",
       "short_billing": "Breuddwyd Dylan yw croesi draw i Ynys Enlli, er y rhwystrau corfforol sydd ganddo. Mae Titw ei ofalwr yn benderfynol o¿i helpu i oresgyn y Dystonia sy¿n caethiwo ei gorff er mwyn cyrraedd ¿Pen Draw¿r Byd.¿ Yn kick boxio a rhedeg marathons cyn hyn mae Dylan yn barod at yr her a¿r boen. Ni wnaiff Titw ildio chwaith.  ",
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": null,
       "programme_title": "DRYCH: Jason Mohammad: Trelai, y Terfysg a Fi ",
       "short_billing": "Tri deg mlynedd ar ôl terfysgoedd brawychus a threisgar ar strydoedd Trelái yng Nghaerdydd, mae Jason Mohammad yn dychwelyd i'r stâd lle gafodd ei fagu i ddarganfod pam ddigwyddodd y terfysg a sut mae'r cyfnod yn dal i effeithio ar bobl yr ardal heddiw. Dechreuodd y trwbwl yn ystod haf 1991, yn dilyn ffrae fach tu allan i siop leol. Yn sydyn, roedd torf o 500 a heddlu terfysg ar strydoedd Cymru am y tro cynta'. Mae Jason Mohammad yn ail-fyw'r profiad ac yn siarad gyda phobl oedd yna ar y pryd.  ",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "78",
-      "series_title": "Dudley",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "thumbnail_url": "Dudley_2011.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
-      "clic_aired": "17 Hydref 2021",
-      "fav_id": "540820873",
-      "id": "33243000",
-      "series_id": "33129885",
-      "title": "Dudley",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "5",
       "series_title": "Dudley",
@@ -837,8 +818,27 @@
       "vs": "0"
     },
     {
+      "count": "12",
+      "days_to_expire": "78",
+      "series_title": "Dudley",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "thumbnail_url": "Dudley_2011.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Dudley yn cwrdd a Cen Williams ac yn coginio Brithyll a Stwffin Gorimychiaid, Cawl Moron a Chig Moch, Ffesant a Saws Calvados & Tarten Ffrwythau.",
+      "clic_aired": "17 Hydref 2021",
+      "fav_id": "540820873",
+      "id": "33243000",
+      "series_id": "33129885",
+      "title": "Dudley",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "FFIT Cymru",
       "programme_title": "6 Mis Wedyn",
       "short_billing": "Mae 6 mis bellach wedi mynd ers i 5 Arweinydd FFIT Cymru 2021 gychwyn ar eu taith trawsnewid a byw bywyd iach. Ond, ydyn nhw wedi parhau i ddilyn y cynllun a chadw¿r pwysau i ffwrdd' Cawn weld yn y bennod arbennig yma.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Gareth Jones: Nofio Adre",
       "programme_title": "Pennod 3",
       "short_billing": "I ddathlu ei ben-blwydd yn 60 oed mae Gareth 'Gaz Top' Jones am nofio 60km o'r de i ogledd Cymru ar draws llynnoedd, afonydd, a chronfeydd d¿r. Dros dair wythnos bydd Gareth yn nofio mwy nag y mae erioed wedi ei wneud o'r blaen. Yn ystod wsos olaf y sialens bydd y nofiwr gwyllt Caris Bowen yn cefnogi Gareth wrth iddo deithio ar draws y gogledd cyn gorffen ei sialens drwy nofio lawr yr afon Conwy. Ond ar ôl tair wythnos nofio fydd ganddo ddigon o egni i lwyddo' \n\n ",
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": null,
       "programme_title": "Gary Speed: Arwr Cymru",
       "short_billing": "Rhaglen arbennig yn edrych ar fywyd y Cymro a'r arwr pêl-droed, Gary Speed, a fu farw mewn amgylchiadau trasig ym mis Tachwedd 2011.  Bydd y rhaglen, a gyflwynir gan y cyn bêl-droediwr rhyngwladol John Hartson, yn edrych ar pam roedd Speed yn destun cariad ac edmygedd cymaint o bobl a sut yr enillodd barch aruthrol y gymuned bêl-droed eang, gan chwalu ffiniau rhwng clybiau a ffiniau cenedlaethol.  Mewn taith emosiynol, bydd Hartson yn siarad â'r rhai oedd agosaf at Speed, yn cynnwys teulu, ffrin",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Gwesty Aduniad",
       "programme_title": null,
       "short_billing": "I'r rhai sy'n cerdded trwy ddrws Gwesty Aduniad, mae un peth yn sicr: mae bywyd ar fin newid am byth. Mae pob unigolyn sy'n dod i'r gwesty hwn am wireddu un amcan penodol: i gyfarfod rhywun o'u gorffennol. Y tro hwn: Diweddglo i daith Dewi sy'n chwilio am ei fam gwaed, ac aduniad i griw o ddawnswyr wrth ail fyw eu dyddiau cystadlu.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": null,
       "programme_title": "Nadolig Hafod Lon",
       "short_billing": "Ymunwch â Guto Meredydd a disgyblion Ysgol arbennig Hafod Lon wrth iddyn nhw baratoi at gyngerdd Nadolig sbesial iawn ym Mhortmeirion. Gyda Dewi Pws, Elin Fflur ac Ysgol Cefn Coch yn rhannu llwyfan gyda sêr Ysgol Hafod Lon.",
@@ -1179,25 +1179,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "29",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "clic_aired": "21 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461783",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2021-12-21 23:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "77",
       "series_title": "Nyrsys",
@@ -1214,6 +1195,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "29",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "clic_aired": "21 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461783",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2021-12-21 23:05:00",
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Pawb a'i Farn",
       "programme_title": "COP26",
       "short_billing": "Darlledwn heno o adeilad M-SParc yng Nghaerwen, Ynys Mon. Yn cadw cwmni i Betsan Powys fydd cynrychiolwyr awdurdodau lleol , ymgyrchwyr amgylcheddol a phobl busnes leol. Gyda COP26 yn digwydd yn Glasgow, y prif bwnc trafod fydd sut gall cynghorau Cymru gyrraedd carbon net sero erbyn 2030.",
@@ -1445,6 +1445,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": null,
+      "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
+      "short_billing": "Yn y rhifyn Nadolig arbennig yma fe fydd Elin Fflur yn croesi'r Iwerydd i 'sgwrsio dan y lloer' gyda un o sêr mwya' Hollywood - Matthew Rhys. Mewn rhaglen awr o hyd a gyda goleuadau Efrog Newydd yn gefnlen berffaith fe gawn godi'r llen ar fywyd cyffrous a lliwgar yr actor llwyddiannus o Gymru.",
+      "thumbnail_url": "Sgwrs_dan_y_Lloer_2021S4C_Mathew_Rhys_014.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn Nadolig arbennig yma fe fydd Elin Fflur yn croesi'r Iwerydd i 'sgwrsio dan y lloer' gyda un o sêr mwya' Hollywood - Matthew Rhys. Mewn rhaglen awr o hyd a gyda goleuadau Efrog Newydd yn gefnlen berffaith fe gawn godi'r llen ar fywyd cyffrous a lliwgar yr actor llwyddiannus o Gymru.",
+      "clic_aired": "27 Rhagfyr 2021",
+      "fav_id": "819088838",
+      "id": "844386664",
+      "series_id": null,
+      "title": "Sgwrs dan y Lloer: Matthew Rhys",
+      "date_broadcast": "2022-01-07 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "45",
       "series_title": "Traed Lan",
@@ -1465,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": null,
       "programme_title": "Trysorau Gareth Edwards",
       "short_billing": "Mae gan Gareth Edwards fynydd o femorabilia, yn deillio o'i amser ar frig y gêm genedlaethol. Mae Gareth yn cadw ei drysorau mewn bocsys a bagiau sy'n orlawn. Ac maen nhw'n bygwth boddi ei gartref e a Maureen, ei wraig. Nawr, mae'n rhaid i Gareth ddewis deg eitem yn unig o blith miloedd ar gyfer arddangosfa fydd yn adrodd hanes ei fywyd. Dewch ar daith i ddarganfod creiriau sydd heb weld golau dydd ers degawdau, a chofio hen hanesion o oes aur rygbi. ",
