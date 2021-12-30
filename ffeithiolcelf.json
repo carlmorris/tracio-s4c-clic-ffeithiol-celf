@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "139",
-      "series_title": "Adre",
-      "programme_title": "Catrin Williams",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
-      "thumbnail_url": "Adre_2021-22S4C_P6_CATRIN_WILLIAMS.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
-      "clic_aired": "20 Rhagfyr 2021",
-      "fav_id": "793406870",
-      "id": "817959768",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-06 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "22",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2021-12-24 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "139",
+      "series_title": "Adre",
+      "programme_title": "Catrin Williams",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
+      "thumbnail_url": "Adre_2021-22S4C_P6_CATRIN_WILLIAMS.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr artist Catrin Williams ym Mhwllheli.",
+      "clic_aired": "20 Rhagfyr 2021",
+      "fav_id": "793406870",
+      "id": "817959768",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-06 18:30:00",
       "vs": "0"
     },
     {
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Robin McBryde",
-      "short_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P1_Datgeliad.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
-      "clic_aired": "27 Rhagfyr 2021",
-      "fav_id": "804336612",
-      "id": "804336643",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2021-12-27 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "84",
       "series_title": "Cymry ar Gynfas",
@@ -606,6 +587,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Robin McBryde",
+      "short_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P1_Datgeliad.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
+      "clic_aired": "27 Rhagfyr 2021",
+      "fav_id": "804336612",
+      "id": "804336643",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2021-12-27 12:00:00",
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Yr arbenigwyr John Rees ac Yvonne Holder sy'n chwilota ledled y wlad am rai o drysorau Cymru. ",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Redhouse Cymru",
       "short_billing": "Stori adeilad sy'n sibrwd am gyfoeth gweithfeydd haearn Merthyr Tudful, ac am dlodi, trais a thrychineb dirdynnol. O ganolfan ddinesig i garchar a chlwb nos, Aled Hughes a Sara Huws sy'n datgelu haenau hanes hen neuadd y dre Merthyr ' Redhouse Cymru. ",
