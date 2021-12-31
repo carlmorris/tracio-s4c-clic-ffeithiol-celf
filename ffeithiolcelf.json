@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "54",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "23",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2021-12-20 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "54",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Yr arbenigwyr John Rees ac Yvonne Holder sy'n chwilota ledled y wlad am rai o drysorau Cymru. ",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Redhouse Cymru",
       "short_billing": "Stori adeilad sy'n sibrwd am gyfoeth gweithfeydd haearn Merthyr Tudful, ac am dlodi, trais a thrychineb dirdynnol. O ganolfan ddinesig i garchar a chlwb nos, Aled Hughes a Sara Huws sy'n datgelu haenau hanes hen neuadd y dre Merthyr ' Redhouse Cymru. ",
