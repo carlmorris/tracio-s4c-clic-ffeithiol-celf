@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro Selebs",
-      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "clic_aired": "27 Tachwedd 2021",
-      "fav_id": "809997292",
-      "id": "809997923",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2021-11-27 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "146",
       "series_title": "Am Dro!",
@@ -169,6 +150,25 @@
       "series_id": "833368956",
       "title": "Am Dro!",
       "date_broadcast": "2022-01-03 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro Selebs",
+      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "clic_aired": "27 Tachwedd 2021",
+      "fav_id": "809997292",
+      "id": "809997923",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2021-11-27 16:30:00",
       "vs": "0"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Chwedloni: Grav",
       "programme_title": "Gareth Edwards",
       "short_billing": "Cyfres Chwedloni wedi ei seilio ar hanesion y seren rygbi Grav a fydde wedi bod yn 70 ym Medi.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "95",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Ar noswyl Nadolig, mi fydd Gareth yn y gegin a'i gyngor coginio munud olaf. Byddwn ni'n sgwrsio ag ambell un sy'n gweithio ar hyd a lled y wlad ar ddiwrnod Nadolig, ac mi fydd fideo arbennig gan griw Heno - i'n rhoi ni yn hwyl yr ¿yl!",
