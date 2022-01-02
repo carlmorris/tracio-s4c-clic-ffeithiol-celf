@@ -97,7 +97,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Adre",
       "programme_title": "Brett Johns ",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Chwedloni: Grav",
       "programme_title": "Gareth Edwards",
       "short_billing": "Cyfres Chwedloni wedi ei seilio ar hanesion y seren rygbi Grav a fydde wedi bod yn 70 ym Medi.",
@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "29",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2022-01-13 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "12",
       "series_title": "Codi Pac",
@@ -511,6 +492,25 @@
       "series_id": "802491469",
       "title": "Codi Pac",
       "date_broadcast": "2021-12-11 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "29",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2022-01-13 18:00:00",
       "vs": "0"
     },
     {
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Robin McBryde",
-      "short_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P1_Datgeliad.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
-      "clic_aired": "27 Rhagfyr 2021",
-      "fav_id": "804336612",
-      "id": "804336643",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2021-12-27 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "81",
       "series_title": "Cymry ar Gynfas",
@@ -625,6 +606,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Robin McBryde",
+      "short_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P1_Datgeliad.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist tirluniol Iwan Gwyn Parry yn cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
+      "clic_aired": "27 Rhagfyr 2021",
+      "fav_id": "804336612",
+      "id": "804336643",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2021-12-27 12:00:00",
       "vs": "0"
     },
     {
