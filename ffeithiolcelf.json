@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": null,
       "programme_title": "Aled Jones: Dychwelyd Adre",
       "short_billing": "Mae Aled Jones yn dychwelyd adre' i Ogledd Cymru ac i Eglwys Gadeiriol sydd wedi bod yn rhan annatod o'i fywyd. Mae'n mynd adref ar gyfer perfformiad arbennig iawn. Trideg o flynyddoedd ers iddo berfformio diwethaf fel aelod o gôr Cadeirlan Bangor mae e 'nôl o flaen torf gartref gyda gwestai arbennig iawn - ei lais ifanc ei hun. Mae'r rhaglen yn edrych ar ei fywyd fel seren ifanc, a bellach fel dyn. Cawn gerddoriaeth diri, a golwg ar ba mor bwysig mae Môn a Chymru i'w stori bersonol.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Am Dro!",
       "programme_title": "Selebs",
       "short_billing": "Pedwar trysor cenedlaethol sy'n cystadlu er mwyn ennill mil o bunnau i'w hoff elusen. Y darlledwr chwaraeon Jason Mohammad sy'n ein tywys ar hyd y Taf ar siwrne ger ei gartre, bydd y ffarmwr Gareth Wyn Jones yn arwain pawb ar daith ddramatic uwchben tir y teulu, drwy'r Carneddau .Taith drwy'r goedwig o Nanhyfer i Drefdaeth yw paradwys Non Parry o'r grwp pop, Eden. Yna, Alex Humphreys, y cyflwynydd tywydd fydd yn gobeithio am haul o Laneurgain i Sychdyn er mwyn arddangos Sir Fflint ar ei orau!",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "34",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Corbwmpen",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Corbwmpen yw seren y rhaglen hon. Yn ogystal â'r gorbwmpen werdd gyffredin, bydd y cogydd Bryn Williams yn defnyddio'r rhai melyn ar gyfer ei bryd tri chwrs. Caiff hefyd groeso gan deulu ifanc yng Nghaernarfon sy'n mwynhau tyfu a choginio llysiau, cyn iddo weini plât o fwyd iddyn nhw sy'n cynnwys corbwmpen o'r ardd.",
-      "clic_aired": "3 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751747",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-03 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "52",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "34",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Corbwmpen",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Corbwmpen yw seren y rhaglen hon. Yn ogystal â'r gorbwmpen werdd gyffredin, bydd y cogydd Bryn Williams yn defnyddio'r rhai melyn ar gyfer ei bryd tri chwrs. Caiff hefyd groeso gan deulu ifanc yng Nghaernarfon sy'n mwynhau tyfu a choginio llysiau, cyn iddo weini plât o fwyd iddyn nhw sy'n cynnwys corbwmpen o'r ardd.",
+      "clic_aired": "3 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751747",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-03 13:00:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -685,25 +685,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "24",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "clic_aired": "31 Awst 2021",
-      "fav_id": "802081093",
-      "id": "832477810",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "103",
       "series_title": "Dan Do",
@@ -720,6 +701,25 @@
       "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": "2021-12-04 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "24",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "clic_aired": "31 Awst 2021",
+      "fav_id": "802081093",
+      "id": "832477810",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": null,
       "programme_title": "Degawdau Dafydd Iwan",
       "short_billing": "Cyfle i glywed clasuron Dafydd Iwan mewn cyngerdd bythgofiadwy o bafiliwn Eisteddfod Genedlaethol Bro Morgannwg 2012. Yn ystod Haf 1962, 50 mlynedd yn gynt, cychwynnodd Dafydd Iwan ar ei daith fel canwr ac mae'r sioe yn ddathliad o hanner can mlynedd o berfformio.  Hefyd yn perfformio mae artistiaid sydd wedi rhannu'r llwyfan gydag Dafydd dros y blynyddoedd megis Edward Morus Jones, Heather Jones a Grug ac Ar Log.  Dathlwch a chyd-ganwch rai o ganeuon mwyaf eiconig yr iaith Gymraeg.   ",
@@ -838,18 +838,18 @@
     },
     {
       "count": "3",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Eisteddfod AmGen 2021",
       "programme_title": "Cymanfa Ganu Eisteddfod AmGen",
       "short_billing": "CYMANFA GANU EISTEDDFOD AMGEN 2021\nNos Sul am 8.00 bydd Iwan Griffiths yn cyflwyno Cymanfa Ganu Eisteddfod Amgen 2021 o Ganolfan y Celfyddydau gyda chyfraniadau gan Gôrdydd, Jalisa Andrews, Mared Williams  a Gwyn Owen dan gyfeiliant Band Jazz Rhys Taylor. Y cyfan oll dan arweiniad medrus yr arweinydd Huw Foulkes. \n\n\nArchwilio ac arbrofi'r traddodiad emynol heno **** a dathlu dod â phawb ynghyd mewn cyfnod o fod ar wahân. Cymanfa Ganu Eisteddfod Amgen dan arweiniad y maestro Huw Foulkes am wyth.",
       "thumbnail_url": "Eisteddfod_AmGen_2021S4C_1545.jpg",
-      "duration": "55",
+      "duration": "74",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "CYMANFA GANU EISTEDDFOD AMGEN 2021\nNos Sul am 8.00 bydd Iwan Griffiths yn cyflwyno Cymanfa Ganu Eisteddfod Amgen 2021 o Ganolfan y Celfyddydau gyda chyfraniadau gan Gôrdydd, Jalisa Andrews, Mared Williams  a Gwyn Owen dan gyfeiliant Band Jazz Rhys Taylor. Y cyfan oll dan arweiniad medrus yr arweinydd Huw Foulkes. \n\n\nArchwilio ac arbrofi'r traddodiad emynol heno **** a dathlu dod â phawb ynghyd mewn cyfnod o fod ar wahân. Cymanfa Ganu Eisteddfod Amgen dan arweiniad y maestro Huw Foulkes am wyth.",
-      "clic_aired": "8 Awst 2021",
+      "full_billing": "Enghreifftiau o'r lincs nes i ddefnyddio 07.08.2021...\n\nMa tocyn am ddim i bawb i fwynhau Welsh of the West End, Georgia Ruth, Catrinch Finch a llu o artistiaid arall yng Nghyngerdd yr Eisteddfod Gudd heno am 8.\n\nYn absenoldeb Eisteddfod Tregardon eto eleni, cafwyd ffrwydrad o ffrydio cerddoriaeth fyw dros benwythnos cynta mis Awst. A bydd cyfle i ni gyd fwynhau'r arlwy amrywiol yn syth wedi'r egwyl¿\n\nBryn Fôn, Huw Chiswell ac Eden sydd ymysg artistiaid Cyngerdd yr Eisteddfod Gudd heno am 20.00.",
+      "clic_aired": "7 Awst 2021",
       "fav_id": "835738651",
-      "id": "835738722",
+      "id": "835738675",
       "series_id": "835738651",
       "title": "Eisteddfod AmGen 2021",
       "date_broadcast": null,
@@ -857,7 +857,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Eisteddfod AmGen: Cwt Cerdd",
       "programme_title": "Roc a Phop",
       "short_billing": "Cyfres 4 rhaglen a recordiwyd fel rhan o arlwy Eisteddfod AmGen 2021.  Ymunwch â Huw Foulkes a'i westeion am sesiynau hwyliog yn hel atgofion a thrafod hoff ganeuon. Awn i fwy o ddyfnder cerddorol ac hanesyddol rhai o'r darnau, a chawn berfformiadau o hoff ddarnau'r cyfranwyr. Bydd pob rhaglen yn canolbwyntio ar genres gwahanol a'r tro hwn yn y rhaglen olaf, roc a phop sy'n cael sylw Huw Foulkes a'i westeion, Lewys Meredydd, Delwyn Sion, Tara Bethan, Casi Wyn a Lleden.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni , Meinir Gwilym, Sioned Edwards ac Iwan Edwards. Yn y rhaglen olaf yn y gyfres ma Iwan cynaeafu'r cynnyrch o'r ty poeth tra bod Sioned yn casglu hadau i'w defnyddio yn yr ardd flodau'r flwyddyn nesa a Meinir yn datgelu enillwyr cystadleuaeth fawr 'Gardd Orau' Garddio a Mwy 2021.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Sain Ffagan",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau¿r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Gillian Elisa",
       "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Iechyd Meddwl yng Nghefn Gwlad",
       "short_billing": "Yn ôl y ffigyrau diweddara', ar gyfartaledd, mae o leia' un person yr wythnos sy'n ymwneud â maes amaeth ym Mhrydain yn lladd ei hun. Gydag ofnau bod y cyfnod Covid yn gwaethygu'r sefyllfa o ran iechyd meddwl rheiny sy'n byw a gweithio yng nghefn gwlad, mae Dot Davies yn clywed am boen un teulu o Chwilog yng Ngwynedd, sy' wedi diodde' colled enbyd yn ddiweddar.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Bydd Y Byd yn ei Le yn clywed profiadau Cymry yn Israel yn ystod y pandemig ac yn gofyn a oes gwersi i ni yn eu hymateb. Hefyd byddwn yn mesur agweddau pobl at yr amgylchedd mewn arolwg barn arbennig.",
@@ -1575,6 +1575,25 @@
       "series_id": "814949311",
       "title": "Y Stiwdio Grefftau",
       "date_broadcast": "2021-12-06 23:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Yn y Ffram",
+      "programme_title": null,
+      "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "clic_aired": "3 Ionawr 2022",
+      "fav_id": "842405984",
+      "id": "842405992",
+      "series_id": "842405984",
+      "title": "Yn y Ffram",
+      "date_broadcast": "2022-01-08 12:30:00",
       "vs": "0"
     }
   ]
