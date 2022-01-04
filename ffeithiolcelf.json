@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "147",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns ",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-13 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "17",
       "series_title": "Adre",
@@ -131,6 +112,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2021-12-24 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "146",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns ",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-13 18:30:00",
       "vs": "0"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Chwedloni: Grav",
       "programme_title": "Gareth Edwards",
       "short_billing": "Cyfres Chwedloni wedi ei seilio ar hanesion y seren rygbi Grav a fydde wedi bod yn 70 ym Medi.",
