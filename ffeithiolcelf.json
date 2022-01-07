@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Creaduriaid Gwyllt Affrica",
       "programme_title": "Y Dasi",
       "short_billing": "Mae'r ffilm yma am fyd natur arfordir De Affrica, ac yn canolbwyntio ar anifail bychan a chiwt o'r enw'r Dasi. Dilynwn y creaduriaid hynod yma am flwyddyn gron, o'u genedigaeth hyd iddynt droi'n oedolion. Gwelwn y peryglon maent yn eu hwynebu yn ddyddiol wrth law yr anifeiliaid eraill sy'n byw gerllaw.",
@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "21",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "clic_aired": "31 Awst 2021",
-      "fav_id": "802081093",
-      "id": "832477810",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "99",
       "series_title": "Dan Do",
@@ -682,6 +663,25 @@
       "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": "2021-12-04 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "21",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "clic_aired": "31 Awst 2021",
+      "fav_id": "802081093",
+      "id": "832477810",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Mynyddoedd y Byd",
       "programme_title": "Yr Andes: Lowri Morgan",
       "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": null,
       "programme_title": "Prif Weinidog mewn Pandemig",
       "short_billing": "Cipolwg unigryw ar fywyd Mark Drakeford wrth iddo drio taclo pandemig Covid-19. Gyda mynediad arbennig dros gyfnod o 6 mis, mae'r ddogfen hon yn craffu ar y penderfyniadau mawr oedd yn nwylo'r Prif Weinidog wrth iddo wynebu'r her fwyaf yn hanes Llywodraeth Cymru. ",
