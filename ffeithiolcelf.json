@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "      Chwedloni",
       "programme_title": "Chwedloni: Stori Jon",
       "short_billing": "Straeon unigryw sy'n adlewyrchu bywyd.",
@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "47 Copa: Her Huw Jack Brassington",
       "programme_title": "Ofn",
       "short_billing": "Cyfres antur yn dilyn Huw Jack Brassington wrth iddo baratoi i redeg Her 47 Copa Paddy Buckley. Wrth baratoi i redeg 106km dros 47 o fynyddoedd mwyaf Eryri o fewn 24 awr mae Huw yn mynd ar daith i gyfarfod ac eraill sy'n gwneud campau eithafol. Yn y bennod gyntaf bydd Huw yn ymweld â Geraint Rowlands sy'n caiacio d¿r gwyn ac Ellis Grover o Syrcas No Fit State i weld sut mae nhw'n delio gyda'i hofnau, tra'n edrych ar yr ofnau mae o'n wynebu ei hun wrth baratoi at ei her anoddaf eto.",
@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "143",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns ",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-22 14:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "14",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2021-12-24 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "143",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns ",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-22 14:00:00",
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Dau ffrind gorau sy¿n wynebu her Caru Siopa y tro hwn.  Mae Dafydd a Gerwyn yn cael eu herio gan y gyflwynwraig ffasiwn Lara Catrin i wneud cymaint o arian a phosib trwy ail-gylchu dillad ail law a¿u gwerthu mewn marchnad ar Faes Caernarfon.  Ond mae noson o ddathlu o flaen bore¿r her yn golygu bod yn rhaid i Lara lusgo¿r ddau o¿u gwelyau.",
@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "47",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "30",
       "series_title": "Cegin Bryn",
@@ -359,6 +340,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2022-01-03 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "47",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -457,6 +457,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "7",
+      "series_title": "Codi Pac",
+      "programme_title": "Blaenau Ffestiniog",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P7_Blaenau_Ffestiniog_008.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn Codi Pac ac ymlwybro o gwmpas Cymru. Ym Mlaenau Ffestiniog yr wythnos hon byddwn yn darganfod beth sydd gan y dref i'w chynnig, gweithgareddau difyr, llefydd i aros, bwyta ac i ymweld â nhw. ",
+      "clic_aired": "11 Rhagfyr 2021",
+      "fav_id": "793406854",
+      "id": "802491584",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2021-12-11 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "23",
       "series_title": "Codi Pac",
@@ -473,25 +492,6 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": "2022-01-13 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "7",
-      "series_title": "Codi Pac",
-      "programme_title": "Blaenau Ffestiniog",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a'r Gwyr sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P7_Blaenau_Ffestiniog_008.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn Codi Pac ac ymlwybro o gwmpas Cymru. Ym Mlaenau Ffestiniog yr wythnos hon byddwn yn darganfod beth sydd gan y dref i'w chynnig, gweithgareddau difyr, llefydd i aros, bwyta ac i ymweld â nhw. ",
-      "clic_aired": "11 Rhagfyr 2021",
-      "fav_id": "793406854",
-      "id": "802491584",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2021-12-11 12:30:00",
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Catrin Finch",
       "short_billing": "Yn y rhaglen hon bydd yr artist Annie Morgan Suganami yn mynd ati i geisio portreadu'r delynores, cyfansoddwraig a pherfformwraig Catrin Finch. ",
@@ -628,25 +628,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "98",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
-      "clic_aired": "17 Tachwedd 2021",
-      "fav_id": "802081093",
-      "id": "817960700",
-      "series_id": "817960474",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "20",
       "series_title": "Dan Do",
@@ -661,6 +642,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "98",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "thumbnail_url": "Dan_Do_2021S4C_P10_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n edrych ar dy tref o Oes Fictoria, fflat moethus yng nghanol Caerdydd a bwthyn traddodiadol Cymreig yng Ngheredigion.",
+      "clic_aired": "17 Tachwedd 2021",
+      "fav_id": "802081093",
+      "id": "817960700",
+      "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
