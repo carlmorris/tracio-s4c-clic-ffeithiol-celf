@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "21",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2022-01-13 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "4",
       "series_title": "Codi Pac",
@@ -473,6 +454,25 @@
       "series_id": "802491469",
       "title": "Codi Pac",
       "date_broadcast": "2021-12-11 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "21",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2022-01-13 18:00:00",
       "vs": "0"
     },
     {
@@ -533,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Rhys Mwyn",
-      "short_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P3_Luned_a_Rhys_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
-      "clic_aired": "10 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336683",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-10 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "73",
       "series_title": "Cymry ar Gynfas",
@@ -568,6 +549,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Rhys Mwyn",
+      "short_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P3_Luned_a_Rhys_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
+      "clic_aired": "10 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336683",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-10 12:05:00",
       "vs": "0"
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres. Dau nofiwr sydd am groesi o Ynys Enlli i'r tir mawr, taith adain un o awyrennau mwya'r byd ar Afon Dyfrdwy, a Chymraes sy'n teithio i'r Arctig ar drywydd llanw newydd sy'n ein bygwth ni i gyd. ",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": null,
       "programme_title": "Parti 'Dolig Beca",
       "short_billing": "Ymunwch â Beca yn ei pharti 'Dolig ym Mangor.  Ar y fwydlen mae canapés blasus sy'n cynnwys cwningen, mecryll a madarch, ac yn hytrach na thwrci bydd Beca yn gweini pryd o borc.  Bydd arbenigwyr caws a gwin wrth law, a fyddai 'Dolig ddim yn Nadolig heb goctel yn ôl Beca! Alex Mills fydd yn dangos sut mae creu clasur o goctel ar gyfer yr ¿yl.  Bydd Beca a chriw o'r Gwasanaeth Brenhinol Gwirfoddol yn paratoi cacen arbennig i ddiolch i un o'u haelodau a Band Pres Llareggub fydd yn perfformio cân ar",
