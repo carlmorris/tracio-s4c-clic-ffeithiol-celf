@@ -876,7 +876,7 @@
     },
     {
       "count": "93",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Heno, byddwn ni'n cael cwmni'r seren rygbi Shane Williams i edrych ymlaen at gyfres newydd arbennig. Byddwn ni'n edrych ymlaen at fwy o benblwyddi a dathliadau pwysig y flwyddyn sydd i ddod, ac mi fydd cystadleuaeth i ennill hamper hapusrwydd hyfryd.",
@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "clic_aired": "21 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461783",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2022-01-21 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "62",
       "series_title": "Nyrsys",
@@ -1043,6 +1024,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "14",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "clic_aired": "21 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461783",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2022-01-21 13:00:00",
       "vs": "0"
     },
     {
