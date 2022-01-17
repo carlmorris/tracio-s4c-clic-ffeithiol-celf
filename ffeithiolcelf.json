@@ -21,7 +21,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 7",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Adre",
       "programme_title": "       Adre - Nadolig",
       "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy¿n cael y pleser o fusnesa yn nhai tri o bobl sy¿n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
@@ -286,6 +286,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "34",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "38",
       "series_title": "Cegin Bryn",
@@ -302,25 +321,6 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "28",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Pys",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Pys sydd dan sylw yn y rhaglen heddiw. Yn ogystal â choginio pryd tri chwrs, sy'n cynnwys pwdin go annisgwyl, bydd Bryn Williams yn ymweld â chwmni yn Llanllechid sy'n cynhyrchu amrywiaeth o lysiau ar hen fferm fynydd. Ar y fwydlen: salad pys a chig moch, risotto pys a ffiled o gig oen a bavarois pys.",
-      "clic_aired": "10 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751765",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-10 13:00:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -671,17 +671,17 @@
       "series_title": "Dudley: Cymru ar Blât",
       "programme_title": "Ffrainc",
       "short_billing": "Bydd Dudley'n defnyddio cynnyrch gorau Cymru i baratoi prydau gwych - traddodiadol, modern a rhai egsotig iawn!",
-      "thumbnail_url": "Dudley_Cymru_ar_Blat_2010S4C_1604.jpg",
+      "thumbnail_url": "dudleyaderwen.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "India yw'r wlad dan sylw y tro hwn a bydd blas sbeisi iawn i'r prydau, ynghyd ag ambell gacen a sgoniau llaeth enwyn.",
+      "full_billing": "Ffrainc fydd thema'r rhaglen hon a chawn gwmni Derwyn Jones a Tom Pennant.  Byddwn yn ymweld â Romy Cuisine a chawn rysáit o gegin Didier and Stephanie yn Abertawe.",
       "clic_aired": "16 Ionawr 2022",
       "fav_id": "540820873",
-      "id": "413353478",
+      "id": "413353502",
       "series_id": "413353372",
       "title": "Dudley: Cymru ar Blât",
-      "date_broadcast": "2022-01-16 13:00:00",
+      "date_broadcast": "2022-01-16 13:30:00",
       "vs": "0"
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Huw Stephens",
       "short_billing": "Consurio a Chaerdydd fydd yn denu sylw Huw Stephens wrth iddo wylio ffilmiau o Archif Sgrin a Sain y Llyfrgell Genedlaethol. Bydd Huw Stephens a Huw Aaron yn mwynhau ffilm am gerddoriaeth a chonsurio o Flaenau Ffestiniog a Huw Aaron, sy'n gartwnydd, yn rhyfeddu at gart&#373;n o 1930 gan y Cymro Sid Griffiths, ac at ddireidi hysbysesbion o sinema Port Talbot.  Mewn detholiad o ffilmiau am Gaerdydd caiff Hanna Jarman a Huw weld Shirley Bassey, Fred Keenor a Richard Dimbleby, agoriad y mosg cynta a",
@@ -876,7 +876,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru. Mae'r siwrne yn dod i derfyn ar ynys Môn lle fydd y ddau yn hel atgofion o blentyndod Julian yn pysgota ym Moelfre fel bachgen ifanc.",
