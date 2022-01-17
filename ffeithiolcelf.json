@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "5",
-      "series_title": "Adre",
-      "programme_title": "       Adre - Nadolig",
-      "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy¿n cael y pleser o fusnesa yn nhai tri o bobl sy¿n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "thumbnail_url": "Adre_2019-20S4C_P8_Nadolig_Dave_Easton_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy¿n cael y pleser o fusnesa yn nhai tri o bobl sy¿n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "clic_aired": "18 Rhagfyr 2021",
-      "fav_id": "793406870",
-      "id": "802669929",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2021-12-24 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "134",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2022-01-30 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": "Adre",
+      "programme_title": "       Adre - Nadolig",
+      "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy¿n cael y pleser o fusnesa yn nhai tri o bobl sy¿n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
+      "thumbnail_url": "Adre_2019-20S4C_P8_Nadolig_Dave_Easton_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy¿n cael y pleser o fusnesa yn nhai tri o bobl sy¿n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
+      "clic_aired": "18 Rhagfyr 2021",
+      "fav_id": "793406870",
+      "id": "802669929",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2021-12-24 12:00:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Mae¿r gyflwynwraig Lara Catrin yn Mhrifysgol Caerdydd ar gyfer y bennod olaf yn y gyfres.  Mae wedi bachu dau ffrind a dau fyfyriwr ffasiwn a¿u herio i brynu a gwerthu dillad ail law.  Wrth i James a Menna fynd ati gyda pheiriant gwnio yr un i roi eu stamp eu hunain ar y dillad, mae¿r ddau yn gwybod mai¿r un sy¿n gwerthu fwyaf fydd yn ennill nid yn unig eu harian eu hunain ond arian eu gwrthwynebydd hefyd.   ",
@@ -495,6 +495,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Margaret Williams",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P4_Margaret_eistedd_Sarah.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336703",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-17 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "66",
       "series_title": "Cymry ar Gynfas",
@@ -511,25 +530,6 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Rhys Mwyn",
-      "short_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P3_Luned_a_Rhys_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist cyfrwng Cymysg Luned Rhys Parri yn mynd ati i geisio portreadu Rhys Mwyn. ",
-      "clic_aired": "10 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336683",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-10 12:05:00",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
@@ -1427,25 +1427,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
-      "series_title": "Yn y Ffram",
-      "programme_title": null,
-      "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
-      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
-      "clic_aired": "3 Ionawr 2022",
-      "fav_id": "847603933",
-      "id": "842405992",
-      "series_id": "842405984",
-      "title": "Yn y Ffram",
-      "date_broadcast": "2022-01-08 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "143",
       "series_title": "Yn y Ffram",
       "programme_title": null,
@@ -1461,6 +1442,25 @@
       "series_id": "842405984",
       "title": "Yn y Ffram",
       "date_broadcast": "2022-01-15 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "136",
+      "series_title": "Yn y Ffram",
+      "programme_title": null,
+      "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "clic_aired": "3 Ionawr 2022",
+      "fav_id": "847603933",
+      "id": "842405992",
+      "series_id": "842405984",
+      "title": "Yn y Ffram",
+      "date_broadcast": "2022-01-08 12:30:00",
       "vs": "0"
     }
   ]
