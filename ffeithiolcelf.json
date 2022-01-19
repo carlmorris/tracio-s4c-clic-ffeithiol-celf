@@ -267,25 +267,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "32",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "36",
       "series_title": "Cegin Bryn",
@@ -302,6 +283,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "32",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Margaret Williams",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P4_Margaret_eistedd_Sarah.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336703",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-17 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "64",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Margaret Williams",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P4_Margaret_eistedd_Sarah.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336703",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-17 12:05:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni , Meinir Gwilym, Sioned Edwards ac Iwan Edwards. Yn y rhaglen olaf yn y gyfres ma Iwan cynaeafu'r cynnyrch o'r ty poeth tra bod Sioned yn casglu hadau i'w defnyddio yn yr ardd flodau'r flwyddyn nesa a Meinir yn datgelu enillwyr cystadleuaeth fawr 'Gardd Orau' Garddio a Mwy 2021.",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "54",
-      "series_title": "Nyrsys",
-      "programme_title": "Pennod 6",
-      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "clic_aired": "16 Hydref 2021",
-      "fav_id": "804325978",
-      "id": "804326152",
-      "series_id": "804326055",
-      "title": "Nyrsys",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Nyrsys",
@@ -986,6 +967,25 @@
       "series_id": "810461697",
       "title": "Nyrsys",
       "date_broadcast": "2022-01-21 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "54",
+      "series_title": "Nyrsys",
+      "programme_title": "Pennod 6",
+      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "clic_aired": "16 Hydref 2021",
+      "fav_id": "804325978",
+      "id": "804326152",
+      "series_id": "804326055",
+      "title": "Nyrsys",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1141,8 +1141,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Sain Ffagan",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau¿r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Gillian Elisa",
       "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Iechyd Meddwl yng Nghefn Gwlad",
       "short_billing": "Yn ôl y ffigyrau diweddara', ar gyfartaledd, mae o leia' un person yr wythnos sy'n ymwneud â maes amaeth ym Mhrydain yn lladd ei hun. Gydag ofnau bod y cyfnod Covid yn gwaethygu'r sefyllfa o ran iechyd meddwl rheiny sy'n byw a gweithio yng nghefn gwlad, mae Dot Davies yn clywed am boen un teulu o Chwilog yng Ngwynedd, sy' wedi diodde' colled enbyd yn ddiweddar.",
@@ -1350,22 +1350,22 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "143",
+      "count": "7",
+      "days_to_expire": "149",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
-      "short_billing": "Y tro hwn, Guto Harri sy'n bwrw golwg ar y cynlluniau i adeiladu adweithyddion niwclear newydd, ac yn gofyn oes na groeso iddyn nhw yn ein gwlad, ac ai pwer niwclear yw'r ateb i dargedau ynni Cymru' Hefyd heno: sut effaith ma' blwyddyn o Brexit wedi ei gael ar Ynys Mon' ",
+      "short_billing": "Y tro hwn, Guto Harri sy'n ystyried tynged Boris Johnson, gan ddadansoddi os ydy hi ar ben iddo fel Prif Weinidog, a gofyn: be nesa' i'r blaid Geidwadol'",
       "thumbnail_url": "Y_Byd_yn_ei_Le_Guto_Harri_2018_006.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn, Guto Harri sy'n bwrw golwg ar y cynlluniau i adeiladu adweithyddion niwclear newydd, ac yn gofyn oes na groeso iddyn nhw yn ein gwlad, ac ai pwer niwclear yw'r ateb i dargedau ynni Cymru' Hefyd heno: sut effaith ma' blwyddyn o Brexit wedi ei gael ar Ynys Mon' ",
-      "clic_aired": "12 Ionawr 2022",
+      "full_billing": "Y tro hwn, Guto Harri sy'n ystyried tynged Boris Johnson, gan ddadansoddi os ydy hi ar ben iddo fel Prif Weinidog, a gofyn: be nesa' i'r blaid Geidwadol'",
+      "clic_aired": "19 Ionawr 2022",
       "fav_id": "799276940",
-      "id": "820767782",
+      "id": "820767811",
       "series_id": "820767460",
       "title": "Y Byd yn ei Le",
-      "date_broadcast": "2022-01-16 23:00:00",
+      "date_broadcast": "2022-01-23 23:05:00",
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Mae'r daith yn parhau i ddod o hyd i enw newydd ym myd ffotograffiaeth yng Nghymru. Mae na 'Flas Mwy' ar thema'r wythnos yma, o'r pridd i'r plat, o'r stôf i'r steilio - pa ffotograffydd fydd yn gallu gwerthu cynnyrch Cymru ora' ac yn gallu tynnu d¿r i'r dannedd efo'r llun o'r platiad perffaith 'Yn y Ffrâm''",
