@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "130",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2021-12-24 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "130",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-30 12:30:00",
       "vs": "0"
     },
     {
@@ -401,25 +401,6 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "3 Medi 2021",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2022-01-13 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
       "days_to_expire": "144",
       "series_title": "Codi Pac",
       "programme_title": "Betws y Coed",
@@ -435,6 +416,25 @@
       "series_id": "793302230",
       "title": "Codi Pac",
       "date_broadcast": "2022-01-24 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "10",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "3 Medi 2021",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2022-01-13 18:00:00",
       "vs": "0"
     },
     {
@@ -780,8 +780,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni , Meinir Gwilym, Sioned Edwards ac Iwan Edwards. Yn y rhaglen olaf yn y gyfres ma Iwan cynaeafu'r cynnyrch o'r ty poeth tra bod Sioned yn casglu hadau i'w defnyddio yn yr ardd flodau'r flwyddyn nesa a Meinir yn datgelu enillwyr cystadleuaeth fawr 'Gardd Orau' Garddio a Mwy 2021.",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "5",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "clic_aired": "21 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461783",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2022-01-21 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "53",
       "series_title": "Nyrsys",
@@ -1005,6 +986,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "clic_aired": "21 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461783",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2022-01-21 13:00:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Sain Ffagan",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau¿r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Gillian Elisa",
       "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Iechyd Meddwl yng Nghefn Gwlad",
       "short_billing": "Yn ôl y ffigyrau diweddara', ar gyfartaledd, mae o leia' un person yr wythnos sy'n ymwneud â maes amaeth ym Mhrydain yn lladd ei hun. Gydag ofnau bod y cyfnod Covid yn gwaethygu'r sefyllfa o ran iechyd meddwl rheiny sy'n byw a gweithio yng nghefn gwlad, mae Dot Davies yn clywed am boen un teulu o Chwilog yng Ngwynedd, sy' wedi diodde' colled enbyd yn ddiweddar.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn, Guto Harri sy'n ystyried tynged Boris Johnson, gan ddadansoddi os ydy hi ar ben iddo fel Prif Weinidog, a gofyn: be nesa' i'r blaid Geidwadol'",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Mae'r daith yn parhau i ddod o hyd i enw newydd ym myd ffotograffiaeth yng Nghymru. Mae na 'Flas Mwy' ar thema'r wythnos yma, o'r pridd i'r plat, o'r stôf i'r steilio - pa ffotograffydd fydd yn gallu gwerthu cynnyrch Cymru ora' ac yn gallu tynnu d¿r i'r dannedd efo'r llun o'r platiad perffaith 'Yn y Ffrâm''",
