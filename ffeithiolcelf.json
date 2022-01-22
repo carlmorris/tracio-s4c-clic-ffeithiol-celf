@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Bois y Rhondda yn ôl. Cawn gipolwg unigryw ar fywydau gr&#373;p o ffrindiau sydd yn dod i delerau â chymhlethdodau cymdeithas fodern, a'r brwydrau sy¿n wynebu eu cenhedlaeth nhw ar adeg ansicr. Sut bydd deinameg y ffrindiau yn newid wrth i'r bechgyn symud ymlaen i'r cam nesaf' Sut fydd eu perthynas â¿u teuluoedd yn datblygu' Bydd llawer o chwerthin a dwli wrth i¿r camerau ddilyn y criw egnïol yn llywio¿u ffordd drwy fywyd. Y tro hwn mae¿r bois yn teithio¿n bell o¿r Rhondda!  ",
@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "33",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "30",
       "series_title": "Cegin Bryn",
@@ -321,6 +302,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2022-01-17 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "33",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "145",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Margaret Williams",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P4_Margaret_eistedd_Sarah.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336703",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-17 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "61",
       "series_title": "Cymry ar Gynfas",
@@ -514,8 +495,27 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "145",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Margaret Williams",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P4_Margaret_eistedd_Sarah.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Sarah Carvell yn cwrdd a'r gantores Margaret Williams er mwyn ceisio peintio portread ohoni. ",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336703",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-17 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "12",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cynefin",
       "programme_title": "Aberteifi",
       "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
@@ -624,7 +624,7 @@
       "id": "509160133",
       "series_id": null,
       "title": "Degawdau Dafydd Iwan",
-      "date_broadcast": "2021-12-18 19:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Nyrsys",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Rhwng toriad gwawr a machlud haul ym Mhenrhyn Gwyr, cawn dreulio diwrnod ar lan y môr yng nghwmni Carys y ffotograffydd syrffio, Nia - warden Ynys Dewi yn Sir Benfro a John, y ffarmwr cregyn gleision yn y Fenai.",
@@ -1346,7 +1346,7 @@
       "id": "803920518",
       "series_id": "803920410",
       "title": "Waliau'n Siarad",
-      "date_broadcast": "2021-12-18 10:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
