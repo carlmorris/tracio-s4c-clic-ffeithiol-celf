@@ -401,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Codi Pac",
       "programme_title": "Betws y Coed",
       "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "59",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "810255618",
-      "id": "834036109",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "120",
       "series_title": "Heno Aur",
@@ -853,6 +834,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": "2021-12-24 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "59",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "810255618",
+      "id": "834036109",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": null,
       "programme_title": "Ni Yw'r Ffermwyr Ifanc",
       "short_billing": "Rhaglen arbennig a chyfle i gyfarfod rhai o aelodau a chyn aelodau Mudiad Ffermwyr Ifanc Cymru. Cawn flas o'u bywyd o ddydd i ddydd yng nghefn gwlad Cymru a chawn ddarganfod beth yw ystyr y mudiad iddyn nhw.",
