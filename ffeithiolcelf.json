@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "clic_aired": "31 Awst 2021",
-      "fav_id": "802081093",
-      "id": "832477810",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "149",
       "series_title": "Dan Do",
@@ -587,6 +568,25 @@
       "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": "2022-01-27 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "clic_aired": "31 Awst 2021",
+      "fav_id": "802081093",
+      "id": "832477810",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "17",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ffermio",
       "programme_title": "Teulu Shadog: Blwyddyn ar y Ff",
       "short_billing": "Yn y bennod olaf o Fferm Shadog, mae'n adeg brysur o werthu a phrynu. Un o ddiwrnodau mawr y teulu yw gwerthu'r hyrddod, ac mae nhw'n gwneud eleni am yr ail dro o glos y fferm - tybed a fydd y prisiau yn adlewyrchu'r ymdrech' Ac wrth iddyn nhw ffarwelio â'r hyrddod, mae yna sawl ychwanegiad arall i'r fferm, gan gynnwys Beryl yr hwch, ac mae Gary a Meinir yn teithio'r holl ffordd i'r Alban i geisio prynu gwartheg a dechrau menter newydd. Ond gyda'r prisiau yn uchel, a fydd y daith yn ofer'",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Nyrsys",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
-      "clic_aired": "21 Rhagfyr 2021",
-      "fav_id": "804325978",
-      "id": "810461783",
-      "series_id": "810461697",
-      "title": "Nyrsys",
-      "date_broadcast": "2022-01-21 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "48",
       "series_title": "Nyrsys",
@@ -1005,6 +986,25 @@
       "series_id": "804326055",
       "title": "Nyrsys",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Nyrsys",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "thumbnail_url": "Nyrsys_2020S4C_02411.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Aelwen  sy'n gynorthwy-ydd iechyd yn Sir Benfro ac sy'n delio'n bennaf gyda chleifion sal iawn, ac yn dilyn Sharon, bydwraig yn ardal Rhydaman, sy'n helpu Jessica i eni ei hail blentyn gartref. ",
+      "clic_aired": "21 Rhagfyr 2021",
+      "fav_id": "804325978",
+      "id": "810461783",
+      "series_id": "810461697",
+      "title": "Nyrsys",
+      "date_broadcast": "2022-01-21 13:00:00",
       "vs": "0"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Siop Siarad Owain",
       "programme_title": null,
       "short_billing": "Sioe siarad llawn hwyl gydag Owain Wyn Evans; gyda cherddoriaeth gan Steffan Rhys Williams, gwesteion arbennig - y tro hwn Peredur ap Gwynedd, Rebecca Trehearn ac Emma Jenkins, a chyfle i ddathlu arwyr tawel Cymru. ",
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "148",
-      "series_title": "Yn y Ffram",
-      "programme_title": null,
-      "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
-      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
-      "clic_aired": "24 Ionawr 2022",
-      "fav_id": "842405984",
-      "id": "842406052",
-      "series_id": "842405984",
-      "title": "Yn y Ffram",
-      "date_broadcast": "2022-01-29 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "127",
       "series_title": "Yn y Ffram",
@@ -1461,6 +1442,25 @@
       "series_id": "842405984",
       "title": "Yn y Ffram",
       "date_broadcast": "2022-01-08 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "148",
+      "series_title": "Yn y Ffram",
+      "programme_title": null,
+      "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
+      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
+      "clic_aired": "24 Ionawr 2022",
+      "fav_id": "842405984",
+      "id": "842406052",
+      "series_id": "842405984",
+      "title": "Yn y Ffram",
+      "date_broadcast": "2022-01-29 12:30:00",
       "vs": "0"
     }
   ]
