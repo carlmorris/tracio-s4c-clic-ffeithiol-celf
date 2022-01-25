@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Mae¿r gyflwynwraig Lara Catrin yn Mhrifysgol Caerdydd ar gyfer y bennod olaf yn y gyfres.  Mae wedi bachu dau ffrind a dau fyfyriwr ffasiwn a¿u herio i brynu a gwerthu dillad ail law.  Wrth i James a Menna fynd ati gyda pheiriant gwnio yr un i roi eu stamp eu hunain ar y dillad, mae¿r ddau yn gwybod mai¿r un sy¿n gwerthu fwyaf fydd yn ennill nid yn unig eu harian eu hunain ond arian eu gwrthwynebydd hefyd.   ",
@@ -457,6 +457,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Max Boyce",
+      "short_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P5_Max_Meirion_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
+      "clic_aired": "24 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336723",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-24 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "58",
       "series_title": "Cymry ar Gynfas",
@@ -473,25 +492,6 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Max Boyce",
-      "short_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P5_Max_Meirion_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
-      "clic_aired": "24 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336723",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-24 12:05:00",
       "vs": "0"
     },
     {
@@ -970,6 +970,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "48",
+      "series_title": "Nyrsys",
+      "programme_title": "Pennod 6",
+      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
+      "clic_aired": "16 Hydref 2021",
+      "fav_id": "804325978",
+      "id": "804326152",
+      "series_id": "804326055",
+      "title": "Nyrsys",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Nyrsys",
@@ -986,25 +1005,6 @@
       "series_id": "810461697",
       "title": "Nyrsys",
       "date_broadcast": "2022-01-21 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "49",
-      "series_title": "Nyrsys",
-      "programme_title": "Pennod 6",
-      "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "thumbnail_url": "Nyrsys_2020S4C_TX6_P6_Megan_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
-      "clic_aired": "16 Hydref 2021",
-      "fav_id": "804325978",
-      "id": "804326152",
-      "series_id": "804326055",
-      "title": "Nyrsys",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Daloni Metcalf",
       "short_billing": "Mae'r gwanwyn lond y tir a'r awyr yn gliriach nag erioed, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Daloni Metcalfe fydd yn swatio o flaen tanllwyth o dân ag Elin heno.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "128",
-      "series_title": "Yn y Ffram",
-      "programme_title": null,
-      "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
-      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
-      "clic_aired": "3 Ionawr 2022",
-      "fav_id": "847603933",
-      "id": "842405992",
-      "series_id": "842405984",
-      "title": "Yn y Ffram",
-      "date_broadcast": "2022-01-08 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Yn y Ffram",
@@ -1461,6 +1442,25 @@
       "series_id": "842405984",
       "title": "Yn y Ffram",
       "date_broadcast": "2022-01-29 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "128",
+      "series_title": "Yn y Ffram",
+      "programme_title": null,
+      "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
+      "clic_aired": "3 Ionawr 2022",
+      "fav_id": "847603933",
+      "id": "842405992",
+      "series_id": "842405984",
+      "title": "Yn y Ffram",
+      "date_broadcast": "2022-01-08 12:30:00",
       "vs": "0"
     }
   ]
