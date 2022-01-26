@@ -401,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Codi Pac",
       "programme_title": "Betws y Coed",
       "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "117",
-      "series_title": "Heno Aur",
-      "programme_title": "Pennod 14",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "24 Rhagfyr 2021",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": "2021-12-24 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "56",
       "series_title": "Heno Aur",
@@ -872,6 +853,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "117",
+      "series_title": "Heno Aur",
+      "programme_title": "Pennod 14",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "24 Rhagfyr 2021",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": "2021-12-24 18:30:00",
       "vs": "0"
     },
     {
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Ni Yw'r Ffermwyr Ifanc",
       "short_billing": "Rhaglen arbennig a chyfle i gyfarfod rhai o aelodau a chyn aelodau Mudiad Ffermwyr Ifanc Cymru. Cawn flas o'u bywyd o ddydd i ddydd yng nghefn gwlad Cymru a chawn ddarganfod beth yw ystyr y mudiad iddyn nhw.",
