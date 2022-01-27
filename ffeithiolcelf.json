@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "146",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Max Boyce",
-      "short_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P5_Max_Meirion_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
-      "clic_aired": "24 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336723",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-24 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "56",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "146",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Max Boyce",
+      "short_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P5_Max_Meirion_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
+      "clic_aired": "24 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336723",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-24 12:05:00",
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "17",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": "Teulu Shadog: Blwyddyn ar y Ff",
       "short_billing": "Yn y bennod olaf o Fferm Shadog, mae'n adeg brysur o werthu a phrynu. Un o ddiwrnodau mawr y teulu yw gwerthu'r hyrddod, ac mae nhw'n gwneud eleni am yr ail dro o glos y fferm - tybed a fydd y prisiau yn adlewyrchu'r ymdrech' Ac wrth iddyn nhw ffarwelio â'r hyrddod, mae yna sawl ychwanegiad arall i'r fferm, gan gynnwys Beryl yr hwch, ac mae Gary a Meinir yn teithio'r holl ffordd i'r Alban i geisio prynu gwartheg a dechrau menter newydd. Ond gyda'r prisiau yn uchel, a fydd y daith yn ofer'",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Siop Siarad Owain",
       "programme_title": null,
       "short_billing": "Sioe siarad llawn hwyl gydag Owain Wyn Evans; gyda cherddoriaeth gan Steffan Rhys Williams, gwesteion arbennig - y tro hwn Peredur ap Gwynedd, Rebecca Trehearn ac Emma Jenkins, a chyfle i ddathlu arwyr tawel Cymru. ",
