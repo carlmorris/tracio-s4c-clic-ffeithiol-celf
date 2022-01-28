@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "122",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "34",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2022-01-28 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "122",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-30 12:30:00",
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Efaciwîs",
       "programme_title": "Pobol y Rhyfel",
       "short_billing": "Cyfres newydd ac arloesol ar S4C yn edrych ar brofiad efaciwîs yng Nghymru a hanes Cymru fel gwlad sydd wedi cynnig lloches i bobl sydd wedi gorfod gadael eu cartrefi oherwydd rhyfel. ",
@@ -686,7 +686,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Eisteddfod AmGen: Cwt Cerdd",
       "programme_title": "Roc a Phop",
       "short_billing": "Cyfres 4 rhaglen a recordiwyd fel rhan o arlwy Eisteddfod AmGen 2021.  Ymunwch â Huw Foulkes a'i westeion am sesiynau hwyliog yn hel atgofion a thrafod hoff ganeuon. Awn i fwy o ddyfnder cerddorol ac hanesyddol rhai o'r darnau, a chawn berfformiadau o hoff ddarnau'r cyfranwyr. Bydd pob rhaglen yn canolbwyntio ar genres gwahanol a'r tro hwn yn y rhaglen olaf, roc a phop sy'n cael sylw Huw Foulkes a'i westeion, Lewys Meredydd, Delwyn Sion, Tara Bethan, Casi Wyn a Lleden.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
