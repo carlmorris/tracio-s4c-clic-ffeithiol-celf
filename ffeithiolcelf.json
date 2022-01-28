@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "34",
-      "series_title": "Adre",
-      "programme_title": "Gareth Wyn Jones",
-      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "clic_aired": "28 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "802516819",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-01-28 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "123",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2022-01-30 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Adre",
+      "programme_title": "Gareth Wyn Jones",
+      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "clic_aired": "28 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "802516819",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-01-28 12:05:00",
       "vs": "0"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Becws",
       "programme_title": null,
       "short_billing": "Siwgr, sbeis a phethau bach neis - cyfres goginio gyda Beca Lyne-Pirkis. ",
@@ -343,8 +343,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -363,7 +363,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -1084,22 +1084,22 @@
       "vs": "0"
     },
     {
-      "count": "101",
-      "days_to_expire": "148",
+      "count": "102",
+      "days_to_expire": "149",
       "series_title": "Prynhawn Da",
       "programme_title": null,
-      "short_billing": "Cawn olwg ar y ffasiwn diweddaraf, a byddwn yn sgwrsio am effaith Covid ar fabis.",
+      "short_billing": "Lisa Fearn fydd yn ymuno â ni'n y gegin, a bydd aeldoau'r Clwb Clecs yn dweud eu dweud!  ",
       "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
       "duration": "42",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cawn olwg ar y ffasiwn diweddaraf, a byddwn yn sgwrsio am effaith Covid ar fabis.",
-      "clic_aired": "27 Ionawr 2022",
+      "full_billing": "Lisa Fearn fydd yn ymuno â ni'n y gegin, a bydd aeldoau'r Clwb Clecs yn dweud eu dweud!  ",
+      "clic_aired": "28 Ionawr 2022",
       "fav_id": "520950923",
-      "id": "822455132",
+      "id": "822455155",
       "series_id": "822450302",
       "title": "Prynhawn Da",
-      "date_broadcast": "2022-01-27 14:05:00",
+      "date_broadcast": "2022-01-28 14:05:00",
       "vs": "0"
     },
     {
