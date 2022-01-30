@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "22",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "25",
       "series_title": "Cegin Bryn",
@@ -321,6 +302,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "22",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "149",
-      "series_title": "Codi Pac",
-      "programme_title": "Aberteifi",
-      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
-      "thumbnail_url": "Codi_Pac2017_P3_Aberteifi_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn Aberteifi yr wythnos hon bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
-      "clic_aired": "29 Ionawr 2022",
-      "fav_id": "793406854",
-      "id": "793302288",
-      "series_id": "793302230",
-      "title": "Codi Pac",
-      "date_broadcast": "2022-02-07 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Codi Pac",
@@ -435,6 +416,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": "2022-01-13 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Codi Pac",
+      "programme_title": "Aberteifi",
+      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
+      "thumbnail_url": "Codi_Pac2017_P3_Aberteifi_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn Aberteifi yr wythnos hon bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
+      "clic_aired": "29 Ionawr 2022",
+      "fav_id": "793406854",
+      "id": "793302288",
+      "series_id": "793302230",
+      "title": "Codi Pac",
+      "date_broadcast": "2022-02-07 13:00:00",
       "vs": "0"
     },
     {
