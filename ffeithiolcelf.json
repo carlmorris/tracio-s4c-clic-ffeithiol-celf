@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "32",
-      "series_title": "Adre",
-      "programme_title": "Gareth Wyn Jones",
-      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "clic_aired": "28 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "802516819",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-01-28 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "120",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2022-01-30 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "32",
+      "series_title": "Adre",
+      "programme_title": "Gareth Wyn Jones",
+      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "clic_aired": "28 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "802516819",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-01-28 12:05:00",
       "vs": "0"
     },
     {
@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "52",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "143",
       "series_title": "Cymry ar Gynfas",
@@ -511,6 +492,25 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-01-24 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "52",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
