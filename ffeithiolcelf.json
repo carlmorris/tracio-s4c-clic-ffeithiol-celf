@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-31 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "148",
       "series_title": "Cymry ar Gynfas",
@@ -511,6 +492,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-02-05 13:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-31 12:05:00",
       "vs": "0"
     },
     {
@@ -704,7 +704,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "2",
       "days_to_expire": "14",
       "series_title": "Eisteddfod AmGen: Cwt Cerdd",
       "programme_title": "Roc a Phop",
@@ -781,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni , Meinir Gwilym, Sioned Edwards ac Iwan Edwards. Yn y rhaglen olaf yn y gyfres ma Iwan cynaeafu'r cynnyrch o'r ty poeth tra bod Sioned yn casglu hadau i'w defnyddio yn yr ardd flodau'r flwyddyn nesa a Meinir yn datgelu enillwyr cystadleuaeth fawr 'Gardd Orau' Garddio a Mwy 2021.",
@@ -837,22 +837,22 @@
       "vs": "0"
     },
     {
-      "count": "93",
-      "days_to_expire": "148",
+      "count": "94",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Ameer Davies-Rana fydd ein gwestai, ac Elin Fflur sy'n cwrdd â rhai o sêr y gyfres deledu, Ysgol Ni: Y Moelwyn.  \n ",
+      "short_billing": "Bydd DJ Dylan a Lowri Wynne yn y stiwdio i drafod podcast newydd Rownd a Rownd, a chawn gwrdd â rhai o ddylunwyr y dyfodol yng Ngholeg Cerdd Caerfyrddin.\n ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ameer Davies-Rana fydd ein gwestai, ac Elin Fflur sy'n cwrdd â rhai o sêr y gyfres deledu, Ysgol Ni: Y Moelwyn.  \n ",
-      "clic_aired": "31 Ionawr 2022",
+      "full_billing": "Bydd DJ Dylan a Lowri Wynne yn y stiwdio i drafod podcast newydd Rownd a Rownd, a chawn gwrdd â rhai o ddylunwyr y dyfodol yng Ngholeg Cerdd Caerfyrddin.\n ",
+      "clic_aired": "1 Chwefror 2022",
       "fav_id": "520950912",
-      "id": "822416998",
+      "id": "822417019",
       "series_id": "822412651",
       "title": "Heno",
-      "date_broadcast": "2022-02-01 12:30:00",
+      "date_broadcast": "2022-02-02 12:30:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Sain Ffagan",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau¿r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Gillian Elisa",
       "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Iechyd Meddwl yng Nghefn Gwlad",
       "short_billing": "Yn ôl y ffigyrau diweddara', ar gyfartaledd, mae o leia' un person yr wythnos sy'n ymwneud â maes amaeth ym Mhrydain yn lladd ei hun. Gydag ofnau bod y cyfnod Covid yn gwaethygu'r sefyllfa o ran iechyd meddwl rheiny sy'n byw a gweithio yng nghefn gwlad, mae Dot Davies yn clywed am boen un teulu o Chwilog yng Ngwynedd, sy' wedi diodde' colled enbyd yn ddiweddar.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Mewn rhaglen fyw o Lundain, bydd Guto Harri'n dadansoddi'r diweddara' o San Steffan, ac yn holi a oes dyfodol i Boris Johnson fel Prif Weinidog.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
