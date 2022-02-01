@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "119",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "31",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2022-02-12 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "119",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-30 12:30:00",
       "vs": "0"
     },
     {
@@ -149,7 +149,7 @@
       "id": "843000802",
       "series_id": null,
       "title": "Atgofion Carol yr Wyl",
-      "date_broadcast": "2021-12-28 22:55:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Bois y Rhondda yn ôl. Cawn gipolwg unigryw ar fywydau gr&#373;p o ffrindiau sydd yn dod i delerau â chymhlethdodau cymdeithas fodern, a'r brwydrau sy¿n wynebu eu cenhedlaeth nhw ar adeg ansicr. Sut bydd deinameg y ffrindiau yn newid wrth i'r bechgyn symud ymlaen i'r cam nesaf' Sut fydd eu perthynas â¿u teuluoedd yn datblygu' Bydd llawer o chwerthin a dwli wrth i¿r camerau ddilyn y criw egnïol yn llywio¿u ffordd drwy fywyd. Y tro hwn mae¿r bois yn teithio¿n bell o¿r Rhondda!  ",
@@ -206,7 +206,7 @@
       "id": "841719033",
       "series_id": null,
       "title": "Bwyd Byd Epic Chris",
-      "date_broadcast": "2021-12-28 12:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "23",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "27 Medi 2021",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "20",
       "series_title": "Cegin Bryn",
@@ -321,6 +302,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2022-01-17 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "23",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "27 Medi 2021",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-31 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-02-05 13:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-31 12:05:00",
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Cynefin",
       "programme_title": "Aberteifi",
       "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
@@ -857,25 +857,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "810255618",
-      "id": "834036109",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "111",
       "series_title": "Heno Aur",
       "programme_title": "Pennod 14",
@@ -889,6 +870,25 @@
       "fav_id": "810255618",
       "id": "810075913",
       "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "51",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "810255618",
+      "id": "834036109",
+      "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": null,
       "vs": "0"
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Pen Petrol",
       "programme_title": "Clasuron",
       "short_billing": "Cyfres ddogfen swnllyd a ffraeth am bobl ifanc a'u ceir, yn cyflwyno criw Unit Thirteen o Gogledd Cymru. ",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Rhwng toriad gwawr a machlud haul ym Mhenrhyn Gwyr, cawn dreulio diwrnod ar lan y môr yng nghwmni Carys y ffotograffydd syrffio, Nia - warden Ynys Dewi yn Sir Benfro a John, y ffarmwr cregyn gleision yn y Fenai.",
@@ -1099,7 +1099,7 @@
       "id": "826319122",
       "series_id": "826319094",
       "title": "Pobol y Môr",
-      "date_broadcast": "2022-02-07 20:25:00",
+      "date_broadcast": "2022-02-15 13:00:00",
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
