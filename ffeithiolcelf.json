@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "30",
-      "series_title": "Adre",
-      "programme_title": "Gareth Wyn Jones",
-      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "clic_aired": "28 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "802516819",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-02-12 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "118",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2022-01-30 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "30",
+      "series_title": "Adre",
+      "programme_title": "Gareth Wyn Jones",
+      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "clic_aired": "28 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "802516819",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-02-12 11:00:00",
       "vs": "0"
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Creaduriaid Gwyllt Affrica",
       "programme_title": "Y Gelyn Yn Y Nyth",
       "short_billing": "Mae'n hysbys fod y gwcw yn dodwy eu hwyau mewn nythod adar eraill. Mae hyn yn golygu nad oes angen iddynt wastraffu eu hegni yn magu eu cywion eu hunain. Ond sut mae adar eraill yn gadael i hyn ddigwydd' Cawn yr atebion yn y rhaglen arbennig hon sydd yn dilyn hynt a helynt y gwcw ac adar eraill sydd â'r un tueddiad.",
@@ -454,6 +454,25 @@
       "series_id": "805931446",
       "title": "Creaduriaid Gwyllt Affrica",
       "date_broadcast": "2022-01-22 10:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "50",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -492,25 +511,6 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-01-31 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "50",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Mynyddoedd y Byd",
       "programme_title": "Yr Andes: Lowri Morgan",
       "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
