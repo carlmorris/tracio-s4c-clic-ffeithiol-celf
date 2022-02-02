@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "30",
-      "series_title": "Adre",
-      "programme_title": "Gareth Wyn Jones",
-      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
-      "clic_aired": "28 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "802516819",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-02-12 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "118",
       "series_title": "Adre",
@@ -93,6 +74,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2022-01-30 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "30",
+      "series_title": "Adre",
+      "programme_title": "Gareth Wyn Jones",
+      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "thumbnail_url": "Adre_2019-20S4C_P1_Gareth_Wyn_Jones_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
+      "clic_aired": "28 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "802516819",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-02-12 11:00:00",
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Bois y Rhondda yn ôl. Cawn gipolwg unigryw ar fywydau gr&#373;p o ffrindiau sydd yn dod i delerau â chymhlethdodau cymdeithas fodern, a'r brwydrau sy¿n wynebu eu cenhedlaeth nhw ar adeg ansicr. Sut bydd deinameg y ffrindiau yn newid wrth i'r bechgyn symud ymlaen i'r cam nesaf' Sut fydd eu perthynas â¿u teuluoedd yn datblygu' Bydd llawer o chwerthin a dwli wrth i¿r camerau ddilyn y criw egnïol yn llywio¿u ffordd drwy fywyd. Y tro hwn mae¿r bois yn teithio¿n bell o¿r Rhondda!  ",
@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "19",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "22",
       "series_title": "Cegin Bryn",
@@ -321,6 +302,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "19",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -457,6 +457,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "50",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "148",
       "series_title": "Cymry ar Gynfas",
@@ -495,27 +514,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "50",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "12",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Cynefin",
       "programme_title": "Aberteifi",
       "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Pen Petrol",
       "programme_title": "Clasuron",
       "short_billing": "Cyfres ddogfen swnllyd a ffraeth am bobl ifanc a'u ceir, yn cyflwyno criw Unit Thirteen o Gogledd Cymru. ",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Rhwng toriad gwawr a machlud haul ym Mhenrhyn Gwyr, cawn dreulio diwrnod ar lan y môr yng nghwmni Carys y ffotograffydd syrffio, Nia - warden Ynys Dewi yn Sir Benfro a John, y ffarmwr cregyn gleision yn y Fenai.",
@@ -1308,7 +1308,7 @@
       "id": "818698327",
       "series_id": null,
       "title": "Trysorau Gareth Edwards",
-      "date_broadcast": "2021-12-29 14:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
