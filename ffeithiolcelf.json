@@ -1,22 +1,22 @@
 {
   "progs": [
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "6",
+      "days_to_expire": "34",
       "series_title": "04 Wal Gwestai'r Byd",
-      "programme_title": "Pennod 9",
+      "programme_title": "Pennod 10",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
       "thumbnail_url": "04_Wal_Gwestai_y_Byd_2009S4C_2508.jpg",
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mewn rhaglen o 2009, mae Leah Hughes ac Aled Samuel yn ymweld â gwesty'r Ice House ar Afon Moy yn Iwerddon, y Carbon Hotel yng Ngwald Belg a'r Lute Suites yn Amsterdam.",
-      "clic_aired": "26 Ionawr 2022",
+      "full_billing": "Yn rhaglen hon o 2010, Leah Hughes ac Aled Samuel yn ymweld â gwesty'r Widder yn Zurich, y St. Brides yn Saundersfoot, a'r Hotel Home yn Buenos Aires.",
+      "clic_aired": "2 Chwefror 2022",
       "fav_id": "536219327",
-      "id": "337687566",
+      "id": "337687588",
       "series_id": "337687381",
       "title": "04 Wal Gwestai'r Byd",
-      "date_broadcast": "2022-01-26 13:00:00",
+      "date_broadcast": "2022-02-02 13:00:00",
       "vs": "0"
     },
     {
@@ -286,6 +286,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "18",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "22",
       "series_title": "Cegin Bryn",
@@ -302,25 +321,6 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "19",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Shelley Rees",
       "short_billing": "Shelley Rees, Siôn Tomos Owen a Sue Roderick sy'n mwynhau ffilmiau o'r Cymoedd (Aberaman, Trealaw, a Ferndale) a Chaerdydd, a ffilm gynnar o Meic Povey, o gasgliad Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru. Mae'r siwrne yn dod i derfyn ar ynys Môn lle fydd y ddau yn hel atgofion o blentyndod Julian yn pysgota ym Moelfre fel bachgen ifanc.",
