@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Adre",
       "programme_title": "Gareth Wyn Jones",
       "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y ffermwr adnabyddus Gareth Wyn Jones yn Llanfairfechan.",
@@ -248,8 +248,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Mae¿r gyflwynwraig Lara Catrin yn Mhrifysgol Caerdydd ar gyfer y bennod olaf yn y gyfres.  Mae wedi bachu dau ffrind a dau fyfyriwr ffasiwn a¿u herio i brynu a gwerthu dillad ail law.  Wrth i James a Menna fynd ati gyda pheiriant gwnio yr un i roi eu stamp eu hunain ar y dillad, mae¿r ddau yn gwybod mai¿r un sy¿n gwerthu fwyaf fydd yn ennill nid yn unig eu harian eu hunain ond arian eu gwrthwynebydd hefyd.   ",
@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "12",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "15",
       "series_title": "Cegin Bryn",
@@ -321,6 +302,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "12",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -476,6 +476,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "140",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-01-31 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Cymry ar Gynfas",
@@ -492,25 +511,6 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-02-12 13:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "141",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-01-31 12:05:00",
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1236,22 +1236,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
-      "programme_title": "Lisa Jen",
-      "short_billing": "Mae'r gwanwyn lond y tir a'r awyr yn gliriach nag erioed, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Y tro hwn: Lisa Jên. ",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2020S4C_P3_Lisa_Jen_8348.jpg",
+      "programme_title": "Trystan Ellis-Morris",
+      "short_billing": "Mae'r gwanwyn lond y tir a'r awyr yn gliriach nag erioed, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Trystan Ellis-Morris yw'r gwestai y tro hwn. ",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2020S4C_P4_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'r gwanwyn lond y tir a'r awyr yn gliriach nag erioed, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Y tro hwn: Lisa Jên. ",
-      "clic_aired": "2 Chwefror 2022",
+      "full_billing": "Mae'r gwanwyn lond y tir a'r awyr yn gliriach nag erioed, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Trystan Ellis-Morris yw'r gwestai y tro hwn. ",
+      "clic_aired": "9 Chwefror 2022",
       "fav_id": "819088838",
-      "id": "809371073",
+      "id": "809371095",
       "series_id": "809371020",
       "title": "Sgwrs dan y Lloer - Cyfres 1",
-      "date_broadcast": "2022-02-02 12:05:00",
+      "date_broadcast": "2022-02-09 12:05:00",
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
