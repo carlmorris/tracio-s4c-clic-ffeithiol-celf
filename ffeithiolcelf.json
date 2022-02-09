@@ -154,7 +154,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Becws",
       "programme_title": null,
       "short_billing": "Siwgr, sbeis a phethau bach neis - cyfres goginio gyda Beca Lyne-Pirkis. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -514,25 +514,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "30",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "5 Chwefror 2022",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2022-02-06 17:25:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "121",
       "series_title": "Cynefin",
@@ -549,6 +530,25 @@
       "series_id": "815567826",
       "title": "Cynefin",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "30",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "5 Chwefror 2022",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2022-02-06 17:25:00",
       "vs": "0"
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; teras wedi ei adnewyddu yn hyfryd yng Nghaernarfon , Fflat moethus yn y brifddinas a hen d&#375; hir llawn cymeriad ym Mlaenau Ffestiniog.  ",
@@ -1160,22 +1160,22 @@
       "vs": "0"
     },
     {
-      "count": "101",
-      "days_to_expire": "148",
+      "count": "102",
+      "days_to_expire": "149",
       "series_title": "Prynhawn Da",
       "programme_title": null,
-      "short_billing": "Heddiw, bydd Huw yn twrio yn ei gwpwrdd dillad, a byddwn ni'n trafod iechyd meddwl plant gyda Dr Celyn. Bydd 'na hefyd gyfle i ennill tocynnau i gêm rygbi Cymru yn erbyn yr Alban ddydd Sadwrn.",
+      "short_billing": "Heddiw, mi fyddwn ni'n cael cyngor Bwyd a Diod gan Alison Huw ac mi fyddwn ni'n agor y Clwb Llyfrau. Bydd 'na gyfle i ennill tocynnau i gêm rygbi Cymru yn erbyn yr Alban ddydd Sadwrn.",
       "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
       "duration": "42",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Heddiw, bydd Huw yn twrio yn ei gwpwrdd dillad, a byddwn ni'n trafod iechyd meddwl plant gyda Dr Celyn. Bydd 'na hefyd gyfle i ennill tocynnau i gêm rygbi Cymru yn erbyn yr Alban ddydd Sadwrn.",
-      "clic_aired": "8 Chwefror 2022",
+      "full_billing": "Heddiw, mi fyddwn ni'n cael cyngor Bwyd a Diod gan Alison Huw ac mi fyddwn ni'n agor y Clwb Llyfrau. Bydd 'na gyfle i ennill tocynnau i gêm rygbi Cymru yn erbyn yr Alban ddydd Sadwrn.",
+      "clic_aired": "9 Chwefror 2022",
       "fav_id": "520950923",
-      "id": "822455316",
+      "id": "822455339",
       "series_id": "822450302",
       "title": "Prynhawn Da",
-      "date_broadcast": "2022-02-08 14:05:00",
+      "date_broadcast": "2022-02-09 14:05:00",
       "vs": "0"
     },
     {
