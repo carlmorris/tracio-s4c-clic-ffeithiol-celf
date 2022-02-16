@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "104",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "16",
       "series_title": "Adre",
@@ -74,6 +55,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2022-02-12 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "104",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-30 12:30:00",
       "vs": "0"
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -515,25 +515,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "5 Chwefror 2022",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2022-02-06 17:25:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "31",
       "series_title": "Cynefin",
       "programme_title": "Cwm Ystwyth- Gweithfeydd",
@@ -549,6 +530,25 @@
       "series_id": "832947033",
       "title": "Cynefin",
       "date_broadcast": "2022-02-12 13:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "24",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "5 Chwefror 2022",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2022-02-06 17:25:00",
       "vs": "0"
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Jerwsalem: Tir Sanctaidd",
       "programme_title": null,
       "short_billing": "Jason Mohammad sy'n archwilio hanes Mynydd y Deml, Jerwsalem - un o'r llefydd mwyaf sanctaidd ar wyneb y ddaear. ",
@@ -990,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Natur a Ni",
       "programme_title": null,
       "short_billing": "Ar Natur a Ni yr wythnos hon bydd Morgan Jones yn dod i adnabod bywyd gwyllt Cymru yn well yng nghwmni naturiaethwyr brwdfrydig. Bydd cyfle hefyd i adnabod can aderyn yr wythnos a gweld dyddiadur bywyd gwyllt mis Mehefin Angharad Jones.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Llanarthne",
       "short_billing": "Mwy o ryseitiau blasus a hwyl yn y gegin gyda Beca Lyne-Pirkis.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Yr Ocsiwniar",
       "programme_title": null,
       "short_billing": "Golwg ar fywyd cefn gwlad Gorllewin Cymru drwy lygaid aelodau o deulu a staff Cwmni'r Brodyr Evans mewn cyfes o 2001.",
