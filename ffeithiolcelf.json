@@ -267,7 +267,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "7",
       "series_title": "Cegin Bryn",
       "programme_title": null,
@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "146",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Sharon Morgan",
-      "short_billing": "Y tro hwn, yr artist dyfrliw Teresa Jenellen sy'n mynd ati i wneud portread o'r actor Sharon Morgan.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P3_Sharon_Morgan_955.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, yr artist dyfrliw Teresa Jenellen sy'n mynd ati i wneud portread o'r actor Sharon Morgan.",
-      "clic_aired": "14 Chwefror 2022",
-      "fav_id": "804336612",
-      "id": "837099492",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-03-03 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "132",
       "series_title": "Cymry ar Gynfas",
@@ -473,6 +454,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Sharon Morgan",
+      "short_billing": "Y tro hwn, yr artist dyfrliw Teresa Jenellen sy'n mynd ati i wneud portread o'r actor Sharon Morgan.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P3_Sharon_Morgan_955.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, yr artist dyfrliw Teresa Jenellen sy'n mynd ati i wneud portread o'r actor Sharon Morgan.",
+      "clic_aired": "14 Chwefror 2022",
+      "fav_id": "804336612",
+      "id": "837099492",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-03-03 13:30:00",
       "vs": "0"
     },
     {
@@ -815,25 +815,6 @@
       "series_id": "833322874",
       "title": "Gareth Jones: Nofio Adre",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Gwesty Aduniad",
-      "programme_title": null,
-      "short_billing": "I'r rhai sy'n cerdded trwy ddrws Gwesty Aduniad, mae un peth yn sicr: mae bywyd ar fin newid am byth. Mae pob unigolyn sy'n dod i'r gwesty hwn am wireddu un amcan penodol: i gyfarfod rhywun o'u gorffennol. Daw teulu y canwr gwlad Dave Curtis ynghyd i ddathlu ei fywyd, tra bo Glenda am gyfarfod person arbennig helpodd hi ar ei thaith i golli pwysau.",
-      "thumbnail_url": "Gwesty_Aduniad_2021S4C_P12_006.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "I'r rhai sy'n cerdded trwy ddrws Gwesty Aduniad, mae un peth yn sicr: mae bywyd ar fin newid am byth. Mae pob unigolyn sy'n dod i'r gwesty hwn am wireddu un amcan penodol: i gyfarfod rhywun o'u gorffennol. Daw teulu y canwr gwlad Dave Curtis ynghyd i ddathlu ei fywyd, tra bo Glenda am gyfarfod person arbennig helpodd hi ar ei thaith i golli pwysau.",
-      "clic_aired": "13 Ionawr 2022",
-      "fav_id": "803861931",
-      "id": "803862331",
-      "series_id": "803862078",
-      "title": "Gwesty Aduniad",
-      "date_broadcast": "2022-01-30 10:00:00",
       "vs": "0"
     },
     {
