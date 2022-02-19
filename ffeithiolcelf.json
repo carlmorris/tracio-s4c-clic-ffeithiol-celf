@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "100",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2022-01-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "33",
       "series_title": "Adre",
@@ -74,6 +55,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2022-02-18 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "100",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2022-01-30 12:30:00",
       "vs": "0"
     },
     {
@@ -268,25 +268,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "cegin-bryn15.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "17 Ionawr 2022",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2022-01-17 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "5",
       "series_title": "Cegin Bryn",
       "programme_title": null,
@@ -302,6 +283,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "cegin-bryn15.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "17 Ionawr 2022",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2022-01-17 13:00:00",
       "vs": "0"
     },
     {
@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "27",
-      "series_title": "Cynefin",
-      "programme_title": "Cwm Ystwyth- Gweithfeydd",
-      "short_billing": "Mae Heledd Cynwal yng nghwm Ystwyth gyda'i gwestai Ioan Rhys Lord, yn darganfod hanes rhyfeddol y gweithfeydd plwm yn yr ardal.  Ag mae hi'n mentro dan ddaear i weld amodau gwaith peryglus y gweithwyr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Heledd Cynwal yng nghwm Ystwyth gyda'i gwestai Ioan Rhys Lord, yn darganfod hanes rhyfeddol y gweithfeydd plwm yn yr ardal.  Ag mae hi'n mentro dan ddaear i weld amodau gwaith peryglus y gweithwyr.",
-      "clic_aired": "12 Chwefror 2022",
-      "fav_id": "796376120",
-      "id": "832947161",
-      "series_id": "832947033",
-      "title": "Cynefin",
-      "date_broadcast": "2022-02-12 13:35:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "111",
       "series_title": "Cynefin",
@@ -549,6 +530,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2022-02-06 17:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "27",
+      "series_title": "Cynefin",
+      "programme_title": "Cwm Ystwyth- Gweithfeydd",
+      "short_billing": "Mae Heledd Cynwal yng nghwm Ystwyth gyda'i gwestai Ioan Rhys Lord, yn darganfod hanes rhyfeddol y gweithfeydd plwm yn yr ardal.  Ag mae hi'n mentro dan ddaear i weld amodau gwaith peryglus y gweithwyr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Ty_Ddewi_089-Edit.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Heledd Cynwal yng nghwm Ystwyth gyda'i gwestai Ioan Rhys Lord, yn darganfod hanes rhyfeddol y gweithfeydd plwm yn yr ardal.  Ag mae hi'n mentro dan ddaear i weld amodau gwaith peryglus y gweithwyr.",
+      "clic_aired": "12 Chwefror 2022",
+      "fav_id": "796376120",
+      "id": "832947161",
+      "series_id": "832947033",
+      "title": "Cynefin",
+      "date_broadcast": "2022-02-12 13:35:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Rhwng toriad gwawr a machlud haul ym Mhenrhyn Gwyr, cawn dreulio diwrnod ar lan y môr yng nghwmni Carys y ffotograffydd syrffio, Nia - warden Ynys Dewi yn Sir Benfro a John, y ffarmwr cregyn gleision yn y Fenai.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Gillian Elisa",
       "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Y Tryweryn Nesaf?",
       "short_billing": "Y Tryweryn nesaf' Ydy Cymru yn wynebu 'Tryweryn newydd' wrth i dir gael ei brynu gan gwmnïau o'r tu allan er mwyn plannu coed' Mae Dot Davies yn clywed gan aelodau'r gymuned amaethyddol, sy'n ofni y bydd tir a chymunedau yn cael eu colli am byth, ac yn siarad gydag asiant coedwigaeth sy'n dweud bod hwn yn gyfle i ffermwyr yn hytrach na bygythiad. ",
@@ -1350,8 +1350,8 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "133",
+      "count": "7",
+      "days_to_expire": "132",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn: Guto Harri sy'n dadansoddi'r diweddara' am ddyfodol Boris Johnson, yn dilyn adroddiad Sue Gray; ac wrth i lywodraethau ar draws y byd gyflwyno mesurau caeth i'r rhieny heb frechlyn, be' nesa i gyfyngiadau Covid Cymru'",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
