@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "32",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "144",
       "series_title": "Cymry ar Gynfas",
@@ -473,6 +454,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-03-05 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "32",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -913,8 +913,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Jerwsalem: Tir Sanctaidd",
       "programme_title": null,
       "short_billing": "Jason Mohammad sy'n archwilio hanes Mynydd y Deml, Jerwsalem - un o'r llefydd mwyaf sanctaidd ar wyneb y ddaear. ",
@@ -971,7 +971,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Natur a Ni",
       "programme_title": null,
       "short_billing": "Ar Natur a Ni yr wythnos hon bydd Morgan Jones yn dod i adnabod bywyd gwyllt Cymru yn well yng nghwmni naturiaethwyr brwdfrydig. Bydd cyfle hefyd i adnabod can aderyn yr wythnos a gweld dyddiadur bywyd gwyllt mis Mehefin Angharad Jones.",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Llanarthne",
       "short_billing": "Mwy o ryseitiau blasus a hwyl yn y gegin gyda Beca Lyne-Pirkis.",
@@ -1483,8 +1483,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "28",
+      "count": "3",
+      "days_to_expire": "34",
       "series_title": "Yr Ocsiwniar",
       "programme_title": null,
       "short_billing": "Golwg ar fywyd cefn gwlad Gorllewin Cymru drwy lygaid aelodau o deulu a staff Cwmni'r Brodyr Evans mewn cyfes o 2001.",
@@ -1492,17 +1492,17 @@
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Offer ffermio sy'n mynd dan yr ordd  ym Mart Llanybydder, ond pwy neu beth yw 'Fergie''!  Byddwn hefyd yn dilyn cwpl o Weymouth wrth iddynt ddychwelyd i fyw yng Nghymru. Darlledwyd y gyfres gyntaf yn 2001.",
-      "clic_aired": "13 Chwefror 2022",
+      "full_billing": "Mewn rhaglen o 2001, mae Rhydian Evans yn datgan ei fod am adael y busnes teuluol ac ymuno â'i frawd Dorian gyda'r heddlu yng Ngwent. Mae bron pawb arall o bobol y byd, yn Americaniaid, Saeson a thrigolion y cylch, yn cynnig am lestri byngalo S¿n y Nant yn Rhydcymerau.  ",
+      "clic_aired": "20 Chwefror 2022",
       "fav_id": "798835951",
-      "id": "35745921",
+      "id": "35745933",
       "series_id": "35745904",
       "title": "Yr Ocsiwniar",
-      "date_broadcast": "2022-02-13 11:00:00",
+      "date_broadcast": "2022-02-20 11:00:00",
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "5",
       "days_to_expire": "145",
       "series_title": "Ysgol Ni: Y Moelwyn",
       "programme_title": null,
