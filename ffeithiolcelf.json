@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 12",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Mei Gwynedd",
-      "short_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P4_Mei_Lewis_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
-      "clic_aired": "21 Chwefror 2022",
-      "fav_id": "804336612",
-      "id": "837099516",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-03-10 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "28",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Mei Gwynedd",
+      "short_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P4_Mei_Lewis_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
+      "clic_aired": "21 Chwefror 2022",
+      "fav_id": "804336612",
+      "id": "837099516",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-03-10 13:30:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Shelley Rees",
       "short_billing": "Shelley Rees, Siôn Tomos Owen a Sue Roderick sy'n mwynhau ffilmiau o'r Cymoedd (Aberaman, Trealaw, a Ferndale) a Chaerdydd, a ffilm gynnar o Meic Povey, o gasgliad Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -1236,22 +1236,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
-      "programme_title": "Castell Penrhyn",
-      "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol. Ond yn ystod y cyfnod clo mae'r llefydd anhygoel yma wedi gorfod cau eu drysau i ymwelwyr, tan rwan, gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau i ddarganfod eu cyfrinachau. Yn y rhaglen gyntaf, Castell Penrhyn sy'n cael eu sylw - adeilad dadleuol sy'n creu argraff mewn sawl ffordd.",
-      "thumbnail_url": "Trysorau_Cymru_Tir_Tai_Cyfrinachau_2020S4C_Penrhyn.jpg",
+      "programme_title": "Castell Powis",
+      "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll, diolch i'r Ymddiriedolaeth Genedlaethol - y National Trust. Ond yn ystod y cyfnod clo, mae'r llefydd anhygoel yma wedi gorfod cau eu drysau a neb yn cael ymweld¿ tan rwan!  - gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'w harchwilio. Yn yr ail bennod, Castell Powis sydd o dan sylw Tudur ac Elinor - castell crand yn y canolbarth wedi e",
+      "thumbnail_url": "Trysorau_Cymru_Tir_Tai_Cyfrinachau_2020S4C_Powis.jpg",
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol. Ond yn ystod y cyfnod clo mae'r llefydd anhygoel yma wedi gorfod cau eu drysau i ymwelwyr, tan rwan, gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau i ddarganfod eu cyfrinachau. Yn y rhaglen gyntaf, Castell Penrhyn sy'n cael eu sylw - adeilad dadleuol sy'n creu argraff mewn sawl ffordd.",
-      "clic_aired": "17 Chwefror 2022",
+      "full_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll, diolch i'r Ymddiriedolaeth Genedlaethol - y National Trust. Ond yn ystod y cyfnod clo, mae'r llefydd anhygoel yma wedi gorfod cau eu drysau a neb yn cael ymweld¿ tan rwan!  - gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'w harchwilio. Yn yr ail bennod, Castell Powis sydd o dan sylw Tudur ac Elinor - castell crand yn y canolbarth wedi e",
+      "clic_aired": "24 Chwefror 2022",
       "fav_id": "810588880",
-      "id": "810188695",
+      "id": "810188713",
       "series_id": "810188688",
       "title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
-      "date_broadcast": "2022-02-17 13:00:00",
+      "date_broadcast": "2022-02-24 13:00:00",
       "vs": "0"
     },
     {
