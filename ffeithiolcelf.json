@@ -78,7 +78,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Adre",
       "programme_title": "Heledd Cynwal",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres `Adre`. Yr wythnos hon byddwn yn ymweld â chartref y gyflwynwraig deledu Heledd Cynwal ger Llandeilo.",
@@ -419,6 +419,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Mei Gwynedd",
+      "short_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P4_Mei_Lewis_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
+      "clic_aired": "21 Chwefror 2022",
+      "fav_id": "804336612",
+      "id": "837099516",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-03-12 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "122",
       "series_title": "Cymry ar Gynfas",
@@ -454,25 +473,6 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Mei Gwynedd",
-      "short_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P4_Mei_Lewis_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
-      "clic_aired": "21 Chwefror 2022",
-      "fav_id": "804336612",
-      "id": "837099516",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-03-12 13:00:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "100",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Heddiw, bydd Gareth yn y gegin ac fe fydd y Clwb Clecs yn dweud eu dweud.",
