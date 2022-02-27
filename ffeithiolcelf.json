@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "25",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Wil Rowlands a Dafydd Iwan",
-      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
-      "clic_aired": "25 Hydref 2021",
-      "fav_id": "804336612",
-      "id": "809593016",
-      "series_id": "809592897",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "122",
       "series_title": "Cymry ar Gynfas",
@@ -473,6 +454,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-03-12 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "25",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Wil Rowlands a Dafydd Iwan",
+      "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2021S4C_P6_Wil_55.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
+      "clic_aired": "25 Hydref 2021",
+      "fav_id": "804336612",
+      "id": "809593016",
+      "series_id": "809592897",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "17",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Mynd i'r afael â lleihau'r defnydd o wrthfiotig; annog ffermwyr i edrych ar ol eu hiechyd; hyrwyddo cig oen yn ffair fasnach mwya'r byd; a charreg filltir bwysig i gynllun hydro Eryri.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Siop Siarad Owain",
       "programme_title": null,
       "short_billing": "Sioe siarad llawn hwyl gydag Owain Wyn Evans; gyda cherddoriaeth gan Steffan Rhys Williams, gwesteion arbennig - y tro hwn Peredur ap Gwynedd, Rebecca Trehearn ac Emma Jenkins, a chyfle i ddathlu arwyr tawel Cymru. ",
