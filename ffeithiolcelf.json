@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 12",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Mae'r morwyr talog, Dilwyn Morgan a John Pierce Jones yn Codi Hwyl ac yn anelu am Iwerddon ar fwrdd y Mistress Wilful. ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Shelley Rees",
       "short_billing": "Shelley Rees, Siôn Tomos Owen a Sue Roderick sy'n mwynhau ffilmiau o'r Cymoedd (Aberaman, Trealaw, a Ferndale) a Chaerdydd, a ffilm gynnar o Meic Povey, o gasgliad Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -819,25 +819,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "84",
-      "series_title": "Heno Aur",
-      "programme_title": "Pennod 14",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "24 Rhagfyr 2021",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "23",
       "series_title": "Heno Aur",
       "programme_title": null,
@@ -851,6 +832,25 @@
       "fav_id": "810255618",
       "id": "834036109",
       "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "84",
+      "series_title": "Heno Aur",
+      "programme_title": "Pennod 14",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "24 Rhagfyr 2021",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
       "vs": "0"
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Castell Powis",
       "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll, diolch i'r Ymddiriedolaeth Genedlaethol - y National Trust. Ond yn ystod y cyfnod clo, mae'r llefydd anhygoel yma wedi gorfod cau eu drysau a neb yn cael ymweld¿ tan rwan!  - gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'w harchwilio. Yn yr ail bennod, Castell Powis sydd o dan sylw Tudur ac Elinor - castell crand yn y canolbarth wedi e",
