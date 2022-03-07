@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "144",
-      "series_title": "Cynefin",
-      "programme_title": "Beddgelert",
-      "short_billing": "ECs: 14 eiliad",
-      "thumbnail_url": "cynefin-generic-clic-2018.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "ECs: 14 eiliad",
-      "clic_aired": "1 Mawrth 2022",
-      "fav_id": "796376120",
-      "id": "832925001",
-      "series_id": "832924961",
-      "title": "Cynefin",
-      "date_broadcast": "2022-03-01 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "95",
       "series_title": "Cynefin",
@@ -625,6 +606,25 @@
       "series_id": "815567826",
       "title": "Cynefin",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "144",
+      "series_title": "Cynefin",
+      "programme_title": "Beddgelert",
+      "short_billing": "ECs: 14 eiliad",
+      "thumbnail_url": "cynefin-generic-clic-2018.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "ECs: 14 eiliad",
+      "clic_aired": "1 Mawrth 2022",
+      "fav_id": "796376120",
+      "id": "832925001",
+      "series_id": "832924961",
+      "title": "Cynefin",
+      "date_broadcast": "2022-03-01 21:00:00",
       "vs": "0"
     },
     {
