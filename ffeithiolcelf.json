@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 12",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -59,7 +59,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "47 Copa: Her Huw Jack Brassington",
       "programme_title": "Ofn",
       "short_billing": "Cyfres antur yn dilyn Huw Jack Brassington wrth iddo baratoi i redeg Her 47 Copa Paddy Buckley. Wrth baratoi i redeg 106km dros 47 o fynyddoedd mwyaf Eryri o fewn 24 awr mae Huw yn mynd ar daith i gyfarfod ac eraill sy'n gwneud campau eithafol. Yn y bennod gyntaf bydd Huw yn ymweld â Geraint Rowlands sy'n caiacio d¿r gwyn ac Ellis Grover o Syrcas No Fit State i weld sut mae nhw'n delio gyda'i hofnau, tra'n edrych ar yr ofnau mae o'n wynebu ei hun wrth baratoi at ei her anoddaf eto.",
@@ -173,7 +173,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Anrhegion Melys Richard Holt",
       "programme_title": null,
       "short_billing": "Mae dewin y gegin yn cynllunio syrpreis sy¿n llawn hud a lledrith i ddwy ferch fach haeddiannol...",
@@ -401,7 +401,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Mae'r morwyr talog, Dilwyn Morgan a John Pierce Jones yn Codi Hwyl ac yn anelu am Iwerddon ar fwrdd y Mistress Wilful. ",
@@ -1312,22 +1312,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
-      "programme_title": "Ty Tredegar",
-      "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol ' y National Trust. Ond yn ystod y cyfnod clo ' ma'r llefydd anhygoel yma wedi gorfod cau eu drysau ' a NEB yn cael  ymweld. Tan rwan! Gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau tra bod nhw'n wag, ac i fynd I bob twll a chornel i gal darganfod - a rhyfeddu - at eu cyfrinachau. Yn ",
-      "thumbnail_url": "Trysorau_Cymru_Tir_Tai_Cyfrinachau_2020S4C_Tredegar.jpg",
+      "programme_title": "Castell Y Waun",
+      "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol - y National Trust. Ond yn  ystod y cyfnod clo - ma'r llefydd anhygoel yma wedi gorfod cau eu drysau - a NEB yn cael  ymweld. Tan rwan! Gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau tra bod nhw'n wag, ac i fynd I bob twll a chornel i gal darganfod - a rhyfeddu - at eu cyfrinachau. Yn",
+      "thumbnail_url": "Trysorau_Cymru_Tir_Tai_Cyfrinachau_2020S4C_Waun.jpg",
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol ' y National Trust. Ond yn ystod y cyfnod clo ' ma'r llefydd anhygoel yma wedi gorfod cau eu drysau ' a NEB yn cael  ymweld. Tan rwan! Gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau tra bod nhw'n wag, ac i fynd I bob twll a chornel i gal darganfod - a rhyfeddu - at eu cyfrinachau. Yn ",
-      "clic_aired": "3 Mawrth 2022",
+      "full_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol - y National Trust. Ond yn  ystod y cyfnod clo - ma'r llefydd anhygoel yma wedi gorfod cau eu drysau - a NEB yn cael  ymweld. Tan rwan! Gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau tra bod nhw'n wag, ac i fynd I bob twll a chornel i gal darganfod - a rhyfeddu - at eu cyfrinachau. Yn",
+      "clic_aired": "10 Mawrth 2022",
       "fav_id": "810588880",
-      "id": "810188731",
+      "id": "810188749",
       "series_id": "810188688",
       "title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
-      "date_broadcast": "2022-03-03 13:00:00",
+      "date_broadcast": "2022-03-10 13:00:00",
       "vs": "0"
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Jennifer Jones",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
