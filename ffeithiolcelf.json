@@ -533,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "139",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Jonathan Davies",
-      "short_billing": "ECs: 24 eiliad",
-      "thumbnail_url": "CaG-Jonathan.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "ECs: 24 eiliad",
-      "clic_aired": "28 Chwefror 2022",
-      "fav_id": "804336612",
-      "id": "837099540",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-03-19 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "111",
       "series_title": "Cymry ar Gynfas",
@@ -568,6 +549,25 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "139",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Jonathan Davies",
+      "short_billing": "ECs: 24 eiliad",
+      "thumbnail_url": "CaG-Jonathan.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "ECs: 24 eiliad",
+      "clic_aired": "28 Chwefror 2022",
+      "fav_id": "804336612",
+      "id": "837099540",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-03-19 13:00:00",
       "vs": "0"
     },
     {
