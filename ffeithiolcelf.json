@@ -362,6 +362,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "144",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Cefn Gwlad: Dathlu Dai",
+      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "clic_aired": "12 Mawrth 2022",
+      "fav_id": "520950902",
+      "id": "816571702",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2022-03-12 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "8",
       "days_to_expire": "84",
       "series_title": "Cefn Gwlad",
@@ -397,25 +416,6 @@
       "series_id": "21302073",
       "title": "Cefn Gwlad",
       "date_broadcast": "2022-03-26 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "144",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Cefn Gwlad: Dathlu Dai",
-      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "clic_aired": "12 Mawrth 2022",
-      "fav_id": "520950902",
-      "id": "816571702",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2022-03-12 20:00:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "147",
-      "series_title": "Cynefin",
-      "programme_title": "Dyffryn Tanat",
-      "short_billing": "Dyffryn Tanat, dyffryn hardd ar y ffin gyda Lloegr, lle mae'r trigolion wedi cadw'r iaith a thraddodiadau cyfoethog fel y plygain yn fyw.  Dyma gartref Yr Esgob William Morgan a Thelynores Maldwyn, a bydd Heledd yn cael tro ar ganu'r delyn gan un o'i chyn ddisgyblion. Bydd Iestyn yn darganfod cyfrinachau'r calch, a bydd Sion ar drywydd wiber beryglus.",
-      "thumbnail_url": "Cynefin-DyffrynTanat.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dyffryn Tanat, dyffryn hardd ar y ffin gyda Lloegr, lle mae'r trigolion wedi cadw'r iaith a thraddodiadau cyfoethog fel y plygain yn fyw.  Dyma gartref Yr Esgob William Morgan a Thelynores Maldwyn, a bydd Heledd yn cael tro ar ganu'r delyn gan un o'i chyn ddisgyblion. Bydd Iestyn yn darganfod cyfrinachau'r calch, a bydd Sion ar drywydd wiber beryglus.",
-      "clic_aired": "15 Mawrth 2022",
-      "fav_id": "796376120",
-      "id": "832925058",
-      "series_id": "832924961",
-      "title": "Cynefin",
-      "date_broadcast": "2022-03-26 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Cynefin",
@@ -644,6 +625,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2022-03-06 13:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "147",
+      "series_title": "Cynefin",
+      "programme_title": "Dyffryn Tanat",
+      "short_billing": "Dyffryn Tanat, dyffryn hardd ar y ffin gyda Lloegr, lle mae'r trigolion wedi cadw'r iaith a thraddodiadau cyfoethog fel y plygain yn fyw.  Dyma gartref Yr Esgob William Morgan a Thelynores Maldwyn, a bydd Heledd yn cael tro ar ganu'r delyn gan un o'i chyn ddisgyblion. Bydd Iestyn yn darganfod cyfrinachau'r calch, a bydd Sion ar drywydd wiber beryglus.",
+      "thumbnail_url": "Cynefin-DyffrynTanat.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dyffryn Tanat, dyffryn hardd ar y ffin gyda Lloegr, lle mae'r trigolion wedi cadw'r iaith a thraddodiadau cyfoethog fel y plygain yn fyw.  Dyma gartref Yr Esgob William Morgan a Thelynores Maldwyn, a bydd Heledd yn cael tro ar ganu'r delyn gan un o'i chyn ddisgyblion. Bydd Iestyn yn darganfod cyfrinachau'r calch, a bydd Sion ar drywydd wiber beryglus.",
+      "clic_aired": "15 Mawrth 2022",
+      "fav_id": "796376120",
+      "id": "832925058",
+      "series_id": "832924961",
+      "title": "Cynefin",
+      "date_broadcast": "2022-03-26 13:30:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "       Ffordd o fyw / Lifestyle",
       "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Wel, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Y tro hwn: y bardd, awdur a chyhoeddwr Myrddin ap Dafydd yw'r gwestai.",
