@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "04 Wal Gwestai'r Byd",
       "programme_title": "Pennod 12",
       "short_billing": "Golwg ar rai o westai mwyaf diddorol y byd, yng nghwmni Aled Samuel a'r cynllunydd Leah Hughes, gan edrych ar hanes, cynllun a phensaernïaeth yr adeiladau yn ogystal â'r 'waw' factor unigryw.",
@@ -77,6 +77,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "14",
+      "series_title": "Adre",
+      "programme_title": "Heledd Cynwal",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres `Adre`. Yr wythnos hon byddwn yn ymweld â chartref y gyflwynwraig deledu Heledd Cynwal ger Llandeilo.",
+      "thumbnail_url": "Adre_2019-20S4C_P2_Heledd_Cynwal_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres `Adre`. Yr wythnos hon byddwn yn ymweld â chartref y gyflwynwraig deledu Heledd Cynwal ger Llandeilo.",
+      "clic_aired": "26 Chwefror 2022",
+      "fav_id": "793406870",
+      "id": "802516835",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-02-26 14:50:00",
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "131",
       "series_title": "Adre",
@@ -112,25 +131,6 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "14",
-      "series_title": "Adre",
-      "programme_title": "Heledd Cynwal",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres `Adre`. Yr wythnos hon byddwn yn ymweld â chartref y gyflwynwraig deledu Heledd Cynwal ger Llandeilo.",
-      "thumbnail_url": "Adre_2019-20S4C_P2_Heledd_Cynwal_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres `Adre`. Yr wythnos hon byddwn yn ymweld â chartref y gyflwynwraig deledu Heledd Cynwal ger Llandeilo.",
-      "clic_aired": "26 Chwefror 2022",
-      "fav_id": "793406870",
-      "id": "802516835",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-02-26 14:50:00",
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Anrhegion Melys Richard Holt",
       "programme_title": null,
       "short_billing": "Ar ôl mabwysiadu ci mae ein cogydd creadigol yn awyddus i baratoi syrpreis i¿r ganolfan achub leol!",
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Cefn Gwlad: Dathlu Dai",
-      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "clic_aired": "12 Mawrth 2022",
-      "fav_id": "520950902",
-      "id": "816571702",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2022-03-12 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "83",
       "series_title": "Cefn Gwlad",
@@ -419,8 +400,27 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Cefn Gwlad: Dathlu Dai",
+      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "clic_aired": "12 Mawrth 2022",
+      "fav_id": "520950902",
+      "id": "816571702",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2022-03-12 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Mae'r morwyr talog, Dilwyn Morgan a John Pierce Jones yn Codi Hwyl ac yn anelu am Iwerddon ar fwrdd y Mistress Wilful. ",
@@ -590,6 +590,25 @@
       "vs": "0"
     },
     {
+      "count": "12",
+      "days_to_expire": "83",
+      "series_title": "Cynefin",
+      "programme_title": "Aberteifi",
+      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
+      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
+      "clic_aired": "12 Ionawr 2022",
+      "fav_id": "796376120",
+      "id": "815567832",
+      "series_id": "815567826",
+      "title": "Cynefin",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "146",
       "series_title": "Cynefin",
@@ -644,25 +663,6 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2022-03-06 13:35:00",
-      "vs": "0"
-    },
-    {
-      "count": "12",
-      "days_to_expire": "83",
-      "series_title": "Cynefin",
-      "programme_title": "Aberteifi",
-      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
-      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
-      "clic_aired": "12 Ionawr 2022",
-      "fav_id": "796376120",
-      "id": "815567832",
-      "series_id": "815567826",
-      "title": "Cynefin",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Plas Newydd",
       "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau lu. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol. Ym mhennod 5, Plas Newydd sy'n cael sylw Tudur ac Elinor. Wrth ddotio at y golygfeydd ysblennydd o fynyddoedd Eryri'r ochr draw i Afon Menai, mae'n hawdd gweld pam y bu ty ar y safle hwn ers dechrau'r unfed ganrif ar bymtheg ac fel cartref teuluol Marcwis Môn mae'n dy sy'n llawn hanes a phensaerneiaeth heb ei ail.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Jennifer Jones",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
