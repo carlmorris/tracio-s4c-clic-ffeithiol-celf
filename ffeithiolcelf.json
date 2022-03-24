@@ -116,7 +116,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Am Dro!",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y rhifyn yma, bydd Arfon yn arwain taith yn ei filltir sgwar o amgylch Dinas Mawddwy. Siwrnau arfordirol o Borth y Gest i Forfa Bychan fydd taith Sophie. Byddwn wedyn yn teithio i Geredigion i Stad yr Hafod yng Nghwm Ystwyth ar gyfer wac Julie, cyn gwibio i draeth enwog Pentywyn yn Sir Gaerfyrddin ar gyfer taith Daniel. Pedair taith a phedwar cystadleuydd - ond dim ond un enillydd. Mae'n amser i fynd Am Dro!",
@@ -344,25 +344,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "133",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Cefn Gwlad - John Parry, Gwalchmai",
-      "short_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "25",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
-      "clic_aired": "7 Mawrth 2022",
-      "fav_id": "520950902",
-      "id": "21613818",
-      "series_id": "21302073",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2022-03-26 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "138",
       "series_title": "Cefn Gwlad",
       "programme_title": "Cefn Gwlad: Dathlu Dai",
@@ -378,6 +359,25 @@
       "series_id": "816571690",
       "title": "Cefn Gwlad",
       "date_broadcast": "2022-03-12 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "133",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Cefn Gwlad - John Parry, Gwalchmai",
+      "short_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "25",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
+      "clic_aired": "7 Mawrth 2022",
+      "fav_id": "520950902",
+      "id": "21613818",
+      "series_id": "21302073",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2022-03-26 22:00:00",
       "vs": "0"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": null,
       "programme_title": "Merched yr Awr",
       "short_billing": "Mewn rhaglen gerddorol arbennig yn gymysg o berfformiadau ac elfennau dogfennol, byddwn yn dathlu cerddoriaeth a chyfraniadau pedair o ferched mwya dylanwadol y byd cerddorol heddiw.  ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Yn rhaglen ola¿r gyfres mae Bronwen y spaniel ifanc wedi cael ei tharo gan gar  - a fydd Kate yn gallu ei hachub'\r\nMae Phil ac Iwan yn cynnal profion TB ar ddwy fferm deuluol sy¿n gyfnod pryderus I¿r  ffermwyr. \r\nAc mae Dafydd ar frys I helpu dwy fuwch un sydd wedi a¿r llall sy¿n ceisio geni llo.",
