@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "24 Awr",
       "programme_title": "Tomi Roberts-Jones",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Tomi Roberts-Jones o Gaerdydd yn mynd i gynrychioli Cymru ym Mhencampwriaeth Athletau Prydain yn Derby.",
@@ -894,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Cyfle i glywed y band Adwaith, a byddwn yn edrych ar weithiau celf sy'n codi ymwybyddiaeth o'r rhyfel yn Wcráin.\n\n\n ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle i glywed y band Adwaith, a byddwn yn edrych ar weithiau celf sy'n codi ymwybyddiaeth o'r rhyfel yn Wcráin.\n\n\n ",
-      "clic_aired": "1 Ebrill 2022",
-      "fav_id": "520950912",
-      "id": "852334591",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-04-04 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "94",
       "days_to_expire": "147",
       "series_title": "Heno",
@@ -929,6 +910,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": "2022-04-01 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Cyfle i glywed y band Adwaith, a byddwn yn edrych ar weithiau celf sy'n codi ymwybyddiaeth o'r rhyfel yn Wcráin.\n\n\n ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle i glywed y band Adwaith, a byddwn yn edrych ar weithiau celf sy'n codi ymwybyddiaeth o'r rhyfel yn Wcráin.\n\n\n ",
+      "clic_aired": "1 Ebrill 2022",
+      "fav_id": "520950912",
+      "id": "852334591",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-04-04 12:30:00",
       "vs": "0"
     },
     {
@@ -1236,6 +1236,25 @@
       "vs": "0"
     },
     {
+      "count": "99",
+      "days_to_expire": "147",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2022-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "148",
       "series_title": "Prynhawn Da",
@@ -1252,25 +1271,6 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-04-01 14:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "100",
-      "days_to_expire": "147",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2022-03-31 14:05:00",
       "vs": "0"
     },
     {
