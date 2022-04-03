@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "68",
-      "series_title": "Cynefin",
-      "programme_title": "Aberteifi",
-      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
-      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
-      "clic_aired": "12 Ionawr 2022",
-      "fav_id": "796376120",
-      "id": "815567832",
-      "series_id": "815567826",
-      "title": "Cynefin",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "138",
       "series_title": "Cynefin",
@@ -606,6 +587,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2022-03-19 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "68",
+      "series_title": "Cynefin",
+      "programme_title": "Aberteifi",
+      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
+      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
+      "clic_aired": "12 Ionawr 2022",
+      "fav_id": "796376120",
+      "id": "815567832",
+      "series_id": "815567826",
+      "title": "Cynefin",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": null,
       "programme_title": "Gweinidog Iechyd Mewn Pandemig",
       "short_billing": "Hydref y llynedd, gyda'r gwasanaeth iechyd yn wynebu'r gaeaf gwaethaf yn ei hanes, un person yng nghanol y cyfan oedd Gweinidog Iechyd newydd Cymru, Eluned Morgan. Yn y rhaglen ddogfen arbennig hon, cawn gipolwg unigryw ar fywyd dyddiol y Gweinidog Iechyd yn ei misoedd cyntaf yn y swydd.",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "93",
-      "days_to_expire": "146",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": "2022-04-01 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "147",
       "series_title": "Heno",
@@ -948,6 +929,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-04-04 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "93",
+      "days_to_expire": "146",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": "2022-04-01 12:30:00",
       "vs": "0"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i¿r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy¿n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Covid: Oes Gwersi i'w Dysgu?",
       "short_billing": "Ar ôl dwy flynedd o bandemig a dros 7,000 o farwolaethau yng Nghymru, ni'n cwrdd â theuluoedd a gweithwyr iechyd sy'n galw ar Lywodraeth Cymru i gynnal ymchwiliad annibynol penodol ar sut wnaeth Cymru ymateb yn ystod y pandemig.  A'n gofyn i Brif Weinidog Cymru, Mark Drakeford: oes na wersi i'w dysgu a pha mor barod ydyn ni yng Nghymru i ymateb i argyfwng iechyd tebyg yn y dyfodol'",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn: Guto Harri sy'n dadansoddi'r diweddara' am ddyfodol Boris Johnson, yn dilyn adroddiad Sue Gray; ac wrth i lywodraethau ar draws y byd gyflwyno mesurau caeth i'r rhieny heb frechlyn, be' nesa i gyfyngiadau Covid Cymru'",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres sy'n dilyn dynion yn eu faniau. Meinciau hanesyddol â chysylltiad efo rhai o fawrion ardal Y Bala sy¿n mynd â bryd Rhys. Symud celfi i d&#375; newydd mam a merch yn y canolbarth mae criw Shaun, ac mae Lee yn newid sedd ei fan am foethusrwydd Limwsîn. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
