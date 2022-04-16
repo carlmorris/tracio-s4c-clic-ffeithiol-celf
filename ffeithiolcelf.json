@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "109",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Cefn Gwlad - John Parry, Gwalchmai",
-      "short_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "25",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
-      "clic_aired": "7 Mawrth 2022",
-      "fav_id": "520950902",
-      "id": "21613818",
-      "series_id": "21302073",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2022-03-26 22:00:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "55",
       "series_title": "Cefn Gwlad",
@@ -378,6 +359,25 @@
       "series_id": "816571690",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "109",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Cefn Gwlad - John Parry, Gwalchmai",
+      "short_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "25",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "John Parry, Gwalchmai, Sir Fon- deliwr moch ar hyd ei oes yw cwmni Dai Jones, Llanilar heno.",
+      "clic_aired": "7 Mawrth 2022",
+      "fav_id": "520950902",
+      "id": "21613818",
+      "series_id": "21302073",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2022-03-26 22:00:00",
       "vs": "0"
     },
     {
@@ -894,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "145",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Wyau buarth wedi diflannu o silfoedd siopau; Cymdeithas y defaid wyneblas Caerlyr yn dathlu carreg filltir arbennig; a chwrs dysgu Cymraeg newydd ar gyfer y sector amaeth.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Wyau buarth wedi diflannu o silfoedd siopau; Cymdeithas y defaid wyneblas Caerlyr yn dathlu carreg filltir arbennig; a chwrs dysgu Cymraeg newydd ar gyfer y sector amaeth.",
-      "clic_aired": "11 Ebrill 2022",
-      "fav_id": "533250950",
-      "id": "853180243",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-04-17 17:05:00",
-      "vs": "0"
-    },
-    {
       "count": "16",
       "days_to_expire": "131",
       "series_title": "Ffermio",
@@ -929,6 +910,25 @@
       "series_id": "824432049",
       "title": "Ffermio",
       "date_broadcast": "2022-04-03 16:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "145",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Wyau buarth wedi diflannu o silfoedd siopau; Cymdeithas y defaid wyneblas Caerlyr yn dathlu carreg filltir arbennig; a chwrs dysgu Cymraeg newydd ar gyfer y sector amaeth.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Wyau buarth wedi diflannu o silfoedd siopau; Cymdeithas y defaid wyneblas Caerlyr yn dathlu carreg filltir arbennig; a chwrs dysgu Cymraeg newydd ar gyfer y sector amaeth.",
+      "clic_aired": "11 Ebrill 2022",
+      "fav_id": "533250950",
+      "id": "853180243",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-04-17 17:05:00",
       "vs": "0"
     },
     {
@@ -1084,8 +1084,8 @@
       "vs": "0"
     },
     {
-      "count": "85",
-      "days_to_expire": "134",
+      "count": "84",
+      "days_to_expire": "133",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
@@ -1407,25 +1407,6 @@
       "vs": "0"
     },
     {
-      "count": "90",
-      "days_to_expire": "133",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2022-03-31 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "148",
       "series_title": "Prynhawn Da",
@@ -1442,6 +1423,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-04-15 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "90",
+      "days_to_expire": "133",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2022-03-31 14:05:00",
       "vs": "0"
     },
     {
