@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Caru Siopa",
       "programme_title": null,
       "short_billing": "Daw¿r ail bennod o¿r gyfres newydd sbon hon o Aberystwyth, ble mae¿r gyflwynwraig Lara Catrin yn cyfarfod a dau siopwr brwd sydd am wneud arian wrth ail gylchu dillad ail law.  Mae Carwen a Dylan yn dwli ar fargen ond byddan nhw¿n cael eu herio i brynu dillad o siopau elusen cyn eu trawsnewid a¿u gwerthu eto, gyda¿r ennillydd yn cadw¿r arian i gyd.  Mae Lara yn rhannu ei syniadau clyfar i¿n perswadio ni gyd ailgylchu ein hoff ddillad. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "144",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, o fewn wythnosau i'r etholiadau lleol fe fydd cynulleidfa Pawb a'i Farn yn herio cynrychiolwyr o'r prif bleidiau gwleidyddol am eu gweledigaeth nhw ar gyfer cymunedau Cymru. Ymysg y pynciau: tai fforddiadwy, gwasanaethau pobl ifanc a sut i ennyn diddordeb mewn gwleidyddiaeth leol. ",
-      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, o fewn wythnosau i'r etholiadau lleol fe fydd cynulleidfa Pawb a'i Farn yn herio cynrychiolwyr o'r prif bleidiau gwleidyddol am eu gweledigaeth nhw ar gyfer cymunedau Cymru. Ymysg y pynciau: tai fforddiadwy, gwasanaethau pobl ifanc a sut i ennyn diddordeb mewn gwleidyddiaeth leol. ",
-      "clic_aired": "14 Ebrill 2022",
-      "fav_id": "525516112",
-      "id": "853449925",
-      "series_id": "853449914",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2022-04-14 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "130",
       "series_title": "Pawb a'i Farn",
@@ -1385,6 +1366,25 @@
       "series_id": "822492691",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2022-03-31 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "144",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, o fewn wythnosau i'r etholiadau lleol fe fydd cynulleidfa Pawb a'i Farn yn herio cynrychiolwyr o'r prif bleidiau gwleidyddol am eu gweledigaeth nhw ar gyfer cymunedau Cymru. Ymysg y pynciau: tai fforddiadwy, gwasanaethau pobl ifanc a sut i ennyn diddordeb mewn gwleidyddiaeth leol. ",
+      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, o fewn wythnosau i'r etholiadau lleol fe fydd cynulleidfa Pawb a'i Farn yn herio cynrychiolwyr o'r prif bleidiau gwleidyddol am eu gweledigaeth nhw ar gyfer cymunedau Cymru. Ymysg y pynciau: tai fforddiadwy, gwasanaethau pobl ifanc a sut i ennyn diddordeb mewn gwleidyddiaeth leol. ",
+      "clic_aired": "14 Ebrill 2022",
+      "fav_id": "525516112",
+      "id": "853449925",
+      "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2022-04-14 21:00:00",
       "vs": "0"
     },
     {
