@@ -553,25 +553,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Carys Eleri",
-      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "clic_aired": "14 Mawrth 2022",
-      "fav_id": "804336612",
-      "id": "837099564",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-03-26 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "64",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Syr Bryn Terfel",
@@ -587,6 +568,25 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "106",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Carys Eleri",
+      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "clic_aired": "14 Mawrth 2022",
+      "fav_id": "804336612",
+      "id": "837099564",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-03-26 13:00:00",
       "vs": "0"
     },
     {
@@ -952,7 +952,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen yma, mae Meinir yn creu gwlêdd I'r llygaid wrth blannu mewn ardal cysgodol ym Mhant y Wennol, tra bod Iwan yn yr ardd lysiau yn trafod cnydau bresych a Sioned yn creu cadwyn law ym Mhont y Twr. Bydd Naomi Saunders hefyd yn trafod planhigion ty, rhai hawdd a rhai ychydig mwy heriol i'w tyfu. ",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": null,
       "programme_title": "Gweinidog Iechyd Mewn Pandemig",
       "short_billing": "Hydref y llynedd, gyda'r gwasanaeth iechyd yn wynebu'r gaeaf gwaethaf yn ei hanes, un person yng nghanol y cyfan oedd Gweinidog Iechyd newydd Cymru, Eluned Morgan. Yn y rhaglen ddogfen arbennig hon, cawn gipolwg unigryw ar fywyd dyddiol y Gweinidog Iechyd yn ei misoedd cyntaf yn y swydd.",
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "78",
-      "days_to_expire": "123",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": "2022-04-01 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "17",
       "days_to_expire": "148",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-04-26 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "78",
+      "days_to_expire": "123",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": "2022-04-01 12:30:00",
       "vs": "0"
     },
     {
@@ -1293,25 +1293,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "18",
-      "series_title": "Parti Bwyd Beca",
-      "programme_title": "Blaenau Ffestiniog",
-      "short_billing": "Cyfle arall i weld Beca yn cynnal noson o wledda yn 'Cell B' ym Mlaenau Ffestiniog.  Ar y fwydlen bydd cawl pys a ham traddodiadol, porc gyda saws barbeciw a chacen rwts, cacen draddodiadol y byddai'r chwarelwyr yn ei bwyta ar ôl diwrnod caled o waith yn chwareli'r dref.  Yn ymuno â Beca ac yn perfformio cân arbennig i'r gynulleidfa bydd y band Brython Shag o Flaenau. Yn ogystal â blasu cwrw lleol bydd Ceri Cunnington, prif leisydd y band, yn helpu Beca i feirniadu cystadleuaeth gacennau.  ",
-      "thumbnail_url": "Parti_Bwyd_Beca_2016_170.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld Beca yn cynnal noson o wledda yn 'Cell B' ym Mlaenau Ffestiniog.  Ar y fwydlen bydd cawl pys a ham traddodiadol, porc gyda saws barbeciw a chacen rwts, cacen draddodiadol y byddai'r chwarelwyr yn ei bwyta ar ôl diwrnod caled o waith yn chwareli'r dref.  Yn ymuno â Beca ac yn perfformio cân arbennig i'r gynulleidfa bydd y band Brython Shag o Flaenau. Yn ogystal â blasu cwrw lleol bydd Ceri Cunnington, prif leisydd y band, yn helpu Beca i feirniadu cystadleuaeth gacennau.  ",
-      "clic_aired": "10 Ebrill 2022",
-      "fav_id": "538844725",
-      "id": "530173847",
-      "series_id": "530173837",
-      "title": "Parti Bwyd Beca",
-      "date_broadcast": "2022-04-10 14:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Parti Bwyd Beca",
@@ -1328,6 +1309,25 @@
       "series_id": "539490524",
       "title": "Parti Bwyd Beca",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "18",
+      "series_title": "Parti Bwyd Beca",
+      "programme_title": "Blaenau Ffestiniog",
+      "short_billing": "Cyfle arall i weld Beca yn cynnal noson o wledda yn 'Cell B' ym Mlaenau Ffestiniog.  Ar y fwydlen bydd cawl pys a ham traddodiadol, porc gyda saws barbeciw a chacen rwts, cacen draddodiadol y byddai'r chwarelwyr yn ei bwyta ar ôl diwrnod caled o waith yn chwareli'r dref.  Yn ymuno â Beca ac yn perfformio cân arbennig i'r gynulleidfa bydd y band Brython Shag o Flaenau. Yn ogystal â blasu cwrw lleol bydd Ceri Cunnington, prif leisydd y band, yn helpu Beca i feirniadu cystadleuaeth gacennau.  ",
+      "thumbnail_url": "Parti_Bwyd_Beca_2016_170.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i weld Beca yn cynnal noson o wledda yn 'Cell B' ym Mlaenau Ffestiniog.  Ar y fwydlen bydd cawl pys a ham traddodiadol, porc gyda saws barbeciw a chacen rwts, cacen draddodiadol y byddai'r chwarelwyr yn ei bwyta ar ôl diwrnod caled o waith yn chwareli'r dref.  Yn ymuno â Beca ac yn perfformio cân arbennig i'r gynulleidfa bydd y band Brython Shag o Flaenau. Yn ogystal â blasu cwrw lleol bydd Ceri Cunnington, prif leisydd y band, yn helpu Beca i feirniadu cystadleuaeth gacennau.  ",
+      "clic_aired": "10 Ebrill 2022",
+      "fav_id": "538844725",
+      "id": "530173847",
+      "series_id": "530173837",
+      "title": "Parti Bwyd Beca",
+      "date_broadcast": "2022-04-10 14:00:00",
       "vs": "0"
     },
     {
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i¿r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy¿n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Sgamiau Rhamant",
       "short_billing": "Ers y cyfnod clo, mae sgamiau rhamant wedi cynyddu 40% ac ystadegau Heddlu De Cymru yn datgelu bod dioddefwyr wedi colli cyfanswm o dros hanner miliwn mewn blwyddyn. Dot Davies sy'n clywed profiad un fenyw ga'th ei thargedu ar instagram, sy' nawr mewn dyled ar ôl colli £13,000 o bunnoedd. Mae hi'n galw ar gwmniau cyfryngau cymdeithasol i gadw pobl yn saff rhag rheiny sy'n twyllo pobl ar-lein.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn: Guto Harri sy'n dadansoddi'r diweddara' am ddyfodol Boris Johnson, yn dilyn adroddiad Sue Gray; ac wrth i lywodraethau ar draws y byd gyflwyno mesurau caeth i'r rhieny heb frechlyn, be' nesa i gyfyngiadau Covid Cymru'",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres sy'n dilyn dynion yn eu faniau. Meinciau hanesyddol â chysylltiad efo rhai o fawrion ardal Y Bala sy¿n mynd â bryd Rhys. Symud celfi i d&#375; newydd mam a merch yn y canolbarth mae criw Shaun, ac mae Lee yn newid sedd ei fan am foethusrwydd Limwsîn. ",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
