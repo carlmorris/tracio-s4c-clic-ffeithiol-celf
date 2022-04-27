@@ -97,7 +97,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Agor y Clo",
       "programme_title": null,
       "short_billing": "Rhaglen ola¿r gyfres sy¿n agor y clo ar yr hanesion teuluol a chymdeithasol difyr y tu ôl i¿r creiriau sy¿n llechu yn ein cartrefi a¿n cymunedau. Ymhlith y trysorau fydd yn rhyfeddu Manon Elis bydd casgliad o offer amaethyddol, gwydr lliw prydferth a chasgliad o fapiau arbennig sy¿n adlais o oes a fu. ",
@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Caeau Cymru",
       "programme_title": "Tremarchog Sir Benfro",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "104",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Cefn Gwlad: Dathlu Dai",
-      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
-      "clic_aired": "12 Mawrth 2022",
-      "fav_id": "520950902",
-      "id": "816571702",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "44",
       "series_title": "Cefn Gwlad",
@@ -359,6 +340,25 @@
       "series_id": "826187114",
       "title": "Cefn Gwlad",
       "date_broadcast": "2022-04-02 15:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "104",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Cefn Gwlad: Dathlu Dai",
+      "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P1_Dathlu_Dai_2021S4C_8251.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
+      "clic_aired": "12 Mawrth 2022",
+      "fav_id": "520950902",
+      "id": "816571702",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Yn rhaglen ola¿r gyfres mae Bronwen y spaniel ifanc wedi cael ei tharo gan gar  - a fydd Kate yn gallu ei hachub'\r\nMae Phil ac Iwan yn cynnal profion TB ar ddwy fferm deuluol sy¿n gyfnod pryderus I¿r  ffermwyr. \r\nAc mae Dafydd ar frys I helpu dwy fuwch un sydd wedi a¿r llall sy¿n ceisio geni llo.",
