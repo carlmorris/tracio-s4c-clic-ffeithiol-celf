@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Ar Werth",
       "programme_title": "Pennod 1",
       "short_billing": "Gyda¿r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy¿n gofalu am y prynu a¿r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "145",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
-      "thumbnail_url": "FFITCymru2022-Teitl.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
-      "clic_aired": "26 Ebrill 2022",
-      "fav_id": "796089951",
-      "id": "844177535",
-      "series_id": "844177454",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2022-05-02 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "6",
       "series_title": "FFIT Cymru",
@@ -815,6 +796,25 @@
       "series_id": "816331590",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "145",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
+      "thumbnail_url": "FFITCymru2022-Teitl.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
+      "clic_aired": "26 Ebrill 2022",
+      "fav_id": "796089951",
+      "id": "844177535",
+      "series_id": "844177454",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2022-05-02 15:05:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Julian Lewis Jones yn Awstralia",
       "programme_title": null,
       "short_billing": "Pysgota yn Awstralia gyda Julian Lewis Jones.",
@@ -1255,25 +1255,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "119",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
-      "duration": "53",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "525516112",
-      "id": "822492884",
-      "series_id": "822492691",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2022-03-31 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "133",
       "series_title": "Pawb a'i Farn",
@@ -1290,6 +1271,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2022-04-14 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "119",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
+      "duration": "53",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "525516112",
+      "id": "822492884",
+      "series_id": "822492691",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2022-03-31 21:00:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "79",
-      "days_to_expire": "118",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2022-03-31 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "21",
       "days_to_expire": "147",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-04-29 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "79",
+      "days_to_expire": "118",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2022-03-31 14:05:00",
       "vs": "0"
     },
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 3",
       "short_billing": "Cyfres newydd yn dilyn Marian a Rob Evans o Lansteffan sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Ym mhennod tri mae Ffion a Catrin yn mynd ati i geisio ennill cystadleuaeth bwgan brain yn Fiesta Llansteffan a chawn gyfarfod a rhai o'r teulu estynedig. Mae effaith Cofid dal i chwalu llawer o'u cynlluniau a gwahardd digwyddiadau yn y castell; tybed os fydd y teulu yn medru cydweitho a defnyddio pen busnes Marian i droi y fenter yn lwyddiant ysgubol'",
