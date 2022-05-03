@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "86",
-      "series_title": "Adre",
-      "programme_title": "Angharad Mair",
-      "short_billing": "\r\nNia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref yr awdur a¿r gyflwynwraig Anni Ll&#375;n ym Mhen Ll&#375;n.",
-      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_102.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
-      "clic_aired": "1 Mawrth 2022",
-      "fav_id": "793406870",
-      "id": "806786075",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2022-05-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "28",
       "series_title": "Adre",
@@ -55,6 +36,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "86",
+      "series_title": "Adre",
+      "programme_title": "Angharad Mair",
+      "short_billing": "\r\nNia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref yr awdur a¿r gyflwynwraig Anni Ll&#375;n ym Mhen Ll&#375;n.",
+      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_102.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
+      "clic_aired": "1 Mawrth 2022",
+      "fav_id": "793406870",
+      "id": "806786075",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2022-05-15 12:30:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
-      "thumbnail_url": "FFITCymru2022-Teitl.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
-      "clic_aired": "26 Ebrill 2022",
-      "fav_id": "796089951",
-      "id": "844177535",
-      "series_id": "844177454",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2022-05-02 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "4",
       "series_title": "FFIT Cymru",
@@ -815,6 +796,25 @@
       "series_id": "816331590",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
+      "thumbnail_url": "FFITCymru2022-Teitl.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sut hwyl mae Gafyn, Twm, Wendy, Ruth a Bethan wedi ei gael ar eu trydydd wythnos o ddilyn y cynllun' A sut hwyl gafodd y 5 efo'u tasg yr wythnos hon' Gyda bron i 60% o boblogaeth Cymru dros eu pwysau neu'n ordew, cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru.",
+      "clic_aired": "26 Ebrill 2022",
+      "fav_id": "796089951",
+      "id": "844177535",
+      "series_id": "844177454",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2022-05-02 15:05:00",
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Nyrsys",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn gwaith nyrsys cymunedol Bwrdd Iechyd Hywel Dda yn y gorllewin drwy gyfnod y pandemig. Yn y bumed  rhaglen, fe fyddwn yn dilyn Jayne, bydwraig yn ardal Llanelli a Helen, sy'n nyrs gymunedol yn ymweld â chlaf gydag MS. ",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru. Mae'r siwrne yn dod i derfyn ar ynys Môn lle fydd y ddau yn hel atgofion o blentyndod Julian yn pysgota ym Moelfre fel bachgen ifanc.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Mici Plwm",
       "short_billing": "Wel, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Y tro hwn: yr actor a'r digrifwr Mici Plwm yw'r gwestai.",
