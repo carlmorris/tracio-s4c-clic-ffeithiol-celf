@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Ar Werth",
       "programme_title": "Pennod 1",
       "short_billing": "Gyda¿r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy¿n gofalu am y prynu a¿r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
@@ -514,6 +514,25 @@
       "vs": "0"
     },
     {
+      "count": "12",
+      "days_to_expire": "37",
+      "series_title": "Cynefin",
+      "programme_title": "Aberteifi",
+      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
+      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
+      "clic_aired": "12 Ionawr 2022",
+      "fav_id": "796376120",
+      "id": "815567832",
+      "series_id": "815567826",
+      "title": "Cynefin",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "107",
       "series_title": "Cynefin",
@@ -549,25 +568,6 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2022-04-17 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "12",
-      "days_to_expire": "37",
-      "series_title": "Cynefin",
-      "programme_title": "Aberteifi",
-      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
-      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
-      "clic_aired": "12 Ionawr 2022",
-      "fav_id": "796376120",
-      "id": "815567832",
-      "series_id": "815567826",
-      "title": "Cynefin",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "3",
-      "series_title": "FFIT Cymru",
-      "programme_title": "6 Mis Wedyn",
-      "short_billing": "Mae 6 mis bellach wedi mynd ers i 5 Arweinydd FFIT Cymru 2021 gychwyn ar eu taith trawsnewid a byw bywyd iach. Ond, ydyn nhw wedi parhau i ddilyn y cynllun a chadw¿r pwysau i ffwrdd' Cawn weld yn y bennod arbennig yma.",
-      "thumbnail_url": "FFIT_Cymru_2021S4C_P8_Ffeinal_9790-Edit3.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 6 mis bellach wedi mynd ers i 5 Arweinydd FFIT Cymru 2021 gychwyn ar eu taith trawsnewid a byw bywyd iach. Ond, ydyn nhw wedi parhau i ddilyn y cynllun a chadw¿r pwysau i ffwrdd' Cawn weld yn y bennod arbennig yma.",
-      "clic_aired": "8 Rhagfyr 2021",
-      "fav_id": "796089951",
-      "id": "831146379",
-      "series_id": "816331590",
-      "title": "FFIT Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "FFIT Cymru",
@@ -796,6 +777,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": "2022-05-09 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "3",
+      "series_title": "FFIT Cymru",
+      "programme_title": "6 Mis Wedyn",
+      "short_billing": "Mae 6 mis bellach wedi mynd ers i 5 Arweinydd FFIT Cymru 2021 gychwyn ar eu taith trawsnewid a byw bywyd iach. Ond, ydyn nhw wedi parhau i ddilyn y cynllun a chadw¿r pwysau i ffwrdd' Cawn weld yn y bennod arbennig yma.",
+      "thumbnail_url": "FFIT_Cymru_2021S4C_P8_Ffeinal_9790-Edit3.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 6 mis bellach wedi mynd ers i 5 Arweinydd FFIT Cymru 2021 gychwyn ar eu taith trawsnewid a byw bywyd iach. Ond, ydyn nhw wedi parhau i ddilyn y cynllun a chadw¿r pwysau i ffwrdd' Cawn weld yn y bennod arbennig yma.",
+      "clic_aired": "8 Rhagfyr 2021",
+      "fav_id": "796089951",
+      "id": "831146379",
+      "series_id": "816331590",
+      "title": "FFIT Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Julian Lewis Jones yn Awstralia",
       "programme_title": null,
       "short_billing": "Pysgota yn Awstralia gyda Julian Lewis Jones.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 3",
       "short_billing": "Cyfres newydd yn dilyn Marian a Rob Evans o Lansteffan sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Ym mhennod tri mae Ffion a Catrin yn mynd ati i geisio ennill cystadleuaeth bwgan brain yn Fiesta Llansteffan a chawn gyfarfod a rhai o'r teulu estynedig. Mae effaith Cofid dal i chwalu llawer o'u cynlluniau a gwahardd digwyddiadau yn y castell; tybed os fydd y teulu yn medru cydweitho a defnyddio pen busnes Marian i droi y fenter yn lwyddiant ysgubol'",
