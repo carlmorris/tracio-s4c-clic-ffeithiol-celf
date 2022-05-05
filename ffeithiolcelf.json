@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "2",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "3 Lle",
       "programme_title": "Georgia Ruth Williams",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -17,25 +17,6 @@
       "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": "2022-04-17 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "26",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "1 Ionawr 2022",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -55,6 +36,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": "2022-05-15 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "26",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "1 Ionawr 2022",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Cymru Wyllt Gudd",
       "programme_title": "Dydd",
       "short_billing": "\r\nAr hyd y dydd rhed y dwr ac rydyn ni am ei ddilyn o bennau¿r mynyddyoedd uchaf I¿r dyfnderoedd Celtaidd. Ar y ffordd cawn weld llond gwlad o ryfeddodau gyda chymorth technoleg newydd sbon.",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "14",
-      "days_to_expire": "112",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
-      "clic_aired": "28 Mawrth 2022",
-      "fav_id": "533250950",
-      "id": "824432825",
-      "series_id": "824432049",
-      "title": "Ffermio",
-      "date_broadcast": "2022-04-03 16:55:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "147",
       "series_title": "Ffermio",
@@ -834,6 +815,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2022-05-08 17:40:00",
+      "vs": "0"
+    },
+    {
+      "count": "14",
+      "days_to_expire": "112",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
+      "clic_aired": "28 Mawrth 2022",
+      "fav_id": "533250950",
+      "id": "824432825",
+      "series_id": "824432049",
+      "title": "Ffermio",
+      "date_broadcast": "2022-04-03 16:55:00",
       "vs": "0"
     },
     {
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "73",
-      "days_to_expire": "115",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": "2022-04-01 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "24",
       "days_to_expire": "149",
       "series_title": "Heno",
@@ -1024,6 +1005,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-05-05 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "73",
+      "days_to_expire": "115",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": "2022-04-01 12:30:00",
       "vs": "0"
     },
     {
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "115",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
-      "duration": "53",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "525516112",
-      "id": "822492884",
-      "series_id": "822492691",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "129",
       "series_title": "Pawb a'i Farn",
@@ -1233,6 +1214,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2022-04-14 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "115",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
+      "duration": "53",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "525516112",
+      "id": "822492884",
+      "series_id": "822492691",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
