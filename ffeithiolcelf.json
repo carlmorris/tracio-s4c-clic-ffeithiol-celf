@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "2",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "24 Awr",
       "programme_title": "Haydn Roberts",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Haydn Roberts o Gwyddelwern, ger Corwen, yn mynd i allfudo o Gymru i Ganada.",
@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Arfordir Cymru: Môn",
       "programme_title": "Pennod 6",
       "short_billing": "Mae Bedwyr Rees ar drywydd rhai o enwau'r llefydd ar hyd arfordir Môn gan obeithio cofnodi rhai ohonynt a mynd ar drywydd eu hanes. ",
@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Offal Nuggets",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris ¿ Offal Nuggets",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Dros Gymru",
       "programme_title": "Ann Fychan, Powys & Canolbarth",
       "short_billing": "Mewn rhaglen o'r archif mae'r bardd Ann Fychan yn sôn am ei gwreiddiau ym mherfeddion yr hen Sir Drefaldwyn gan adrodd sut mae bywyd wedi newid yn yr ardal. Mae'n cofio'r ardal cyn dyfodiad argae Clywedog, y mynd a'r dod a'r rhuthr.  Mae hefyd yn cofio Dolwar Fach, cartref yr emynydd Ann Griffiths ac Owain Glyndwr fu'n brwydro am senedd dros Gymru.  ",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "97",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
-      "duration": "53",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "525516112",
-      "id": "822492884",
-      "series_id": "822492691",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "111",
       "series_title": "Pawb a'i Farn",
@@ -1136,6 +1117,25 @@
       "fav_id": "525516112",
       "id": "853449925",
       "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "97",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
+      "duration": "53",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "525516112",
+      "id": "822492884",
+      "series_id": "822492691",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
       "vs": "0"
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "64",
-      "days_to_expire": "97",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "36",
       "days_to_expire": "146",
       "series_title": "Prynhawn Da",
@@ -1233,6 +1214,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-05-20 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "64",
+      "days_to_expire": "97",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
