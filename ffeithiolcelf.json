@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "65",
-      "series_title": "Adre",
-      "programme_title": "Angharad Mair",
-      "short_billing": "\r\nNia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref yr awdur a¿r gyflwynwraig Anni Ll&#375;n ym Mhen Ll&#375;n.",
-      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
-      "clic_aired": "1 Mawrth 2022",
-      "fav_id": "793406870",
-      "id": "806786075",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2022-05-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Adre",
@@ -55,6 +36,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "65",
+      "series_title": "Adre",
+      "programme_title": "Angharad Mair",
+      "short_billing": "\r\nNia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref yr awdur a¿r gyflwynwraig Anni Ll&#375;n ym Mhen Ll&#375;n.",
+      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
+      "clic_aired": "1 Mawrth 2022",
+      "fav_id": "793406870",
+      "id": "806786075",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2022-05-15 12:30:00",
       "vs": "0"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "135",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Marc a Steve, Treganna",
-      "short_billing": null,
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": null,
-      "clic_aired": "10 Mai 2022",
-      "fav_id": "802081093",
-      "id": "832477738",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": "2022-05-10 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "44",
       "series_title": "Dan Do",
@@ -625,6 +606,25 @@
       "series_id": "817960474",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "135",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Marc a Steve, Treganna",
+      "short_billing": null,
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": null,
+      "clic_aired": "10 Mai 2022",
+      "fav_id": "802081093",
+      "id": "832477738",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": "2022-05-10 15:05:00",
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Rhyfel Y Falklands",
       "short_billing": "Yn 1982 roedd lluoedd Prydain a'r Ariannin yn rhyfela dros berchnogaeth ynysoedd bychan Y Falklands, neu'r Malvinas, yn Ne Môr yr Iwerydd. 40 mlynedd wedyn mae creithiau'r rhyfel yn dal i frifo. Mae'r Byd Ar Bedwar yn clywed straeon dirdynnol dau deulu o'r gogledd sy'n parhau i geisio dygymod gyda'u colledion.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": null,
       "programme_title": "Zelensky: Arlywydd Mewn Rhyfel",
       "short_billing": "Mewn cyfnod byr mae Volodymyr Zelensky, Arlywydd Wcráin, wedi dod yn arwr i bobl ar draws y byd. Ond pwy yw'r dyn hwn a dros be'n union mae o'n sefyll' Mae'r rhaglen ddogfen hon yn cynnig portread dadlennol o'r gwleidydd sydd wedi arddangos cryn ddewrder yn wyneb ymosodiad Putin. ",
