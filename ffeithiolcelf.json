@@ -819,7 +819,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon mae Meinir yn plannu gwely ffurfiol tlws efo blodau blwydd. Ym Mont y Twr mae Iwan yn brysur yn ei ardd lysiau yng nghanol ei giwcymbyrs a Sioned hithau yn gobeithio am sioe dros yr Haf wrth dynnu'r dahlias o'r storfa a'u plannu. Draw yn Nglan Conwy mae Ian Keith Jones yn clodfori'r coed rhedynog anhygoel a'u sporau.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": null,
       "programme_title": "Gweinidog Iechyd Mewn Pandemig",
       "short_billing": "Hydref y llynedd, gyda'r gwasanaeth iechyd yn wynebu'r gaeaf gwaethaf yn ei hanes, un person yng nghanol y cyfan oedd Gweinidog Iechyd newydd Cymru, Eluned Morgan. Yn y rhaglen ddogfen arbennig hon, cawn gipolwg unigryw ar fywyd dyddiol y Gweinidog Iechyd yn ei misoedd cyntaf yn y swydd.",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "58",
-      "days_to_expire": "87",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "42",
       "days_to_expire": "148",
       "series_title": "Heno",
@@ -967,6 +948,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-05-31 19:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "58",
+      "days_to_expire": "87",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "88",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
-      "duration": "53",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "525516112",
-      "id": "822492884",
-      "series_id": "822492691",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Pawb a'i Farn",
@@ -1138,6 +1119,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2022-05-30 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "88",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "thumbnail_url": "Pawb_ai_Farn_2020S4C_bawdlun.jpg",
+      "duration": "53",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Talu bills a chostau byw fydd pwnc Pawb a'i Farn,  o Flaenau Ffestiniog.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "525516112",
+      "id": "822492884",
+      "series_id": "822492691",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Pethe",
       "programme_title": "Fi a Mistar Urdd",
       "short_billing": "Cipolwg ar y celfyddydau.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i¿r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy¿n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Sgamiau Rhamant",
       "short_billing": "Ers y cyfnod clo, mae sgamiau rhamant wedi cynyddu 40% ac ystadegau Heddlu De Cymru yn datgelu bod dioddefwyr wedi colli cyfanswm o dros hanner miliwn mewn blwyddyn. Dot Davies sy'n clywed profiad un fenyw ga'th ei thargedu ar instagram, sy' nawr mewn dyled ar ôl colli £13,000 o bunnoedd. Mae hi'n galw ar gwmniau cyfryngau cymdeithasol i gadw pobl yn saff rhag rheiny sy'n twyllo pobl ar-lein.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn: Guto Harri sy'n dadansoddi'r diweddara' am ddyfodol Boris Johnson, yn dilyn adroddiad Sue Gray; ac wrth i lywodraethau ar draws y byd gyflwyno mesurau caeth i'r rhieny heb frechlyn, be' nesa i gyfyngiadau Covid Cymru'",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres sy'n dilyn dynion yn eu faniau. Meinciau hanesyddol â chysylltiad efo rhai o fawrion ardal Y Bala sy¿n mynd â bryd Rhys. Symud celfi i d&#375; newydd mam a merch yn y canolbarth mae criw Shaun, ac mae Lee yn newid sedd ei fan am foethusrwydd Limwsîn. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
