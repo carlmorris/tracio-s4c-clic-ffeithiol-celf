@@ -59,7 +59,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Ar Werth",
       "programme_title": "Pennod 1",
       "short_billing": "Gyda¿r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy¿n gofalu am y prynu a¿r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
@@ -97,7 +97,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "150",
+      "days_to_expire": "149",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Traeth Niwgwl i Rhoscrowther",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "140",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
-      "clic_aired": "23 Mai 2022",
-      "fav_id": "533250950",
-      "id": "853180363",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-06-12 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "84",
       "series_title": "Ffermio",
@@ -815,6 +796,25 @@
       "series_id": "824432049",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "140",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
+      "clic_aired": "23 Mai 2022",
+      "fav_id": "533250950",
+      "id": "853180363",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-06-12 17:35:00",
       "vs": "0"
     },
     {
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "43",
-      "days_to_expire": "149",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Golwg ar grysau pêl-droed o'r presennol i'r gorffennol, a chawn ni gwmni'r cyflwynydd Geraint Iwan ac aelod o fand y Barry Horns.\n\n\n ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg ar grysau pêl-droed o'r presennol i'r gorffennol, a chawn ni gwmni'r cyflwynydd Geraint Iwan ac aelod o fand y Barry Horns.\n\n\n ",
-      "clic_aired": "1 Mehefin 2022",
-      "fav_id": "520950912",
-      "id": "852335485",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-06-01 19:00:00",
-      "vs": "0"
-    },
-    {
       "count": "58",
       "days_to_expire": "87",
       "series_title": "Heno",
@@ -986,6 +967,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "43",
+      "days_to_expire": "149",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Golwg ar grysau pêl-droed o'r presennol i'r gorffennol, a chawn ni gwmni'r cyflwynydd Geraint Iwan ac aelod o fand y Barry Horns.\n\n\n ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg ar grysau pêl-droed o'r presennol i'r gorffennol, a chawn ni gwmni'r cyflwynydd Geraint Iwan ac aelod o fand y Barry Horns.\n\n\n ",
+      "clic_aired": "1 Mehefin 2022",
+      "fav_id": "520950912",
+      "id": "852335485",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-06-01 19:00:00",
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Julian Lewis Jones yn Awstralia",
       "programme_title": null,
       "short_billing": "Pysgota yn Awstralia gyda Julian Lewis Jones.",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "41",
-      "days_to_expire": "143",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Heddiw, byddwn ni'n clywed am y ffilmiau diweddaraf yng nghwmni Lowri Cooke, ac fe fydd Shane yn y gegin.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw, byddwn ni'n clywed am y ffilmiau diweddaraf yng nghwmni Lowri Cooke, ac fe fydd Shane yn y gegin.",
-      "clic_aired": "27 Mai 2022",
-      "fav_id": "520950923",
-      "id": "852866663",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2022-05-27 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "63",
       "days_to_expire": "86",
       "series_title": "Prynhawn Da",
@@ -1271,6 +1252,25 @@
       "series_id": "822450302",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "41",
+      "days_to_expire": "143",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Heddiw, byddwn ni'n clywed am y ffilmiau diweddaraf yng nghwmni Lowri Cooke, ac fe fydd Shane yn y gegin.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw, byddwn ni'n clywed am y ffilmiau diweddaraf yng nghwmni Lowri Cooke, ac fe fydd Shane yn y gegin.",
+      "clic_aired": "27 Mai 2022",
+      "fav_id": "520950923",
+      "id": "852866663",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2022-05-27 13:00:00",
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
