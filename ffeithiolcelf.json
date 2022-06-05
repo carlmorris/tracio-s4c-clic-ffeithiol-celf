@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "5",
-      "series_title": "Cynefin",
-      "programme_title": "Aberteifi",
-      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
-      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
-      "clic_aired": "12 Ionawr 2022",
-      "fav_id": "796376120",
-      "id": "815567832",
-      "series_id": "815567826",
-      "title": "Cynefin",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "75",
       "series_title": "Cynefin",
@@ -452,6 +433,25 @@
       "fav_id": "796376120",
       "id": "832949264",
       "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "5",
+      "series_title": "Cynefin",
+      "programme_title": "Aberteifi",
+      "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
+      "thumbnail_url": "Cynefin_2021S4C_P10_Caerdydd_005.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch â Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen ym mhentref godidog Portmeirion wrth iddyn nhw ddod i ddeall a gwerthfawrogi gweledigaeth unigryw Syr Clough Williams-Ellis a chymryd rhan yn y gwaith cynnal a chadw amrywiol sy'n digwydd tu ôl i'r llen. ",
+      "clic_aired": "12 Ionawr 2022",
+      "fav_id": "796376120",
+      "id": "815567832",
+      "series_id": "815567826",
       "title": "Cynefin",
       "date_broadcast": null,
       "vs": "0"
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "45",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "32",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
-      "clic_aired": "3 Mehefin 2022",
-      "fav_id": "520950912",
-      "id": "852335527",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-06-06 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "56",
       "days_to_expire": "84",
       "series_title": "Heno",
@@ -986,6 +967,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "45",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "32",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
+      "clic_aired": "3 Mehefin 2022",
+      "fav_id": "520950912",
+      "id": "852335527",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-06-06 12:30:00",
       "vs": "0"
     },
     {
@@ -1578,7 +1578,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "21",
       "series_title": "Yr Ynys",
       "programme_title": "Zanzibar",
