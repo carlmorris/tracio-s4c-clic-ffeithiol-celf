@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "67",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Carys Eleri",
-      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "clic_aired": "14 Mawrth 2022",
-      "fav_id": "804336612",
-      "id": "837099564",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "25",
       "series_title": "Cymry ar Gynfas",
@@ -397,6 +378,25 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-06-13 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "67",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Carys Eleri",
+      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "clic_aired": "14 Mawrth 2022",
+      "fav_id": "804336612",
+      "id": "837099564",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "45",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "32",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
-      "clic_aired": "3 Mehefin 2022",
-      "fav_id": "520950912",
-      "id": "852335527",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-06-06 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "56",
       "days_to_expire": "84",
       "series_title": "Heno",
@@ -986,6 +967,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "45",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "32",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Owain sydd wedi bod i sgwrsio gydag amddiffynwr Cymru, Ben Cabango a golwg ar sut mae Stadiwm Dinas Caerdydd yn paratoi ar gyfer y gêm fawr.",
+      "clic_aired": "3 Mehefin 2022",
+      "fav_id": "520950912",
+      "id": "852335527",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-06-06 12:30:00",
       "vs": "0"
     },
     {
