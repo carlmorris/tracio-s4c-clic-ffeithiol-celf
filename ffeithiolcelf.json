@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "136",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
-      "clic_aired": "23 Mai 2022",
-      "fav_id": "533250950",
-      "id": "853180363",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-06-12 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "80",
       "series_title": "Ffermio",
@@ -815,6 +796,25 @@
       "series_id": "824432049",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "136",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Digwyddiad Tir Glas Cymru yn denu peiriannau a phobl i Glwyd; pwysigrwydd gwaith y ffariar; a rhwystredigaeth i gwpwl ifanc sy'n methu cael fferm.",
+      "clic_aired": "23 Mai 2022",
+      "fav_id": "533250950",
+      "id": "853180363",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-06-12 17:35:00",
       "vs": "0"
     },
     {
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "60",
-      "days_to_expire": "83",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "41",
       "days_to_expire": "140",
       "series_title": "Prynhawn Da",
@@ -1233,6 +1214,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-05-27 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "60",
+      "days_to_expire": "83",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Yr Ynys",
       "programme_title": "Zanzibar",
       "short_billing": "Cyfres yn edrych ar ynysoedd y byd.",
