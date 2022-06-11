@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "18",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-06-25 17:50:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "60",
       "series_title": "Cymry ar Gynfas",
@@ -397,6 +378,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "18",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-06-25 17:50:00",
       "vs": "0"
     },
     {
@@ -742,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "74",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
-      "clic_aired": "28 Mawrth 2022",
-      "fav_id": "533250950",
-      "id": "824432825",
-      "series_id": "824432049",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "144",
       "series_title": "Ffermio",
@@ -777,6 +758,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2022-06-19 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "74",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Cymry yn serennu ym myd y gwartheg; cyfnod newydd ar y gorwel wrth i ferch ffarm o Ddyffryn Conwy droi'n chwaraewr rygbi proffesiynol; a sut mae pobl o bob oed yn delio ag unigrwydd yng nghefn gwlad.",
+      "clic_aired": "28 Mawrth 2022",
+      "fav_id": "533250950",
+      "id": "824432825",
+      "series_id": "824432049",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Gareth Jones: Nofio Adre",
       "programme_title": "Pennod 3",
       "short_billing": "I ddathlu ei ben-blwydd yn 60 oed mae Gareth 'Gaz Top' Jones am nofio 60km o'r de i ogledd Cymru ar draws llynnoedd, afonydd, a chronfeydd d¿r. Dros dair wythnos bydd Gareth yn nofio mwy nag y mae erioed wedi ei wneud o'r blaen. Yn ystod wsos olaf y sialens bydd y nofiwr gwyllt Caris Bowen yn cefnogi Gareth wrth iddo deithio ar draws y gogledd cyn gorffen ei sialens drwy nofio lawr yr afon Conwy. Ond ar ôl tair wythnos nofio fydd ganddo ddigon o egni i lwyddo' \n\n ",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "49",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Heno, byddwn ni'n fyw o Glwb Rygbi Castell-nedd yng ngêm dysteb James Hook ac yn ymweld â Gwyl Cwrw ar y Cledrau yng Nghaernarfon.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, byddwn ni'n fyw o Glwb Rygbi Castell-nedd yng ngêm dysteb James Hook ac yn ymweld â Gwyl Cwrw ar y Cledrau yng Nghaernarfon.",
-      "clic_aired": "10 Mehefin 2022",
-      "fav_id": "520950912",
-      "id": "852335632",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-06-13 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "51",
       "days_to_expire": "77",
       "series_title": "Heno",
@@ -967,6 +948,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "49",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Heno, byddwn ni'n fyw o Glwb Rygbi Castell-nedd yng ngêm dysteb James Hook ac yn ymweld â Gwyl Cwrw ar y Cledrau yng Nghaernarfon.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, byddwn ni'n fyw o Glwb Rygbi Castell-nedd yng ngêm dysteb James Hook ac yn ymweld â Gwyl Cwrw ar y Cledrau yng Nghaernarfon.",
+      "clic_aired": "10 Mehefin 2022",
+      "fav_id": "520950912",
+      "id": "852335632",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-06-13 12:30:00",
       "vs": "0"
     },
     {
@@ -1536,7 +1536,7 @@
       "id": "853261581",
       "series_id": null,
       "title": "Zelensky: Arlywydd Mewn Rhyfel",
-      "date_broadcast": "2022-05-08 16:50:00",
+      "date_broadcast": null,
       "vs": "0"
     }
   ]
