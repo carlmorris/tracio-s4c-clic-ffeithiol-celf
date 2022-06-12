@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen gyntaf hon, bydd y ddau¿n mynd ar daith o¿u cartref yng Nghaerdydd, i ynys fwya¿ Cymru, Ynys Môn - gan ymweld â ¿Love Island¿ Cymru, sef Ynys Llanddwyn! ",
@@ -378,25 +378,6 @@
       "series_id": "810361625",
       "title": "Cymru, Dad a Fi",
       "date_broadcast": "2022-06-09 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "60",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Carys Eleri",
-      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
-      "clic_aired": "14 Mawrth 2022",
-      "fav_id": "804336612",
-      "id": "837099564",
-      "series_id": "837099434",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -416,6 +397,25 @@
       "series_id": "804336635",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2022-06-25 17:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "60",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Carys Eleri",
+      "short_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr wythnos hon mae¿r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "clic_aired": "14 Mawrth 2022",
+      "fav_id": "804336612",
+      "id": "837099564",
+      "series_id": "837099434",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; teras wedi ei adnewyddu yn hyfryd yng Nghaernarfon , Fflat moethus yn y brifddinas a hen d&#375; hir llawn cymeriad ym Mlaenau Ffestiniog.  ",
@@ -729,16 +729,16 @@
       "programme_title": "Sadwrn - Noson o Gystadlu ",
       "short_billing": "Gweddill cystadlaethau'r adrannau a'r aelwydydd yng nghwmni Trystan Ellis Morris ac Heledd Cynwal. Y corau fydd yn cloi'r cystadlu ar ddiwrnod olaf Eisteddfod yr Urdd 2022.",
       "thumbnail_url": "Eisteddfod_yr_Urdd_2022S4C_prif.jpg",
-      "duration": "73",
+      "duration": "85",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Gweddill cystadlaethau'r adrannau a'r aelwydydd yng nghwmni Trystan Ellis Morris ac Heledd Cynwal. Y corau fydd yn cloi'r cystadlu ar ddiwrnod olaf Eisteddfod yr Urdd 2022.",
       "clic_aired": "4 Mehefin 2022",
       "fav_id": "534519556",
-      "id": "854621282",
+      "id": "856737681",
       "series_id": "854620453",
       "title": "Eisteddfod yr Urdd 2022",
-      "date_broadcast": "2022-06-04 17:00:00",
+      "date_broadcast": "2022-06-04 23:30:00",
       "vs": "0"
     },
     {
