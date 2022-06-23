@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "6",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-06-25 17:50:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "48",
       "series_title": "Cymry ar Gynfas",
@@ -454,6 +435,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "6",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-06-25 17:50:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": null,
       "programme_title": "Dathlu Dewrder 2022",
       "short_billing": "Mae Dathlu Dewrder 'nôl ac eleni eto fe fyddwn ni'n anrhydeddu ein harwyr tawel yma yng Nghymru. Bydd Elin Fflur ac Owain Tudur yn llywio'r cyfan o bentref hyfryd Portmeirion ac yn ystod yr awr fe fyddwn ni'n dod â straeon o bob cwr o'r wlad.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon mae Meinir yn profi bod y blodau 'da ni'n eu galw'n chwyn yn gallu edrych yn anhygoel mewn hên gafn a chawn weld sut mae llysiau ty gwydr Iwan yn tyfu tra bod Sioned yn ymweld â gardd hudolus yn Nant y Bedd. Cawn hefyd grwydro o amgylch gardd anghygoel arall yng nghwmni Carol Williams.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": null,
       "programme_title": "Gweinidog Iechyd Mewn Pandemig",
       "short_billing": "Hydref y llynedd, gyda'r gwasanaeth iechyd yn wynebu'r gaeaf gwaethaf yn ei hanes, un person yng nghanol y cyfan oedd Gweinidog Iechyd newydd Cymru, Eluned Morgan. Yn y rhaglen ddogfen arbennig hon, cawn gipolwg unigryw ar fywyd dyddiol y Gweinidog Iechyd yn ei misoedd cyntaf yn y swydd.",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "56",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Heno, byddwn ni'n dathlu 100 mlynedd ers sefydlu dau barlwr hufen iâ mwyaf poblogaidd Cymru. Byddwn ni'n dal lan gyda'r cynhyrchydd cerddoriaeth Ed Holden, a'r newyddiadurwraig Nest Jenkins.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, byddwn ni'n dathlu 100 mlynedd ers sefydlu dau barlwr hufen iâ mwyaf poblogaidd Cymru. Byddwn ni'n dal lan gyda'r cynhyrchydd cerddoriaeth Ed Holden, a'r newyddiadurwraig Nest Jenkins.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "520950912",
-      "id": "852335800",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-06-23 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "43",
       "days_to_expire": "65",
       "series_title": "Heno",
@@ -1138,6 +1119,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "56",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Heno, byddwn ni'n dathlu 100 mlynedd ers sefydlu dau barlwr hufen iâ mwyaf poblogaidd Cymru. Byddwn ni'n dal lan gyda'r cynhyrchydd cerddoriaeth Ed Holden, a'r newyddiadurwraig Nest Jenkins.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, byddwn ni'n dathlu 100 mlynedd ers sefydlu dau barlwr hufen iâ mwyaf poblogaidd Cymru. Byddwn ni'n dal lan gyda'r cynhyrchydd cerddoriaeth Ed Holden, a'r newyddiadurwraig Nest Jenkins.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "520950912",
+      "id": "852335800",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-06-23 12:30:00",
       "vs": "0"
     },
     {
@@ -1160,25 +1160,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "141",
-      "series_title": "Heno Aur",
-      "programme_title": "Pennod 5",
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "clic_aired": "15 Mehefin 2022",
-      "fav_id": "810255618",
-      "id": "809467523",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": "2022-06-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "64",
       "series_title": "Heno Aur",
@@ -1195,6 +1176,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "141",
+      "series_title": "Heno Aur",
+      "programme_title": "Pennod 5",
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "clic_aired": "15 Mehefin 2022",
+      "fav_id": "810255618",
+      "id": "809467523",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": "2022-06-15 12:30:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Pethe",
       "programme_title": "Fi a Mistar Urdd",
       "short_billing": "Cipolwg ar y celfyddydau.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i¿r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy¿n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "54",
-      "days_to_expire": "149",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Heddiw, bydd Huw yn edrych 'mlaen at dymor y gwyliau cerddorol a gwersylla yn y gornel ffasiwn, a byddwn ni'n edrych ymlaen at Ddiwrnod Gwyrdd ddydd Gwener.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw, bydd Huw yn edrych 'mlaen at dymor y gwyliau cerddorol a gwersylla yn y gornel ffasiwn, a byddwn ni'n edrych ymlaen at Ddiwrnod Gwyrdd ddydd Gwener.",
-      "clic_aired": "23 Mehefin 2022",
-      "fav_id": "520950923",
-      "id": "852866985",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2022-06-23 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "48",
       "days_to_expire": "65",
       "series_title": "Prynhawn Da",
@@ -1461,6 +1442,25 @@
       "series_id": "822450302",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "54",
+      "days_to_expire": "149",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Heddiw, bydd Huw yn edrych 'mlaen at dymor y gwyliau cerddorol a gwersylla yn y gornel ffasiwn, a byddwn ni'n edrych ymlaen at Ddiwrnod Gwyrdd ddydd Gwener.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw, bydd Huw yn edrych 'mlaen at dymor y gwyliau cerddorol a gwersylla yn y gornel ffasiwn, a byddwn ni'n edrych ymlaen at Ddiwrnod Gwyrdd ddydd Gwener.",
+      "clic_aired": "23 Mehefin 2022",
+      "fav_id": "520950923",
+      "id": "852866985",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2022-06-23 14:05:00",
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Sgamiau Rhamant",
       "short_billing": "Ers y cyfnod clo, mae sgamiau rhamant wedi cynyddu 40% ac ystadegau Heddlu De Cymru yn datgelu bod dioddefwyr wedi colli cyfanswm o dros hanner miliwn mewn blwyddyn. Dot Davies sy'n clywed profiad un fenyw ga'th ei thargedu ar instagram, sy' nawr mewn dyled ar ôl colli £13,000 o bunnoedd. Mae hi'n galw ar gwmniau cyfryngau cymdeithasol i gadw pobl yn saff rhag rheiny sy'n twyllo pobl ar-lein.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Y tro hwn: Guto Harri sy'n dadansoddi'r diweddara' am ddyfodol Boris Johnson, yn dilyn adroddiad Sue Gray; ac wrth i lywodraethau ar draws y byd gyflwyno mesurau caeth i'r rhieny heb frechlyn, be' nesa i gyfyngiadau Covid Cymru'",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres sy'n dilyn dynion yn eu faniau. Meinciau hanesyddol â chysylltiad efo rhai o fawrion ardal Y Bala sy¿n mynd â bryd Rhys. Symud celfi i d&#375; newydd mam a merch yn y canolbarth mae criw Shaun, ac mae Lee yn newid sedd ei fan am foethusrwydd Limwsîn. ",
@@ -1746,25 +1746,6 @@
       "series_id": "846526475",
       "title": "Yn y Fan a'r Lle",
       "date_broadcast": "2022-05-31 18:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Yn y Ffram",
-      "programme_title": null,
-      "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
-      "thumbnail_url": "Yn_Y_Ffram_2022S4C_8380.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
-      "clic_aired": "24 Ionawr 2022",
-      "fav_id": "842405984",
-      "id": "842406052",
-      "series_id": "842405984",
-      "title": "Yn y Ffram",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
