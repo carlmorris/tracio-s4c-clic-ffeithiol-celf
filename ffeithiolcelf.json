@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "Adre",
       "programme_title": "Dafydd Iwan",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nhartrefi rhai o enwogion Cymru.",
@@ -78,7 +78,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Ar Werth",
       "programme_title": "Pennod 1",
       "short_billing": "Gyda¿r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy¿n gofalu am y prynu a¿r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Angle i Amroth",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Syr Bryn Terfel",
-      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
-      "clic_aired": "31 Ionawr 2022",
-      "fav_id": "804336612",
-      "id": "804336743",
-      "series_id": "804336635",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2022-06-25 17:50:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "44",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Syr Bryn Terfel",
+      "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "thumbnail_url": "Cymry_ar_Gynfas_2020S4C_P6_Billy_a_Bryn_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
+      "clic_aired": "31 Ionawr 2022",
+      "fav_id": "804336612",
+      "id": "804336743",
+      "series_id": "804336635",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2022-06-25 17:50:00",
       "vs": "0"
     },
     {
@@ -1160,25 +1160,6 @@
       "vs": "0"
     },
     {
-      "count": "39",
-      "days_to_expire": "61",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "59",
       "days_to_expire": "149",
       "series_title": "Heno",
@@ -1195,6 +1176,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-06-28 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "39",
+      "days_to_expire": "61",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1483,25 +1483,6 @@
       "vs": "0"
     },
     {
-      "count": "44",
-      "days_to_expire": "60",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950923",
-      "id": "822456167",
-      "series_id": "822450302",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "57",
       "days_to_expire": "149",
       "series_title": "Prynhawn Da",
@@ -1518,6 +1499,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2022-06-28 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "44",
+      "days_to_expire": "60",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950923",
+      "id": "822456167",
+      "series_id": "822450302",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
