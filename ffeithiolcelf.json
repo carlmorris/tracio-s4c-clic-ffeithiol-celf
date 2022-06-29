@@ -135,7 +135,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y bedwaredd rhaglen bydd llawer o'n cymeriadau yn dod at ei gilydd i fwynhau gwyl gymunedol gerddorol.  Mae'r criw yn mynd i &#372;yl Zip Rocks yng nghanolfan antur Zip World- sy'n rhan o'r hen chwarel.  Mae Neil y chwarelwr yn chwarae yno gyda'i fand Celt, mae Fred a chôr Penrhyn yn perfformio yno ac mae Dafydd Hedd yn canu ar y daith gerdded elusennol.  Mae Nicola a Jenna yn mynd yno i fwynhau efo'r genod! ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Gwesty Parc y Stradey",
       "programme_title": null,
       "short_billing": "Mewn cyfres chwe rhan cawn fusnesu y tu ôl i ddrysau gwesty pedair seren Parc y Strade, Llanelli.",
@@ -1217,25 +1217,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "135",
-      "series_title": "Heno Aur",
-      "programme_title": "Pennod 5",
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "clic_aired": "15 Mehefin 2022",
-      "fav_id": "810255618",
-      "id": "809467523",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": "2022-06-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "58",
       "series_title": "Heno Aur",
@@ -1252,6 +1233,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "135",
+      "series_title": "Heno Aur",
+      "programme_title": "Pennod 5",
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "clic_aired": "15 Mehefin 2022",
+      "fav_id": "810255618",
+      "id": "809467523",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": "2022-06-15 12:30:00",
       "vs": "0"
     },
     {
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres. Dau nofiwr sydd am groesi o Ynys Enlli i'r tir mawr, taith adain un o awyrennau mwya'r byd ar Afon Dyfrdwy, a Chymraes sy'n teithio i'r Arctig ar drywydd llanw newydd sy'n ein bygwth ni i gyd. ",
