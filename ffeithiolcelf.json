@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "19",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Iwan",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nhartrefi rhai o enwogion Cymru.",
-      "thumbnail_url": "Adre_2017_P1_Dafydd_Iwan.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nghartrefi rhai o enwogion Cymru yn y gyfres hon. Mae bob rhifyn yn wahanol a'r cartref yn aml iawn yn adlewyrchu cymeriad y person sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref y canwr a'r cenedlaetholwr, Dafydd Iwan.",
-      "clic_aired": "14 Mehefin 2022",
-      "fav_id": "793406870",
-      "id": "793324093",
-      "series_id": "793324084",
-      "title": "Adre",
-      "date_broadcast": "2022-06-14 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "28",
       "series_title": "Adre",
@@ -55,6 +36,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "19",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Iwan",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nhartrefi rhai o enwogion Cymru.",
+      "thumbnail_url": "Adre_2017_P1_Dafydd_Iwan.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nghartrefi rhai o enwogion Cymru yn y gyfres hon. Mae bob rhifyn yn wahanol a'r cartref yn aml iawn yn adlewyrchu cymeriad y person sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref y canwr a'r cenedlaetholwr, Dafydd Iwan.",
+      "clic_aired": "14 Mehefin 2022",
+      "fav_id": "793406870",
+      "id": "793324093",
+      "series_id": "793324084",
+      "title": "Adre",
+      "date_broadcast": "2022-06-14 18:30:00",
       "vs": "0"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Arfordir Cymru: Môn",
       "programme_title": "Pennod 6",
       "short_billing": "Mae Bedwyr Rees ar drywydd rhai o enwau'r llefydd ar hyd arfordir Môn gan obeithio cofnodi rhai ohonynt a mynd ar drywydd eu hanes. ",
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Dan Do",
       "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
       "short_billing": null,
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Ai hwrdd o Awstralia yw'r ateb i welliant pris gwlân'; pwysigrwydd ffermio'n gynaliadwy i'r dyfodol; a Caws Cenarth yn cael Gwarant Frenhinol.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Ai hwrdd o Awstralia yw'r ateb i welliant pris gwlân'; pwysigrwydd ffermio'n gynaliadwy i'r dyfodol; a Caws Cenarth yn cael Gwarant Frenhinol.",
-      "clic_aired": "27 Mehefin 2022",
-      "fav_id": "533250950",
-      "id": "853180445",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-07-10 17:30:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "56",
       "series_title": "Ffermio",
@@ -970,8 +951,27 @@
       "vs": "0"
     },
     {
+      "count": "12",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Ai hwrdd o Awstralia yw'r ateb i welliant pris gwlân'; pwysigrwydd ffermio'n gynaliadwy i'r dyfodol; a Caws Cenarth yn cael Gwarant Frenhinol.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Ai hwrdd o Awstralia yw'r ateb i welliant pris gwlân'; pwysigrwydd ffermio'n gynaliadwy i'r dyfodol; a Caws Cenarth yn cael Gwarant Frenhinol.",
+      "clic_aired": "27 Mehefin 2022",
+      "fav_id": "533250950",
+      "id": "853180445",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-07-10 17:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Ffilmiau Ddoe Byr- Myrddin ap Dafydd a Peredur Lynch",
       "short_billing": null,
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
