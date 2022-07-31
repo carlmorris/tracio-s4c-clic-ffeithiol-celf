@@ -723,25 +723,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "111",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2022-07-17 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "68",
       "series_title": "Dan Do",
@@ -777,6 +758,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2022-07-07 12:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "111",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2022-07-17 12:30:00",
       "vs": "0"
     },
     {
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "13",
-      "days_to_expire": "123",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres fywiog am fywyd ffermio yng Nghymru. Y tro hwn: Pwysigrwydd y sioeau bach; cyfle i ddenu gwaed newydd; a chydweithio er mwyn hwyluso cyfnod yr haf.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres fywiog am fywyd ffermio yng Nghymru. Y tro hwn: Pwysigrwydd y sioeau bach; cyfle i ddenu gwaed newydd; a chydweithio er mwyn hwyluso cyfnod yr haf.",
-      "clic_aired": "4 Gorffennaf 2022",
-      "fav_id": "533250950",
-      "id": "853180466",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-07-17 17:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "25",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "824432049",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "13",
+      "days_to_expire": "123",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres fywiog am fywyd ffermio yng Nghymru. Y tro hwn: Pwysigrwydd y sioeau bach; cyfle i ddenu gwaed newydd; a chydweithio er mwyn hwyluso cyfnod yr haf.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres fywiog am fywyd ffermio yng Nghymru. Y tro hwn: Pwysigrwydd y sioeau bach; cyfle i ddenu gwaed newydd; a chydweithio er mwyn hwyluso cyfnod yr haf.",
+      "clic_aired": "4 Gorffennaf 2022",
+      "fav_id": "533250950",
+      "id": "853180466",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-07-17 17:30:00",
       "vs": "0"
     },
     {
@@ -1160,25 +1160,6 @@
       "vs": "0"
     },
     {
-      "count": "82",
-      "days_to_expire": "148",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Heno, byddwn ni'n cael sgwrs gydag un o athletwyr Cymru cyn Gemau'r Gymanwlad yn Birmingham, ac mi fyddwn ni yn Sioe Theatrig Lloergan yn Nhregaron ar noson agoriadol o'r Eisteddfod Genedlaethol.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, byddwn ni'n cael sgwrs gydag un o athletwyr Cymru cyn Gemau'r Gymanwlad yn Birmingham, ac mi fyddwn ni yn Sioe Theatrig Lloergan yn Nhregaron ar noson agoriadol o'r Eisteddfod Genedlaethol.",
-      "clic_aired": "29 Gorffennaf 2022",
-      "fav_id": "520950912",
-      "id": "852336367",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2022-07-29 19:00:00",
-      "vs": "0"
-    },
-    {
       "count": "17",
       "days_to_expire": "28",
       "series_title": "Heno",
@@ -1195,6 +1176,25 @@
       "series_id": "822412651",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "82",
+      "days_to_expire": "148",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Heno, byddwn ni'n cael sgwrs gydag un o athletwyr Cymru cyn Gemau'r Gymanwlad yn Birmingham, ac mi fyddwn ni yn Sioe Theatrig Lloergan yn Nhregaron ar noson agoriadol o'r Eisteddfod Genedlaethol.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, byddwn ni'n cael sgwrs gydag un o athletwyr Cymru cyn Gemau'r Gymanwlad yn Birmingham, ac mi fyddwn ni yn Sioe Theatrig Lloergan yn Nhregaron ar noson agoriadol o'r Eisteddfod Genedlaethol.",
+      "clic_aired": "29 Gorffennaf 2022",
+      "fav_id": "520950912",
+      "id": "852336367",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2022-07-29 19:00:00",
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "76",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Cyngor i gadw'r plant yn hapus dros yr haf, a chyfle i chi ennill pecyn i'r penwythnos.",
@@ -1426,8 +1426,8 @@
       "vs": "0"
     },
     {
-      "count": "21",
-      "days_to_expire": "28",
+      "count": "20",
+      "days_to_expire": "27",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Cyngor ar y ffasiwn ddiweddaraf a Kathryn bydd yn arwain ein sesiwn ffitrwydd.",
