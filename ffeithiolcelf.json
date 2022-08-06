@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Cefn Gwlad",
       "programme_title": "Cefn Gwlad: Dathlu Dai",
       "short_billing": "Yn dilyn ei farwolaeth ar Fawrth 4ydd, dyma ail-ddarllediad o raglen sy'n dathlu cyfraniad arbennig Dai Jones. Canwr, diddanwr darlledwr, a thrysor cenedlaethol; Cocni a Chardi a roddodd Llanilar ar y map! Heno, dyma werthfawrogiad o dalent unigryw yr eicon Cefn Gwlad.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Eisteddfod Llangollen 2022",
       "programme_title": "Uchafbwyntiau Llangollen 2022",
       "short_billing": "Ffion Emyr ac Ameer Davies Rana sy'n cyflwyno gwledd o uchafbwyntiau Eisteddfod Llangollen 2022 wrth i'r dref fach groesawu'r byd yn nôl ac wrth i gerddoriaeth a dawns lifo drwyddi unwaith eto. ",
@@ -914,7 +914,7 @@
     },
     {
       "count": "39",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
       "short_billing": "Uchafbwyntiau Eisteddfod yr Urdd Sir Ddinbych 2022. ",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": null,
       "programme_title": "Ffion Hague: Jiwbili'r Frenhines ",
       "short_billing": "Ar drothwy dathliadau'r Jiwbili Platinwm, yr hanesydd a'r ddarlledwraig Ffion Hague sy'n mynd ar daith bersonol i ddarganfod mwy am y Frenhines Elizabeth II sydd wedi bod yn Bennaeth y Wladwriaeth ers 70 o flynyddoedd. Mae Ffion Hague yn un o'r bobl prin sydd wedi treulio amser yng nghwmni'r Frenhines. Er bod y frenhiniaeth yn dal i hollti barn yng Nghymru, yn ôl Ffion does dim gwadu mai'r Frenhines yw un o fenywod mwya dylanwadol ein hoes. ",
@@ -1065,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "129",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Castell y Waun a Plas yn Rhiw",
-      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
-      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
-      "clic_aired": "17 Gorffennaf 2022",
-      "fav_id": "537401297",
-      "id": "533848500",
-      "series_id": "533848392",
-      "title": "Gerddi Cymru",
-      "date_broadcast": "2022-08-11 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "39",
       "series_title": "Gerddi Cymru",
@@ -1100,6 +1081,25 @@
       "series_id": "527532245",
       "title": "Gerddi Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "129",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Castell y Waun a Plas yn Rhiw",
+      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
+      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
+      "clic_aired": "17 Gorffennaf 2022",
+      "fav_id": "537401297",
+      "id": "533848500",
+      "series_id": "533848392",
+      "title": "Gerddi Cymru",
+      "date_broadcast": "2022-08-11 13:00:00",
       "vs": "0"
     },
     {
@@ -1179,25 +1179,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "21",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "85",
       "days_to_expire": "147",
       "series_title": "Heno",
@@ -1214,6 +1195,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-08-04 19:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "21",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Iaith ar Daith",
       "programme_title": "Amy Dowden",
       "short_billing": "Y tro hwn, mae'r ddawnswraig o Strictly Come Dancing, Amy Dowden, a'i mentor y cyflwynydd a'r canwr Aled Jones, yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Amy, sy'n wreiddiol o Gaerffili, i ddysgu Cymraeg. Fe fydd hi'n wynebu cyfres o sialensau ieithyddol ac fe fydd Aled wrth ei hochor i'w mentora ar hyd y ffordd. Ymysg y sialensau fe fydd ychydig o  ddawnsio - a fydd Aled yn cofio yr hyn ddysgodd tra roedd ar Strictly tybed' Ac yn bwysicach, a fydd Amy yn cofio ei geirfa Cymraeg' \n ",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Da",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
