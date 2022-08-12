@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "24 Awr",
       "programme_title": "Ann Edwards",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Ann Edwards o Betws Gwerfil Goch, Sir Dinbych yn mynd i gael llawdriniaeth all newid ei bywyd.  ",
@@ -229,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "25",
-      "series_title": "Bwyd Epic Chris",
-      "programme_title": "Bwyd Hanesyddol",
-      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "clic_aired": "2 Awst 2022",
-      "fav_id": "801175552",
-      "id": "808269620",
-      "series_id": "808269501",
-      "title": "Bwyd Epic Chris",
-      "date_broadcast": "2022-08-08 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Bwyd Epic Chris",
@@ -264,6 +245,25 @@
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2022-07-09 16:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "25",
+      "series_title": "Bwyd Epic Chris",
+      "programme_title": "Bwyd Hanesyddol",
+      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "clic_aired": "2 Awst 2022",
+      "fav_id": "801175552",
+      "id": "808269620",
+      "series_id": "808269501",
+      "title": "Bwyd Epic Chris",
+      "date_broadcast": "2022-08-08 13:00:00",
       "vs": "0"
     },
     {
@@ -837,6 +837,25 @@
       "vs": "0"
     },
     {
+      "count": "7",
+      "days_to_expire": "99",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2022-07-17 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "56",
       "series_title": "Dan Do",
@@ -872,25 +891,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "7",
-      "days_to_expire": "99",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2022-07-17 12:30:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "14",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Dechrau datgelu dyfodol y polisi amaeth yng Nghymru; Bugail ifanc sy'n gwneud ei marc; a cynhadledd byrgorn y byd yn dod i Sir Benfro.",
-      "thumbnail_url": "Ffermio_2018_047.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Dechrau datgelu dyfodol y polisi amaeth yng Nghymru; Bugail ifanc sy'n gwneud ei marc; a cynhadledd byrgorn y byd yn dod i Sir Benfro.",
-      "clic_aired": "8 Awst 2022",
-      "fav_id": "533250950",
-      "id": "853180487",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2022-08-14 16:35:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "13",
       "series_title": "Ffermio",
@@ -1119,6 +1100,25 @@
       "series_id": "824432049",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "14",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Dechrau datgelu dyfodol y polisi amaeth yng Nghymru; Bugail ifanc sy'n gwneud ei marc; a cynhadledd byrgorn y byd yn dod i Sir Benfro.",
+      "thumbnail_url": "Ffermio_2018_047.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Dechrau datgelu dyfodol y polisi amaeth yng Nghymru; Bugail ifanc sy'n gwneud ei marc; a cynhadledd byrgorn y byd yn dod i Sir Benfro.",
+      "clic_aired": "8 Awst 2022",
+      "fav_id": "533250950",
+      "id": "853180487",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2022-08-14 16:35:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Gerddi Cymru",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "16",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
-      "clic_aired": "31 Mawrth 2022",
-      "fav_id": "520950912",
-      "id": "822417901",
-      "series_id": "822412651",
-      "title": "Heno",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "89",
       "days_to_expire": "149",
       "series_title": "Heno",
@@ -1347,6 +1328,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2022-08-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "16",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o sioe gomedi arbennig iawn yn Rhosllanerchrugog a chawn gwmni'r actores a'r awdur Holly Rivers.",
+      "clic_aired": "31 Mawrth 2022",
+      "fav_id": "520950912",
+      "id": "822417901",
+      "series_id": "822412651",
+      "title": "Heno",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
