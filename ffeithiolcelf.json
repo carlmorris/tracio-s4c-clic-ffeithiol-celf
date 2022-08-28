@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "3",
-      "series_title": "Adre",
-      "programme_title": "Iwan Griffiths",
-      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y darlledwr Iwan Griffiths yn Llangynnwr.",
-      "thumbnail_url": "Adre_2019-20S4C_P5_Iwan_Griffiths_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y darlledwr Iwan Griffiths yn Llangynnwr.",
-      "clic_aired": "28 Gorffennaf 2022",
-      "fav_id": "793406870",
-      "id": "802516883",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2022-07-28 15:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "24",
       "series_title": "Adre",
@@ -36,6 +17,25 @@
       "series_id": "797462168",
       "title": "Adre",
       "date_broadcast": "2022-08-27 17:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "3",
+      "series_title": "Adre",
+      "programme_title": "Iwan Griffiths",
+      "short_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y darlledwr Iwan Griffiths yn Llangynnwr.",
+      "thumbnail_url": "Adre_2019-20S4C_P5_Iwan_Griffiths_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy¿n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres ¿Adre¿. Yr wythnos hon byddwn yn ymweld â chartref y darlledwr Iwan Griffiths yn Llangynnwr.",
+      "clic_aired": "28 Gorffennaf 2022",
+      "fav_id": "793406870",
+      "id": "802516883",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2022-07-28 15:30:00",
       "vs": "0"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cymoedd Roy Noble",
       "programme_title": null,
       "short_billing": "Roy Noble sy'n crwydro Cymoedd De Cymru gan ddysgu mwy am yr hanes a'r bobl.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Cymry ar Gynfas: Owain Wyn Evans",
       "short_billing": "Rhaglen arbennig i ddathlu Pride Cymru gyda'r artist Mari Phillips a'r newyddiadurwr ddarlledwr Owain Wyn Evans. Wedi ei ffilmio mewn lleoliadau eiconig LHDT a gyda'r cyfranwyr yn trafod beth mae Pride yn golygu iddyn nhw.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Cynefin - Cyfres 1",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen sy'n mynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "DRYCH: Byw Heb Freichiau",
       "short_billing": "Stori bywyd unigryw Frank Letch wrth iddo ystyried pa effaith mae cael ei eni heb freichiau wedi ei gael ar ei fywyd. Cyfle yw hyn i gamu i mewn i fyd Frank yn ystod blwyddyn dyngedfennol yn ei fywyd, gydag archif sylweddol o fywyd Frank o'r 1970au a'r 1990au a mynediad i bob agwedd o'i fywyd a'i deulu. Yma, cawn ddarganfod sut mae agweddau tuag at anabledd wedi newid, a syfrdanu ar beth gall yr ysbryd dynol gyflawni yng ngwyneb adfyd enbyd.  ",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "DRYCH: Chwaer Fach Chwaer Fawr",
       "short_billing": "Ffilm bersonol gan Nia Dryhurst, sydd yn archwilio ystyr perthynas deuluol a pherthynas dwy chwaer; sydd wedi bod yn byw ar gyrion ei gilydd ers blynyddoedd. Pan oedd Llinos ar fin ymuno âr fyddin, roedd Nia ar fin mynd yn lleian ac mae'r gwahaniaethau rhyngddynt wedi tyfu'n enfawr tros y blynyddoedd. Yn dilyn damwain, mae'n amser gweld os daw mendio i'r doluriau ac i weld os y gall dwy chwaer ddod yn ddwy ffrind. ",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "DRYCH: Eirlys, Dementia a Tim",
       "short_billing": "Y cyfarwyddwr ffilm Tim Lyn sy'n dogfennu'r newidiadau ddaw i fywyd hen ffrind ysgol wedi iddi dderbyn diagnosis o dementia.  Mae Eirlys yn 58 oed ac yn barod i wynebu unrhywbeth!",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "DRYCH: Iwan John - Aros am Aren",
       "short_billing": "Rhaglen ddogfen yn dilyn yr actor a'r digrifwr Iwan John, sydd angen aren newydd, a'r dyfodol ansicr sydd o'i flaen wrth iddo aros am drawsblaniad.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "DRYCH: O'r Ysgol i'r Prom",
       "short_billing": "Mae digwyddiad y 'prom' blynyddol mewn ysgolion uwchradd yng Nghymru ar dwf.  Mewn rhaglen ddogfen awr o hyd sy'n rhan o'r gyfres 'DRYCH' bydd 'O'r Ysgol i'r Prom' yn dilyn criwiau o ffrindiau blwyddyn 11 mewn tair ysgol - Ysgol Bodedern, Ynys Môn; Ysgol y Moelwyn, Blaenau Ffestiniog ac Ysgol Plasmawr, Caerdydd, wrth iddynt baratoi, trefnu, ymbincio a dathlu.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Andria",
       "short_billing": "Andria sy'n cael sylw Cadi ac Owain yn y stiwdio steilio heddi. Actores o Abertawe sy'n chwilio am wisg addas ar gyfer mynd i theatr y West End yn Llundain.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": null,
       "programme_title": "Drych: Aled Haydn Jones : Ti, fi a'r Fam Fenthyg",
       "short_billing": "Ffilm bersonol a sensitif yn dilyn Pennaeth Radio 1, Aled Haydn Jones a'i bartner Emile, wrth iddyn nhw drio cael babi yn fiolegol gyda help Dawn, eu mam fenthyg .",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "Drych: Dau Ffrind, Un Aren",
       "short_billing": "Mae¿r actor a¿r digrifwr Iwan John yn aros am aren newydd. Yn dilyn cyfnod hir ar ddialysis mae ei ffrind gorau y cerddor Steffan Rhys Williams yn cynnig aren iddo.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": null,
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1349",
+      "days_to_expire": "1348",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": null,
       "programme_title": "Mas ar y Maes",
       "short_billing": "Eleni ar faes ein Prifwyl, bu'r Eisteddfod mewn partneriaeth â'r gymuned LHDT a Stonewall Cymru yn paratoi amserlen gynhwysfawr o ddigwyddiadau ar hyd yr wythnos - dyma gipolwg.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "Prif Weinidog mewn Pandemig",
       "short_billing": "Cipolwg unigryw ar fywyd Mark Drakeford wrth iddo drio taclo pandemig Covid-19. Gyda mynediad arbennig dros gyfnod o 6 mis, mae'r ddogfen hon yn craffu ar y penderfyniadau mawr oedd yn nwylo'r Prif Weinidog wrth iddo wynebu'r her fwyaf yn hanes Llywodraeth Cymru. ",
