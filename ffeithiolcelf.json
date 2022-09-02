@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "102",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Castell y Waun a Plas yn Rhiw",
-      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
-      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
-      "clic_aired": "17 Gorffennaf 2022",
-      "fav_id": "537401297",
-      "id": "533848500",
-      "series_id": "533848392",
-      "title": "Gerddi Cymru",
-      "date_broadcast": "2022-08-11 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "12",
       "series_title": "Gerddi Cymru",
@@ -1027,8 +1008,27 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "102",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Castell y Waun a Plas yn Rhiw",
+      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
+      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
+      "clic_aired": "17 Gorffennaf 2022",
+      "fav_id": "537401297",
+      "id": "533848500",
+      "series_id": "533848392",
+      "title": "Gerddi Cymru",
+      "date_broadcast": "2022-08-11 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "7",
-      "days_to_expire": "1100",
+      "days_to_expire": "1099",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Carys a Dyfed, Bethel Caernarf",
       "short_billing": "Yn y bennod hon mi fydd Trystan Ellis-Morris ac Emma Walford yn cynnig help llaw trefnu ail briodas i griw o deulu a ffrindiau Carys a Dyfed o ardal Bethel, ger Caernarfon. Mae'r darpar bâr priod yn gwybod dim am y trefniadau; tro'r criw yw hi i drefnu diwrnod pwysica' eu bywydau am bum mil o bunnoedd - a hynny o fewn 'chydig wythnosau.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Babell Lên a Mwy",
       "programme_title": null,
       "short_billing": "Rhaglen yn edrych ar gynnwys Y Babell Lên a Llwyfan y Llannerch yn Eisteddfod Genedlaethol Ceredigion 2022, o farddoniaeth a llenyddiaeth i gynnwys amgen.",
