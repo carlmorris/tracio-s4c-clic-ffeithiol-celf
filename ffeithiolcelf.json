@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "11",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
-      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
-      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
-      "clic_aired": "18 Ebrill 2022",
-      "fav_id": "537401297",
-      "id": "527532342",
-      "series_id": "527532245",
-      "title": "Gerddi Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "100",
       "series_title": "Gerddi Cymru",
@@ -1043,6 +1024,25 @@
       "series_id": "533848392",
       "title": "Gerddi Cymru",
       "date_broadcast": "2022-08-11 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "10",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
+      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
+      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
+      "clic_aired": "18 Ebrill 2022",
+      "fav_id": "537401297",
+      "id": "527532342",
+      "series_id": "527532245",
+      "title": "Gerddi Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
