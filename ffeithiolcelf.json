@@ -895,7 +895,7 @@
     },
     {
       "count": "39",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
       "short_billing": "Uchafbwyntiau Eisteddfod yr Urdd Sir Ddinbych 2022. ",
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": null,
       "programme_title": "Ffion Hague: Jiwbili'r Frenhines ",
       "short_billing": "Ar drothwy dathliadau'r Jiwbili Platinwm, yr hanesydd a'r ddarlledwraig Ffion Hague sy'n mynd ar daith bersonol i ddarganfod mwy am y Frenhines Elizabeth II sydd wedi bod yn Bennaeth y Wladwriaeth ers 70 o flynyddoedd. Mae Ffion Hague yn un o'r bobl prin sydd wedi treulio amser yng nghwmni'r Frenhines. Er bod y frenhiniaeth yn dal i hollti barn yng Nghymru, yn ôl Ffion does dim gwadu mai'r Frenhines yw un o fenywod mwya dylanwadol ein hoes. ",
@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "8",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
-      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
-      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
-      "clic_aired": "18 Ebrill 2022",
-      "fav_id": "537401297",
-      "id": "527532342",
-      "series_id": "527532245",
-      "title": "Gerddi Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "98",
       "series_title": "Gerddi Cymru",
@@ -1043,6 +1024,25 @@
       "series_id": "533848392",
       "title": "Gerddi Cymru",
       "date_broadcast": "2022-08-11 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "8",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
+      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
+      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
+      "clic_aired": "18 Ebrill 2022",
+      "fav_id": "537401297",
+      "id": "527532342",
+      "series_id": "527532245",
+      "title": "Gerddi Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
@@ -1480,25 +1480,6 @@
       "series_id": null,
       "title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "date_broadcast": "2022-09-01 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "Bethan Ellis Owen",
-      "short_billing": "Ar Sgwrs dan y Lloer gynta¿r gyfres fe fyddwn ni¿n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P1.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer gynta¿r gyfres fe fyddwn ni¿n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
-      "clic_aired": "5 Medi 2022",
-      "fav_id": "819088838",
-      "id": "861087058",
-      "series_id": "861087047",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": "2022-09-09 21:00:00",
       "vs": "0"
     },
     {
@@ -1518,6 +1499,25 @@
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "Bethan Ellis Owen",
+      "short_billing": "Ar Sgwrs dan y Lloer gynta¿r gyfres fe fyddwn ni¿n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P1.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer gynta¿r gyfres fe fyddwn ni¿n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
+      "clic_aired": "5 Medi 2022",
+      "fav_id": "819088838",
+      "id": "861087058",
+      "series_id": "861087047",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": "2022-09-09 21:00:00",
       "vs": "0"
     },
     {
