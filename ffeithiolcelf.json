@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "7",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
-      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
-      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
-      "clic_aired": "18 Ebrill 2022",
-      "fav_id": "537401297",
-      "id": "527532342",
-      "series_id": "527532245",
-      "title": "Gerddi Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "96",
       "series_title": "Gerddi Cymru",
@@ -1024,6 +1005,25 @@
       "series_id": "533848392",
       "title": "Gerddi Cymru",
       "date_broadcast": "2022-08-11 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "7",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
+      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
+      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
+      "clic_aired": "18 Ebrill 2022",
+      "fav_id": "537401297",
+      "id": "527532342",
+      "series_id": "527532245",
+      "title": "Gerddi Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
