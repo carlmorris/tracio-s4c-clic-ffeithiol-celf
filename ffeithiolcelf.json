@@ -172,7 +172,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "2",
       "days_to_expire": "147",
       "series_title": "Cefn Gwlad",
       "programme_title": "Aneurin Jones",
@@ -210,7 +210,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "4",
       "days_to_expire": "71",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "72",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "29",
       "series_title": "Dan Do",
@@ -699,6 +680,25 @@
       "fav_id": "802081093",
       "id": "832477738",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "72",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -834,6 +834,25 @@
       "series_id": null,
       "title": "Dylanwad Un Nos Ola Leuad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1150",
+      "series_title": null,
+      "programme_title": "Ein Hail Lais",
+      "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
+      "thumbnail_url": "Ein_Ail_Lais_S4C2021_Jess_1.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
+      "clic_aired": "23 Medi 2021",
+      "fav_id": "815458934",
+      "id": "815458934",
+      "series_id": null,
+      "title": "Ein Hail Lais",
+      "date_broadcast": "2022-09-10 23:00:00",
       "vs": "0"
     },
     {
@@ -1009,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Gerddi Cymru",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -1103,7 +1122,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "141",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
@@ -1445,7 +1464,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "124",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
@@ -1465,21 +1484,21 @@
     },
     {
       "count": "1",
-      "days_to_expire": "103",
-      "series_title": null,
-      "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
-      "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
-      "thumbnail_url": "Sesiwn_Fawr_2022S4C_NoGoodBoyo_099.jpg",
-      "duration": "74",
+      "days_to_expire": "48",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "John Hartson",
+      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
+      "duration": "35",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
-      "clic_aired": "23 Gorffennaf 2022",
-      "fav_id": "858163459",
-      "id": "858163459",
-      "series_id": null,
-      "title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
-      "date_broadcast": "2022-09-01 21:00:00",
+      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "clic_aired": "29 Mai 2022",
+      "fav_id": "819088838",
+      "id": "837080286",
+      "series_id": "837080163",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1499,25 +1518,6 @@
       "series_id": "861087047",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": "2022-09-09 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "48",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "John Hartson",
-      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "clic_aired": "29 Mai 2022",
-      "fav_id": "819088838",
-      "id": "837080286",
-      "series_id": "837080163",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1597,7 +1597,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "108",
       "series_title": "Y Fets",
       "programme_title": null,
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
@@ -1673,22 +1673,22 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "33",
+      "count": "3",
+      "days_to_expire": "26",
       "series_title": "Yr Anialwch",
-      "programme_title": "Ffion Dafis: Anialwch Gobi",
+      "programme_title": "Mali Harries: Y Thar",
       "short_billing": "Cyfres yn edrych ar fywyd mewn rhai o anialdiroedd y byd.",
-      "thumbnail_url": "Yr_Anialwch_2012_P4_Y_Gobi_006.jpg",
+      "thumbnail_url": "Yr_Anialwch_2012_P3_Thar_004.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y Gobi - anialwch eithafol, sy'n grasboeth yn yr haf ac yn rhewi'n gorn yn y gaeaf.  Ymunwch â Ffion Dafis wrth iddi deithio i anialwch mwyaf Asia i gyfarfod trigolion cynhenid y Gobi sydd yn brwydro yn ddyddiol yn erbyn yr elfennau.  Dyma anialwch sydd yn wynebu trobwynt tyngedfennol yn ei hanes; mae effaith diwydiant i'w gweld ar y tir ac yn newid yr hen ffordd nomadig o fyw am byth.   ",
-      "clic_aired": "6 Medi 2022",
+      "full_billing": "Gwag. Heb ffrwyth nac anifeiliaid na phobl. Ond os felly mae'r anialwch i fod, mae anialwch y Thar yng Ngogledd India yn torri pob rheol. Mali Harries sy'n teithio i ganol yr anialwch lle mae dros 23 miliwn o bobl wedi ymgartrefu er gwaetha'r diffyg d¿r! O odro camelod, i ddawnsio mewn priodas a phen-glinio mewn teml llawn llygod mawr, mae Mali yn ceisio ateb i'r cwestiwn mawr - sut mae'r anialwch yn medru cynnal y fath lu o bobl'   ",
+      "clic_aired": "30 Awst 2022",
       "fav_id": "799441881",
-      "id": "496976076",
+      "id": "496976058",
       "series_id": "496976015",
       "title": "Yr Anialwch",
-      "date_broadcast": "2022-09-06 15:05:00",
+      "date_broadcast": "2022-08-30 15:05:00",
       "vs": "0"
     },
     {
