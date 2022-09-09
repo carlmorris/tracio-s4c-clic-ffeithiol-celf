@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "70",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "27",
       "series_title": "Dan Do",
@@ -718,6 +699,25 @@
       "fav_id": "802081093",
       "id": "832478867",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "70",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Dyfrig",
       "short_billing": "Trwy gyfrwng dyddiaduron gigs a digwyddiadau cerddorol Dyfrig Evans ers ei ddyddiau ysgol, Huw Stephens sy'n ein tywys trwy fywyd a gyrfa y cerddor ac actor. Bydd ffrindiau - yn actorion a cherddorion - yn cymryd rhan i goffhau y cyfraniad a wnaeth i fyd celf Cymru. Tu hwnt i'r wyneb mewn dramau ac ar lwyfannau, bu hefyd am sawl blwyddyn yn teithio o amgylch ysgolion cynradd yn rhannu ei angerdd am gerddoriaeth ac ysgrifennu.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Sgwrs dan y Lloer",
       "programme_title": "Bethan Ellis Owen",
       "short_billing": "Ar Sgwrs dan y Lloer gynta¿r gyfres fe fyddwn ni¿n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Bwlio",
       "short_billing": "Mae bwlio'n gallu difetha bywydau ysgol plant ac yn gallu arwain at drasiedi. Siôn Jenkins sy'n clywed gan rieni sy'n galw ar ysgolion i wneud mwy, a'n gofyn a oes gwersi i'w dysgu o wledydd fel Ffrainc, sy' wedi cyflwyno cyfraith newydd i geisio mynd i'r afael â'r sefyllfa.",
