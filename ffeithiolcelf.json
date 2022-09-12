@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": null,
       "programme_title": "Apêl Llifogydd Pacistan DEC ",
       "short_billing": "Apêl Ddyngarol Pacistan ar ran pwyllgor argyfyngau y DEC. ",
@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Angle i Amroth",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "92",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Castell y Waun a Plas yn Rhiw",
-      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
-      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
-      "clic_aired": "17 Gorffennaf 2022",
-      "fav_id": "537401297",
-      "id": "533848500",
-      "series_id": "533848392",
-      "title": "Gerddi Cymru",
-      "date_broadcast": "2022-08-11 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Gerddi Cymru",
@@ -1005,6 +986,25 @@
       "series_id": "527532245",
       "title": "Gerddi Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "92",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Castell y Waun a Plas yn Rhiw",
+      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
+      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
+      "clic_aired": "17 Gorffennaf 2022",
+      "fav_id": "537401297",
+      "id": "533848500",
+      "series_id": "533848392",
+      "title": "Gerddi Cymru",
+      "date_broadcast": "2022-08-11 13:00:00",
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Julian Lewis Jones yn Awstralia",
       "programme_title": null,
       "short_billing": "Pysgota yn Awstralia gyda Julian Lewis Jones.",
@@ -1429,7 +1429,7 @@
       "count": "2",
       "days_to_expire": "31",
       "series_title": "Rhaglenni Coffa y Teulu Brenhinol",
-      "programme_title": "Teyrnged y Frenhines",
+      "programme_title": "Teyrnged y Frenhines ",
       "short_billing": "Rhaglen deyrnged i'r Frenhines Elizabeth yr Ail.",
       "thumbnail_url": "Rhaglenni_Coffa_Teulu_Brenhinol_P1_P2_Y_Frenhines.jpg",
       "duration": "60",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
