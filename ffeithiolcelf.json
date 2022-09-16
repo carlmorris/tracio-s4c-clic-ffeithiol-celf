@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Adre",
       "programme_title": "Aled Hall",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu y cymeriad sy'n byw yno. Y tro hwn, cawn gipolwg ar gartref y canwr opera, Aled Hall.",
@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "63",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "20",
       "series_title": "Dan Do",
@@ -699,6 +680,25 @@
       "fav_id": "802081093",
       "id": "832478867",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "63",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -952,7 +952,7 @@
     },
     {
       "count": "19",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen yma mae Meinir yn gwneud sôs coch cartref o'r cnwd tomatos, Iwan yn cynhaeafu ffâ dringo, a Sioned yn ymweld â gardd fendigedig yng Ngwent. Mae Carol Williams, yr arddwraig broffesiynol, yn dangos i ni sut i greu border lliwgar Hydrefol.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Pethe",
       "programme_title": "Fi a Mistar Urdd",
       "short_billing": "Cipolwg ar y celfyddydau.",
