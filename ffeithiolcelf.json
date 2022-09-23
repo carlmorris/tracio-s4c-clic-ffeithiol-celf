@@ -704,6 +704,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "56",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "13",
       "series_title": "Dan Do",
@@ -737,25 +756,6 @@
       "fav_id": "802081093",
       "id": "832478867",
       "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "56",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -933,7 +933,7 @@
     },
     {
       "count": "39",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
       "short_billing": "Uchafbwyntiau Eisteddfod yr Urdd Sir Ddinbych 2022. ",
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Ffion Hague: Jiwbili'r Frenhines ",
       "short_billing": "Ar drothwy dathliadau'r Jiwbili Platinwm, yr hanesydd a'r ddarlledwraig Ffion Hague sy'n mynd ar daith bersonol i ddarganfod mwy am y Frenhines Elizabeth II sydd wedi bod yn Bennaeth y Wladwriaeth ers 70 o flynyddoedd. Mae Ffion Hague yn un o'r bobl prin sydd wedi treulio amser yng nghwmni'r Frenhines. Er bod y frenhiniaeth yn dal i hollti barn yng Nghymru, yn ôl Ffion does dim gwadu mai'r Frenhines yw un o fenywod mwya dylanwadol ein hoes. ",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "19",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen yma rydym yn cael y diweddaraf o'r 'ty poeth' gan Iwan ac mae Sioned yn creu strwythur gwahanol hefo hên ffenestri lliw, tra bod Meinir yn ymweld â gardd ei mam yn Sir Fôn. Mae Adam Jones ar y llaw arall yn cynorthwyo i ail leoli gardd go arbennig yn Sir Benfro. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
@@ -1537,25 +1537,6 @@
       "series_id": null,
       "title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "date_broadcast": "2022-09-01 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "145",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "Huw Chiswell",
-      "short_billing": "Heno fe fydd Elin Fflur yn Sgwrsio dan y Lloer efo un o gerddorion enwoca' Cymru, Huw Chiswell. O amgylch tanllwyth o dân ac yng nghanol y brifddinas fe ddaw Elin i 'nabod y g¿r tu ôl i'r geiriau a'r caneuon 'da ni i gyd wedi eu cyd-ganu. Ymunwch â'r ddau wrth iddyn nhw sgwrsio tan yr oriau mân a hel atgofion am ddyddiau Ibiza Ibiza, Dwylo dros y Môr ac Y Cwm.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P3.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno fe fydd Elin Fflur yn Sgwrsio dan y Lloer efo un o gerddorion enwoca' Cymru, Huw Chiswell. O amgylch tanllwyth o dân ac yng nghanol y brifddinas fe ddaw Elin i 'nabod y g¿r tu ôl i'r geiriau a'r caneuon 'da ni i gyd wedi eu cyd-ganu. Ymunwch â'r ddau wrth iddyn nhw sgwrsio tan yr oriau mân a hel atgofion am ddyddiau Ibiza Ibiza, Dwylo dros y Môr ac Y Cwm.",
-      "clic_aired": "19 Medi 2022",
-      "fav_id": "819088838",
-      "id": "861087111",
-      "series_id": "861087047",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": "2022-10-04 18:00:00",
       "vs": "0"
     },
     {
@@ -1575,6 +1556,25 @@
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "145",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "Huw Chiswell",
+      "short_billing": "Heno fe fydd Elin Fflur yn Sgwrsio dan y Lloer efo un o gerddorion enwoca' Cymru, Huw Chiswell. O amgylch tanllwyth o dân ac yng nghanol y brifddinas fe ddaw Elin i 'nabod y g¿r tu ôl i'r geiriau a'r caneuon 'da ni i gyd wedi eu cyd-ganu. Ymunwch â'r ddau wrth iddyn nhw sgwrsio tan yr oriau mân a hel atgofion am ddyddiau Ibiza Ibiza, Dwylo dros y Môr ac Y Cwm.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P3.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno fe fydd Elin Fflur yn Sgwrsio dan y Lloer efo un o gerddorion enwoca' Cymru, Huw Chiswell. O amgylch tanllwyth o dân ac yng nghanol y brifddinas fe ddaw Elin i 'nabod y g¿r tu ôl i'r geiriau a'r caneuon 'da ni i gyd wedi eu cyd-ganu. Ymunwch â'r ddau wrth iddyn nhw sgwrsio tan yr oriau mân a hel atgofion am ddyddiau Ibiza Ibiza, Dwylo dros y Môr ac Y Cwm.",
+      "clic_aired": "19 Medi 2022",
+      "fav_id": "819088838",
+      "id": "861087111",
+      "series_id": "861087047",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": "2022-10-04 18:00:00",
       "vs": "0"
     },
     {
