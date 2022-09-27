@@ -21,7 +21,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "24 Awr",
       "programme_title": "Ann Edwards",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Ann Edwards o Betws Gwerfil Goch, Sir Dinbych yn mynd i gael llawdriniaeth all newid ei bywyd.  ",
@@ -55,6 +55,25 @@
       "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": "2022-10-01 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Agor y Clo",
+      "programme_title": null,
+      "short_billing": "Rhaglen gynta' mewn cyfres newydd sy'n agor y clo ar yr hanesion teuluol a chymdeithasol difyr y tu ôl i'r creiriau sy'n llechu yn ein cartrefi a'n cymunedau. Y tro hwn hen geir, casgliad o grysau rygbi rhyngwladol, a dyddiadur bychan sydd ymhlith y trysorau sy'n cael sylw Manon Elis.",
+      "thumbnail_url": "Agor_y_Clo_2020S4C_4648_ii.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen gynta' mewn cyfres newydd sy'n agor y clo ar yr hanesion teuluol a chymdeithasol difyr y tu ôl i'r creiriau sy'n llechu yn ein cartrefi a'n cymunedau. Y tro hwn hen geir, casgliad o grysau rygbi rhyngwladol, a dyddiadur bychan sydd ymhlith y trysorau sy'n cael sylw Manon Elis.",
+      "clic_aired": "27 Medi 2022",
+      "fav_id": "811165865",
+      "id": "811165873",
+      "series_id": "811165865",
+      "title": "Agor y Clo",
+      "date_broadcast": "2022-09-27 15:05:00",
       "vs": "0"
     },
     {
@@ -401,7 +420,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Cynefin",
       "programme_title": "Tyddewi - Ynys Dewi",
       "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
@@ -723,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "67",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "7 Gorffennaf 2022",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "9",
       "series_title": "Dan Do",
@@ -756,6 +756,25 @@
       "fav_id": "802081093",
       "id": "832477738",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "67",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "7 Gorffennaf 2022",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -1787,8 +1806,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "27",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
       "short_billing": "Cyfres yn edrych ar fywyd mewn rhai o anialdiroedd y byd.",
