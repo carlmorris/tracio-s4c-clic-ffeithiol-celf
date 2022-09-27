@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cefn Gwlad",
       "programme_title": "Merched Hermon",
       "short_billing": "Tîm Tynnu Rhaff Merched Hermon, dan arweiniad lliwgar Bill Trefawr, ydi un o'r timoedd tynnu'r gelyn gorau yng Nghymru. Mari Lovgreen sy'n dilyn y criw sy'n gymysgedd o ferched ffarm, athrawon, plymars a gweithwyr siop, wrth iddynt baratoi at Bencampwriaethau Cenedlaethol Cymru eleni.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Côr Cymru 2022",
       "programme_title": "2003-2022: Y Pencampwyr   ",
       "short_billing": "Y gore o'r goreuon - Y 10 enillydd ers dechrau'r gystadleuaeth. Heledd Cynwal a 3 beirniad rhyngwladol sy'n edrych yn ôl drwy'r archif gyda phencampwyr y pencampwyr a gyda chynrychiolwyr o'r corau yno i dderbyn y wobr.",
@@ -742,6 +742,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "52",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "9",
       "series_title": "Dan Do",
@@ -775,25 +794,6 @@
       "fav_id": "802081093",
       "id": "832478867",
       "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "52",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -990,7 +990,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Tywydd sych yn achosi problemau; un o hen sioeau Sir Benfro yn hawlio'i thir; a llaeth fferm o Gymru yn dod i'r brig.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni¿n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw¿r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
