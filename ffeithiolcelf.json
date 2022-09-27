@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Angle i Amroth",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -1505,7 +1505,7 @@
       "count": "3",
       "days_to_expire": "16",
       "series_title": "Rhaglenni Coffa y Teulu Brenhinol",
-      "programme_title": "Teyrnged y Frenhines",
+      "programme_title": "Teyrnged y Frenhines ",
       "short_billing": "Rhaglen deyrnged i'r Frenhines Elizabeth yr Ail.",
       "thumbnail_url": "Rhaglenni_Coffa_Teulu_Brenhinol_P1_P2_Y_Frenhines.jpg",
       "duration": "60",
@@ -1559,25 +1559,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "149",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "Elinor Bennett",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "clic_aired": "26 Medi 2022",
-      "fav_id": "819088838",
-      "id": "861087137",
-      "series_id": "861087047",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": "2022-10-11 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "28",
       "series_title": "Sgwrs dan y Lloer",
@@ -1594,6 +1575,25 @@
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "Elinor Bennett",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "clic_aired": "26 Medi 2022",
+      "fav_id": "819088838",
+      "id": "861087137",
+      "series_id": "861087047",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": "2022-10-11 18:00:00",
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
