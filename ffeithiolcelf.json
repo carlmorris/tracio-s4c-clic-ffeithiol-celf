@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cefn Gwlad",
       "programme_title": "Merched Hermon",
       "short_billing": "Tîm Tynnu Rhaff Merched Hermon, dan arweiniad lliwgar Bill Trefawr, ydi un o'r timoedd tynnu'r gelyn gorau yng Nghymru. Mari Lovgreen sy'n dilyn y criw sy'n gymysgedd o ferched ffarm, athrawon, plymars a gweithwyr siop, wrth iddynt baratoi at Bencampwriaethau Cenedlaethol Cymru eleni.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Côr Cymru 2022",
       "programme_title": "2003-2022: Y Pencampwyr   ",
       "short_billing": "Y gore o'r goreuon - Y 10 enillydd ers dechrau'r gystadleuaeth. Heledd Cynwal a 3 beirniad rhyngwladol sy'n edrych yn ôl drwy'r archif gyda phencampwyr y pencampwyr a gyda chynrychiolwyr o'r corau yno i dderbyn y wobr.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Tywydd sych yn achosi problemau; un o hen sioeau Sir Benfro yn hawlio'i thir; a llaeth fferm o Gymru yn dod i'r brig.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni¿n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw¿r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -1559,25 +1559,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "Elinor Bennett",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "clic_aired": "26 Medi 2022",
-      "fav_id": "819088838",
-      "id": "861087137",
-      "series_id": "861087047",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": "2022-10-11 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "27",
       "series_title": "Sgwrs dan y Lloer",
@@ -1594,6 +1575,25 @@
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "Elinor Bennett",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "clic_aired": "26 Medi 2022",
+      "fav_id": "819088838",
+      "id": "861087137",
+      "series_id": "861087047",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": "2022-10-11 18:00:00",
       "vs": "0"
     },
     {
