@@ -267,22 +267,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
-      "thumbnail_url": "Cegin_Bryn_2016S4C_C5_Tir_a_Mor_5521-Enhanced.jpg",
+      "thumbnail_url": "cegin_bryn_2016_02.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'r cogydd Bryn Williams yn cael ysbrydoliaeth o dir a môr Cymru yn y gyfres hon. Heddiw, bydd Bryn yn creu salad danteithiol gyda chnau cyll a chaws glas, yn coginio ffesant i'w weini gyda 'sglodion ac yn paratoi tarten eirin ac almon, perffaith ar gyfer swper cartref cysurus. Mae Bryn yn dysgu am ddal pysgod cynaliadwy gyda'r pysgotwr o fri Rhys Llywelyn ac yn ceisio dal draenog y môr i swper.",
-      "clic_aired": "28 Medi 2022",
+      "full_billing": "Y tro hwn bydd Bryn Williams yn coginio bwyd môr yn yr awyr agored ar arfordir Pen Llyn; yn paratoi cig eidion mewn cwrw â thwmplenni blasus yn y gegin ac yn dysgu sut mae cymuned o wlad Tonga yn adeiladu ffwrn danddaearol arbennig, o'r enw 'umu' ar gyfer paratoi gwledd deuluol enfawr yng Ngorllewin Cymru.",
+      "clic_aired": "5 Hydref 2022",
       "fav_id": "520950903",
-      "id": "527355664",
+      "id": "527355690",
       "series_id": "527355653",
       "title": "Cegin Bryn: Tir a Môr",
-      "date_broadcast": "2022-10-02 11:00:00",
+      "date_broadcast": "2022-10-09 11:00:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Y Gymanfa Ganu",
       "short_billing": "Y Gymanfa Ganu yn fyw o Faes yr Eisteddfod.",
@@ -761,6 +761,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "44",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 1",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
+      "clic_aired": "22 Mehefin 2022",
+      "fav_id": "802081093",
+      "id": "842325124",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Dan Do",
@@ -794,25 +813,6 @@
       "fav_id": "802081093",
       "id": "832478867",
       "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "44",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 1",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "thumbnail_url": "Dan_Do_2022S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n edrych ar fwthyn sydd wedi ei estynnu a¿i adnewyddu gan y perchennog, cartref sy¿n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
-      "clic_aired": "22 Mehefin 2022",
-      "fav_id": "802081093",
-      "id": "842325124",
-      "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -971,7 +971,7 @@
     },
     {
       "count": "39",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
       "short_billing": "Uchafbwyntiau Eisteddfod yr Urdd Sir Ddinbych 2022. ",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": null,
       "programme_title": "Ffion Hague: Jiwbili'r Frenhines ",
       "short_billing": "Ar drothwy dathliadau'r Jiwbili Platinwm, yr hanesydd a'r ddarlledwraig Ffion Hague sy'n mynd ar daith bersonol i ddarganfod mwy am y Frenhines Elizabeth II sydd wedi bod yn Bennaeth y Wladwriaeth ers 70 o flynyddoedd. Mae Ffion Hague yn un o'r bobl prin sydd wedi treulio amser yng nghwmni'r Frenhines. Er bod y frenhiniaeth yn dal i hollti barn yng Nghymru, yn ôl Ffion does dim gwadu mai'r Frenhines yw un o fenywod mwya dylanwadol ein hoes. ",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "20",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen olaf ond un am eleni mae Iwan yng nganol y coed cnau, a Meinir ar y llaw arall yn edrych ymlaen i'r Gwanwyn wrth drafod y cenin pedr. Mae Sioned yn gwneud trefniant Hydrefol o flodau amrwyiol Pant y Wennol, tra bod Naomi Saunders yn clodfori planhigion ty deuliw o bob math.",
@@ -1236,8 +1236,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "98",
+      "count": "2",
+      "days_to_expire": "97",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Pethe",
       "programme_title": "Fi a Mistar Urdd",
       "short_billing": "Cipolwg ar y celfyddydau.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
