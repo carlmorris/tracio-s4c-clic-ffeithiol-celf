@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "3 Lle",
       "programme_title": "Aled Siôn Davies",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -1331,7 +1331,7 @@
       "vs": "0"
     },
     {
-      "count": "91",
+      "count": "90",
       "days_to_expire": "149",
       "series_title": "Prynhawn Da",
       "programme_title": null,
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "18",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "John Hartson",
-      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "clic_aired": "29 Mai 2022",
-      "fav_id": "819088838",
-      "id": "837080286",
-      "series_id": "837080163",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "145",
       "series_title": "Sgwrs dan y Lloer",
@@ -1461,6 +1442,25 @@
       "series_id": "861087047",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": "2022-10-18 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "18",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "John Hartson",
+      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "clic_aired": "29 Mai 2022",
+      "fav_id": "819088838",
+      "id": "837080286",
+      "series_id": "837080163",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
