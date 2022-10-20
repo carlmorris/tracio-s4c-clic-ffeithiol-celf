@@ -116,7 +116,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Bex",
       "programme_title": "Stori Jac",
       "short_billing": "**MAE'R RHAGLEN HON YN CYNNWYS GOLYGFEYDD ALL BERI GOFID I RAI GWYLWYR**\n\nPan fu Anni, chwaer Jac farw, fe wnaeth ei rieni ei rwysto rhag mynd i'r angladd.  Mae Jac yn teimlo'n drist iawn, ond a fydd yn gallu perswadio'i rieni i siarad gydag ef am y peth, a chofio'r atgofion hapus'",
@@ -1103,7 +1103,7 @@
       "vs": "0"
     },
     {
-      "count": "99",
+      "count": "100",
       "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "140",
-      "series_title": "Sgwrs dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "10 Hydref 2022",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs dan y Lloer",
-      "date_broadcast": "2022-10-25 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Sgwrs dan y Lloer",
@@ -1423,6 +1404,25 @@
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "140",
+      "series_title": "Sgwrs dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "10 Hydref 2022",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs dan y Lloer",
+      "date_broadcast": "2022-10-25 18:00:00",
       "vs": "0"
     },
     {
