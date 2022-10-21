@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Catrin Hopkins, Dylan Cernyw a Nia Parry",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda' i gilydd. Ond-dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Catrin Hopkins, Dylan Cernyw a Nia Parry.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_C2_Teitlau_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda' i gilydd. Ond-dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Catrin Hopkins, Dylan Cernyw a Nia Parry.",
-      "clic_aired": "16 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "817962835",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-10-20 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "130",
       "series_title": "Bwrdd i Dri",
@@ -169,6 +150,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-10-06 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Catrin Hopkins, Dylan Cernyw a Nia Parry",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda' i gilydd. Ond-dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Catrin Hopkins, Dylan Cernyw a Nia Parry.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_C2_Teitlau_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda' i gilydd. Ond-dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Catrin Hopkins, Dylan Cernyw a Nia Parry.",
+      "clic_aired": "16 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "817962835",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-10-20 18:30:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Côr Cymru 2022",
       "programme_title": "2003-2022: Y Pencampwyr   ",
       "short_billing": "Y gore o'r goreuon - Y 10 enillydd ers dechrau'r gystadleuaeth. Heledd Cynwal a 3 beirniad rhyngwladol sy'n edrych yn ôl drwy'r archif gyda phencampwyr y pencampwyr a gyda chynrychiolwyr o'r corau yno i dderbyn y wobr.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Tywydd sych yn achosi problemau; un o hen sioeau Sir Benfro yn hawlio'i thir; a llaeth fferm o Gymru yn dod i'r brig.",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni¿n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw¿r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
