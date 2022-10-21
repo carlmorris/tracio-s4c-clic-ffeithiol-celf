@@ -78,7 +78,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "130",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Tregaron",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "clic_aired": "2 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "842327104",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-10-06 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "144",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-10-20 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "130",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Tregaron",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "clic_aired": "2 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "842327104",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-10-06 18:30:00",
       "vs": "0"
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
