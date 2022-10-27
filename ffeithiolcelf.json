@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "145",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P5_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
-      "clic_aired": "23 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "817962863",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-10-27 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "124",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-10-06 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "145",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P5_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
+      "clic_aired": "23 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "817962863",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-10-27 18:30:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Côr Cymru 2022",
       "programme_title": "2003-2022: Y Pencampwyr   ",
       "short_billing": "Y gore o'r goreuon - Y 10 enillydd ers dechrau'r gystadleuaeth. Heledd Cynwal a 3 beirniad rhyngwladol sy'n edrych yn ôl drwy'r archif gyda phencampwyr y pencampwyr a gyda chynrychiolwyr o'r corau yno i dderbyn y wobr.",
@@ -856,7 +856,7 @@
       "vs": "0"
     },
     {
-      "count": "33",
+      "count": "32",
       "days_to_expire": "25",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
@@ -876,7 +876,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Prisiau egni'n codi a ffermwyr o dan straen; Cipolwg ar y penawdau amaethyddol gan gynnwys y diweddarf ar NVZs; ac fe gwrddwn â rhai o ser y Treialon Cwn Defaid Rhyngwladol.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni¿n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw¿r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -1046,22 +1046,22 @@
       "vs": "0"
     },
     {
-      "count": "99",
-      "days_to_expire": "148",
+      "count": "100",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Heno, byddwn ni'n fyw o ¿yl Llais yng Nghaerdydd i gael hanes y Wobr Cerddoriaeth Gymreig.",
+      "short_billing": "Heno, byddwn ni'n fyw o Ysgol Bro Preseli ac yn edrych nôl ar ganeuon Ail Symudiad.",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "22",
+      "duration": "21",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Heno, byddwn ni'n fyw o ¿yl Llais yng Nghaerdydd i gael hanes y Wobr Cerddoriaeth Gymreig.",
-      "clic_aired": "26 Hydref 2022",
+      "full_billing": "Heno, byddwn ni'n fyw o Ysgol Bro Preseli ac yn edrych nôl ar ganeuon Ail Symudiad.",
+      "clic_aired": "27 Hydref 2022",
       "fav_id": "520950912",
-      "id": "852337690",
+      "id": "852337711",
       "series_id": "852334583",
       "title": "Heno",
-      "date_broadcast": "2022-10-27 12:30:00",
+      "date_broadcast": "2022-10-28 12:30:00",
       "vs": "0"
     },
     {
