@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "120",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Tregaron",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "clic_aired": "2 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "842327104",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-10-06 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "148",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-11-03 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "120",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Tregaron",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "clic_aired": "2 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "842327104",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-10-06 18:30:00",
       "vs": "0"
     },
     {
@@ -856,7 +856,7 @@
       "vs": "0"
     },
     {
-      "count": "8",
+      "count": "7",
       "days_to_expire": "21",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
@@ -1464,22 +1464,22 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "142",
+      "count": "7",
+      "days_to_expire": "149",
       "series_title": "Y Byd ar Bedwar",
-      "programme_title": "Cyffuriau 'County Lines'",
-      "short_billing": "Ers dechrau'r flwyddyn, mae lluoedd heddlu yng Nghymru wedi darganfod 165 o county lines - gyda rhai gangiau yn targedu plant mor ifanc a 9 oed i gludo cyffuriau, arfau ac arian ar draws Prydain. Siôn Jenkins sy'n cwrdd ag un dyn ifanc ga'th ei ecsbloetio gan gang o Lerpwl yn 16 oed.",
-      "thumbnail_url": "YBAB_2022S4C_P11_2-Edit.jpg",
-      "duration": "23",
+      "programme_title": "Hillsborough: Dioddef yn Dawel",
+      "short_billing": "Bu farw 97 o bobl o ganlyniad i drychineb Hillsborough, ac mae yna filoedd sy'n byw gyda'r creithiau seicolegol hyd heddiw. Dot Davies sy'n cwrdd ag un o oroeswyr Hillsborough sydd wedi colli ffrind a chyd-oroeswr i hunanladdiad eleni. Felly er y blynyddoedd hir o ymgyrchu, ydy goroeswyr y drychineb waethaf yn hanes chwaraeon Prydain wedi derbyn y gefnogaeth i ymdopi â'r hyn brofon nhw'",
+      "thumbnail_url": "Y_Byd_Ar_Bedwar_2022S4C_P12_01.jpg",
+      "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ers dechrau'r flwyddyn, mae lluoedd heddlu yng Nghymru wedi darganfod 165 o county lines - gyda rhai gangiau yn targedu plant mor ifanc a 9 oed i gludo cyffuriau, arfau ac arian ar draws Prydain. Siôn Jenkins sy'n cwrdd ag un dyn ifanc ga'th ei ecsbloetio gan gang o Lerpwl yn 16 oed.",
-      "clic_aired": "24 Hydref 2022",
+      "full_billing": "Bu farw 97 o bobl o ganlyniad i drychineb Hillsborough, ac mae yna filoedd sy'n byw gyda'r creithiau seicolegol hyd heddiw. Dot Davies sy'n cwrdd ag un o oroeswyr Hillsborough sydd wedi colli ffrind a chyd-oroeswr i hunanladdiad eleni. Felly er y blynyddoedd hir o ymgyrchu, ydy goroeswyr y drychineb waethaf yn hanes chwaraeon Prydain wedi derbyn y gefnogaeth i ymdopi â'r hyn brofon nhw'",
+      "clic_aired": "31 Hydref 2022",
       "fav_id": "534158704",
-      "id": "853845629",
+      "id": "853845652",
       "series_id": "853845399",
       "title": "Y Byd ar Bedwar",
-      "date_broadcast": "2022-10-27 13:30:00",
+      "date_broadcast": "2022-11-03 13:30:00",
       "vs": "0"
     },
     {
