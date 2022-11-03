@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Côr Cymru 2022",
       "programme_title": "2003-2022: Y Pencampwyr   ",
       "short_billing": "Y gore o'r goreuon - Y 10 enillydd ers dechrau'r gystadleuaeth. Heledd Cynwal a 3 beirniad rhyngwladol sy'n edrych yn ôl drwy'r archif gyda phencampwyr y pencampwyr a gyda chynrychiolwyr o'r corau yno i dderbyn y wobr.",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "30",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "7 Gorffennaf 2022",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "15",
       "series_title": "Dan Do",
@@ -699,6 +680,25 @@
       "fav_id": "802081093",
       "id": "842325124",
       "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "30",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "7 Gorffennaf 2022",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -856,7 +856,7 @@
       "vs": "0"
     },
     {
-      "count": "11",
+      "count": "10",
       "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": null,
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni¿n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw¿r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -1046,22 +1046,22 @@
       "vs": "0"
     },
     {
-      "count": "99",
-      "days_to_expire": "148",
+      "count": "100",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Jeia sydd wedi bod yn dysgu am gorgis a Daf oedd yn y gwobrau caws. ",
+      "short_billing": "Mi fyddwn ni'n fyw o noson wobrwyo rasio ceffylau a bydd ein cyflwynwyr yn dymuno pen-blwydd hapus i S4C. ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Jeia sydd wedi bod yn dysgu am gorgis a Daf oedd yn y gwobrau caws. ",
-      "clic_aired": "2 Tachwedd 2022",
+      "full_billing": "Mi fyddwn ni'n fyw o noson wobrwyo rasio ceffylau a bydd ein cyflwynwyr yn dymuno pen-blwydd hapus i S4C. ",
+      "clic_aired": "3 Tachwedd 2022",
       "fav_id": "520950912",
-      "id": "852337795",
+      "id": "852337816",
       "series_id": "852334583",
       "title": "Heno",
-      "date_broadcast": "2022-11-03 12:30:00",
+      "date_broadcast": "2022-11-04 12:30:00",
       "vs": "0"
     },
     {
