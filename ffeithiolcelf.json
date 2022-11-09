@@ -382,7 +382,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": null,
       "programme_title": "Cymry ar Gynfas: Owain Wyn Evans",
       "short_billing": "Rhaglen arbennig i ddathlu Pride Cymru gyda'r artist Mari Phillips a'r newyddiadurwr ddarlledwr Owain Wyn Evans. Wedi ei ffilmio mewn lleoliadau eiconig LHDT a gyda'r cyfranwyr yn trafod beth mae Pride yn golygu iddyn nhw.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Cynefin - Cyfres 1",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen sy'n mynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": null,
       "programme_title": "DRYCH: Bois Yr Academi",
       "short_billing": "Awn tu ôl i'r llenni yn Clwb Pêl-droed Dinas Abertawe i ddatgelu sut mae datblygu sêr pêl-droed yfory. Wedi'i ffilmio dros dymor cyfan dyma fyd didostur pêl-droed elitaidd lle mai dim ond y goreuon sy'n llwyddo. Pan gymhwysodd Cymru ar gyfer eu Cwpan y Byd cyntaf mewn 64 mlynedd, roedd 6 o'r garfan yn raddedigion o Academi Abertawe! Gyda mynediad unigryw i staff a chwaraewyr, gwelwn yr ymrwymiad sydd ei angen ond hefyd y siom i'r rhai sydd ddim yn llwyddo yn y maes.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "DRYCH: Eirlys, Dementia a Tim",
       "short_billing": "Y cyfarwyddwr ffilm Tim Lyn sy'n dogfennu'r newidiadau ddaw i fywyd hen ffrind ysgol wedi iddi dderbyn diagnosis o dementia.  Mae Eirlys yn 58 oed ac yn barod i wynebu unrhywbeth!",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "DRYCH: Iwan John - Aros am Aren",
       "short_billing": "Rhaglen ddogfen yn dilyn yr actor a'r digrifwr Iwan John, sydd angen aren newydd, a'r dyfodol ansicr sydd o'i flaen wrth iddo aros am drawsblaniad.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "DRYCH: O'r Ysgol i'r Prom",
       "short_billing": "Mae digwyddiad y 'prom' blynyddol mewn ysgolion uwchradd yng Nghymru ar dwf.  Mewn rhaglen ddogfen awr o hyd sy'n rhan o'r gyfres 'DRYCH' bydd 'O'r Ysgol i'r Prom' yn dilyn criwiau o ffrindiau blwyddyn 11 mewn tair ysgol - Ysgol Bodedern, Ynys Môn; Ysgol y Moelwyn, Blaenau Ffestiniog ac Ysgol Plasmawr, Caerdydd, wrth iddynt baratoi, trefnu, ymbincio a dathlu.",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "25",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "7 Gorffennaf 2022",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "10",
       "series_title": "Dan Do",
@@ -705,7 +686,26 @@
     },
     {
       "count": "1",
-      "days_to_expire": "87",
+      "days_to_expire": "25",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "7 Gorffennaf 2022",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "86",
       "series_title": null,
       "programme_title": "Dawns Trwy'r Tywyllwch",
       "short_billing": "Dogfen yn dilyn ffrindiau gorau, Tanisha a Kopano, wrth iddynt baratoi i gystadlu yng nghystadleuaeth Cwpan Dawns y Byd, tra hefyd yn defnyddio dawns fel therapi wrth geisio dygymod gydag absenoldeb ei mam yn eu bywydau.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "Drych: Dau Ffrind, Un Aren",
       "short_billing": "Mae¿r actor a¿r digrifwr Iwan John yn aros am aren newydd. Yn dilyn cyfnod hir ar ddialysis mae ei ffrind gorau y cerddor Steffan Rhys Williams yn cynnig aren iddo.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": null,
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1277",
+      "days_to_expire": "1276",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": null,
       "programme_title": "Mas ar y Maes",
       "short_billing": "Eleni ar faes ein Prifwyl, bu'r Eisteddfod mewn partneriaeth â'r gymuned LHDT a Stonewall Cymru yn paratoi amserlen gynhwysfawr o ddigwyddiadau ar hyd yr wythnos - dyma gipolwg.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": null,
       "programme_title": "Terfysg yn y Bae",
       "short_billing": "Bydd Sean Fletcher yn cyflwyno rhaglen ddogfen a fydd yn hoelio sylw ar Derfysgoedd Hil Caerdydd 1919. Dyma ddarn o hanes Cymru sydd wedi ei guddio, er iddo hawlio penawdau papurau newydd ar draws Prydain ar y pryd ac wedi ysgwyd y ddinas i¿w seiliau am genedlaethau. Bydd Sean yn cyfarfod a bobl ifanc y ddinas heddiw i glywed am ei profiadau a'u barn dros gan mlynedd yn ddiweddarach. ",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Y Babell Lên a Mwy",
       "programme_title": null,
       "short_billing": "Rhaglen yn edrych ar gynnwys Y Babell Lên a Llwyfan y Llannerch yn Eisteddfod Genedlaethol Ceredigion 2022, o farddoniaeth a llenyddiaeth i gynnwys amgen.",
