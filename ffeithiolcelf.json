@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "111",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Tregaron",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "clic_aired": "2 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "842327104",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "139",
       "series_title": "Bwrdd i Dri",
@@ -169,6 +150,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-11-03 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "111",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Tregaron",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "clic_aired": "2 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "842327104",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 2",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": null,
       "programme_title": "Ysbrydion",
       "short_billing": "Ffilm a wnaed ar gyfer Eisteddfod Genedlaethol 2022 yw Ysbrydion. Ynddi, mae pedwar person yn rhannu eu profiadau o dyfu i fyny yn LHDTC yng nghefn gwlad Cymru.",
