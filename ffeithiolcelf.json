@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "106",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Tregaron",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "clic_aired": "2 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "842327104",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "134",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-11-03 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "106",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Tregaron",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "clic_aired": "2 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "842327104",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Dai Llanilar....O Sion a Sian i'r Sioe",
       "short_billing": "Er mai fel cyflwynydd Cefn Gwlad roedd Dai Llanilar fwyaf adnabyddus, fe wisgodd sawl het gan arwain tair cyfres hirhoedlog arall oedd yn gonglfeini arlwy S4C - Siôn a Siân, Rasus a'r Sioe. Camp a chymeriad unigryw na welwn ei debyg eto -Nia Roberts, ffan, ffrind a chyd-gyflwynydd sy'n dathlu'i gyfraniad unigryw tu hwnt i filltir sgwar cyfres Cefn Gwlad.",
