@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Benodet- Quimper",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "149",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
-      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
-      "clic_aired": "16 Tachwedd 2022",
-      "fav_id": "802081093",
-      "id": "842325264",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2022-11-28 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "17",
       "series_title": "Dan Do",
@@ -682,6 +663,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "149",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
+      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
+      "clic_aired": "16 Tachwedd 2022",
+      "fav_id": "802081093",
+      "id": "842325264",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2022-11-28 18:00:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 3",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
@@ -1559,8 +1559,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
