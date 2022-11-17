@@ -211,7 +211,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Y Gymanfa Ganu",
       "short_billing": "Y Gymanfa Ganu yn fyw o Faes yr Eisteddfod.",
@@ -628,25 +628,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "148",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
-      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
-      "clic_aired": "16 Tachwedd 2022",
-      "fav_id": "802081093",
-      "id": "842325264",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2022-11-28 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "16",
       "series_title": "Dan Do",
@@ -663,6 +644,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "148",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
+      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
+      "clic_aired": "16 Tachwedd 2022",
+      "fav_id": "802081093",
+      "id": "842325264",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2022-11-28 18:00:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Eisteddfod yr Urdd 2022",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd 2022",
       "short_billing": "Uchafbwyntiau Eisteddfod yr Urdd Sir Ddinbych 2022. ",
@@ -818,8 +818,8 @@
       "vs": "0"
     },
     {
-      "count": "16",
-      "days_to_expire": "112",
+      "count": "15",
+      "days_to_expire": "111",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen olaf am eleni mae Meinir yn ymuno hefo Sioned ac Iwan ym Mhont y Twr lle mae Sioned yn creu potyn ar gyfer y Gaeaf ac Iwan yn defnyddio tomwellt i warchod y planhigion rhag yr oerfel. Cawn hefyd weld ymwled â gardd Mari Huws ar Ynys Enlli.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae drysau'r Academi ar agor! Amser i griw newydd o bobyddion ddangos eu sgiliau i Richard yn y gegin. Yn y bennod cyntaf, bydd y gr¿p yn mynd draw i Melin Llynon er mwyn cyfarfod â'r cogydd patisserie enwog am y tro cyntaf - a cheisio gwneud argraff dda arno!",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
