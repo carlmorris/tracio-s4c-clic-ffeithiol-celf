@@ -21,7 +21,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Am Dro!",
       "programme_title": "Pennod 1",
       "short_billing": "Mae mil o bunnoedd yn y fantol a phedwar yn brwydro i¿w hennill drwy arwain teithiau cerdded i arddangos eu hardaloedd ar eu gorau.  Byddwn yn ymweld a Bro Morgannwg, Cwm Ffynnonau yn Sir Benfro, Penllyn a Chaergybi yng nghwmni Stephen, Rhodri, Alex a Jacqui.",
@@ -628,25 +628,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "146",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
-      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
-      "clic_aired": "16 Tachwedd 2022",
-      "fav_id": "802081093",
-      "id": "842325264",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2022-11-28 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "15",
       "series_title": "Dan Do",
@@ -663,6 +644,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "146",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag eglwys sydd wedi cael ei thrawsnewid yn safle aml bwrpas ym Mlaencelyn, ty newydd llawn steil yn y Bontfaen ac adeilad Fictoraidd ym Mhenarth sydd wedi'i adnewyddu'n gartref teuluol hyfryd.    ",
+      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy¿n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni¿n ymweld â chartref Edwardaidd â dylanwad Ffrengig yn Llanelli,  bynglo o¿r dauddegau sydd wedi cael estyniad rhyfeddol yn Y Fenni, a th&#375; ffrâm dderw sy¿n gartref unigryw ar Ynys Môn.   ",
+      "clic_aired": "16 Tachwedd 2022",
+      "fav_id": "802081093",
+      "id": "842325264",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2022-11-28 18:00:00",
       "vs": "0"
     },
     {
