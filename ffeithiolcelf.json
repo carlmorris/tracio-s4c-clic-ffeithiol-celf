@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "124",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-11-03 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "96",
       "series_title": "Bwrdd i Dri",
@@ -150,6 +131,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "124",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-11-03 18:30:00",
       "vs": "0"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Y Gymanfa Ganu",
       "short_billing": "Y Gymanfa Ganu yn fyw o Faes yr Eisteddfod.",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "9",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "7 Gorffennaf 2022",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "141",
       "series_title": "Dan Do",
@@ -625,6 +606,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2022-11-28 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "9",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "7 Gorffennaf 2022",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -761,8 +761,8 @@
       "vs": "0"
     },
     {
-      "count": "15",
-      "days_to_expire": "105",
+      "count": "14",
+      "days_to_expire": "104",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen olaf am eleni mae Meinir yn ymuno hefo Sioned ac Iwan ym Mhont y Twr lle mae Sioned yn creu potyn ar gyfer y Gaeaf ac Iwan yn defnyddio tomwellt i warchod y planhigion rhag yr oerfel. Cawn hefyd weld ymwled â gardd Mari Huws ar Ynys Enlli.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Sesiwn Fawr Dolgellau 2022: Dathlu'r 30",
       "short_billing": "Ifan Davies a Lauren Moore fydd yn cyflwyno uchafbwyntiau o Sesiwn Fawr Dolgellau 2022: Dathlu'r 30. Cawn berfformiadau byw gan Yws Gwynedd, Skerryvore, Bwncath, Tara Bandito, No Good Boyo a llawer mwy, a pherfformiadau unigol gan Eadyth, Gwilym Bowen Rhys a Morgan Elwy. Fe fyddwn hefyd yn edrych nôl a nodi carreg filltir bwysig yn hanes un o brif wyliau cerddorol Ewrop.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
