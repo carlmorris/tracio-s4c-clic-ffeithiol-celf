@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "9",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "7 Gorffennaf 2022",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "141",
       "series_title": "Dan Do",
@@ -625,6 +606,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2022-11-28 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "9",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â th&#375; Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "7 Gorffennaf 2022",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -742,8 +742,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "140",
+      "count": "9",
+      "days_to_expire": "139",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Anghysondeb ym mhrisiau'r farchnad cig oen; rheoli gwrthfiotigau mewn da byw; a cipio'r brif wobr yn y Sioe Frenhinol eleni.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw'r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -932,22 +932,22 @@
       "vs": "0"
     },
     {
-      "count": "99",
-      "days_to_expire": "148",
+      "count": "100",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Cawn glywed hanes cyfres newydd His Dark Materials. \n\n\n ",
+      "short_billing": "Criw CIC bydd yn y stiwdio heddiw, sef Heledd Anna, Lloyd Lewis a Huw Owen. \n\n\n ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cawn glywed hanes cyfres newydd His Dark Materials. \n\n\n ",
-      "clic_aired": "23 Tachwedd 2022",
+      "full_billing": "Criw CIC bydd yn y stiwdio heddiw, sef Heledd Anna, Lloyd Lewis a Huw Owen. \n\n\n ",
+      "clic_aired": "24 Tachwedd 2022",
       "fav_id": "520950912",
-      "id": "852338110",
+      "id": "852338131",
       "series_id": "852334583",
       "title": "Heno",
-      "date_broadcast": "2022-11-24 12:30:00",
+      "date_broadcast": "2022-11-24 19:00:00",
       "vs": "0"
     },
     {
