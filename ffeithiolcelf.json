@@ -382,7 +382,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Aberteifi",
       "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
@@ -1442,6 +1442,25 @@
       "series_id": "858496282",
       "title": "Y Sioe 2022",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "6",
+      "series_title": "Y Wal Goch",
+      "programme_title": null,
+      "short_billing": "Yn dilyn gêm fawr Cymru yn erbyn Iran, Yws Gwynedd a Mari Lovgreen fydd yn dod ag ymateb y cefnogwyr sef Y Wal Goch yn fyw o Neuadd y farchnad, Caernarfon. Yn cadw cwmni iddyn nhw fydd Malcolm Allen, Llinos Lee ag Ifan Jones Evans. ",
+      "thumbnail_url": "Y_Wal_Goch_2022S4C_Teitl_00892.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn dilyn gêm fawr Cymru yn erbyn Iran, Yws Gwynedd a Mari Lovgreen fydd yn dod ag ymateb y cefnogwyr sef Y Wal Goch yn fyw o Neuadd y farchnad, Caernarfon. Yn cadw cwmni iddyn nhw fydd Malcolm Allen, Llinos Lee ag Ifan Jones Evans. ",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "864829614",
+      "id": "864829642",
+      "series_id": "864829614",
+      "title": "Y Wal Goch",
+      "date_broadcast": "2022-11-25 21:00:00",
       "vs": "0"
     },
     {
