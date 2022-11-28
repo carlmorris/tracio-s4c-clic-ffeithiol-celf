@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "120",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-11-03 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "146",
       "series_title": "Bwrdd i Dri",
@@ -150,6 +131,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-05 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "120",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-11-03 18:30:00",
       "vs": "0"
     },
     {
@@ -704,7 +704,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "7",
       "days_to_expire": "136",
       "series_title": "FFIT Cymru",
       "programme_title": "Pennod 1",
@@ -1404,6 +1404,25 @@
       "series_id": "845975357",
       "title": "Y Fets",
       "date_broadcast": "2022-11-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Y Ffair Aeaf",
+      "programme_title": "Y Ffair Aeaf  - Bore Llun",
+      "short_billing": "Bydd Nia Roberts a'r tîm yng nghalon bwrlwm y Ffair Aeaf yn Llanelwedd gan ddilyn y cystadlu brwd a gweld y gorau o'r adrannau gwartheg, defaid, moch a cheffylau. Daw blas o'r stondinau masnach, y bwyd a'r diod ac adrannau'r blodau, y gwaith llaw a chynnyrch. ",
+      "thumbnail_url": "Y_Ffair_Aeaf_S4C_Ceiliog_003.jpg",
+      "duration": "96",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Nia Roberts a'r tîm yng nghalon bwrlwm y Ffair Aeaf yn Llanelwedd gan ddilyn y cystadlu brwd a gweld y gorau o'r adrannau gwartheg, defaid, moch a cheffylau. Daw blas o'r stondinau masnach, y bwyd a'r diod ac adrannau'r blodau, y gwaith llaw a chynnyrch. ",
+      "clic_aired": "28 Tachwedd 2022",
+      "fav_id": "537627367",
+      "id": "865267499",
+      "series_id": "865267490",
+      "title": "Y Ffair Aeaf",
+      "date_broadcast": "2022-11-28 10:00:00",
       "vs": "0"
     },
     {
