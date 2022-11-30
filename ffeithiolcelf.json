@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "3 Lle",
       "programme_title": "Ifan Jones Evans",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -115,7 +115,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "5",
       "days_to_expire": "144",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Aberdâr",
@@ -875,25 +875,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "58",
-      "series_title": "Gwyliau Gartref",
-      "programme_title": "Biwmares",
-      "short_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw'r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
-      "thumbnail_url": "Gwyliau_Gartref_2022S4C_Biwmares_P4_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw'r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
-      "clic_aired": "30 Awst 2022",
-      "fav_id": "845839935",
-      "id": "845840026",
-      "series_id": "845839935",
-      "title": "Gwyliau Gartref",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "98",
       "days_to_expire": "148",
       "series_title": "Heno",
@@ -1199,7 +1180,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
