@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "118",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-11-03 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "144",
       "series_title": "Bwrdd i Dri",
@@ -150,6 +131,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-05 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "118",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-11-03 18:30:00",
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
@@ -1416,13 +1416,13 @@
       "duration": "91",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ymunwch â Nia Roberts a'r tîm wrth i'r cystadlu gyrraedd pinacl Ffair Aeaf Llanelwedd.  Pwy fydd yn cipio prif bencampwriaethau'r gwartheg, defaid a cheffylau' ",
+      "full_billing": "Nia Roberts a'r tîm fydd yn cyflwyno'n fyw o Lanelwedd.  Cawn holl gyffro arwerthiant mawr y gwartheg.  ",
       "clic_aired": "29 Tachwedd 2022",
       "fav_id": "537627367",
-      "id": "865267609",
+      "id": "865267631",
       "series_id": "865267490",
       "title": "Y Ffair Aeaf",
-      "date_broadcast": "2022-11-29 12:05:00",
+      "date_broadcast": "2022-11-29 14:05:00",
       "vs": "0"
     },
     {
@@ -1502,12 +1502,12 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "122",
       "series_title": "Ysgol Ni: Y Moelwyn",
       "programme_title": "Pennod 1",
       "short_billing": "Mae dosbarth Cymraeg Mrs Roberts yn cael gwers am arwr lleol, Hedd Wyn, ond beth fydd eu hymateb' 'Player' oedd yn licio'r merched mae Elis yn ei feddwl ohono, ond mae Iwan yn teimlo bod o mor bwysig ag Owain Glyndwr. Ac mae na gyn-ddisgybl enwog yn ymweld a'r ysgol ac yn tanio dychymyg y criw drama. ",
-      "thumbnail_url": "Ysgol_Ni_Moelwyn_2022S4C_0154.jpg",
+      "thumbnail_url": "Ysgol_Ni_Moelwyn_2022S4C_P1_Enfys_a_Chloe_3343.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
