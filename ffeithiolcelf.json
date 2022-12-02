@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "116",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-11-03 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "142",
       "series_title": "Bwrdd i Dri",
@@ -150,6 +131,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-05 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "116",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-11-03 18:30:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": null,
       "programme_title": "Dai Llanilar....O Sion a Sian i'r Sioe",
       "short_billing": "Er mai fel cyflwynydd Cefn Gwlad roedd Dai Llanilar fwyaf adnabyddus, fe wisgodd sawl het gan arwain tair cyfres hirhoedlog arall oedd yn gonglfeini arlwy S4C - Siôn a Siân, Rasus a'r Sioe. Camp a chymeriad unigryw na welwn ei debyg eto -Nia Roberts, ffan, ffrind a chyd-gyflwynydd sy'n dathlu'i gyfraniad unigryw tu hwnt i filltir sgwar cyfres Cefn Gwlad.",
@@ -1404,6 +1404,25 @@
       "series_id": "858496282",
       "title": "Y Sioe 2022",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "6",
+      "series_title": "Y Wal Goch",
+      "programme_title": null,
+      "short_billing": "Yws Gwynedd a Mari Lovgreen fydd nôl yn Wrecsam yn dilyn hynt a helynt y tîm cenedlaethol yng Nghwpan y Byd. Yn ymuno â nhw fydd y cyflwynwyr Alun Williams a Nicky John, y cyn-chwarewr Marc Lloyd Williams, a bydd Catrin Heledd yn sgwrsio o Qatar. ",
+      "thumbnail_url": "Y_Wal_Goch_2022S4C_Teitl_00892.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yws Gwynedd a Mari Lovgreen fydd nôl yn Wrecsam yn dilyn hynt a helynt y tîm cenedlaethol yng Nghwpan y Byd. Yn ymuno â nhw fydd y cyflwynwyr Alun Williams a Nicky John, y cyn-chwarewr Marc Lloyd Williams, a bydd Catrin Heledd yn sgwrsio o Qatar. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "864829614",
+      "id": "864829662",
+      "series_id": "864829614",
+      "title": "Y Wal Goch",
+      "date_broadcast": "2022-12-02 21:00:00",
       "vs": "0"
     },
     {
