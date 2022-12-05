@@ -267,8 +267,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "21",
+      "count": "3",
+      "days_to_expire": "20",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -875,7 +875,7 @@
       "vs": "0"
     },
     {
-      "count": "96",
+      "count": "97",
       "days_to_expire": "147",
       "series_title": "Heno",
       "programme_title": null,
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 6",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
@@ -1141,7 +1141,7 @@
       "vs": "0"
     },
     {
-      "count": "93",
+      "count": "92",
       "days_to_expire": "147",
       "series_title": "Prynhawn Da",
       "programme_title": null,
@@ -1480,6 +1480,25 @@
       "series_id": null,
       "title": "Yma o Hyd",
       "date_broadcast": "2022-11-26 18:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "53",
+      "series_title": null,
+      "programme_title": "Ysbrydion",
+      "short_billing": "Ffilm a wnaed ar gyfer Eisteddfod Genedlaethol 2022 yw Ysbrydion. Ynddi, mae pedwar person yn rhannu eu profiadau o dyfu i fyny yn LHDTC yng nghefn gwlad Cymru.",
+      "thumbnail_url": "Cwiar_01.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ffilm a wnaed ar gyfer Eisteddfod Genedlaethol 2022 yw Ysbrydion. Ynddi, mae pedwar person yn rhannu eu profiadau o dyfu i fyny yn LHDTC yng nghefn gwlad Cymru.",
+      "clic_aired": "31 Awst 2022",
+      "fav_id": "861047093",
+      "id": "861047093",
+      "series_id": null,
+      "title": "Ysbrydion",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
