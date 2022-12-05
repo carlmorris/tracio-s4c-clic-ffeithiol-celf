@@ -59,7 +59,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i'r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy'n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1119,6 +1119,25 @@
       "series_id": "826319094",
       "title": "Pobol y Môr",
       "date_broadcast": "2022-12-18 10:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Pobol y Rhondda",
+      "programme_title": null,
+      "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
+      "thumbnail_url": "pobol_y_rhondda_series_image.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Un o fois y Rhondda yw Siôn Tomos Owen. Yno y cafodd ei fagu, ac yno mae'n dal i fyw. Yn ystod y gyfres hon bydd Siôn yn creu map unigryw o'r ardal, a lluniau trawiadol o'r bobol y mae'n eu cyfarfod. Fydd Y Rhondda byth yn edrych yr un fath eto! Heddiw bydd Siôn yn hel defaid ac yn blasu cwrw, yn clywed am deulu sydd wedi byw yn yr un ty ers 150 o flynyddoedd, ac yn camu i fyd un o sêr 'YouTube'. Ardal ddifyr a phobol agos atoch, a Siôn yn rhoi Y Rhondda a'i phobol ar y map. ",
+      "clic_aired": "5 Rhagfyr 2022",
+      "fav_id": "797219776",
+      "id": "527632645",
+      "series_id": "527632637",
+      "title": "Pobol y Rhondda",
+      "date_broadcast": "2022-12-09 18:30:00",
       "vs": "0"
     },
     {
