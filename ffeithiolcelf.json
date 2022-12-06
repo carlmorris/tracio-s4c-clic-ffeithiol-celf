@@ -59,7 +59,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -188,6 +188,25 @@
       "series_id": "808269501",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2022-12-03 10:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Ceffylau Cymru",
+      "programme_title": null,
+      "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
+      "thumbnail_url": "Ceffylau_Cymru_2016S4C_P1_004.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres yn dilyn byd y ceffyl yn y Gymru gyfoes gyda Brychan Llyr a David Oliver. Yn y bennod gyntaf, dilynwn hanes hanner blwyddyn brysur, llwyddiannus y teulu Jones, Bridfa Menai ger Llandysul - enw cyfarwydd yn y maes merlod a chobiau Cymreig. Bydd Peter a'r teulu yn rhannu sut maen nhw'n rhedeg busnes a chadw safonau, gyda Brychan yn helpu gyda'r gwaith paratoi ar gyfer y Sioe Frenhinol a David yn ymuno â'r teulu wrth iddynt gystadlu yn y Horse of the Year Show ym Mirmingham.",
+      "clic_aired": "6 Rhagfyr 2022",
+      "fav_id": "535205524",
+      "id": "529783204",
+      "series_id": "529783194",
+      "title": "Ceffylau Cymru",
+      "date_broadcast": "2022-12-09 18:00:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i'r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy'n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1142,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
