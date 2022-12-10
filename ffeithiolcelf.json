@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "134",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-12-05 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "108",
       "series_title": "Bwrdd i Dri",
@@ -169,6 +150,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "134",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-12-05 13:30:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": null,
       "programme_title": "Cystadleuaeth Cantorion Cymreig 2022",
       "short_billing": "Uchafbwyntiau Cystadleuaeth Cantorion Cymreig 2022 o Neuadd Dora Stoutzker, Coleg Brenhinol Cerdd a Drama Cymru. Bydd 5 o gantorion ifanc brwd yn cystadlu am y teitl  - Dafydd Allen, Erin Gwyn Rossington, Kieron-Connor Valentine, Jessica Robinson ac Osian Wyn Bowen.  Fe ddown ni i nabod y pump wrth iddyn nhw anelu i gynrychioli Cymru yng Nghwpan y Byd canu cerddoriaeth clasurol - Canwr y Byd Caerdydd 2023. Heledd Cynwal ac Elin Manahan Thomas sy'n cyflwyno.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Eisteddfod Llangollen 2022",
       "programme_title": "Uchafbwyntiau Llangollen 2022",
       "short_billing": "Ffion Emyr ac Ameer Davies Rana sy'n cyflwyno gwledd o uchafbwyntiau Eisteddfod Llangollen 2022 wrth i'r dref fach groesawu'r byd yn nôl ac wrth i gerddoriaeth a dawns lifo drwyddi unwaith eto. ",
