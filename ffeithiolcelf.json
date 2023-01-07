@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "3 Lle",
       "programme_title": "Ifan Jones Evans",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -16,25 +16,6 @@
       "id": "536773718",
       "series_id": "536773621",
       "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Adre",
-      "programme_title": "       Adre - Nadolig",
-      "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "thumbnail_url": "Adre_2019-20S4C_P8_Nadolig_Dave_Easton_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "clic_aired": "3 Rhagfyr 2022",
-      "fav_id": "793406870",
-      "id": "802669929",
-      "series_id": "802516813",
-      "title": "Adre",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -191,25 +172,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "106",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-12-31 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "80",
       "series_title": "Bwrdd i Dri",
@@ -226,6 +188,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "106",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-12-31 16:50:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
