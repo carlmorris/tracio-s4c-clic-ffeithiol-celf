@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "14",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro Selebs",
-      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "clic_aired": "19 Rhagfyr 2022",
-      "fav_id": "809997292",
-      "id": "809997923",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2022-12-18 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "84",
       "series_title": "Am Dro!",
@@ -93,6 +74,25 @@
       "series_id": "833368956",
       "title": "Am Dro!",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "14",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro Selebs",
+      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "clic_aired": "19 Rhagfyr 2022",
+      "fav_id": "809997292",
+      "id": "809997923",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2022-12-18 23:00:00",
       "vs": "0"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Caerdydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
@@ -1188,13 +1188,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Comics, faggots a scooters. Dyna rai o'r pethau y bydd Siôn Tomos Owen o Dreorci yn eu rhoi ar ei fap o'r Rhondda yr wythnos yma. Bydd yn mynd i Drealaw i weld 'ogof' ryfeddol Anthony Bollard ac yn mynd i ¿yl y Lion yn Nhreorci i sgwrsio gyda'r perchennog Adrian Emmett. Cawn gyfarfod y dyn sy'n cynhyrchu miloedd o faggots yn Tylorstown, a gweld Siôn yn mwynhau ei hoff hufen iâ yn y cwm. Bydd yn galw mewn siop gomics anhygoel ym Mhenygraig, ac yn cyfarfod un o arwyr tawel y Rhondda, seren y scoot",
+      "full_billing": "Siôn Tomos Owen sy'n mynd yn ôl i'w hen ysgol i ddathlu pen-blwydd Ysgol Gymraeg Ynyswen yn 65 oed. Cawn gyfarfod un o ddisgyblion cyntaf yr ysgol, a bydd y plant yn gwneud cart¿n o Siôn. Paned yng nghaffi enwog Carpaninis wedyn gyda Julie MacMillan, dysgwr Cymraeg sy'n awr yn dysgu'r iaith i eraill. Taith lan Y Bwlch am bicnic gyda Ffion Evans ar ôl hynny, wedyn 'nôl i Ysgol Ynyswen ar gyfer Ffair Haf yr ysgol. A cyfle arall i glywed teulu Glyncoli yn rhoi'r byd yn ei le o gwmpas bwrdd y gegin.",
       "clic_aired": "2 Ionawr 2023",
       "fav_id": "797219776",
-      "id": "527632705",
+      "id": "527632725",
       "series_id": "527632637",
       "title": "Pobol y Rhondda",
-      "date_broadcast": "2023-01-13 18:30:00",
+      "date_broadcast": "2023-01-20 18:30:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Wrecsam...Clwb Ni!",
       "programme_title": "Pennod 1",
       "short_billing": "Er mawr syndod iddynt, mae ffans selog Clwb Pêl-droed Wrecsam yn clywed fod dau o sêr y sgrin - Ryan Reynolds a Rob McElhenney - wedi prynu'r clwb. Byddwn yn cwrdd â rhai o'r cefnogwyr ac yn darganfod beth fydd nesaf i'r clwb hynafol hwn nawr ei fod dan ofal y perchnogion newydd annisgwyl o Hollywood.",
