@@ -287,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -1290,6 +1290,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-01-06 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Straeon y Ffin",
+      "programme_title": null,
+      "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
+      "thumbnail_url": "Straeon_y_Ffin_2016_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr actor a'r cerddor Gareth Potter sy'n teithio'r ffin rhwng Cymru a Lloegr yn darganfod hanesion a phobl arbennig, ac yn holi a oes gan ardaloedd ar y Gororau eu hunaniaeth eu hunain. Y tro hwn, cawn gipolwg ar sut mae'r ffin wedi symud dros y canrifoedd. Bydd Gareth yn teithio o Gaer ar y ffin fodern i Dreffynnon oedd, ar un adeg, y tu allan i Gymru. Wrth ymladd yn erbyn arth yng Nghaer a dysgu hen ganeuon gwerin ardal Treffynnon, mae Gareth yn ei elfen.",
+      "clic_aired": "9 Ionawr 2023",
+      "fav_id": "798183987",
+      "id": "528653415",
+      "series_id": "528653407",
+      "title": "Straeon y Ffin",
+      "date_broadcast": "2023-01-11 23:00:00",
       "vs": "0"
     },
     {
