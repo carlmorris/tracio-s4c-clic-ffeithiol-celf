@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "11",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro Selebs",
-      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
-      "clic_aired": "19 Rhagfyr 2022",
-      "fav_id": "809997292",
-      "id": "809997923",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2022-12-18 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "81",
       "series_title": "Am Dro!",
@@ -93,6 +74,25 @@
       "series_id": "833368956",
       "title": "Am Dro!",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "11",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro Selebs",
+      "short_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "thumbnail_url": "Am_Dro_2020S4C_P7_Selebs_9149.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, bydd yr arweinydd côr byd enwog Alwyn Humphreys yn ein tywys i Sir Fon, yr ynys lle cafodd ei eni, ar daith o Fiwmaris i Benmon. Mae'r actor Sue Roderick wedi troedio sawl llwyfan yn ystod ei gyrfa disglair, ond troedio'r Lon Goed yn Eifionydd bydd hi wrth ddangos bro ei mebyd i'r criw. Taith drwy Barc Arfordirol Pen-Bre yw 'catwalk' Miss Universe, Emma Jenkins; a thaith drwy'r Bannau i chwilio am fan hanesyddol arbennig yw dewis y dyn tywydd a'r drymiwr Owain Wyn Evans",
+      "clic_aired": "19 Rhagfyr 2022",
+      "fav_id": "809997292",
+      "id": "809997923",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2022-12-18 23:00:00",
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Gig y Pafiliwn",
       "short_billing": "Huw Stephens sy'n cyflwyno Gig y Pafiliwn Eisteddfod Genedlaethol Ceredigion gyda Adwaith, Alffa, Gwilym, Mellt a'r Welsh Pops Orchestra.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": null,
       "programme_title": "Cystadleuaeth Cantorion Cymreig 2022",
       "short_billing": "Uchafbwyntiau Cystadleuaeth Cantorion Cymreig 2022 o Neuadd Dora Stoutzker, Coleg Brenhinol Cerdd a Drama Cymru. Bydd 5 o gantorion ifanc brwd yn cystadlu am y teitl  - Dafydd Allen, Erin Gwyn Rossington, Kieron-Connor Valentine, Jessica Robinson ac Osian Wyn Bowen.  Fe ddown ni i nabod y pump wrth iddyn nhw anelu i gynrychioli Cymru yng Nghwpan y Byd canu cerddoriaeth clasurol - Canwr y Byd Caerdydd 2023. Heledd Cynwal ac Elin Manahan Thomas sy'n cyflwyno.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Eisteddfod Llangollen 2022",
       "programme_title": "Uchafbwyntiau Llangollen 2022",
       "short_billing": "Ffion Emyr ac Ameer Davies Rana sy'n cyflwyno gwledd o uchafbwyntiau Eisteddfod Llangollen 2022 wrth i'r dref fach groesawu'r byd yn nôl ac wrth i gerddoriaeth a dawns lifo drwyddi unwaith eto. ",
