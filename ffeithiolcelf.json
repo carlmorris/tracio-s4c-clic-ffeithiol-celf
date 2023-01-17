@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Am Dro",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr - selebs! - yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. Gyda Donna Edwards, Catrin Heledd, Gwilym Ifan Pritchard, a Dewi Pws.",
@@ -55,25 +55,6 @@
       "series_id": "856636819",
       "title": "Am Dro",
       "date_broadcast": "2023-01-17 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "75",
-      "series_title": "Am Dro!",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae mil o bunnoedd yn y fantol a phedwar yn brwydro i'w hennill drwy arwain teithiau cerdded i arddangos eu hardaloedd ar eu gorau.  Byddwn yn ymweld a Bro Morgannwg, Cwm Ffynnonau yn Sir Benfro, Penllyn a Chaergybi yng nghwmni Stephen, Rhodri, Alex a Jacqui.",
-      "thumbnail_url": "Am_Dro_2022S4C_P10_02_Grwp.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae pedwar yn cystadlu i ennill mil o bunnau.\r\nAr ddechrau cyfres newydd sbon byddwn yn ymweld â Phwll, Cil y Coed, Porthmadog ac Aberffraw gyda Mhara, Nick, Charly a Tommie.\r\nPwy fydd yn cipio'r wobr fawr' Mae'n amser i fynd Am Dro!",
-      "clic_aired": "4 Tachwedd 2022",
-      "fav_id": "809997292",
-      "id": "833369296",
-      "series_id": "833368956",
-      "title": "Am Dro!",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -93,6 +74,25 @@
       "series_id": "809997652",
       "title": "Am Dro!",
       "date_broadcast": "2022-12-18 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "75",
+      "series_title": "Am Dro!",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae mil o bunnoedd yn y fantol a phedwar yn brwydro i'w hennill drwy arwain teithiau cerdded i arddangos eu hardaloedd ar eu gorau.  Byddwn yn ymweld a Bro Morgannwg, Cwm Ffynnonau yn Sir Benfro, Penllyn a Chaergybi yng nghwmni Stephen, Rhodri, Alex a Jacqui.",
+      "thumbnail_url": "Am_Dro_2022S4C_P10_02_Grwp.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae pedwar yn cystadlu i ennill mil o bunnau.\r\nAr ddechrau cyfres newydd sbon byddwn yn ymweld â Phwll, Cil y Coed, Porthmadog ac Aberffraw gyda Mhara, Nick, Charly a Tommie.\r\nPwy fydd yn cipio'r wobr fawr' Mae'n amser i fynd Am Dro!",
+      "clic_aired": "4 Tachwedd 2022",
+      "fav_id": "809997292",
+      "id": "833369296",
+      "series_id": "833368956",
+      "title": "Am Dro!",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -210,25 +210,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "70",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "96",
       "series_title": "Bwrdd i Dri",
@@ -245,6 +226,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-31 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "70",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Fleur de Lys",
       "short_billing": "Rhys Meirion sy'n gwireddu breuddwydion Ioan, bachgen wyth oed o Sir Fôn ac eraill sydd i gyd am gael canu gyda'u harwyr cerddorol - y band poblogaidd o Sir Fôn, Fleur de Lys. ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2022",
       "short_billing": "Pa ysgol fydd yn ennill teitl Carol yr Wyl 2022' Robat Arwyn a Bronwen Lewis sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos i ni sut gallwch chi greu prydiau sy'n apelio i bobol ffyslyd. Mae Aaron a'r plant yn dod draw i fwyta eu hoff basta gyda saws Nana.  ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Yn y rhaglen olaf am eleni mae Meinir yn ymuno hefo Sioned ac Iwan ym Mhont y Twr lle mae Sioned yn creu potyn ar gyfer y Gaeaf ac Iwan yn defnyddio tomwellt i warchod y planhigion rhag yr oerfel. Cawn hefyd weld ymwled â gardd Mari Huws ar Ynys Enlli.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Rhaglen arbennig i ddathlu cyfraniad unigryw Hywel Gwynfryn ar achlysur ei benblwydd yn 80 oed. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir yn onest¿¿..",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Y Ffair Aeaf - Uchafbwyntiau ",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2022. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. ",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
