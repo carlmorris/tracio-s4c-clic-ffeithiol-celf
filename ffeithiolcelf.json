@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -1236,22 +1236,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
-      "thumbnail_url": "straeon_y_ffin_2016_02.jpg",
+      "thumbnail_url": "straeon_y_ffin_2016_03.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Yr actor a'r cerddor Gareth Potter sy'n teithio ar hyd y ffin rhwng Cymru a Lloegr yn darganfod hanesion a phobl ddiddorol, ac yn holi a oes gan ardaloedd ar y Gororau eu hunaniaeth eu hunain.  Yn ail raglen y gyfres, cawn deithio dros draphont y Waun yng nghwmni Gareth a'r awdur lleol Aled Lewis Evans, a chael ychydig o hanes Castell y Waun. Byddwn hefyd yn mynd draw i 'dref Gymreiciaf Lloegr', ac yn cynnal arolwg byrfyfyr ar y stryd yno yng Nghroesoswallt.",
-      "clic_aired": "16 Ionawr 2023",
+      "full_billing": "Yn y drydedd bennod, ardal y Trallwng sy'n mynd â bryd Gareth Potter wrth iddo ein cyflwyno i rai o'r llefydd ar y ffin rhwng Cymru a Lloegr. Bydd e'n  cychwyn ei daith ynghanol y da a'r ffermwyr draw yn y mart cyn cael sgwrs efo criw o ferched yn yr hen dalwrn ymladd ceiliogod. Yna, aiff draw i Fryngaer o'r Oes Efydd uwchben y dref yng nghwmni Rhys Mwyn.",
+      "clic_aired": "23 Ionawr 2023",
       "fav_id": "798183987",
-      "id": "528653435",
+      "id": "528653455",
       "series_id": "528653407",
       "title": "Straeon y Ffin",
-      "date_broadcast": "2023-01-18 23:05:00",
+      "date_broadcast": "2023-01-25 23:00:00",
       "vs": "0"
     },
     {
