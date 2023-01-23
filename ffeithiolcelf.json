@@ -286,7 +286,7 @@
       "vs": "0"
     },
     {
-      "count": "7",
+      "count": "6",
       "days_to_expire": "125",
       "series_title": "Cefn Gwlad",
       "programme_title": "Emlyn a Mair Morgan - Tyngarn",
@@ -344,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cyfres lle mae Cerys Matthews yn olrhain hanes deuddeg cân sydd â'u gwreiddiau yng Nghymru neu â chysylltiad gyda Gwlad y Gân.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Darn Bach o Hanes",
       "programme_title": "Y Ras i Ddulyn",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 6",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
@@ -1293,22 +1293,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "34",
       "series_title": "Wil ac Aeron: Taith Rwmania",
-      "programme_title": "Fferm Fodern",
+      "programme_title": "Sipsiwn",
       "short_billing": "Cyfres yn dilyn Wil Hendreseifion ac Aeron Pughe i Rwmania mewn camperfan.",
-      "thumbnail_url": "Wil_ac_Aeron_Taith_Rwmania_2018_P3_Fferm_Fodern_015.jpg",
-      "duration": "23",
+      "thumbnail_url": "Wil_ac_Aeron_Taith_Rwmania_2018_P4_Sipsiwn_024.jpg",
+      "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Wil ac Aeron yn cyd-fyw â theulu biliwnydd sy'n rhedeg fferm fodern ac yn cyflogi staff o bob rhan o Ewrop.   Maen nhw'n darganfod bod y teulu, heb unrhyw brofiad o ffermio, wedi prynu'r tir yn rhad ar ôl diwedd comiwnyddiaeth ac ers hynny maent wedi dod yn un o deuluoedd ffermio mwyaf llwyddiannus y wlad. ",
-      "clic_aired": "16 Ionawr 2023",
+      "full_billing": "Yn y bennod yma mae Wil ac Aeron yn cyd-fyw â'r gr¿p ethnig lleiafrifol mwyaf yn yr Undeb Ewropeaidd - y Sipsiwn.  Mae pawb yn brysur yn paratoi at yr ¿yl flynyddol i ddathlu diwylliant y Sipsiwn ac mae Wil ac Aeron yno i helpu gyda'r paratoadau.  Yng nghanol yr anifeiliaid, y lliw, y gwledda, y grefydd a'r hiwmor, dyma gyfle unigryw i herio unrhyw ragdybiaeth a dod i adnabod y Sipsiwn go iawn.",
+      "clic_aired": "23 Ionawr 2023",
       "fav_id": "534116591",
-      "id": "791621839",
+      "id": "791621865",
       "series_id": "791621758",
       "title": "Wil ac Aeron: Taith Rwmania",
-      "date_broadcast": "2023-01-19 23:25:00",
+      "date_broadcast": "2023-01-26 23:00:00",
       "vs": "0"
     },
     {
