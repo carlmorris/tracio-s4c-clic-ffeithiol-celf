@@ -58,7 +58,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "4",
       "days_to_expire": "69",
       "series_title": "Am Dro!",
       "programme_title": "Pennod 1",
@@ -286,7 +286,7 @@
       "vs": "0"
     },
     {
-      "count": "5",
+      "count": "6",
       "days_to_expire": "125",
       "series_title": "Cefn Gwlad",
       "programme_title": "Emlyn a Mair Morgan - Tyngarn",
@@ -732,10 +732,10 @@
       "duration": "26",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfle i fwynhau golygfeydd godidog glannau Cymru o'r awyr. Dilynwn holl arfordir Cymru o'r awyr - o'i dechrau i'w diwedd. Y tro hwn, Maes Awyr Caerdydd i Fae Baglan.",
+      "full_billing": "Cyfle i fwynhau golygfeydd godidog glannau Cymru o'r awyr. Dilynwn holl arfordir Cymru o'r awyr - o'i dechrau i'w diwedd. Y tro hwn, Bae Abertawe i Ben-bre.",
       "clic_aired": "19 Medi 2022",
       "fav_id": "834148906",
-      "id": "834150109",
+      "id": "834150133",
       "series_id": "834149979",
       "title": "Glannau Cymru o'r Awyr",
       "date_broadcast": null,
@@ -1141,8 +1141,8 @@
       "vs": "0"
     },
     {
-      "count": "96",
-      "days_to_expire": "147",
+      "count": "95",
+      "days_to_expire": "146",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Owain Williams o gylchgrawn Klust bydd yma i drafod cerddoriaeth a byddwn yn bachu bargen gyda Llio Angharad. ",
