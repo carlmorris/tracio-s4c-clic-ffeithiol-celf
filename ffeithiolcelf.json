@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Bois 58",
       "short_billing": "Mae'n 64 mlynedd ers Cwpan y Byd gyntaf Cymru efo hogia' Jimmy Murphy nôl yn 1958. Er bod rhai enwau fel John Charles dal i fod yn gyfarwydd, pwy sydd wir yn nabod y garfan honno' Geraint Iwan sydd yn ein tywys o amgylch 30 o stadiymau i addysgu ni am Bois '58.",
@@ -187,6 +187,25 @@
       "id": "861820538",
       "series_id": null,
       "title": "Bois 58",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "61",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -207,25 +226,6 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-31 16:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "61",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Cefn Gwlad",
       "programme_title": "Emlyn a Mair Morgan - Tyngarn",
       "short_billing": "Rhifyn arbennig o Cefn Gwlad wrth i Ifan Jones Evans ymweld â Emlyn a Mair Morgan, Tyngarn, Myddfai, cymdogion Charles a Camilla yn Llwynywermod. Yn y flwyddyn mae Charles yn troi'n Frenin,  mae Emlyn am droi'n 70 mlwydd oed ac yn ystyried gwerthu'r ffarm ddefaid ac ymddeol. Ond ydi'r cwpl sydd wedi amaethu ar eu hyd eu hoes, yn gallu troi eu cefn ar ffordd o fyw sydd yn y gwaed '",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1010",
+      "days_to_expire": "1009",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "FFIT Cymru",
       "programme_title": "6 Mis Wedyn",
       "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": null,
       "programme_title": "Fairbourne: Y Mor Wrth y Drws",
       "short_billing": "Fairbourne ym Meirionnydd fydd o bosib y pentref cyntaf ym Mhrydain i ddiflannu dan y dwr oherwydd newid hinsawdd. Dyma'r trigolion yn sôn am eu bro hardd a'u sefyllfa argyfyngus wrth iddynt wynebu lefel y môr yn codi.  ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Fersiwn Gymraeg o gyfres fformat boblogaidd C4 Gogglebox. Fe fydd y camerâu yn ymweld â chartrefi cymeriadau ledled Cymru ac ymhellach - o Gaernarfon i Gaerdydd ac o Faerdy i Fanceinion - ac yn rhannu gyda ni eu barn am raglenni o Gymru a thu hwnt. Yn lleisio'r cyfan fydd y cyflwynydd, digrifwr a'r Gogglebocs fan, Tudur Owen.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Greenham",
       "programme_title": null,
       "short_billing": "Pennod 2. Ffilm ddogfen gyda archif o'r cyfnod a chyfweliadau newydd yn cael eu cyfuno i adrodd stori anghredadwy Comin Greenham. Byddwn ni'n ailfyw yr ymgyrch o ddwy ochr y ffens, a thrwy ddefnyddio cyfweliadau archif a newydd, byddwn ni'n gweld sut mae bywydau a theimladau y menywod wedi newid 40 mlynedd yn ddiweddarach. Mewn penodau yn dilyn storiau unigol y menywod, cawn glywed am eu haberth, eu brwydr, eu gobeithion a'u hofnau yng nganol y Rhyfel Oer, a hefyd am sut mae'r frwydr yn parhau h",
@@ -857,7 +857,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Nadolig",
       "short_billing": "\r\nMae wynebau cyfarwydd yn dod i Gwesty Aduniad i gael Nadolig i'w chofio eleni. Mae'r canwr opera Wynne Evans yn gofyn i'r Gwesty am help wrth iddo chwilio am deulu gwaed rhywle yng Ngwlad Belg. Yr actores a pherfformwraig, Gillian Elisa, sydd yn diolch i rhywun arbennig  am ei gymorth ar ol damwain difrifol, ac mae'r seren Broadway Mark Evans am aduno efo rhywun ddaru newid ei fywyd ugain mlynedd yn ol. Mae'r tenor Rhys Meirion yn dod a theuluoedd o'r Wcrain ynghyd yn y Gwesty ar gyfer y Nadol",
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "Llofruddiaeth Jack Armstrong",
       "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": null,
       "programme_title": "Maes B 2022",
       "short_billing": "Uchafbwyntiau cerddorol Maes B 2022 gyda perfformiadau gan fandiau cyfoes Cymraeg. Hyn oll wedi ei blethu gyda stori ffuglenol am griw o fynychwyr Maes B.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Yn wythnos cyhoeddi ystadegau'r cyfrifiad am y Gymraeg fe fydd Pawb a'i Farn yn dod o Blas Heli ym Mhwllheli. Ymysg y pynciau fydd yn cael sylw'r gwleidyddion a phobl Pen Llyn , fe fydd dyfodol yr iaith a'r cymunedau Cymraeg.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": null,
       "programme_title": "Plant y Sianel",
       "short_billing": "Beti George sy'n mynd ar daith emosiynol i ymweld â rhai o 'Blant y Sianel' -  criw o bob cwr o Gymru sydd, fel S4C, yn dathlu eu penblwydd yn 40 eleni. Pan oedd S4C yn 10, 20 a 30 oed aeth Beti i'w holi am eu bywydau, eu teimladau a'u gobeithion.  Sut blant oedd cenhedlaeth y sianel' Sut oedd bywyd yn eu trin a beth oedd eu breuddwydion ar gyfer y dyfodol' O Gaerdydd i'r Rhyl ac o Lanelli i Lundain, bydd Beti yn clywed y straeon oll a'u gobeithion wrth i ddegawd arall o'u bywydau ddirwyn i ben.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "programme_title": null,
       "short_billing": "Mewn cyfres newydd sbon daw mawrion a chefnogwyr rygbi Cymru ynghyd i adrodd hanes tanllyd y gêm o 1875 hyd heddi gyda Syr Gareth Edwards, Sam Warburton, Shane Williams, Sean Fitzpatrick, Elinor Snowsill a Huw Llywelyn Davies yn rhannu straeon personol am ddylanwad y gamp ar eu bywydau. Yn y bennod hon, bydd sylw i gyfnod llwm rygbi Cymru yn y 1990au cyn i'r gêm droi'n broffesiynol.   ",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "Symud i Gymru",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Mae'r cyn-ddeintydd Matt York wedi bachu swydd yng Ngogledd Cymru gyda Iechyd Cyhoeddus Cymru. Mae hyn yn golygu y bydd e, a'i bartner Robbie sy'n fyddar, yn chwilio am gartref newydd. Ei tywysydd lleol fydd Janine Hall, sy'n wreiddiol o Loegr ac sydd bellach wedi dysgu Cymraeg ar ôl byw ym Mlaenau Ffestiniog ers chwe mlynedd. Y pynciau o dan sylw fydd diffyg tai fforddiadwy, airbnbs, amrywiaeth, anabledd a pha mor hawdd yw hi i ddod yn rhan o gymdeithas glos.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Catrin Haf Jones a'i phanel o westeion sy'n trafod wythnos heriol arall yn y byd gwleidyddol. O'r pryderon dros costau byw i'r dadlau cyfansoddiadol rhwng Llywodraeth San Steffan a Llywodraeth yr Alban, mae digon i drafod, a bydd yr Athro Richard Wyn Jones yn dadansoddi'r cyfan. Bydd na hefyd gyfweliad gyda'r Llywydd Elin Jones.",
