@@ -685,8 +685,8 @@
       "vs": "0"
     },
     {
-      "count": "11",
-      "days_to_expire": "147",
+      "count": "10",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": "Teulu Shadog: 'Nol ar y Fferm",
       "short_billing": "Ymweliad gyda fferm Teulu Shadog. ",
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw'r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -894,22 +894,22 @@
       "vs": "0"
     },
     {
-      "count": "95",
-      "days_to_expire": "148",
+      "count": "96",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Byddwn yn dathlu dydd Santes Dwynwen gyda Gethin a Glesni yn canu yn y stiwdio. Bydd Emma Wolford hefyd yn y stiwdio. ",
-      "thumbnail_url": "heno_23_01_25_p.jpg",
+      "short_billing": "Seren Les Mis, Samuel Wyn Morris, bydd yn y stiwdio am sgwrs a chan a byddwn hefyd yn agoriad swyddogol Stiwdios Aria. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Byddwn yn dathlu dydd Santes Dwynwen gyda Gethin a Glesni yn canu yn y stiwdio. Bydd Emma Wolford hefyd yn y stiwdio. ",
-      "clic_aired": "25 Ionawr 2023",
+      "full_billing": "Seren Les Mis, Samuel Wyn Morris, bydd yn y stiwdio am sgwrs a chan a byddwn hefyd yn agoriad swyddogol Stiwdios Aria. ",
+      "clic_aired": "26 Ionawr 2023",
       "fav_id": "520950912",
-      "id": "852338950",
+      "id": "852338971",
       "series_id": "852334583",
       "title": "Heno",
-      "date_broadcast": "2023-01-26 12:30:00",
+      "date_broadcast": "2023-01-27 12:30:00",
       "vs": "0"
     },
     {
