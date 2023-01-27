@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -116,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Trefor - Porth Ty Mawr",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "86",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-12-31 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "60",
       "series_title": "Bwrdd i Dri",
@@ -226,6 +207,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "86",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-12-31 16:50:00",
       "vs": "0"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i'r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy'n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
