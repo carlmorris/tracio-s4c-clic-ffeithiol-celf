@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn Ffion a Siôn, cwpwl ifanc sy'n gadael y nyth ac yn mentro i brynu ty am y tro cyntaf. Mae'r ddau wedi dod i weld ty newydd sbon ym mhentref Llanrug ger Caernarfon. Byddwn hefyd yn ocsiwn yr arwerthwyr John Francis yn Llanelli ac yn dilyn un teulu sy'n awyddus i brynu un o'r tai sydd ar werth yn ardal y Gwyr. Dafydd Hardy sy'n wynebu'r her anarferol o werthu plasdy mawreddog yng nghyffuniau Criccieth sydd bellach yn adfail ac mewn cyflwr gwael. ",
@@ -363,7 +363,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "1. Clasuron Efrog Newydd",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan brofi bwyd stryd yn Queens, danteithion Chinatown, ac yn paratoi gwledd i'r actor Matthew Rhys.   ",
@@ -381,7 +381,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "33",
       "series_title": "Codi Hwyl",
       "programme_title": null,
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": null,
       "programme_title": "DRYCH: Bois Yr Academi",
       "short_billing": "Awn tu ôl i'r llenni yn Clwb Pêl-droed Dinas Abertawe i ddatgelu sut mae datblygu sêr pêl-droed yfory. Wedi'i ffilmio dros dymor cyfan dyma fyd didostur pêl-droed elitaidd lle mai dim ond y goreuon sy'n llwyddo. Pan gymhwysodd Cymru ar gyfer eu Cwpan y Byd cyntaf mewn 64 mlynedd, roedd 6 o'r garfan yn raddedigion o Academi Abertawe! Gyda mynediad unigryw i staff a chwaraewyr, gwelwn yr ymrwymiad sydd ei angen ond hefyd y siom i'r rhai sydd ddim yn llwyddo yn y maes.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": null,
       "programme_title": "Dawns Trwy'r Tywyllwch",
       "short_billing": "Dogfen yn dilyn ffrindiau gorau, Tanisha a Kopano, wrth iddynt baratoi i gystadlu yng nghystadleuaeth Cwpan Dawns y Byd, tra hefyd yn defnyddio dawns fel therapi wrth geisio dygymod gydag absenoldeb ei mam yn eu bywydau.",
@@ -629,18 +629,18 @@
     },
     {
       "count": "4",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2022",
-      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 21:30-Diwedd",
+      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 18:00-19:00",
       "short_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P4_01.jpg",
-      "duration": "141",
+      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P3_03.jpg",
+      "duration": "145",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "clic_aired": "20 Tachwedd 2022",
+      "clic_aired": "19 Tachwedd 2022",
       "fav_id": "537583011",
-      "id": "865131867",
+      "id": "865131801",
       "series_id": "865131792",
       "title": "Eisteddfod Ffermwyr Ifanc 2022",
       "date_broadcast": null,
@@ -800,7 +800,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Grid",
       "programme_title": "Y Pris o Fyw",
       "short_billing": "Portread o fam ifanc yn Abertawe yng nghanol yr argyfwng costau byw.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1197",
+      "days_to_expire": "1196",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Y Babell Lên a Mwy",
       "programme_title": null,
       "short_billing": "Rhaglen yn edrych ar gynnwys Y Babell Lên a Llwyfan y Llannerch yn Eisteddfod Genedlaethol Ceredigion 2022, o farddoniaeth a llenyddiaeth i gynnwys amgen.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Y Llinell Las",
       "programme_title": "Y Llinell Las - Cyflymder Sy'n Lladd",
       "short_billing": "Cyfres sydd yn dilyn hynt a helynt Uned Plismona'r Ffyrdd, Heddlu Gogledd Cymru. Cipolwg y tu ôl i'r llen ar waith heriol a pheryglus y tîm sy'n cadw ein ffyrdd a'n cymunedau ni'n saff. Pobl gyffredin sy'n gwneud swydd ryfeddol. Peryglon gor-yrru ydy thema y drydedd bennod.",
