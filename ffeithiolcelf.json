@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn Ffion a Siôn, cwpwl ifanc sy'n gadael y nyth ac yn mentro i brynu ty am y tro cyntaf. Mae'r ddau wedi dod i weld ty newydd sbon ym mhentref Llanrug ger Caernarfon. Byddwn hefyd yn ocsiwn yr arwerthwyr John Francis yn Llanelli ac yn dilyn un teulu sy'n awyddus i brynu un o'r tai sydd ar werth yn ardal y Gwyr. Dafydd Hardy sy'n wynebu'r her anarferol o werthu plasdy mawreddog yng nghyffuniau Criccieth sydd bellach yn adfail ac mewn cyflwr gwael. ",
@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "58",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "84",
       "series_title": "Bwrdd i Dri",
@@ -226,6 +207,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2022-12-31 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "58",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "1. Clasuron Efrog Newydd",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan brofi bwyd stryd yn Queens, danteithion Chinatown, ac yn paratoi gwledd i'r actor Matthew Rhys.   ",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": null,
       "programme_title": "DRYCH: Bois Yr Academi",
       "short_billing": "Awn tu ôl i'r llenni yn Clwb Pêl-droed Dinas Abertawe i ddatgelu sut mae datblygu sêr pêl-droed yfory. Wedi'i ffilmio dros dymor cyfan dyma fyd didostur pêl-droed elitaidd lle mai dim ond y goreuon sy'n llwyddo. Pan gymhwysodd Cymru ar gyfer eu Cwpan y Byd cyntaf mewn 64 mlynedd, roedd 6 o'r garfan yn raddedigion o Academi Abertawe! Gyda mynediad unigryw i staff a chwaraewyr, gwelwn yr ymrwymiad sydd ei angen ond hefyd y siom i'r rhai sydd ddim yn llwyddo yn y maes.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "Dawns Trwy'r Tywyllwch",
       "short_billing": "Dogfen yn dilyn ffrindiau gorau, Tanisha a Kopano, wrth iddynt baratoi i gystadlu yng nghystadleuaeth Cwpan Dawns y Byd, tra hefyd yn defnyddio dawns fel therapi wrth geisio dygymod gydag absenoldeb ei mam yn eu bywydau.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Grid",
       "programme_title": "Y Pris o Fyw",
       "short_billing": "Portread o fam ifanc yn Abertawe yng nghanol yr argyfwng costau byw.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1195",
+      "days_to_expire": "1194",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -909,7 +909,7 @@
       "id": "810075913",
       "series_id": "809467444",
       "title": "Heno Aur",
-      "date_broadcast": "2022-12-26 12:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Y Babell Lên a Mwy",
       "programme_title": null,
       "short_billing": "Rhaglen yn edrych ar gynnwys Y Babell Lên a Llwyfan y Llannerch yn Eisteddfod Genedlaethol Ceredigion 2022, o farddoniaeth a llenyddiaeth i gynnwys amgen.",
