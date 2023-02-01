@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "147",
       "series_title": "Codi Hwyl",
@@ -416,6 +397,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-02 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "28",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Dan Do",
       "programme_title": "Pennod 1",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n edrych ar fwthyn sydd wedi ei estynnu a'i adnewyddu gan y perchennog, cartref sy'n llawn dodrefn a thrugareddau retro ym Mhorthcawl, a th&#375; Fictoraidd anhygoel ym Mhenarth sydd wedi ei drawsnewid gan y perchnogion.",
@@ -875,22 +875,22 @@
       "vs": "0"
     },
     {
-      "count": "94",
-      "days_to_expire": "148",
+      "count": "95",
+      "days_to_expire": "149",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Bydd ennillydd y gystadleuaeth ffotograffiaeth yn cael ei ddatgelu a chawn glywed hanes ocsiwn arbennig Gareth Edwards. ",
+      "short_billing": "Cawn glywed am rum newydd un o ser mwyaf y byd rygbi Alun Wyn Jones, a cawn sgwrs gyda rhai o aelodau Only Kids Aloud. ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd ennillydd y gystadleuaeth ffotograffiaeth yn cael ei ddatgelu a chawn glywed hanes ocsiwn arbennig Gareth Edwards. ",
-      "clic_aired": "31 Ionawr 2023",
+      "full_billing": "Cawn glywed am rum newydd un o ser mwyaf y byd rygbi Alun Wyn Jones, a cawn sgwrs gyda rhai o aelodau Only Kids Aloud. ",
+      "clic_aired": "1 Chwefror 2023",
       "fav_id": "520950912",
-      "id": "852339034",
+      "id": "852339055",
       "series_id": "852334583",
       "title": "Heno",
-      "date_broadcast": "2023-02-01 12:30:00",
+      "date_broadcast": "2023-02-02 12:30:00",
       "vs": "0"
     },
     {
@@ -1274,7 +1274,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "2",
       "days_to_expire": "14",
       "series_title": "Y Babell Lên a Mwy",
       "programme_title": null,
