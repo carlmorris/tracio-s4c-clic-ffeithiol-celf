@@ -116,7 +116,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Aur Du",
       "programme_title": "Natalie Jones",
       "short_billing": "Yr actores Mali Ann Rees sy'n dathlu 'Mis Hanes Pobl Ddu' drwy gymryd golwg ar y berthynas rhwng hil, hunaniaeth a'r iaith Gymraeg gyda rhai sy'n arloeswyr yn eu maes. Yn y bennod yma, mae Mali Ann Rees yn cwrdd a'r athrawes Gymraeg ar ysgrifenwraig, Natalie Jones, i drafod addysg, cynrychiolaeth a dyfodol ein plant.",
@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "81",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2022-12-31 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "55",
       "series_title": "Bwrdd i Dri",
@@ -226,6 +207,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "81",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2022-12-31 16:50:00",
       "vs": "0"
     },
     {
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Codi Hwyl",
-      "programme_title": "I'r Alban",
-      "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
-      "thumbnail_url": "Codi_Hwyl_Yr_Alban_2018_P1_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres newydd, bwriad Dilwyn Morgan a John Pierce Jones ydy hwylio'r Mystique o amgylch Ynysoedd Heledd a gorllewin yr Alban. Ond yn unol â thraddodiad Codi Hwyl mae pethau yn mynd o chwith ar y daith gychwynnol i Fangor, Gogledd Iwerddon. A fyddan nhw'n cyrraedd Yr Alban o gwbl'",
-      "clic_aired": "30 Ionawr 2023",
-      "fav_id": "533276078",
-      "id": "760576716",
-      "series_id": "760576706",
-      "title": "Codi Hwyl",
-      "date_broadcast": "2023-02-02 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "28",
       "series_title": "Codi Hwyl",
@@ -416,6 +397,25 @@
       "series_id": "528497732",
       "title": "Codi Hwyl",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Codi Hwyl",
+      "programme_title": "I'r Alban",
+      "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
+      "thumbnail_url": "Codi_Hwyl_Yr_Alban_2018_P1_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres newydd, bwriad Dilwyn Morgan a John Pierce Jones ydy hwylio'r Mystique o amgylch Ynysoedd Heledd a gorllewin yr Alban. Ond yn unol â thraddodiad Codi Hwyl mae pethau yn mynd o chwith ar y daith gychwynnol i Fangor, Gogledd Iwerddon. A fyddan nhw'n cyrraedd Yr Alban o gwbl'",
+      "clic_aired": "30 Ionawr 2023",
+      "fav_id": "533276078",
+      "id": "760576716",
+      "series_id": "760576706",
+      "title": "Codi Hwyl",
+      "date_broadcast": "2023-02-02 18:00:00",
       "vs": "0"
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "count": "94",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Bydd ennillydd y gystadleuaeth ffotograffiaeth yn cael ei ddatgelu a chawn glywed hanes ocsiwn arbennig Gareth Edwards. ",
