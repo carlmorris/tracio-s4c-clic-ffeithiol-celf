@@ -116,7 +116,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon byddwn yn dilyn Alun Richards, sy'n ceisio gwerthu ei fflat yng nghanol dinas Caerdydd ond sy'n cael fawr o lwc wedi iddo fod ar y farchnad am dros ddeg mis. Yn Nyffryn Ardudwy - gwerthu fferm mae Ian o Purple Bricks ond mae'r perchnogion wedi cael hunllef ar ôl i wyntoedd mawr ddifrodi'r ysguboriau. Ar gyrion Caerfyrddin mae Neville o gwmni John Francis yn prisio tyddyn ugain erw cyn ei roi mewn ocsiwn.",
@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "146",
-      "series_title": "Codi Hwyl",
-      "programme_title": "Tobermory ac Ynys Mull",
-      "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
-      "thumbnail_url": "Codi_Hwyl_Yr_Alban_2018_P2_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Trwy ddirgel ffyrdd mae Dilwyn Morgan a John Pierce Jones wedi cyrraedd Tobermory, prif dreflan Ynys Mull, gorllewin yr Alban tra bod y Mystique druan dal yng Ngogledd Iwerddon. Does 'na fawr o obaith y bydd y cwch yn barod am wythnosau. Does dim dewis felly ond llogi cwch arall i barhau â'r antur. Mae'r Lotus yn gwch dipyn mwy na'r Mystique. Tybed a fydd John yn gallu ei hwylio' Ymweliad â phorthladd bychan Camas ydy'r cymal cyntaf. Ac oes, mae 'na Gymry yno!",
-      "clic_aired": "6 Chwefror 2023",
-      "fav_id": "533276078",
-      "id": "760576740",
-      "series_id": "760576706",
-      "title": "Codi Hwyl",
-      "date_broadcast": "2023-02-09 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "20",
       "series_title": "Codi Hwyl",
@@ -454,6 +435,25 @@
       "series_id": "528497732",
       "title": "Codi Hwyl",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "146",
+      "series_title": "Codi Hwyl",
+      "programme_title": "Tobermory ac Ynys Mull",
+      "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
+      "thumbnail_url": "Codi_Hwyl_Yr_Alban_2018_P2_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Trwy ddirgel ffyrdd mae Dilwyn Morgan a John Pierce Jones wedi cyrraedd Tobermory, prif dreflan Ynys Mull, gorllewin yr Alban tra bod y Mystique druan dal yng Ngogledd Iwerddon. Does 'na fawr o obaith y bydd y cwch yn barod am wythnosau. Does dim dewis felly ond llogi cwch arall i barhau â'r antur. Mae'r Lotus yn gwch dipyn mwy na'r Mystique. Tybed a fydd John yn gallu ei hwylio' Ymweliad â phorthladd bychan Camas ydy'r cymal cyntaf. Ac oes, mae 'na Gymry yno!",
+      "clic_aired": "6 Chwefror 2023",
+      "fav_id": "533276078",
+      "id": "760576740",
+      "series_id": "760576706",
+      "title": "Codi Hwyl",
+      "date_broadcast": "2023-02-09 18:00:00",
       "vs": "0"
     },
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Y Llinell Las",
       "programme_title": "Iechyd Meddwl",
       "short_billing": "O'r trefi prysur i gefn gwlad, dyma weld yn union sut beth yw gweithio i Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. Portread cwbl onest a llawn o waith yr Uned wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Mae'r bumed bennod yn tynnu ein sylw at iechyd meddwl y swyddogion wrth iddynt ymgymryd â'u gwaith heriol, peryglus ac emosiynol.",
