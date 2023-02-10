@@ -135,7 +135,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon byddwn yn dilyn Alun Richards, sy'n ceisio gwerthu ei fflat yng nghanol dinas Caerdydd ond sy'n cael fawr o lwc wedi iddo fod ar y farchnad am dros ddeg mis. Yn Nyffryn Ardudwy - gwerthu fferm mae Ian o Purple Bricks ond mae'r perchnogion wedi cael hunllef ar ôl i wyntoedd mawr ddifrodi'r ysguboriau. Ar gyrion Caerfyrddin mae Neville o gwmni John Francis yn prisio tyddyn ugain erw cyn ei roi mewn ocsiwn.",
@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "19",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "145",
       "series_title": "Codi Hwyl",
@@ -473,6 +454,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-09 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "19",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Y Llinell Las",
       "programme_title": "Iechyd Meddwl",
       "short_billing": "O'r trefi prysur i gefn gwlad, dyma weld yn union sut beth yw gweithio i Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. Portread cwbl onest a llawn o waith yr Uned wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Mae'r bumed bennod yn tynnu ein sylw at iechyd meddwl y swyddogion wrth iddynt ymgymryd â'u gwaith heriol, peryglus ac emosiynol.",
