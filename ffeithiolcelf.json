@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Caerdydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "17",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "143",
       "series_title": "Codi Hwyl",
@@ -473,6 +454,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-09 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "17",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Wrecsam...Clwb Ni!",
       "programme_title": "Pennod 1",
       "short_billing": "Er mawr syndod iddynt, mae ffans selog Clwb Pêl-droed Wrecsam yn clywed fod dau o sêr y sgrin - Ryan Reynolds a Rob McElhenney - wedi prynu'r clwb. Byddwn yn cwrdd â rhai o'r cefnogwyr ac yn darganfod beth fydd nesaf i'r clwb hynafol hwn nawr ei fod dan ofal y perchnogion newydd annisgwyl o Hollywood.",
