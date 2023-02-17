@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld y cogydd Bryn Williams yn ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. Yn y rhaglen hon, Nia Erain o Gaerdydd sy'n cael dosbarth meistr yng nghegin Odette's ar sut i goginio cig eidion sy'n toddi yn eich ceg. ",
-      "clic_aired": "13 Chwefror 2023",
-      "fav_id": "520950903",
-      "id": "534387312",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-02-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "116",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2023-01-14 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i weld y cogydd Bryn Williams yn ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. Yn y rhaglen hon, Nia Erain o Gaerdydd sy'n cael dosbarth meistr yng nghegin Odette's ar sut i goginio cig eidion sy'n toddi yn eich ceg. ",
+      "clic_aired": "13 Chwefror 2023",
+      "fav_id": "520950903",
+      "id": "534387312",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-02-13 13:30:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Popeth yn Gymraeg",
       "programme_title": "Aberystwyth",
       "short_billing": "Un dyn, un iaith, un sialens. Y bardd Ifor ap Glyn fydd yn cychwyn ar daith o gwmpas Cymru i weld a ydi e'n gallu gwneud \"Popeth yn Gymraeg\". Heddiw, mae'n ymweld â Gwent, ardal lle mae'r iaith ar gynnydd yn ôl Cyfrifiad 2001.",
