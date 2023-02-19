@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon byddwn yn dilyn hanes ty yng nghyffuniau Aberteifi sydd ar werth yn ocsiwn cwmni gwerthu tai John Francis. Yn Aberystwyth mae Iestyn Leyshon yn helpu Siôn Thomas i chwilio am ei dy cyntaf - ond a wnaiff y ty sydd gan Iestyn ar y farchnad apelio ato' Byddwn hefyd mewn ocsiwn yng Nghaerdydd dan ofal Marc Morrish o gwmni Seel & Co sy'n gwerthu adeilad Fictoraidd yn Llandrindod. Yn Aberaeron mae Kelly Emanuel yn llwyddo i werthu byngalo i brynwr cyfarwydd'!",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld y cogydd Bryn Williams yn ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. Yn y rhaglen hon, Nia Erain o Gaerdydd sy'n cael dosbarth meistr yng nghegin Odette's ar sut i goginio cig eidion sy'n toddi yn eich ceg. ",
-      "clic_aired": "13 Chwefror 2023",
-      "fav_id": "520950903",
-      "id": "534387312",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-02-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "113",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i weld y cogydd Bryn Williams yn ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. Yn y rhaglen hon, Nia Erain o Gaerdydd sy'n cael dosbarth meistr yng nghegin Odette's ar sut i goginio cig eidion sy'n toddi yn eich ceg. ",
+      "clic_aired": "13 Chwefror 2023",
+      "fav_id": "520950903",
+      "id": "534387312",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-02-13 13:30:00",
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Y Llinell Las",
       "programme_title": "Heriau Newydd",
       "short_billing": "Cyfres sy'n mynd â'r gwylwyr tu draw ¿Y Llinell Las¿ ac i adnabod heddweision dewr a chydwybodol Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. Ym mhennod ola'r gyfres, cawn gipolwg ar waith y tîm yn ystod y cyfnod clo, cyfyngderau Covid, a'r broblem gynyddol o ddelio â chyffuriau a gyrru dan ddylanwad cyffuriau.",
