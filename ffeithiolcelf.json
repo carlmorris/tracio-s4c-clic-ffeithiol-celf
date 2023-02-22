@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon, Heulwen Davies o Fachynlleth sy'n cael cyngor gan Bryn ar sut i bobi cacennau bach a mawr.",
-      "clic_aired": "20 Chwefror 2023",
-      "fav_id": "520950903",
-      "id": "534387338",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-02-20 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "110",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon, Heulwen Davies o Fachynlleth sy'n cael cyngor gan Bryn ar sut i bobi cacennau bach a mawr.",
+      "clic_aired": "20 Chwefror 2023",
+      "fav_id": "520950903",
+      "id": "534387338",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-02-20 13:30:00",
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Y tro hwn mae'r gof Andrew Murphy yn chwarae'i ran yn helpu i drwsio t&#373;r cloc y castell.  Mae ffrog sy'n adrodd stori anhygoel cenhedlaeth Windrush yng Nghymru yn cael ei hatgyweirio, yn barod i gael llun ohoni ar gyfer archif ddigidol yr Amgueddfa.  ",
