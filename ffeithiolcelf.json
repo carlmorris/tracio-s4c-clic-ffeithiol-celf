@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "5",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "148",
       "series_title": "Codi Hwyl",
@@ -473,6 +454,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-27 22:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -629,7 +629,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Gig y Pafiliwn",
       "short_billing": "Huw Stephens sy'n cyflwyno Gig y Pafiliwn Eisteddfod Genedlaethol Ceredigion gyda Adwaith, Alffa, Gwilym, Mellt a'r Welsh Pops Orchestra.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": null,
       "programme_title": "Cystadleuaeth Cantorion Cymreig 2022",
       "short_billing": "Uchafbwyntiau Cystadleuaeth Cantorion Cymreig 2022 o Neuadd Dora Stoutzker, Coleg Brenhinol Cerdd a Drama Cymru. Bydd 5 o gantorion ifanc brwd yn cystadlu am y teitl  - Dafydd Allen, Erin Gwyn Rossington, Kieron-Connor Valentine, Jessica Robinson ac Osian Wyn Bowen.  Fe ddown ni i nabod y pump wrth iddyn nhw anelu i gynrychioli Cymru yng Nghwpan y Byd canu cerddoriaeth clasurol - Canwr y Byd Caerdydd 2023. Heledd Cynwal ac Elin Manahan Thomas sy'n cyflwyno.",
