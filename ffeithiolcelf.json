@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "4",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "147",
       "series_title": "Codi Hwyl",
@@ -473,6 +454,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-27 22:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "4",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1217,25 +1217,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "64",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "29",
       "series_title": "Pobl a'u Gerddi",
@@ -1252,6 +1233,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-03-03 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "64",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Popeth yn Gymraeg",
       "programme_title": "Aberystwyth",
       "short_billing": "Un dyn, un iaith, un sialens. Y bardd Ifor ap Glyn fydd yn cychwyn ar daith o gwmpas Cymru i weld a ydi e'n gallu gwneud \"Popeth yn Gymraeg\". Heddiw, mae'n ymweld â Gwent, ardal lle mae'r iaith ar gynnydd yn ôl Cyfrifiad 2001.",
