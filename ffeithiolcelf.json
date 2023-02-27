@@ -135,7 +135,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon bydd Ian o Purple Bricks yn ceisio gwerthu ty bendigedig ar lan y Fenai sydd wedi ei brisio am filiwn o bunnoedd! Ar gyrion Aberystwyth ym mhentref Penrhyncoch mae'r asiantwr Iestyn Leyshon yn gwerthu stâd newydd sbon o dai. Ym Maesteg mae Marc Morrish o Seel & Co wedi dod i weld eglwys enfawr sydd ar fin cael ei werthu mewn ocsiwn ganddo.",
@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "3 Hydref 2022",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "145",
       "series_title": "Codi Hwyl",
@@ -473,6 +454,25 @@
       "series_id": "760576706",
       "title": "Codi Hwyl",
       "date_broadcast": "2023-02-27 22:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "3 Hydref 2022",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1255,25 +1255,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "34",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 2",
-      "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P2_002.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
-      "clic_aired": "27 Chwefror 2023",
-      "fav_id": "540621194",
-      "id": "798772369",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-10 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "62",
       "series_title": "Pobl a'u Gerddi",
@@ -1290,6 +1271,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 2",
+      "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P2_002.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
+      "clic_aired": "27 Chwefror 2023",
+      "fav_id": "540621194",
+      "id": "798772369",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-10 13:30:00",
       "vs": "0"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Y Llinell Las",
       "programme_title": "Heriau Newydd",
       "short_billing": "Cyfres sy'n mynd â'r gwylwyr tu draw ¿Y Llinell Las¿ ac i adnabod heddweision dewr a chydwybodol Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. Ym mhennod ola'r gyfres, cawn gipolwg ar waith y tîm yn ystod y cyfnod clo, cyfyngderau Covid, a'r broblem gynyddol o ddelio â chyffuriau a gyrru dan ddylanwad cyffuriau.",
