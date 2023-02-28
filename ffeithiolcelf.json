@@ -154,7 +154,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iolo Williams o'r Felinheli sy'n derbyn cyngor gan Bryn am sut i amseru wrth goginio pryd o fwyd. Bydd Bryn hefyd yn ymweld â theulu sy'n magu moch ym Mhen Llyn ac yn coginio porc ar y barbeciw er y glaw!",
-      "clic_aired": "27 Chwefror 2023",
-      "fav_id": "520950903",
-      "id": "534387364",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-02-27 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "104",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iolo Williams o'r Felinheli sy'n derbyn cyngor gan Bryn am sut i amseru wrth goginio pryd o fwyd. Bydd Bryn hefyd yn ymweld â theulu sy'n magu moch ym Mhen Llyn ac yn coginio porc ar y barbeciw er y glaw!",
+      "clic_aired": "27 Chwefror 2023",
+      "fav_id": "520950903",
+      "id": "534387364",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-02-27 13:30:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Max Boyce",
       "short_billing": "Yn y rhaglen hon bydd yr artist o Aberteifi Meirion Jones yn cwrdd a'r diddanwr o Glyn-nedd Max Boyce gyda'r bwriad o greu portread unigryw ohono.",
@@ -1065,22 +1065,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
-      "thumbnail_url": "her_yr_hinsawdd_03.jpg",
-      "duration": "24",
+      "thumbnail_url": "her_yr_hinsawdd_04.jpg",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Rydyn ni bellach yn gwybod bod, ar gyfartaledd, 500 biliwn litr y dydd o dd¿r yn llifo i'r môr wrth i iâ'r Ynys Las doddi. Mae taith y gwyddonydd hinsawdd yr Athro Siwan Davies yn mynd â hi i ynysoedd bach y Maldives sydd dim ond 1 metr uwch lefel y d¿r. Wrth i lefel y môr godi yno, mae sefyllfa'r bobl yn fregus iawn. ",
-      "clic_aired": "21 Chwefror 2023",
+      "full_billing": "Mae'r arbenigwraig newid hinsawdd, Yr Athro Siwan Davies, yn cyrraedd ynysoedd pellennig ac isel y Maldives ac yn gweld pa mor fregus yw bywydau'r trigolion wrth i lefel y môr godi a'r tywydd droi yn anwadal.",
+      "clic_aired": "28 Chwefror 2023",
       "fav_id": "537089847",
-      "id": "530117945",
+      "id": "530117981",
       "series_id": "530117857",
       "title": "Her yr Hinsawdd",
-      "date_broadcast": "2023-02-22 18:00:00",
+      "date_broadcast": "2023-03-01 18:00:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Llinos ac Elin ar shifft n¿s brysur yn yr Uned Frys, Ysbyty Gwynedd, Bangor yn trin cleifion gydag amryw o afiechydon o risg sepsis i dorri cefn.  Ac yn ardal y Rhondda, mae Carys, nyrs gymunedol sy'n teithio o amgylch yn ymweld â'i chleifion yn eu cartrefi.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Pobol y Môr",
       "programme_title": null,
       "short_billing": "Mae rhyw atynfa i'r môr ym mhob un ohonom, ac yn y rhaglen hon, cawn ddilyn tri sydd â  halen yn y gwaed Mici y pysgotwr, Stan y dyn cychod a Carole sy'n rhedeg Llwybr Arfordir Gogledd Ynys Môn.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
