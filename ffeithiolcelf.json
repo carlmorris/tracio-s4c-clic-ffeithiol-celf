@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Caerdydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "145",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iolo Williams o'r Felinheli sy'n derbyn cyngor gan Bryn am sut i amseru wrth goginio pryd o fwyd. Bydd Bryn hefyd yn ymweld â theulu sy'n magu moch ym Mhen Llyn ac yn coginio porc ar y barbeciw er y glaw!",
-      "clic_aired": "27 Chwefror 2023",
-      "fav_id": "520950903",
-      "id": "534387364",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-02-27 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "100",
       "series_title": "Cegin Bryn",
@@ -397,6 +378,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "145",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iolo Williams o'r Felinheli sy'n derbyn cyngor gan Bryn am sut i amseru wrth goginio pryd o fwyd. Bydd Bryn hefyd yn ymweld â theulu sy'n magu moch ym Mhen Llyn ac yn coginio porc ar y barbeciw er y glaw!",
+      "clic_aired": "27 Chwefror 2023",
+      "fav_id": "520950903",
+      "id": "534387364",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-02-27 13:30:00",
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Wrecsam...Clwb Ni!",
       "programme_title": "Pennod 1",
       "short_billing": "Er mawr syndod iddynt, mae ffans selog Clwb Pêl-droed Wrecsam yn clywed fod dau o sêr y sgrin - Ryan Reynolds a Rob McElhenney - wedi prynu'r clwb. Byddwn yn cwrdd â rhai o'r cefnogwyr ac yn darganfod beth fydd nesaf i'r clwb hynafol hwn nawr ei fod dan ofal y perchnogion newydd annisgwyl o Hollywood.",
