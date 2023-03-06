@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Caerdydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "98",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "14 Ionawr 2023",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "143",
       "series_title": "Cegin Bryn",
@@ -397,6 +378,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": "2023-02-27 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "98",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "14 Ionawr 2023",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1274,25 +1274,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "28",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 2",
-      "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P2_002.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
-      "clic_aired": "27 Chwefror 2023",
-      "fav_id": "540621194",
-      "id": "798772369",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-10 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "56",
       "series_title": "Pobl a'u Gerddi",
@@ -1309,6 +1290,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "28",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 2",
+      "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P2_002.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Olwen Gwilym a Keith Chadwick yn Llanberis, Gwynfor Thomas yn Brynaman ac Elwyn, Jenny ac Oliver Hughes yn Llanfihangel Glyn Myfyr. ",
+      "clic_aired": "27 Chwefror 2023",
+      "fav_id": "540621194",
+      "id": "798772369",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-10 13:30:00",
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Wrecsam...Clwb Ni!",
       "programme_title": "Pennod 1",
       "short_billing": "Er mawr syndod iddynt, mae ffans selog Clwb Pêl-droed Wrecsam yn clywed fod dau o sêr y sgrin - Ryan Reynolds a Rob McElhenney - wedi prynu'r clwb. Byddwn yn cwrdd â rhai o'r cefnogwyr ac yn darganfod beth fydd nesaf i'r clwb hynafol hwn nawr ei fod dan ofal y perchnogion newydd annisgwyl o Hollywood.",
