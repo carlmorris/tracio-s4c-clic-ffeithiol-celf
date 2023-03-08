@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387390",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "96",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387390",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-06 13:30:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Cymru Wyllt Gudd",
       "programme_title": "Dydd",
       "short_billing": "\r\nAr hyd y dydd rhed y dwr ac rydyn ni am ei ddilyn o bennau'r mynyddyoedd uchaf I'r dyfnderoedd Celtaidd. Ar y ffordd cawn weld llond gwlad o ryfeddodau gyda chymorth technoleg newydd sbon.",
@@ -1613,6 +1613,25 @@
       "series_id": "808311687",
       "title": "Y Llinell Las",
       "date_broadcast": "2023-02-12 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Y Stiwdio Grefftau",
+      "programme_title": "Mudiad Meithrin",
+      "short_billing": "Yn y gyfres hon, bydd tri crefftwr dawnus yn cystadlu er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf pwysig Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd.  Ond gyda dim ond mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, creu murlun fydd yr her i ddathlu penblwydd arbennig y Mudiad Meithrin. Pwy ddaw i'r brig' ",
+      "thumbnail_url": "Y_Stiwdio_Grefftiau_2020S4C_098.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, bydd tri crefftwr dawnus yn cystadlu er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf pwysig Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd.  Ond gyda dim ond mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, creu murlun fydd yr her i ddathlu penblwydd arbennig y Mudiad Meithrin. Pwy ddaw i'r brig' ",
+      "clic_aired": "8 Mawrth 2023",
+      "fav_id": "814948676",
+      "id": "814949319",
+      "series_id": "814949311",
+      "title": "Y Stiwdio Grefftau",
+      "date_broadcast": "2023-03-17 22:00:00",
       "vs": "0"
     },
     {
