@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": null,
       "programme_title": "Apêl Daeargryn Twrci-Syria DEC",
       "short_billing": "Apêl Daeargryn Twrci-Syria y DEC.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Aur Du",
       "programme_title": "Natalie Jones",
       "short_billing": "Yr actores Mali Ann Rees sy'n dathlu 'Mis Hanes Pobl Ddu' drwy gymryd golwg ar y berthynas rhwng hil, hunaniaeth a'r iaith Gymraeg gyda rhai sy'n arloeswyr yn eu maes. Yn y bennod yma, mae Mali Ann Rees yn cwrdd a'r athrawes Gymraeg ar ysgrifenwraig, Natalie Jones, i drafod addysg, cynrychiolaeth a dyfodol ein plant.",
@@ -210,25 +210,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "20",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "46",
       "series_title": "Bwrdd i Dri",
@@ -245,6 +226,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-02-26 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "20",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "94",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Gawn ni holl hanes sioe gerdd newydd 'Bake off' sy'n serennu John Owen Jones, a byddwn ni'n dathlu menywod ym myd gwyddoniaeth.  ",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "32",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 3",
-      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772393",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-17 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "53",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "32",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 3",
+      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772393",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-17 13:30:00",
       "vs": "0"
     },
     {
