@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387390",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "96",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387390",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-06 13:30:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "2. Bara Bara Lawr Ya'll!",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan brofi bwyd stryd yn Queens, danteithion Chinatown, ac yn paratoi gwledd i'r actor Matthew Rhys.   ",
@@ -529,7 +529,7 @@
       "id": "804336723",
       "series_id": "804336635",
       "title": "Cymry ar Gynfas - Cyfres 1",
-      "date_broadcast": "2023-02-02 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": null,
       "programme_title": "DRYCH: Fi, Rhyw ac Anabledd",
       "short_billing": "Cyfle arall i weld enillydd un o Wobrau Broadcast 2023. Mae Rhys Bowler yn torri'r tabw o siarad am ryw ac anabledd. Mae'n dechrau perthynas pellter hir newydd cyffrous, a jyglo cymhlethdodau ei gyflwr dirywiol Duchenne Muscular Dystrophy. Ac yn cwestiynu, oes 'na fwy i fywyd na jyst rhyw' Bydd Rhys yn ffeindio gwir gariad yn y diwedd'",
@@ -724,7 +724,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Dan Do",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref cyfoes yn y Bontfaen, t&#375; sy'n llawn lliw ym Mhontlliw, a hen ficerdy llawn personoliaeth ar  Ynys Môn.  ",
@@ -800,18 +800,18 @@
     },
     {
       "count": "4",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2022",
-      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 21:30-Diwedd",
+      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 18:00-19:00",
       "short_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P4_01.jpg",
-      "duration": "141",
+      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P3_03.jpg",
+      "duration": "145",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "clic_aired": "20 Tachwedd 2022",
+      "clic_aired": "19 Tachwedd 2022",
       "fav_id": "537583011",
-      "id": "865131867",
+      "id": "865131801",
       "series_id": "865131792",
       "title": "Eisteddfod Ffermwyr Ifanc 2022",
       "date_broadcast": null,
@@ -933,7 +933,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "1469",
+      "days_to_expire": "1468",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1157",
+      "days_to_expire": "1156",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1403,7 +1403,7 @@
       "id": "808666917",
       "series_id": "808666856",
       "title": "Sain Ffagan - Cyfres 1",
-      "date_broadcast": "2023-03-05 14:00:00",
+      "date_broadcast": "2023-03-23 12:05:00",
       "vs": "0"
     },
     {
