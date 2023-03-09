@@ -210,25 +210,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "20",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Hydref 2022",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "45",
       "series_title": "Bwrdd i Dri",
@@ -245,6 +226,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-02-26 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "20",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Hydref 2022",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -796,6 +796,25 @@
       "series_id": null,
       "title": "Ein Hail Lais",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": null,
+      "programme_title": "Eirys: Mam yr Urdd",
+      "short_billing": "Ailddarllediad i nodi Diwrnod Rhynglwadol y Merched. Mae rhai o ffigyrau mwyaf diddorol hanes, merched yn aml, yn bobl y cysgodion. Roedd Eirys Edwards, gwraig Syr Ifan ab Owen Edwards, sylfaenydd Yr Urdd, yn un o'r rheiny. Wrth i'r Urdd ddathlu ei ganmlwyddiant eleni, mae Mari Emlyn ar drywydd hanes ei nain, Eirys.",
+      "thumbnail_url": "Eirys_Mam_yr_Urdd_2022S4C_007.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ailddarllediad i nodi Diwrnod Rhynglwadol y Merched. Mae rhai o ffigyrau mwyaf diddorol hanes, merched yn aml, yn bobl y cysgodion. Roedd Eirys Edwards, gwraig Syr Ifan ab Owen Edwards, sylfaenydd Yr Urdd, yn un o'r rheiny. Wrth i'r Urdd ddathlu ei ganmlwyddiant eleni, mae Mari Emlyn ar drywydd hanes ei nain, Eirys.",
+      "clic_aired": "8 Mawrth 2023",
+      "fav_id": "835069584",
+      "id": "835069584",
+      "series_id": null,
+      "title": "Eirys: Mam yr Urdd",
+      "date_broadcast": "2023-03-08 21:00:00",
       "vs": "0"
     },
     {
