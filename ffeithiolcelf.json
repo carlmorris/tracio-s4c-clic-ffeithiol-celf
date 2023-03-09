@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": null,
       "programme_title": "Apêl Daeargryn Twrci-Syria DEC",
       "short_billing": "Apêl Daeargryn Twrci-Syria y DEC.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Aur Du",
       "programme_title": "Natalie Jones",
       "short_billing": "Yr actores Mali Ann Rees sy'n dathlu 'Mis Hanes Pobl Ddu' drwy gymryd golwg ar y berthynas rhwng hil, hunaniaeth a'r iaith Gymraeg gyda rhai sy'n arloeswyr yn eu maes. Yn y bennod yma, mae Mali Ann Rees yn cwrdd a'r athrawes Gymraeg ar ysgrifenwraig, Natalie Jones, i drafod addysg, cynrychiolaeth a dyfodol ein plant.",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387390",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "95",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "146",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387390",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-06 13:30:00",
       "vs": "0"
     },
     {
@@ -1027,8 +1027,8 @@
       "vs": "0"
     },
     {
-      "count": "95",
-      "days_to_expire": "149",
+      "count": "94",
+      "days_to_expire": "148",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Byddwn ni'n dathlu Diwrnod Rhyngwladol y Menywod yn y stiwdio, cawn sgwrs gyda'r actores Gwyneth Keyworth, a byddwn yn fyw mewn premiere y ffilm Gymraeg 'Y S¿n'.",
