@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "30",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 3",
-      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772393",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-17 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "51",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "30",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 3",
+      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772393",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-17 13:30:00",
       "vs": "0"
     },
     {
