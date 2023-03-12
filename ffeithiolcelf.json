@@ -130,7 +130,7 @@
       "id": "800768461",
       "series_id": "800768284",
       "title": "Ar Werth",
-      "date_broadcast": "2023-03-03 13:00:00",
+      "date_broadcast": "2023-03-26 15:30:00",
       "vs": "0"
     },
     {
@@ -210,25 +210,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "43",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-02-26 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "17",
       "series_title": "Bwrdd i Dri",
@@ -245,6 +226,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "43",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-02-26 12:00:00",
       "vs": "0"
     },
     {
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387390",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "93",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387390",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-06 13:30:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "2. Bara Bara Lawr Ya'll!",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan brofi bwyd stryd yn Queens, danteithion Chinatown, ac yn paratoi gwledd i'r actor Matthew Rhys.   ",
@@ -510,7 +510,7 @@
       "id": "807134033",
       "series_id": "807134005",
       "title": "Cymru Wyllt Gudd",
-      "date_broadcast": "2023-02-28 15:05:00",
+      "date_broadcast": "2023-03-26 21:00:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": null,
       "programme_title": "DRYCH: Fi, Rhyw ac Anabledd",
       "short_billing": "Cyfle arall i weld enillydd un o Wobrau Broadcast 2023. Mae Rhys Bowler yn torri'r tabw o siarad am ryw ac anabledd. Mae'n dechrau perthynas pellter hir newydd cyffrous, a jyglo cymhlethdodau ei gyflwr dirywiol Duchenne Muscular Dystrophy. Ac yn cwestiynu, oes 'na fwy i fywyd na jyst rhyw' Bydd Rhys yn ffeindio gwir gariad yn y diwedd'",
@@ -724,7 +724,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Dan Do",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref cyfoes yn y Bontfaen, t&#375; sy'n llawn lliw ym Mhontlliw, a hen ficerdy llawn personoliaeth ar  Ynys Môn.  ",
@@ -757,7 +757,7 @@
       "id": "519847332",
       "series_id": "519847213",
       "title": "Darn Bach o Hanes",
-      "date_broadcast": "2023-02-24 13:30:00",
+      "date_broadcast": "2023-03-26 23:00:00",
       "vs": "0"
     },
     {
@@ -819,18 +819,18 @@
     },
     {
       "count": "4",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2022",
-      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 21:30-Diwedd",
+      "programme_title": "Eisteddfod Ffermwyr Ifanc 2022 - 18:00-19:00",
       "short_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P4_01.jpg",
-      "duration": "141",
+      "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2022S4C_P3_03.jpg",
+      "duration": "145",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Ffederasiwn Sir Benfro sy'n croesawu Steddfod y Ffermwyr Ifanc eleni a fydd yn cael ei chynnal yn Neuadd Ysgol Bro Gwaun, Abergwaun. Fe fydd pob rhanbarth yn cystadlu mewn eisteddfod leol cyn ennill yr hawl i ddod i'r eisteddfod genedlaethol yma. Yn ogystal â chanu a llefaru, partïon a chorau, offerynnol a dawns fe fydd y digri a'r ysgafn, y meim, deuawd/triawd doniol a'r sgets gan sicrhau digon o hwyl ac amrywiaeth. Ifan Jones Evans, Jessica Robinson, Aeron Pughe a Terwyn Davies sy'n cyflwyno.",
-      "clic_aired": "20 Tachwedd 2022",
+      "clic_aired": "19 Tachwedd 2022",
       "fav_id": "537583011",
-      "id": "865131867",
+      "id": "865131801",
       "series_id": "865131792",
       "title": "Eisteddfod Ffermwyr Ifanc 2022",
       "date_broadcast": null,
@@ -933,7 +933,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "1466",
+      "days_to_expire": "1465",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1154",
+      "days_to_expire": "1153",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "29",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 3",
-      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772393",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-17 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "50",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "29",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 3",
+      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772393",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-17 13:30:00",
       "vs": "0"
     },
     {
@@ -1441,7 +1441,7 @@
       "id": "808323777",
       "series_id": "808323681",
       "title": "Stori'r Iaith",
-      "date_broadcast": "2023-03-05 22:00:00",
+      "date_broadcast": "2023-03-26 13:00:00",
       "vs": "0"
     },
     {
