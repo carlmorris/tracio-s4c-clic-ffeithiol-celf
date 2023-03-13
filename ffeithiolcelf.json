@@ -78,7 +78,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Ar Lafar - Cyfres 1",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres ddogfen yn cofnodi a dathlu tafodieithoedd Cymru.",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
-      "clic_aired": "6 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387390",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "92",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Elaine Jones o Landudno sy'n torchi ei llewys wrth gael dosbarth meistr ar goginio pysgod. Bydd Bryn yn pysgota ar y môr oddi ar arfordir Bae Colwyn ac yn coginio ger y traeth wrth i'r haul fachlud dros y tonnau.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387390",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-06 13:30:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Nadolig",
       "short_billing": "Mae criw Unit Thirteen yn dathlu'r Nadolig wrth ail-adeiladu hen Volkswagen Golf racs yn ystod heatwave yn ganol yr haf. Pam' Peidiwch a poeni am y manylion, jyst yn laff dydi. Nadolig llawen. ",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "49",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "28",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-03-17 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "49",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
