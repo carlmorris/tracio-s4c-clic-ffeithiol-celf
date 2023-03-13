@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Am Dro",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr - selebs! - yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. Gyda Donna Edwards, Catrin Heledd, Gwilym Ifan Pritchard, a Dewi Pws.",
@@ -191,22 +191,22 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "143",
+      "count": "7",
+      "days_to_expire": "149",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
-      "programme_title": "Yr Eidal",
-      "short_billing": "Draw i'r Eidal yw hi yr wythnos hon - ac mae 'na newidiadau. Mae Smokey Pete yn cael ei orffwys ac mae'r bechgyn wedi codi Fiat 500 steilus yn ei le. Maen nhw ar eu ffordd i Rovigo. Tref ag obsesiwn â rygbi a hynny oherwydd hyfforddwr arbennig iawn - y chwedlonol Carwyn James. Byddan nhw'n cwrdd â'r bobl sy'n cofio'r g¿r o Gefneithin gydag anwylder. Yna i Ferrara lle mae bwyd yn cwrdd â hanes. Y bar hynaf yn y byd, gwneud pasta gyda Nonna Eidalaidd ac yna cwrdd â Pierluigi - cogydd mawr y ddinas",
-      "thumbnail_url": "Bois_y_Pizza_2023S4C_P6_Yr_Eidal_008.jpg",
+      "programme_title": "Ffrainc",
+      "short_billing": "Y tro hwn, awn i Baris. Dinas llawn cariad. Dinas llawn diwylliant. Dinas llawn bwyd. Mae'n daith chwedlonol sy'n enwog am y gwrthdaro rhwng Cymru a'r Les Bleus nerthol. Ond dyw'r bois ddim yma am y rygbi - ma' nhw am flasu'r bwydydd arbennig gall y ddinas hon, sy mor enwog am y bwyd, ei gynnig. Pizzas gyda'r enwog Yves Camdeborde, madarch yn tyfu mewn hen maes parcio, seidr a parti pizza wrth gwrs. Ooh la la!\n \n \n ",
+      "thumbnail_url": "Bois_y_Pizza_2023S4C_P7_Ffrainc_006.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Draw i'r Eidal yw hi yr wythnos hon - ac mae 'na newidiadau. Mae Smokey Pete yn cael ei orffwys ac mae'r bechgyn wedi codi Fiat 500 steilus yn ei le. Maen nhw ar eu ffordd i Rovigo. Tref ag obsesiwn â rygbi a hynny oherwydd hyfforddwr arbennig iawn - y chwedlonol Carwyn James. Byddan nhw'n cwrdd â'r bobl sy'n cofio'r g¿r o Gefneithin gydag anwylder. Yna i Ferrara lle mae bwyd yn cwrdd â hanes. Y bar hynaf yn y byd, gwneud pasta gyda Nonna Eidalaidd ac yna cwrdd â Pierluigi - cogydd mawr y ddinas",
-      "clic_aired": "6 Mawrth 2023",
+      "full_billing": "Y tro hwn, awn i Baris. Dinas llawn cariad. Dinas llawn diwylliant. Dinas llawn bwyd. Mae'n daith chwedlonol sy'n enwog am y gwrthdaro rhwng Cymru a'r Les Bleus nerthol. Ond dyw'r bois ddim yma am y rygbi - ma' nhw am flasu'r bwydydd arbennig gall y ddinas hon, sy mor enwog am y bwyd, ei gynnig. Pizzas gyda'r enwog Yves Camdeborde, madarch yn tyfu mewn hen maes parcio, seidr a parti pizza wrth gwrs. Ooh la la!\n \n \n ",
+      "clic_aired": "13 Mawrth 2023",
       "fav_id": "799321392",
-      "id": "836229165",
+      "id": "836229191",
       "series_id": "836229013",
       "title": "Bois y Pizza: Chwe' Gwlad",
-      "date_broadcast": "2023-03-11 16:45:00",
+      "date_broadcast": "2023-03-18 13:30:00",
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2022",
       "short_billing": "Pa ysgol fydd yn ennill teitl Carol yr Wyl 2022' Robat Arwyn a Bronwen Lewis sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Rhaglen arbennig i ddathlu cyfraniad unigryw Hywel Gwynfryn ar achlysur ei benblwydd yn 80 oed. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir yn onest¿¿..",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Y Ffair Aeaf - Uchafbwyntiau ",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2022. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. ",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
