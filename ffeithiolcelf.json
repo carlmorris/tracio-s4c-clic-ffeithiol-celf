@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
-      "clic_aired": "13 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387416",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "91",
       "series_title": "Cegin Bryn",
@@ -378,6 +359,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
+      "clic_aired": "13 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387416",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-13 13:30:00",
       "vs": "0"
     },
     {
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "34",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 4",
-      "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Stifyn Parri a David Parry-Steer yng Nghaerdydd, Huw Richards yn Tregaron a Richard a Sally Morris yn Aberhonddu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P4_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Stifyn Parri a David Parry-Steer yng Nghaerdydd, Huw Richards yn Tregaron a Richard a Sally Morris yn Aberhonddu. ",
-      "clic_aired": "13 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772417",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-24 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "48",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "27",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 3",
+      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P3_004.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Mici Plwm yn Pwllheli, David Carlsen-Browne ar y Gwyr a Mike ac Ireene Jones yn Bettws.",
+      "clic_aired": "6 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772393",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-17 13:30:00",
       "vs": "0"
     },
     {
