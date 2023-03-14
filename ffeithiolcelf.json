@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Am Dro",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr - selebs! - yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. Gyda Donna Edwards, Catrin Heledd, Gwilym Ifan Pritchard, a Dewi Pws.",
@@ -192,7 +192,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Ffrainc",
       "short_billing": "Y tro hwn, awn i Baris. Dinas llawn cariad. Dinas llawn diwylliant. Dinas llawn bwyd. Mae'n daith chwedlonol sy'n enwog am y gwrthdaro rhwng Cymru a'r Les Bleus nerthol. Ond dyw'r bois ddim yma am y rygbi - ma' nhw am flasu'r bwydydd arbennig gall y ddinas hon, sy mor enwog am y bwyd, ei gynnig. Pizzas gyda'r enwog Yves Camdeborde, madarch yn tyfu mewn hen maes parcio, seidr a parti pizza wrth gwrs. Ooh la la!\n \n \n ",
@@ -207,25 +207,6 @@
       "series_id": "836229013",
       "title": "Bois y Pizza: Chwe' Gwlad",
       "date_broadcast": "2023-03-18 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "40",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Aberdâr",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "25 Tachwedd 2022",
-      "fav_id": "817962669",
-      "id": "842326984",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-02-26 12:00:00",
       "vs": "0"
     },
     {
@@ -245,6 +226,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "40",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Aberdâr",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P1_Aberdar_17.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "25 Tachwedd 2022",
+      "fav_id": "817962669",
+      "id": "842326984",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-02-26 12:00:00",
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2022",
       "short_billing": "Pa ysgol fydd yn ennill teitl Carol yr Wyl 2022' Robat Arwyn a Bronwen Lewis sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
-      "clic_aired": "13 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387416",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "90",
       "series_title": "Cegin Bryn",
@@ -381,8 +362,27 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
+      "clic_aired": "13 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387416",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-13 13:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Rhaglen arbennig i ddathlu cyfraniad unigryw Hywel Gwynfryn ar achlysur ei benblwydd yn 80 oed. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir yn onest¿¿..",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "47",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "33",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-03-24 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "47",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Y Ffair Aeaf - Uchafbwyntiau ",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2022. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. ",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
