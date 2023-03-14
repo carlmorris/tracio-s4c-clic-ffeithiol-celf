@@ -952,7 +952,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "907",
+      "days_to_expire": "906",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "47",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "33",
       "series_title": "Pobl a'u Gerddi",
@@ -1271,6 +1252,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-03-24 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "47",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
