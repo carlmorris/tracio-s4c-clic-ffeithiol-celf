@@ -59,7 +59,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Ar Lafar - Cyfres 1",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres ddogfen yn cofnodi a dathlu tafodieithoedd Cymru.",
@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
-      "clic_aired": "13 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387416",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "86",
       "series_title": "Cegin Bryn",
@@ -359,6 +340,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
+      "clic_aired": "13 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387416",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-13 13:30:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Nadolig",
       "short_billing": "Mae criw Unit Thirteen yn dathlu'r Nadolig wrth ail-adeiladu hen Volkswagen Golf racs yn ystod heatwave yn ganol yr haf. Pam' Peidiwch a poeni am y manylion, jyst yn laff dydi. Nadolig llawen. ",
