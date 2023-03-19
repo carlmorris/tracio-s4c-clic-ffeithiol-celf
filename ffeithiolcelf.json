@@ -287,7 +287,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
-      "clic_aired": "13 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387416",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-13 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "85",
       "series_title": "Cegin Bryn",
@@ -359,6 +340,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "143",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Prydau di-glwten sydd dan sylw'r yn y rhaglen hon wrth i Bryn gynnig help llaw i Myfanwy Gloster o Borthmadog sy'n 'coeliac'.",
+      "clic_aired": "13 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387416",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-13 13:30:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 4",
       "short_billing": "Yn y rhaglen hon bydd Aled yn ymweld â gerddi Stifyn Parri a David Parry-Steer yng Nghaerdydd, Huw Richards yn Tregaron a Richard a Sally Morris yn Aberhonddu. ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
