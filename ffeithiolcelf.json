@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": null,
       "programme_title": "Cyngerdd Cymru ac Wcrain",
       "short_billing": "Bron i flwyddyn yn ddiweddarach, cyfle arall i weld y gyngerdd arbennig fu yng Nghanolfan y Celfyddydau, Aber, i godi arian i Apêl Ddyngarol Wcráin ar y cyd rhwng DEC Cymru a S4C. Bydd artistiaid o Gymru ac Wcráin yn perfformio, yn cynnwys Yuriy Yurchuk, bariton o Wcráin, y tenor Gwyn Hughes Jones, Côr y Cwm, Côr Glanaethwy, Côr Ysgol Plascrug Aberystwyth, Contemporary Music Collective, Dafydd Wyn Jones, Glain Rhys a Sam Ebenezer. Elin Fflur sy'n arwain.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Myfyriwr o'r gogledd sy'n cipio gwobr arbennig; statws unigryw i lysieuyn cenedlaethol; ni'n gofyn a fydd yna lai o gig oen Cymreig ar silffoedd yr archfarchnadoedd eleni; a buches arbennig yn cael ei gwerthu at achos da.",
@@ -1199,25 +1199,6 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "        Ffordd o fyw / Lifestyle",
-      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Delyth O'Rourke yn Brynaman, Eleri a Robin Gwyndaf yng Nghaerdydd a Gwilym a Sally Davies yn Ynys Mon. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P5_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Delyth O'Rourke yn Brynaman, Eleri a Robin Gwyndaf yng Nghaerdydd a Gwilym a Sally Davies yn Ynys Mon. ",
-      "clic_aired": "20 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772441",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-03-31 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
       "days_to_expire": "36",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 6",
@@ -1233,6 +1214,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "29",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "        Ffordd o fyw / Lifestyle",
+      "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Delyth O'Rourke yn Brynaman, Eleri a Robin Gwyndaf yng Nghaerdydd a Gwilym a Sally Davies yn Ynys Mon. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P5_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Delyth O'Rourke yn Brynaman, Eleri a Robin Gwyndaf yng Nghaerdydd a Gwilym a Sally Davies yn Ynys Mon. ",
+      "clic_aired": "20 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772441",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-03-31 13:30:00",
       "vs": "0"
     },
     {
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
