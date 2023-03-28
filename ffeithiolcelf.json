@@ -382,7 +382,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "1. Clasuron Efrog Newydd",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan flasu clasuron y ddinas am y tro cyntaf - o pizzas i fyrgyr eiconig a brechdanau pastrami anferth!",
@@ -515,25 +515,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
-      "series_title": "Cynefin",
-      "programme_title": "Llandudno",
-      "short_billing": "Llandudno.   Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch y dref lan mor Fictorianaidd i ddarganfod mwy am ddylanwad y Gogarth ar y dref, byd theatrig Llandudno ag adrodd am rai o gymeriadau lliwgar yr ardal. ",
-      "thumbnail_url": "Cynefin_2023S4C_P1_Llandudno_014_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Llandudno.   Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch y dref lan mor Fictorianaidd i ddarganfod mwy am ddylanwad y Gogarth ar y dref, byd theatrig Llandudno ag adrodd am rai o gymeriadau lliwgar yr ardal. ",
-      "clic_aired": "26 Mawrth 2023",
-      "fav_id": "796376120",
-      "id": "864272872",
-      "series_id": "864272866",
-      "title": "Cynefin",
-      "date_broadcast": "2023-04-03 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "2",
       "series_title": "Cynefin",
       "programme_title": "Tyddewi - Ynys Dewi",
@@ -549,6 +530,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2023-02-24 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "147",
+      "series_title": "Cynefin",
+      "programme_title": "Llandudno",
+      "short_billing": "Llandudno.   Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch y dref lan mor Fictorianaidd i ddarganfod mwy am ddylanwad y Gogarth ar y dref, byd theatrig Llandudno ag adrodd am rai o gymeriadau lliwgar yr ardal. ",
+      "thumbnail_url": "Cynefin_2023S4C_P1_Llandudno_014_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Llandudno.   Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch y dref lan mor Fictorianaidd i ddarganfod mwy am ddylanwad y Gogarth ar y dref, byd theatrig Llandudno ag adrodd am rai o gymeriadau lliwgar yr ardal. ",
+      "clic_aired": "26 Mawrth 2023",
+      "fav_id": "796376120",
+      "id": "864272872",
+      "series_id": "864272866",
+      "title": "Cynefin",
+      "date_broadcast": "2023-04-03 22:00:00",
       "vs": "0"
     },
     {
@@ -662,12 +662,12 @@
       "id": "847003750",
       "series_id": null,
       "title": "DRYCH: Dyn yn y Van",
-      "date_broadcast": "2023-02-22 22:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
       "count": "1",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": null,
       "programme_title": "DRYCH: Fi, Rhyw ac Anabledd",
       "short_billing": "Cyfle arall i weld enillydd un o Wobrau Broadcast 2023. Mae Rhys Bowler yn torri'r tabw o siarad am ryw ac anabledd. Mae'n dechrau perthynas pellter hir newydd cyffrous, a jyglo cymhlethdodau ei gyflwr dirywiol Duchenne Muscular Dystrophy. Ac yn cwestiynu, oes 'na fwy i fywyd na jyst rhyw' Bydd Rhys yn ffeindio gwir gariad yn y diwedd'",
@@ -705,7 +705,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Dan Do",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref cyfoes yn y Bontfaen, t&#375; sy'n llawn lliw ym Mhontlliw, a hen ficerdy llawn personoliaeth ar  Ynys Môn.  ",
@@ -909,12 +909,12 @@
       "id": "842998716",
       "series_id": "842998691",
       "title": "Greenham",
-      "date_broadcast": null,
+      "date_broadcast": "2023-04-12 22:50:00",
       "vs": "0"
     },
     {
       "count": "5",
-      "days_to_expire": "1449",
+      "days_to_expire": "1448",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1137",
+      "days_to_expire": "1136",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
