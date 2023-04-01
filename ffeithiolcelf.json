@@ -306,7 +306,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Cegin Bryn",
       "programme_title": null,
       "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cyfres lle mae Cerys Matthews yn olrhain hanes deuddeg cân sydd â'u gwreiddiau yng Nghymru neu â chysylltiad gyda Gwlad y Gân.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Darn Bach o Hanes",
       "programme_title": "Lleoli Brwydrau Cymru",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "30",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "30",
       "series_title": "Pobl a'u Gerddi",
@@ -1176,6 +1157,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-04-07 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "29",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n dilyn dynion yn eu faniau. Helpu Christine i fudo i fynglo newydd ar Ynys Môn mae Shaun tra fod Lee yn gwagio ei garej gyntaf wedi i'r perchennog farw. Defnyddio ei fan i gludo darnau o hanes pêl-droed a hen offer fferm mae Rhys o'r Bala. ",
