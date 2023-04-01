@@ -187,7 +187,7 @@
       "id": "842326984",
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-02-26 12:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "1. Clasuron Efrog Newydd",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan flasu clasuron y ddinas am y tro cyntaf - o pizzas i fyrgyr eiconig a brechdanau pastrami anferth!",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": null,
       "programme_title": "DRYCH: Fi, Rhyw ac Anabledd",
       "short_billing": "Cyfle arall i weld enillydd un o Wobrau Broadcast 2023. Mae Rhys Bowler yn torri'r tabw o siarad am ryw ac anabledd. Mae'n dechrau perthynas pellter hir newydd cyffrous, a jyglo cymhlethdodau ei gyflwr dirywiol Duchenne Muscular Dystrophy. Ac yn cwestiynu, oes 'na fwy i fywyd na jyst rhyw' Bydd Rhys yn ffeindio gwir gariad yn y diwedd'",
@@ -648,7 +648,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Dan Do",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref cyfoes yn y Bontfaen, t&#375; sy'n llawn lliw ym Mhontlliw, a hen ficerdy llawn personoliaeth ar  Ynys Môn.  ",
@@ -662,7 +662,7 @@
       "id": "842325236",
       "series_id": "842325112",
       "title": "Dan Do",
-      "date_broadcast": "2023-03-29 12:30:00",
+      "date_broadcast": "2023-04-16 12:00:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "1445",
+      "days_to_expire": "1444",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1133",
+      "days_to_expire": "1132",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
