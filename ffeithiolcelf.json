@@ -306,25 +306,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "20 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-03-20 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "71",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
@@ -340,6 +321,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "136",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "20 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-03-20 13:30:00",
       "vs": "0"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "1. Clasuron Efrog Newydd",
       "short_billing": "Bydd y cogydd tanbaid Chris 'Flamebaster' Roberts yn bwyta ac yn coginio ei ffordd o amgylch NYC, gan flasu clasuron y ddinas am y tro cyntaf - o pizzas i fyrgyr eiconig a brechdanau pastrami anferth!",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": null,
       "programme_title": "DRYCH: Fi, Rhyw ac Anabledd",
       "short_billing": "Cyfle arall i weld enillydd un o Wobrau Broadcast 2023. Mae Rhys Bowler yn torri'r tabw o siarad am ryw ac anabledd. Mae'n dechrau perthynas pellter hir newydd cyffrous, a jyglo cymhlethdodau ei gyflwr dirywiol Duchenne Muscular Dystrophy. Ac yn cwestiynu, oes 'na fwy i fywyd na jyst rhyw' Bydd Rhys yn ffeindio gwir gariad yn y diwedd'",
@@ -667,7 +667,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Dan Do",
       "programme_title": "Pennod 5",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref cyfoes yn y Bontfaen, t&#375; sy'n llawn lliw ym Mhontlliw, a hen ficerdy llawn personoliaeth ar  Ynys Môn.  ",
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "1444",
+      "days_to_expire": "1443",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1132",
+      "days_to_expire": "1131",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
