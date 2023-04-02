@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -287,25 +287,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "71",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "14 Ionawr 2023",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "136",
       "series_title": "Cegin Bryn",
       "programme_title": null,
@@ -321,6 +302,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": "2023-03-20 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "71",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "14 Ionawr 2023",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "       Ffordd o fyw / Lifestyle",
       "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres newydd yn dilyn Marian a Rob Evans o Lansteffan sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn yr ail bennod mae Marian yn trafod ei chynllun i gynnal cyrsiau preswyl i gleientiaid ac mae'r teulu yn rhoi stamp eu hunain ar y castell. Ond gyda Cofid dal i chwalu eu cynlluniau a gwahardd digwyddiadau yn y castell; tybed os fydd y teulu yn medru cydweitho a defnyddio pen busnes Marian i droi y fenter yn lwyddiant ysgubol'",
