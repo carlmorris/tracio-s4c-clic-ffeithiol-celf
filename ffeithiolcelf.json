@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "886",
+      "days_to_expire": "885",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Jason Mohammad fydd yn westai yn y stiwdio i drafod ei gyfres newydd, a Owain Gwynedd sydd wedi mynd i gyfarfod rhai sydd yn chware Rygbi Byddar.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Jason Mohammad fydd yn westai yn y stiwdio i drafod ei gyfres newydd, a Owain Gwynedd sydd wedi mynd i gyfarfod rhai sydd yn chware Rygbi Byddar.",
-      "clic_aired": "4 Ebrill 2023",
-      "fav_id": "520950912",
-      "id": "871478337",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-04-05 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "91",
       "days_to_expire": "145",
       "series_title": "Heno",
@@ -1005,6 +986,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Jason Mohammad fydd yn westai yn y stiwdio i drafod ei gyfres newydd, a Owain Gwynedd sydd wedi mynd i gyfarfod rhai sydd yn chware Rygbi Byddar.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Jason Mohammad fydd yn westai yn y stiwdio i drafod ei gyfres newydd, a Owain Gwynedd sydd wedi mynd i gyfarfod rhai sydd yn chware Rygbi Byddar.",
+      "clic_aired": "4 Ebrill 2023",
+      "fav_id": "520950912",
+      "id": "871478337",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-04-05 12:30:00",
       "vs": "0"
     },
     {
@@ -1293,25 +1293,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Byddwn yn dathlu penblwydd Y Dinesydd yn 50 oed ac mi fydd Dr Celyn yn y syrjeri. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn dathlu penblwydd Y Dinesydd yn 50 oed ac mi fydd Dr Celyn yn y syrjeri. ",
-      "clic_aired": "4 Ebrill 2023",
-      "fav_id": "520950923",
-      "id": "871687858",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-04-04 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "96",
       "days_to_expire": "145",
       "series_title": "Prynhawn Da",
@@ -1328,6 +1309,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Byddwn yn dathlu penblwydd Y Dinesydd yn 50 oed ac mi fydd Dr Celyn yn y syrjeri. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn dathlu penblwydd Y Dinesydd yn 50 oed ac mi fydd Dr Celyn yn y syrjeri. ",
+      "clic_aired": "4 Ebrill 2023",
+      "fav_id": "520950923",
+      "id": "871687858",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-04-04 14:05:00",
       "vs": "0"
     },
     {
