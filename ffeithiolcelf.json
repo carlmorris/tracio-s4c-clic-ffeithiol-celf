@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
-      "clic_aired": "7 Ebrill 2023",
-      "fav_id": "520950912",
-      "id": "871478397",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-04-10 12:25:00",
-      "vs": "0"
-    },
-    {
       "count": "89",
       "days_to_expire": "142",
       "series_title": "Heno",
@@ -1005,6 +986,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
+      "clic_aired": "7 Ebrill 2023",
+      "fav_id": "520950912",
+      "id": "871478397",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-04-10 12:25:00",
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau'r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
