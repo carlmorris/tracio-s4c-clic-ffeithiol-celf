@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Am Dro",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr - selebs! - yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. Gyda Donna Edwards, Catrin Heledd, Gwilym Ifan Pritchard, a Dewi Pws.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Ffrainc",
       "short_billing": "Y tro hwn, awn i Baris. Dinas llawn cariad. Dinas llawn diwylliant. Dinas llawn bwyd. Mae'n daith chwedlonol sy'n enwog am y gwrthdaro rhwng Cymru a'r Les Bleus nerthol. Ond dyw'r bois ddim yma am y rygbi - ma' nhw am flasu'r bwydydd arbennig gall y ddinas hon, sy mor enwog am y bwyd, ei gynnig. Pizzas gyda'r enwog Yves Camdeborde, madarch yn tyfu mewn hen maes parcio, seidr a parti pizza wrth gwrs. Ooh la la!\n \n \n ",
@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -249,7 +249,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2022",
       "short_billing": "Pa ysgol fydd yn ennill teitl Carol yr Wyl 2022' Robat Arwyn a Bronwen Lewis sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -495,22 +495,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Cynefin",
-      "programme_title": "Llandysul",
-      "short_billing": "Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch Llandysul a'r fro, ar lannau'r afon Teifi.  Dyma gartref un o weisg argraffu hynaf Cymru sydd hefyd yn llawn dop o gymeriadau ac hanesion cefn gwlad de Orllewin Cymru.",
-      "thumbnail_url": "Cynefin_2023S4C_P2_Llandysul_009.jpg",
+      "programme_title": "Pwllheli",
+      "short_billing": "Pwllheli.  Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn mwynhau taith i Bwllheli, tref glan môr yn Ll&#375;n.   Dyma gyfle i Iestyn gael gwers hwylio, i Ffion ddarganfod hanes y pentre Pwylaidd, ag i Sion gwrdd â hanesydd lleol gwybodus.",
+      "thumbnail_url": "Cynefin_2023S4C_P3_Pwllheli_007.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn crwydro o amgylch Llandysul a'r fro, ar lannau'r afon Teifi.  Dyma gartref un o weisg argraffu hynaf Cymru sydd hefyd yn llawn dop o gymeriadau ac hanesion cefn gwlad de Orllewin Cymru.",
-      "clic_aired": "2 Ebrill 2023",
+      "full_billing": "Pwllheli.  Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn mwynhau taith i Bwllheli, tref glan môr yn Ll&#375;n.   Dyma gyfle i Iestyn gael gwers hwylio, i Ffion ddarganfod hanes y pentre Pwylaidd, ag i Sion gwrdd â hanesydd lleol gwybodus.",
+      "clic_aired": "9 Ebrill 2023",
       "fav_id": "796376120",
-      "id": "864272888",
+      "id": "864272904",
       "series_id": "864272866",
       "title": "Cynefin",
-      "date_broadcast": "2023-04-10 22:00:00",
+      "date_broadcast": "2023-04-17 22:30:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Garddio a Mwy 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen gyntaf y gyfres cawn groesawu ein cyflwynwydd newydd Adam Jones fydd, fel Meinir, Sioned ag Iwan yn edrych yn ôl ar sut fu i'n gerddi oroesi misoedd y Gaeaf, ac mae pawb yn gwirioni bod arogl y Gwanwyn yn llenwi'r gerddi a'r tir.",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "32",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
-      "clic_aired": "7 Ebrill 2023",
-      "fav_id": "520950912",
-      "id": "871478397",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-04-10 12:25:00",
-      "vs": "0"
-    },
-    {
       "count": "87",
       "days_to_expire": "140",
       "series_title": "Heno",
@@ -1024,6 +1005,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "32",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Catrin Herbert fydd yn y stiwdio am sgwrs a chan a Daf Wyn sydd wedi bod i gael sgwrs gyda Huw Edwards. ",
+      "clic_aired": "7 Ebrill 2023",
+      "fav_id": "520950912",
+      "id": "871478397",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-04-10 12:25:00",
       "vs": "0"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Rhaglen arbennig i ddathlu cyfraniad unigryw Hywel Gwynfryn ar achlysur ei benblwydd yn 80 oed. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir yn onest¿¿..",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Y Ffair Aeaf - Uchafbwyntiau ",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2022. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. ",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Cawn ddysgu am hanes y gân ynghyd a'r siwrne ma'i wedi bod arni dros yr 8 mis diwethaf wrth gyrraedd rhif 1 yn y siartiau.",
