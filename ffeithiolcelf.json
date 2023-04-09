@@ -1237,25 +1237,6 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "       Ffordd o fyw / Lifestyle",
-      "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P6_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
-      "clic_aired": "27 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772465",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-04-07 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
       "days_to_expire": "21",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 6",
@@ -1271,6 +1252,25 @@
       "series_id": "540621516",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "22",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "       Ffordd o fyw / Lifestyle",
+      "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2019_P6_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
+      "clic_aired": "27 Mawrth 2023",
+      "fav_id": "540621194",
+      "id": "798772465",
+      "series_id": "798772335",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": "2023-04-07 13:30:00",
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Nerys sydd yn y gegin yn paratoi Cacen Siocled Pasg a byddwn yn cael sesiwn ffitrwydd. ",
@@ -1350,8 +1350,8 @@
       "vs": "0"
     },
     {
-      "count": "93",
-      "days_to_expire": "141",
+      "count": "92",
+      "days_to_expire": "140",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
