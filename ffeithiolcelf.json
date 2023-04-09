@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "881",
+      "days_to_expire": "880",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "32",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Nerys sydd yn y gegin yn paratoi Cacen Siocled Pasg a byddwn yn cael sesiwn ffitrwydd. ",
-      "thumbnail_url": "Prynhawn_Da_2023_04_07_P.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nerys sydd yn y gegin yn paratoi Cacen Siocled Pasg a byddwn yn cael sesiwn ffitrwydd. ",
-      "clic_aired": "7 Ebrill 2023",
-      "fav_id": "520950923",
-      "id": "871687924",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-04-07 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "92",
       "days_to_expire": "140",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "32",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Nerys sydd yn y gegin yn paratoi Cacen Siocled Pasg a byddwn yn cael sesiwn ffitrwydd. ",
+      "thumbnail_url": "Prynhawn_Da_2023_04_07_P.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nerys sydd yn y gegin yn paratoi Cacen Siocled Pasg a byddwn yn cael sesiwn ffitrwydd. ",
+      "clic_aired": "7 Ebrill 2023",
+      "fav_id": "520950923",
+      "id": "871687924",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-04-07 14:05:00",
       "vs": "0"
     },
     {
