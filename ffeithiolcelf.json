@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "33",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "11 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-04-11 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "146",
       "series_title": "Cynefin",
@@ -511,6 +492,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-04-17 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "33",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "11 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-04-11 13:15:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "91",
-      "days_to_expire": "137",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-03-31 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-04-12 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "91",
+      "days_to_expire": "137",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-03-31 14:05:00",
       "vs": "0"
     },
     {
