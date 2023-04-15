@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "31",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "11 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-04-11 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "144",
       "series_title": "Cynefin",
@@ -511,6 +492,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-04-17 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "31",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "11 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-04-11 13:15:00",
       "vs": "0"
     },
     {
@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "85",
-      "days_to_expire": "135",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950912",
-      "id": "852339938",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2023-04-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -1043,6 +1024,25 @@
       "series_id": "871478307",
       "title": "Heno",
       "date_broadcast": "2023-04-17 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "85",
+      "days_to_expire": "135",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950912",
+      "id": "852339938",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2023-04-03 12:30:00",
       "vs": "0"
     },
     {
