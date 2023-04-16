@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "84",
-      "days_to_expire": "134",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950912",
-      "id": "852339938",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2023-04-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "33",
       "series_title": "Heno",
@@ -1043,6 +1024,25 @@
       "series_id": "871478307",
       "title": "Heno",
       "date_broadcast": "2023-04-17 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "84",
+      "days_to_expire": "134",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950912",
+      "id": "852339938",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2023-04-03 12:30:00",
       "vs": "0"
     },
     {
@@ -1256,25 +1256,6 @@
     },
     {
       "count": "3",
-      "days_to_expire": "14",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "Pennod 6",
-      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
-      "clic_aired": "2 Rhagfyr 2022",
-      "fav_id": "540621194",
-      "id": "540621635",
-      "series_id": "540621516",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
       "days_to_expire": "15",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "       Ffordd o fyw / Lifestyle",
@@ -1290,6 +1271,25 @@
       "series_id": "798772335",
       "title": "Pobl a'u Gerddi",
       "date_broadcast": "2023-04-07 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "14",
+      "series_title": "Pobl a'u Gerddi",
+      "programme_title": "Pennod 6",
+      "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
+      "thumbnail_url": "Pobl_au_Gerddi_2017_P6_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Aled yn ymweld â gardd uchelgeisiol Elfed Williams yn Sir Fôn, lle mae wedi creu 'parterre' Tuduraidd; bydd Emba Wimbush yn tywys Aled o gwmpas ei gardd eco mewn pentref eco ger Crymych; a bydd Aled yn cael ei ddiddanu yng ngardd hanesyddol Marc a Diane Weinzweig yng Nghoytrahen, gardd maen nhw'n ei defnyddio i gynnal cyngherddau jazz i'w ffrindiau a theulu. ",
+      "clic_aired": "2 Rhagfyr 2022",
+      "fav_id": "540621194",
+      "id": "540621635",
+      "series_id": "540621516",
+      "title": "Pobl a'u Gerddi",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1331,8 +1331,8 @@
       "vs": "0"
     },
     {
-      "count": "88",
-      "days_to_expire": "134",
+      "count": "87",
+      "days_to_expire": "133",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Mi fydd y Clwb Clecs yma i drafod pynciau llosg yr wythnos ac mi fydd Ifan Phillips yma i drafod chwaraeon y penwythnos. ",
