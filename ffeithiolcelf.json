@@ -1027,25 +1027,6 @@
       "vs": "0"
     },
     {
-      "count": "83",
-      "days_to_expire": "133",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950912",
-      "id": "852339938",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2023-04-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "32",
       "series_title": "Heno",
@@ -1062,6 +1043,25 @@
       "series_id": "871478307",
       "title": "Heno",
       "date_broadcast": "2023-04-17 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "83",
+      "days_to_expire": "133",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950912",
+      "id": "852339938",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2023-04-03 12:30:00",
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Y Cosmos",
       "programme_title": "Llwybr Llaethog",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
