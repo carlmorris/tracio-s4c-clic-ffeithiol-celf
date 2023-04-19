@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Am Dro",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr - selebs! - yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. Gyda Donna Edwards, Catrin Heledd, Gwilym Ifan Pritchard, a Dewi Pws.",
@@ -135,7 +135,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Ffrainc",
       "short_billing": "Y tro hwn, awn i Baris. Dinas llawn cariad. Dinas llawn diwylliant. Dinas llawn bwyd. Mae'n daith chwedlonol sy'n enwog am y gwrthdaro rhwng Cymru a'r Les Bleus nerthol. Ond dyw'r bois ddim yma am y rygbi - ma' nhw am flasu'r bwydydd arbennig gall y ddinas hon, sy mor enwog am y bwyd, ei gynnig. Pizzas gyda'r enwog Yves Camdeborde, madarch yn tyfu mewn hen maes parcio, seidr a parti pizza wrth gwrs. Ooh la la!\n \n \n ",
@@ -211,7 +211,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -230,7 +230,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2022",
       "short_billing": "Pa ysgol fydd yn ennill teitl Carol yr Wyl 2022' Robat Arwyn a Bronwen Lewis sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cynefin",
       "programme_title": "Cas-Gwent",
       "short_billing": "Cas-gwent sydd dan sylw y tro hwn wrth i griw Cynefin deithio i dde-ddwyrain Cymru i ddarganfod cyfrinachau'r dref hon ar lannau'r Hafren.  Bydd Heledd yn clywed am gysylltiad agos y fro gyda ceffylau, Ffion yn dringo i dop ucha pont fawreddog a Sion yn darganfod chwedlau'r fro.",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
-      "thumbnail_url": "Ffermio_2023S4C_Meinir_Howells_0132-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
-      "clic_aired": "17 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "871756482",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-04-23 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "141",
       "series_title": "Ffermio",
@@ -951,8 +932,27 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "1",
       "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
+      "thumbnail_url": "Ffermio_2023S4C_Meinir_Howells_0132-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
+      "clic_aired": "17 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "871756482",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-04-23 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "147",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "'Ebrill y Briallu' ydi'r dywediad, a trafod y 'briallu' mae Meinir yn y rhaglen hon. Mae Sioned yn plannu bylbiau Haf, Iwan yn trafod pwysigrwydd amgylcheddol y mwsog, a Rhys yn gwneud cawl nionod bendigedig ar y rhandir yng Nghae Pawb.",
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "33",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Mi fydd rhai o dîm rygbi byddar Cymru yn y stiwdio a Daf Wyn sydd wedi bod am sgwrs gyda Aled Hall. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mi fydd rhai o dîm rygbi byddar Cymru yn y stiwdio a Daf Wyn sydd wedi bod am sgwrs gyda Aled Hall. ",
-      "clic_aired": "18 Ebrill 2023",
-      "fav_id": "520950912",
-      "id": "871478539",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-04-19 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "82",
       "days_to_expire": "130",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "33",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Mi fydd rhai o dîm rygbi byddar Cymru yn y stiwdio a Daf Wyn sydd wedi bod am sgwrs gyda Aled Hall. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mi fydd rhai o dîm rygbi byddar Cymru yn y stiwdio a Daf Wyn sydd wedi bod am sgwrs gyda Aled Hall. ",
+      "clic_aired": "18 Ebrill 2023",
+      "fav_id": "520950912",
+      "id": "871478539",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-04-19 12:30:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Rhaglen arbennig i ddathlu cyfraniad unigryw Hywel Gwynfryn ar achlysur ei benblwydd yn 80 oed. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir yn onest¿¿..",
@@ -1407,25 +1407,6 @@
       "vs": "0"
     },
     {
-      "count": "13",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Ann Marie sydd yn y stiwdio gyda newidiadau rhad a syml i'r 'stafell folchi.",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ann Marie sydd yn y stiwdio gyda newidiadau rhad a syml i'r 'stafell folchi.",
-      "clic_aired": "19 Ebrill 2023",
-      "fav_id": "520950923",
-      "id": "871688103",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-04-19 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "86",
       "days_to_expire": "130",
       "series_title": "Prynhawn Da",
@@ -1442,6 +1423,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "13",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Ann Marie sydd yn y stiwdio gyda newidiadau rhad a syml i'r 'stafell folchi.",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ann Marie sydd yn y stiwdio gyda newidiadau rhad a syml i'r 'stafell folchi.",
+      "clic_aired": "19 Ebrill 2023",
+      "fav_id": "520950923",
+      "id": "871688103",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-04-19 14:05:00",
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Y Ffair Aeaf - Uchafbwyntiau ",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2022. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. ",
