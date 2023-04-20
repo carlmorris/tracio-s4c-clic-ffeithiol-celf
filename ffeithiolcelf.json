@@ -894,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
-      "thumbnail_url": "Ffermio_2023S4C_Meinir_Howells_0132-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
-      "clic_aired": "17 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "871756482",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-04-23 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "139",
       "series_title": "Ffermio",
@@ -929,6 +910,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
+      "thumbnail_url": "Ffermio_2023S4C_Meinir_Howells_0132-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Wedi blwyddyn o gael ei ailagor, fe fyddwn ni'n ymweld a Mart Caerfyrddin i drafod y diwydiant llaeth. Trafodwn hefyd newid system er mwyn gwella cydbwysedd bywyd a gwaith i ffarmwr ifanc, a sut mae magu moch wedi lleihau yng Nghymru.",
+      "clic_aired": "17 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "871756482",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-04-23 11:00:00",
       "vs": "0"
     },
     {
@@ -1445,7 +1445,7 @@
       "vs": "0"
     },
     {
-      "count": "5",
+      "count": "4",
       "days_to_expire": "27",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
