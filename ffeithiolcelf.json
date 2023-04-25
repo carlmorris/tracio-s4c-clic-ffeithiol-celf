@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Cegin Bryn",
       "programme_title": null,
       "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cyfres lle mae Cerys Matthews yn olrhain hanes deuddeg cân sydd â'u gwreiddiau yng Nghymru neu â chysylltiad gyda Gwlad y Gân.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Darn Bach o Hanes",
       "programme_title": "Lleoli Brwydrau Cymru",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "Lisa Gwilym sy'n datgelu sut aeth ail wythos cynllun bwyd a ffitrwydd y pump Arweinydd ac mae Connagh Howard yn gosod yr ail her iddynt.  Cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru",
-      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lisa Gwilym sy'n datgelu sut aeth ail wythos cynllun bwyd a ffitrwydd y pump Arweinydd ac mae Connagh Howard yn gosod yr ail her iddynt.  Cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru",
-      "clic_aired": "18 Ebrill 2023",
-      "fav_id": "796089951",
-      "id": "866852635",
-      "series_id": "866852587",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2023-04-24 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "19",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "143",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "Lisa Gwilym sy'n datgelu sut aeth ail wythos cynllun bwyd a ffitrwydd y pump Arweinydd ac mae Connagh Howard yn gosod yr ail her iddynt.  Cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru",
+      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lisa Gwilym sy'n datgelu sut aeth ail wythos cynllun bwyd a ffitrwydd y pump Arweinydd ac mae Connagh Howard yn gosod yr ail her iddynt.  Cofiwch bod posib i chi hefyd ddilyn y cynllun trawsnewid ar s4c.cymru/ffitcymru",
+      "clic_aired": "18 Ebrill 2023",
+      "fav_id": "796089951",
+      "id": "866852635",
+      "series_id": "866852587",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2023-04-24 15:05:00",
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "Pennod 6",
       "short_billing": "Aled Samuel sy'n ymweld â gerddi hyfryd ac yn cwrdd â'r bobl sydd wedi eu creu. ",
