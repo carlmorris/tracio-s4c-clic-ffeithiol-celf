@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Cyngherddau'r Eisteddfod Genedlaethol 2022",
       "programme_title": "Gig y Pafiliwn",
       "short_billing": "Huw Stephens sy'n cyflwyno Gig y Pafiliwn Eisteddfod Genedlaethol Ceredigion gyda Adwaith, Alffa, Gwilym, Mellt a'r Welsh Pops Orchestra.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "Cystadleuaeth Cantorion Cymreig 2022",
       "short_billing": "Uchafbwyntiau Cystadleuaeth Cantorion Cymreig 2022 o Neuadd Dora Stoutzker, Coleg Brenhinol Cerdd a Drama Cymru. Bydd 5 o gantorion ifanc brwd yn cystadlu am y teitl  - Dafydd Allen, Erin Gwyn Rossington, Kieron-Connor Valentine, Jessica Robinson ac Osian Wyn Bowen.  Fe ddown ni i nabod y pump wrth iddyn nhw anelu i gynrychioli Cymru yng Nghwpan y Byd canu cerddoriaeth clasurol - Canwr y Byd Caerdydd 2023. Heledd Cynwal ac Elin Manahan Thomas sy'n cyflwyno.",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "11",
-      "days_to_expire": "131",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "clic_aired": "10 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "853180865",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": "2023-04-16 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "145",
       "series_title": "Ffermio",
@@ -948,6 +929,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2023-04-30 14:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "11",
+      "days_to_expire": "131",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "clic_aired": "10 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "853180865",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": "2023-04-16 14:05:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "77",
-      "days_to_expire": "121",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950912",
-      "id": "852339938",
-      "series_id": "852334583",
-      "title": "Heno",
-      "date_broadcast": "2023-04-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "20",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "871478307",
       "title": "Heno",
       "date_broadcast": "2023-05-01 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "77",
+      "days_to_expire": "121",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn fyw o seremoni wobrwyo It's My Shout, a bydd y Welsh Whisperer yn ymweld â tafarn y mis yn Llanberis. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950912",
+      "id": "852339938",
+      "series_id": "852334583",
+      "title": "Heno",
+      "date_broadcast": "2023-04-03 12:30:00",
       "vs": "0"
     },
     {
