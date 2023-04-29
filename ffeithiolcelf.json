@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "16",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "11 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-04-11 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "144",
       "series_title": "Cynefin",
@@ -530,6 +511,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-05-01 21:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "16",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "11 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-04-11 13:15:00",
       "vs": "0"
     },
     {
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "clic_aired": "25 Ebrill 2023",
-      "fav_id": "796089951",
-      "id": "866852655",
-      "series_id": "866852587",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2023-05-01 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "15",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "146",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "clic_aired": "25 Ebrill 2023",
+      "fav_id": "796089951",
+      "id": "866852655",
+      "series_id": "866852587",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2023-05-01 15:05:00",
       "vs": "0"
     },
     {
