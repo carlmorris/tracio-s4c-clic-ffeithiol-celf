@@ -115,8 +115,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "28",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Bad Achub Porthdinllaen",
       "programme_title": null,
       "short_billing": "Dilyn criw bad achub Porthdinllaen.",
@@ -124,13 +124,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Dilynwn griw bad achub RNLI Porthdinllaen ar arfordir gogleddol Pen Llyn mewn cyfres o 2013. Heddiw, cawn gyfarfod y criw o wirfoddolwyr lleol sy'n gweithio'n galed i godi arian at yr elusen, a bydd y bad achub yn cael ei chodi allan o'r dwr ym marina Hafan Pwllheli!",
-      "clic_aired": "24 Ebrill 2023",
+      "full_billing": "Cyfle i gyfarfod criw o wirfoddolwyr bad achub RNLI Porthdinllaen ar arfordir gogleddol Pen Llyn mewn cyfres o 2013. Heddiw, bydd genod y cwch yn cael eu cyfweld ar gyfer cylchgrawn cenedlaethol a bydd arolygydd o'r RNLI yn galw i weld sut mae Mike a'r criw'n ymdopi â'r cwch newydd!",
+      "clic_aired": "1 Mai 2023",
       "fav_id": "541692391",
-      "id": "511309798",
+      "id": "511309820",
       "series_id": "511309723",
       "title": "Bad Achub Porthdinllaen",
-      "date_broadcast": "2023-04-27 13:30:00",
+      "date_broadcast": "2023-05-04 13:30:00",
       "vs": "0"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Cynefin",
-      "programme_title": "Nant Conwy",
-      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "clic_aired": "30 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "864272952",
-      "series_id": "864272866",
-      "title": "Cynefin",
-      "date_broadcast": "2023-05-08 22:45:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "14",
       "series_title": "Cynefin",
@@ -530,6 +511,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2023-04-11 13:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Cynefin",
+      "programme_title": "Nant Conwy",
+      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "clic_aired": "30 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "864272952",
+      "series_id": "864272866",
+      "title": "Cynefin",
+      "date_broadcast": "2023-05-08 22:45:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "20",
-      "days_to_expire": "32",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "clic_aired": "28 Ebrill 2023",
-      "fav_id": "520950912",
-      "id": "871478707",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-01 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "75",
       "days_to_expire": "119",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "20",
+      "days_to_expire": "32",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "clic_aired": "28 Ebrill 2023",
+      "fav_id": "520950912",
+      "id": "871478707",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-01 12:30:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Mamwlad",
       "programme_title": "Ann Griffiths",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1293,25 +1293,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Pobl a'u Gerddi",
-      "programme_title": "       Ffordd o fyw / Lifestyle",
-      "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
-      "thumbnail_url": "Pobl_au_Gerddi_2019_P6_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
-      "clic_aired": "27 Mawrth 2023",
-      "fav_id": "540621194",
-      "id": "798772465",
-      "series_id": "798772335",
-      "title": "Pobl a'u Gerddi",
-      "date_broadcast": "2023-04-07 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "37",
       "series_title": "Pobol y Rhondda",
@@ -1350,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "21",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688287",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-01 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "78",
       "days_to_expire": "118",
       "series_title": "Prynhawn Da",
@@ -1385,6 +1347,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "21",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688287",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-01 14:05:00",
       "vs": "0"
     },
     {
@@ -1522,7 +1503,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1597,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
-      "clic_aired": "27 Ebrill 2023",
-      "fav_id": "799276940",
-      "id": "871981432",
-      "series_id": "871981420",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": "2023-04-27 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "55",
       "series_title": "Y Byd yn ei Le",
@@ -1632,6 +1594,25 @@
       "series_id": "862280878",
       "title": "Y Byd yn ei Le",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
+      "clic_aired": "27 Ebrill 2023",
+      "fav_id": "799276940",
+      "id": "871981432",
+      "series_id": "871981420",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": "2023-04-27 21:00:00",
       "vs": "0"
     },
     {
