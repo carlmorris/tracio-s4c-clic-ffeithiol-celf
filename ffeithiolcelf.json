@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "clic_aired": "25 Ebrill 2023",
-      "fav_id": "796089951",
-      "id": "866852655",
-      "series_id": "866852587",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2023-05-01 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "13",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "clic_aired": "25 Ebrill 2023",
+      "fav_id": "796089951",
+      "id": "866852655",
+      "series_id": "866852587",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2023-05-01 15:05:00",
       "vs": "0"
     },
     {
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "21",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688287",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-01 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "78",
       "days_to_expire": "118",
       "series_title": "Prynhawn Da",
@@ -1385,6 +1366,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "21",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688287",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-01 14:05:00",
       "vs": "0"
     },
     {
