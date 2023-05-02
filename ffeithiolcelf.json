@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "12",
-      "series_title": "FFIT Cymru",
-      "programme_title": "6 Mis Wedyn",
-      "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
-      "thumbnail_url": "FFIT_Cymru_2022S4C_P9_6Mis_Wedyn_1113.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
-      "clic_aired": "15 Rhagfyr 2022",
-      "fav_id": "796089951",
-      "id": "853341790",
-      "series_id": "844177454",
-      "title": "FFIT Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "143",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "866852587",
       "title": "FFIT Cymru",
       "date_broadcast": "2023-05-01 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "12",
+      "series_title": "FFIT Cymru",
+      "programme_title": "6 Mis Wedyn",
+      "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
+      "thumbnail_url": "FFIT_Cymru_2022S4C_P9_6Mis_Wedyn_1113.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
+      "clic_aired": "15 Rhagfyr 2022",
+      "fav_id": "796089951",
+      "id": "853341790",
+      "series_id": "844177454",
+      "title": "FFIT Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756522",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-07 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "128",
       "series_title": "Ffermio",
@@ -948,6 +929,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756522",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-07 17:35:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "21",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478728",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-02 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "74",
       "days_to_expire": "118",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "21",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478728",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-02 12:30:00",
       "vs": "0"
     },
     {
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Yr Wythnos",
       "programme_title": null,
       "short_billing": "Cawn edrych yn ôl ar rai o straeon newyddion yr wythnos. ",
