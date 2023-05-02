@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Cyngerdd Cymru ac Wcrain",
       "short_billing": "Bron i flwyddyn yn ddiweddarach, cyfle arall i weld y gyngerdd arbennig fu yng Nghanolfan y Celfyddydau, Aber, i godi arian i Apêl Ddyngarol Wcráin ar y cyd rhwng DEC Cymru a S4C. Bydd artistiaid o Gymru ac Wcráin yn perfformio, yn cynnwys Yuriy Yurchuk, bariton o Wcráin, y tenor Gwyn Hughes Jones, Côr y Cwm, Côr Glanaethwy, Côr Ysgol Plascrug Aberystwyth, Contemporary Music Collective, Dafydd Wyn Jones, Glain Rhys a Sam Ebenezer. Elin Fflur sy'n arwain.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
-      "clic_aired": "25 Ebrill 2023",
-      "fav_id": "796089951",
-      "id": "866852655",
-      "series_id": "866852587",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2023-05-01 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "12",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "FFIT Cymru - cyfres drawsnewid a all wneud gwahaniaeth i'ch iechyd chi. Lisa Gwilym sy'n datgelu pwy yw pump Arweinydd FFIT Cymru eleni. ",
+      "clic_aired": "25 Ebrill 2023",
+      "fav_id": "796089951",
+      "id": "866852655",
+      "series_id": "866852587",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2023-05-01 15:05:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478749",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "74",
       "days_to_expire": "117",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "21",
+      "days_to_expire": "33",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478728",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-02 12:30:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688310",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-02 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "78",
       "days_to_expire": "117",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "22",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688310",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-02 14:05:00",
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
