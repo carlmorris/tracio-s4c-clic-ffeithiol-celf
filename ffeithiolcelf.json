@@ -420,7 +420,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Tudur Owen",
       "short_billing": "Ym Mae Trearddur ar Ynys Môn mae'r artist cyfoes, Anna E Davies yn cyfarfod â'r digrifwr, Tudur Owen. Dyma ddechrau eu cyfnod gyda'i gilydd a buan iawn y darganfyddant eu bod yn rhannu llawer o bethau'n gyffredin ac mae Tudur yn synnu ei fod yn trafod pob agwedd o'i fywyd. Ond a fydd Anna yn gallu cipio Tudur ar gynfas'",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756522",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-07 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "128",
       "series_title": "Ffermio",
@@ -948,6 +929,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756522",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-07 17:35:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Heno Aur",
       "programme_title": "Pennod 14",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688310",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-02 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "78",
       "days_to_expire": "117",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-03-31 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "22",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nest Jenkins & Dyfed Cynan sydd yn pori dros y papurau a byddwn yn trafod memorabilia brenhinol. ",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688310",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-02 14:05:00",
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Gareth Davies",
       "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydr rhyddid Iran",
       "short_billing": "Fe wnaeth marwolaeth Mahsa Amini yn Iran ysgogi protestiadau ledled y byd. Yr wythnos hon ar Y Byd ar Bedwar,  un o'r ymgyrchwyr Cymreig, Parisa Fouladi sy'n ceisio darganfod mwy am realiti bywyd yn Iran a sefyllfa'r rhai sydd wedi gorfod ffoi. Mae Parisa yn teithio i gwrdd a'i theulu yn Los Angeles, sy'n gartref i un o gymunedau Persiaidd mwyaf y byd, ac yn clywed galwadau bod angen neud mwy i sicrhau hawliau dynol i bobl Iran. ",
@@ -1575,25 +1575,6 @@
       "series_id": "853845399",
       "title": "Y Byd ar Bedwar",
       "date_broadcast": "2023-03-30 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "145",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
-      "clic_aired": "27 Ebrill 2023",
-      "fav_id": "799276940",
-      "id": "871981432",
-      "series_id": "871981420",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": "2023-04-27 21:00:00",
       "vs": "0"
     },
     {
@@ -1613,6 +1594,25 @@
       "series_id": "862280878",
       "title": "Y Byd yn ei Le",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "145",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r Byd yn ei Le nol am gyfres newydd. Catrin Haf Jones sy'n holi Ysgrifennydd Gwladol Cymru, David TC Davies, ac yn trafod y diweddara o'r byd gwleidyddol yng Nghymru a thu hwnt gyda phanel o westeion yn fyw o Fae Caerdydd. ",
+      "clic_aired": "27 Ebrill 2023",
+      "fav_id": "799276940",
+      "id": "871981432",
+      "series_id": "871981420",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": "2023-04-27 21:00:00",
       "vs": "0"
     },
     {
