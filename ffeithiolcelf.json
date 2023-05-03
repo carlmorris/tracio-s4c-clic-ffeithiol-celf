@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Codi Pac",
       "programme_title": "Biwmares",
       "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756522",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-07 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "127",
       "series_title": "Ffermio",
@@ -948,6 +929,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756522",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-07 17:35:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": "Heno: Dathlu Wrecsam",
-      "short_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478749",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-03 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "74",
       "days_to_expire": "117",
       "series_title": "Heno",
@@ -1119,6 +1100,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "22",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "Heno: Dathlu Wrecsam",
+      "short_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mewn rhaglen arbennig byddwn yn fyw o'r Pared yn Wrecsam i ddathlu eu llwyddiant, ac mi fydd Rhodri Gomer yn y stiwdio yn edrych 'mlaen i'r Giro d'italia.  ",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478749",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-03 12:30:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "78",
-      "days_to_expire": "117",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-03-31 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "22",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1366,6 +1347,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-02 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "78",
+      "days_to_expire": "117",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-03-31 14:05:00",
       "vs": "0"
     },
     {
