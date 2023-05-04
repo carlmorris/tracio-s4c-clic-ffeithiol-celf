@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Cynefin",
       "programme_title": "Tyddewi - Ynys Dewi",
       "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "FFIT Cymru",
-      "programme_title": null,
-      "short_billing": "Dros hanner ffordd drwy'r cynllun! Tybed faint o fodfeddi mae ein pump Arweinydd wedi ei golli'r wythnos hon' Bydd Lisa Gwilym yn datgelu os ydi Dylan, Matthew, Linette, Kelly ac Andrea wedi taro eu targed pwysau a bydd tasg gorfforol arbennig i'r pump. ",
-      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dros hanner ffordd drwy'r cynllun! Tybed faint o fodfeddi mae ein pump Arweinydd wedi ei golli'r wythnos hon' Bydd Lisa Gwilym yn datgelu os ydi Dylan, Matthew, Linette, Kelly ac Andrea wedi taro eu targed pwysau a bydd tasg gorfforol arbennig i'r pump. ",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "796089951",
-      "id": "866852675",
-      "series_id": "866852587",
-      "title": "FFIT Cymru",
-      "date_broadcast": "2023-05-08 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "10",
       "series_title": "FFIT Cymru",
@@ -891,6 +872,25 @@
       "series_id": "844177454",
       "title": "FFIT Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "FFIT Cymru",
+      "programme_title": null,
+      "short_billing": "Dros hanner ffordd drwy'r cynllun! Tybed faint o fodfeddi mae ein pump Arweinydd wedi ei golli'r wythnos hon' Bydd Lisa Gwilym yn datgelu os ydi Dylan, Matthew, Linette, Kelly ac Andrea wedi taro eu targed pwysau a bydd tasg gorfforol arbennig i'r pump. ",
+      "thumbnail_url": "FFIT_Cymru_2023S4C_099.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dros hanner ffordd drwy'r cynllun! Tybed faint o fodfeddi mae ein pump Arweinydd wedi ei golli'r wythnos hon' Bydd Lisa Gwilym yn datgelu os ydi Dylan, Matthew, Linette, Kelly ac Andrea wedi taro eu targed pwysau a bydd tasg gorfforol arbennig i'r pump. ",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "796089951",
+      "id": "866852675",
+      "series_id": "866852587",
+      "title": "FFIT Cymru",
+      "date_broadcast": "2023-05-08 15:05:00",
       "vs": "0"
     },
     {
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756522",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-07 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "126",
       "series_title": "Ffermio",
@@ -948,6 +929,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756522",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-07 17:35:00",
       "vs": "0"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Bae Abertawe i Pembrey",
       "short_billing": "Cyfle i fwynhau golygfeydd godidog glannau Cymru o'r awyr. Dilynwn holl arfordir Cymru o'r awyr - o'i dechrau i'w diwedd. Y tro hwn, Bae Abertawe i Ben-bre.",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "23",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Owain Harries o'r FAW a Lara Catrin bydd yn y stiwdio, a Llinos sydd wedi bod am sgwrs gyda Bryn Terfel cyn y coroni. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Owain Harries o'r FAW a Lara Catrin bydd yn y stiwdio, a Llinos sydd wedi bod am sgwrs gyda Bryn Terfel cyn y coroni. ",
-      "clic_aired": "3 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478770",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-04 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "74",
       "days_to_expire": "116",
       "series_title": "Heno",
@@ -1138,6 +1119,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "23",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Owain Harries o'r FAW a Lara Catrin bydd yn y stiwdio, a Llinos sydd wedi bod am sgwrs gyda Bryn Terfel cyn y coroni. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Owain Harries o'r FAW a Lara Catrin bydd yn y stiwdio, a Llinos sydd wedi bod am sgwrs gyda Bryn Terfel cyn y coroni. ",
+      "clic_aired": "3 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478770",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-04 12:30:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1312,8 +1312,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "35",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 4",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Ym mhennod pedwar mae Marian yn ceisio perswadio cwpwl i gynnal y briodas swyddogol gyntaf erioed yn y castell tra bod Rob yn mynd i brynu tractor ar gyfer y stâd. Mae effaith Cofid yn dal i chwalu llawer o'u cynlluniau ond wrth i reolau llacio mae gobaith am ddigwyddiadau yn y castell ymhen chwe mis.",
