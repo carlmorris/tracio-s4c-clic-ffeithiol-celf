@@ -116,7 +116,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Bad Achub Porthdinllaen",
       "programme_title": null,
       "short_billing": "Dilyn criw bad achub Porthdinllaen.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Sioned",
       "short_billing": "Mae Cadi Matthews ac Owain Williams nol yn y stiwdio steilio i helpu unigolion haeddiannol ffeindio gwisgoedd perffaith ar gyfer achlysuron arbennig. Sioned sy'n cael ei steilio heddi, athrawes ysgol uwchradd sydd hefyd yn fam i'r hyfryd Idris, bachgen dwy flwydd oed.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "clic_aired": "5 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478812",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-08 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "72",
       "days_to_expire": "114",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "clic_aired": "5 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478812",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-08 12:30:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Mamwlad",
       "programme_title": "Amy Dillwyn",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "75",
-      "days_to_expire": "113",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "33",
       "series_title": "Prynhawn Da",
@@ -1423,6 +1404,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-05 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "75",
+      "days_to_expire": "113",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
