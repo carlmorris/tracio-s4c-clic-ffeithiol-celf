@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Cegin Bryn",
       "programme_title": null,
       "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cyfres lle mae Cerys Matthews yn olrhain hanes deuddeg cân sydd â'u gwreiddiau yng Nghymru neu â chysylltiad gyda Gwlad y Gân.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Darn Bach o Hanes",
       "programme_title": "Lleoli Brwydrau Cymru",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "33",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "clic_aired": "5 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478812",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-08 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "71",
       "days_to_expire": "113",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "33",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "clic_aired": "5 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478812",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-08 12:30:00",
       "vs": "0"
     },
     {
