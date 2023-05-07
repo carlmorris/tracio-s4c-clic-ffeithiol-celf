@@ -875,25 +875,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "7",
-      "series_title": "FFIT Cymru",
-      "programme_title": "6 Mis Wedyn",
-      "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
-      "thumbnail_url": "FFIT_Cymru_2022S4C_P9_6Mis_Wedyn_1113.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
-      "clic_aired": "15 Rhagfyr 2022",
-      "fav_id": "796089951",
-      "id": "853341790",
-      "series_id": "844177454",
-      "title": "FFIT Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "145",
       "series_title": "FFIT Cymru",
@@ -910,6 +891,25 @@
       "series_id": "866852587",
       "title": "FFIT Cymru",
       "date_broadcast": "2023-05-08 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "7",
+      "series_title": "FFIT Cymru",
+      "programme_title": "6 Mis Wedyn",
+      "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
+      "thumbnail_url": "FFIT_Cymru_2022S4C_P9_6Mis_Wedyn_1113.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Gafyn, Twm, Wendy, Ruth a Bethan. Mewn rhaglen arbennig ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr Arweinwyr, gyda chefnogaeth barhaol y tri arbenigwr.",
+      "clic_aired": "15 Rhagfyr 2022",
+      "fav_id": "796089951",
+      "id": "853341790",
+      "series_id": "844177454",
+      "title": "FFIT Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "33",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
-      "clic_aired": "5 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478812",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-08 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "71",
       "days_to_expire": "113",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": "2023-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "33",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn dathlu Tafarn y Mis gyda'r Welsh Whisperer a Lloyd Steele fydd yn y stiwdio am sgwrs a chan. ",
+      "clic_aired": "5 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478812",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-08 12:30:00",
       "vs": "0"
     },
     {
