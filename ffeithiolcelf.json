@@ -40,7 +40,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Ar Lafar - Cyfres 1",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres ddogfen yn cofnodi a dathlu tafodieithoedd Cymru.",
@@ -59,7 +59,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Ar Lafar - Cyfres 2",
       "programme_title": "Bala",
       "short_billing": "Cyfres yn trafod tafodiaith ardaloedd gwahanol o Gymru.",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "1 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756522",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-07 17:45:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "122",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "1 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756522",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-07 17:45:00",
       "vs": "0"
     },
     {
