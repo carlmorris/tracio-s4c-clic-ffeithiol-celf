@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "852",
+      "days_to_expire": "851",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1160,25 +1160,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Gabriella Jukes sydd yn y stiwdio am sgwrs a chawn cwpwl o tips ffasiwn gan Huw. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gabriella Jukes sydd yn y stiwdio am sgwrs a chawn cwpwl o tips ffasiwn gan Huw. ",
-      "clic_aired": "8 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478833",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-09 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "69",
       "days_to_expire": "111",
       "series_title": "Heno",
@@ -1195,6 +1176,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Gabriella Jukes sydd yn y stiwdio am sgwrs a chawn cwpwl o tips ffasiwn gan Huw. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gabriella Jukes sydd yn y stiwdio am sgwrs a chawn cwpwl o tips ffasiwn gan Huw. ",
+      "clic_aired": "8 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478833",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-09 12:30:00",
       "vs": "0"
     },
     {
@@ -1407,25 +1407,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
-      "clic_aired": "8 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688402",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-08 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "73",
       "days_to_expire": "111",
       "series_title": "Prynhawn Da",
@@ -1442,6 +1423,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
+      "clic_aired": "8 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688402",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-08 14:05:00",
       "vs": "0"
     },
     {
