@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Meinir fydd yn darganfod mwy am y cynllun arfaethedig ar gyfer pylons yn ardal Dyffryn Tywi; fe fydd Melanie yn ei pharadwys yng nghanol y ceffylau; ac fe fydd Alun ar fferm yn Aberhafesp ger y Drenewydd a fydd yn cynnal digwyddiad pwysig i'r diwydiant defaid ymhen rhai wythnosau.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Meinir fydd yn darganfod mwy am y cynllun arfaethedig ar gyfer pylons yn ardal Dyffryn Tywi; fe fydd Melanie yn ei pharadwys yng nghanol y ceffylau; ac fe fydd Alun ar fferm yn Aberhafesp ger y Drenewydd a fydd yn cynnal digwyddiad pwysig i'r diwydiant defaid ymhen rhai wythnosau.",
-      "clic_aired": "8 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756542",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-14 15:20:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "121",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Meinir fydd yn darganfod mwy am y cynllun arfaethedig ar gyfer pylons yn ardal Dyffryn Tywi; fe fydd Melanie yn ei pharadwys yng nghanol y ceffylau; ac fe fydd Alun ar fferm yn Aberhafesp ger y Drenewydd a fydd yn cynnal digwyddiad pwysig i'r diwydiant defaid ymhen rhai wythnosau.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Meinir fydd yn darganfod mwy am y cynllun arfaethedig ar gyfer pylons yn ardal Dyffryn Tywi; fe fydd Melanie yn ei pharadwys yng nghanol y ceffylau; ac fe fydd Alun ar fferm yn Aberhafesp ger y Drenewydd a fydd yn cynnal digwyddiad pwysig i'r diwydiant defaid ymhen rhai wythnosau.",
+      "clic_aired": "8 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756542",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-14 15:20:00",
       "vs": "0"
     },
     {
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Mi fydd Adam yn yr Ardd yn y stiwdio gyda tipiau garddio i ni. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mi fydd Adam yn yr Ardd yn y stiwdio gyda tipiau garddio i ni. ",
-      "clic_aired": "9 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688425",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-09 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "73",
       "days_to_expire": "110",
       "series_title": "Prynhawn Da",
@@ -1461,6 +1442,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Mi fydd Adam yn yr Ardd yn y stiwdio gyda tipiau garddio i ni. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mi fydd Adam yn yr Ardd yn y stiwdio gyda tipiau garddio i ni. ",
+      "clic_aired": "9 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688425",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-09 14:05:00",
       "vs": "0"
     },
     {
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
