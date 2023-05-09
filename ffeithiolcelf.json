@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "33",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
-      "clic_aired": "8 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688402",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-08 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "73",
       "days_to_expire": "110",
       "series_title": "Prynhawn Da",
@@ -1461,6 +1442,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "24",
+      "days_to_expire": "33",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Michelle sydd yn y gegin yn coginio Cyw Iâr a Llysiau rhost a chawn hanes hunangofiant John Medwyn Jones. ",
+      "clic_aired": "8 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688402",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-08 14:05:00",
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 5",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Ym mhennod pump, fe glywn ni os fydd na briodas yn y castell. Mae'r teulu estynedig yn dod draw ar gyfer noson tan gwyllt ac yn paratoi ar gyfer y Nadolig - ond gyda Omicron yn bwrw, a fydd hwn yn chwalu mwy o freuddwydion'",
