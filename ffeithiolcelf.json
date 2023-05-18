@@ -248,25 +248,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "90",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "20 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2023-04-19 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "25",
       "series_title": "Cegin Bryn",
@@ -283,6 +264,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "90",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "20 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2023-04-19 18:00:00",
       "vs": "0"
     },
     {
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "John Ieuan Jones sydd yn y stiwdio am sgwrs a chan, a Sion Jenkins fydd yn trafod cyfres newydd o Pawb a'i Farn.",
-      "thumbnail_url": "Heno_2023_05_17_P.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "John Ieuan Jones sydd yn y stiwdio am sgwrs a chan, a Sion Jenkins fydd yn trafod cyfres newydd o Pawb a'i Farn.",
-      "clic_aired": "17 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871478980",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-18 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "64",
       "days_to_expire": "102",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "John Ieuan Jones sydd yn y stiwdio am sgwrs a chan, a Sion Jenkins fydd yn trafod cyfres newydd o Pawb a'i Farn.",
+      "thumbnail_url": "Heno_2023_05_17_P.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "John Ieuan Jones sydd yn y stiwdio am sgwrs a chan, a Sion Jenkins fydd yn trafod cyfres newydd o Pawb a'i Farn.",
+      "clic_aired": "17 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871478980",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-18 12:30:00",
       "vs": "0"
     },
     {
