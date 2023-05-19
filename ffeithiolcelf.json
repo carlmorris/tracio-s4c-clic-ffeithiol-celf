@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn yn lawnsio Neges Heddwch ac Ewyllys Da Yr Urdd 2023: Gwrth-Hiliaeth. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn lawnsio Neges Heddwch ac Ewyllys Da Yr Urdd 2023: Gwrth-Hiliaeth. ",
-      "clic_aired": "18 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871479001",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-19 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "63",
       "days_to_expire": "101",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Byddwn yn lawnsio Neges Heddwch ac Ewyllys Da Yr Urdd 2023: Gwrth-Hiliaeth. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn lawnsio Neges Heddwch ac Ewyllys Da Yr Urdd 2023: Gwrth-Hiliaeth. ",
+      "clic_aired": "18 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871479001",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-19 12:30:00",
       "vs": "0"
     },
     {
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "67",
-      "days_to_expire": "101",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1404,6 +1385,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-18 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "67",
+      "days_to_expire": "101",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau'r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets, mae gan Cadi, y Cocker Spaniel ddeng mlwydd oed, anaf cas ar ei phawen ac angen sylw brys; mae Harry'n defnyddio techneg unigryw i helpu llo; ac a ydi hi ar ben ar stori garu'r cathod Twm a Mabli' Beth fydd eu hanes yn Y Fets'",
