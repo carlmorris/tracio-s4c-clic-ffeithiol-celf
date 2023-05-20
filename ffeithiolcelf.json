@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Cegin Bryn",
       "programme_title": null,
       "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cyfres lle mae Cerys Matthews yn olrhain hanes deuddeg cân sydd â'u gwreiddiau yng Nghymru neu â chysylltiad gyda Gwlad y Gân.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Darn Bach o Hanes",
       "programme_title": "Lleoli Brwydrau Cymru",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
-      "clic_aired": "19 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688609",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-19 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "66",
       "days_to_expire": "100",
       "series_title": "Prynhawn Da",
@@ -1404,6 +1385,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
+      "clic_aired": "19 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688609",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-19 14:05:00",
       "vs": "0"
     },
     {
@@ -1635,25 +1635,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "36",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "clic_aired": "26 Ionawr 2023",
-      "fav_id": "799276940",
-      "id": "862281059",
-      "series_id": "862280878",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "148",
       "series_title": "Y Byd yn ei Le",
@@ -1670,6 +1651,25 @@
       "series_id": "871981420",
       "title": "Y Byd yn ei Le",
       "date_broadcast": "2023-05-18 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "36",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "26 Ionawr 2023",
+      "fav_id": "799276940",
+      "id": "862281059",
+      "series_id": "862280878",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
