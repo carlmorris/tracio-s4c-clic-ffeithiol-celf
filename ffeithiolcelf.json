@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "145",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
-      "clic_aired": "15 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756562",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-21 15:25:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "110",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": "2023-04-16 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "145",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
+      "clic_aired": "15 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756562",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-21 15:25:00",
       "vs": "0"
     },
     {
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Heno, byddwn yn fyw o Wyl Ddringo HONGIAN yn Blaenau Ffestiniog. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, byddwn yn fyw o Wyl Ddringo HONGIAN yn Blaenau Ffestiniog. ",
-      "clic_aired": "19 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871479022",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-22 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "62",
       "days_to_expire": "100",
       "series_title": "Heno",
@@ -1176,6 +1157,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Heno, byddwn yn fyw o Wyl Ddringo HONGIAN yn Blaenau Ffestiniog. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, byddwn yn fyw o Wyl Ddringo HONGIAN yn Blaenau Ffestiniog. ",
+      "clic_aired": "19 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871479022",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-22 12:30:00",
       "vs": "0"
     },
     {
@@ -1369,8 +1369,8 @@
       "vs": "0"
     },
     {
-      "count": "66",
-      "days_to_expire": "100",
+      "count": "65",
+      "days_to_expire": "99",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "25",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
