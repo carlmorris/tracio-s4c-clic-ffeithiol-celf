@@ -420,7 +420,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
-      "clic_aired": "15 Mai 2023",
-      "fav_id": "533250950",
-      "id": "871756562",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2023-05-21 15:25:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "108",
       "series_title": "Ffermio",
@@ -967,6 +948,25 @@
       "series_id": "853180215",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Gohirio rheol newydd y Parthau Perygl Nitradau, Strategaeth newydd i ddelio â throseddau bywyd gwyllt a chefn gwlad, Buddsoddiad un teulu er mwyn sicrhau dyfodol eu plant yn y diwydiant, Ac asynnod yn arwain y ffordd ar iechyd a llesiant pobl.",
+      "clic_aired": "15 Mai 2023",
+      "fav_id": "533250950",
+      "id": "871756562",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2023-05-21 15:25:00",
       "vs": "0"
     },
     {
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "32",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
-      "clic_aired": "19 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688609",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-19 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "64",
       "days_to_expire": "98",
       "series_title": "Prynhawn Da",
@@ -1385,6 +1366,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "32",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, Ieuan Rhys fydd yma i drafod teledu'r penwythnos. ",
+      "clic_aired": "19 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688609",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-19 14:05:00",
       "vs": "0"
     },
     {
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Yr Wythnos",
       "programme_title": null,
       "short_billing": "Cawn edrych yn ôl ar rai o straeon newyddion yr wythnos. ",
