@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Bad Achub Porthdinllaen",
       "programme_title": null,
       "short_billing": "Dilyn criw bad achub Porthdinllaen.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Gemma",
       "short_billing": "Mae gan Cadi ac Owain dasg arbennig heddi, ffeindio gwisg addas ar gyfer parti plu, a'r iâr sydd angen eu sylw nhw yw Gemma. Athrawes nofio o Gaerffili, sydd hefyd yn fam i Ella, merch un flwydd oed.",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "107",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "clic_aired": "10 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "853180865",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "149",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2023-05-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "107",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "clic_aired": "10 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "853180865",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "63",
-      "days_to_expire": "96",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1423,6 +1404,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-23 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "63",
+      "days_to_expire": "96",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "33",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "clic_aired": "26 Ionawr 2023",
-      "fav_id": "799276940",
-      "id": "862281059",
-      "series_id": "862280878",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "145",
       "series_title": "Y Byd yn ei Le",
@@ -1708,6 +1689,25 @@
       "series_id": "871981420",
       "title": "Y Byd yn ei Le",
       "date_broadcast": "2023-05-18 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "33",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "26 Ionawr 2023",
+      "fav_id": "799276940",
+      "id": "862281059",
+      "series_id": "862280878",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1746,6 +1746,25 @@
       "series_id": "816665942",
       "title": "Y Fets",
       "date_broadcast": "2023-05-20 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Y Sioe Fwyd",
+      "programme_title": "Jennifer Jones",
+      "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
+      "thumbnail_url": "Y_Sioe_Fwyd_2020S4C_P1_Jennifer_Jones_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
+      "clic_aired": "23 Mai 2023",
+      "fav_id": "804022858",
+      "id": "806784355",
+      "series_id": "806784345",
+      "title": "Y Sioe Fwyd",
+      "date_broadcast": "2023-05-26 13:30:00",
       "vs": "0"
     },
     {
