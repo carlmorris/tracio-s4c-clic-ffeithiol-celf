@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "65",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "146",
       "series_title": "Ar Werth",
@@ -74,6 +55,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-06-06 22:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "65",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Cynefin",
       "programme_title": "Tyddewi - Ynys Dewi",
       "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Goleudu Pen-Caer i Geinewydd",
       "short_billing": "Cyfle i weld glannau Cymru o'r Awyr - y tro hwn, o Oleudu Pen-Caer i Geinewydd.",
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Un o ser cyfres newydd Waterloo Road, Osian Morgan, sydd yn y stiwdio. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Un o ser cyfres newydd Waterloo Road, Osian Morgan, sydd yn y stiwdio. ",
-      "clic_aired": "23 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871479064",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-24 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "59",
       "days_to_expire": "96",
       "series_title": "Heno",
@@ -1157,6 +1138,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Un o ser cyfres newydd Waterloo Road, Osian Morgan, sydd yn y stiwdio. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Un o ser cyfres newydd Waterloo Road, Osian Morgan, sydd yn y stiwdio. ",
+      "clic_aired": "23 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871479064",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-24 12:30:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "63",
-      "days_to_expire": "96",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1404,6 +1385,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-23 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "63",
+      "days_to_expire": "96",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1483,25 +1483,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "145",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Owain Arthur",
-      "short_billing": "Seren y sgrin a llwyfan y West End, Owain Arthur, sydd nôl adra ar ymweliad prin ac yn sgwrsio am bopeth dan y lloer gyda Elin Fflur. O'i fagwraeth yn Rhiwlas, Bangor i weithio yn Seland Newydd ac o ddyddia da 'Rownd a Rownd' i gynhyrchiad anferth Amazon o 'Lord of the Rings' mae na hen ddigon i'w drafod. Yng ngwres a gola'r tân fe fydd y straeon yn llifo a'r chwerthin heintus yn llenwi'r nos. ",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P4_C3_Owain_Arthur_493.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Seren y sgrin a llwyfan y West End, Owain Arthur, sydd nôl adra ar ymweliad prin ac yn sgwrsio am bopeth dan y lloer gyda Elin Fflur. O'i fagwraeth yn Rhiwlas, Bangor i weithio yn Seland Newydd ac o ddyddia da 'Rownd a Rownd' i gynhyrchiad anferth Amazon o 'Lord of the Rings' mae na hen ddigon i'w drafod. Yng ngwres a gola'r tân fe fydd y straeon yn llifo a'r chwerthin heintus yn llenwi'r nos. ",
-      "clic_aired": "20 Mai 2023",
-      "fav_id": "819088838",
-      "id": "837080258",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-05-20 11:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "36",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1518,6 +1499,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "145",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Owain Arthur",
+      "short_billing": "Seren y sgrin a llwyfan y West End, Owain Arthur, sydd nôl adra ar ymweliad prin ac yn sgwrsio am bopeth dan y lloer gyda Elin Fflur. O'i fagwraeth yn Rhiwlas, Bangor i weithio yn Seland Newydd ac o ddyddia da 'Rownd a Rownd' i gynhyrchiad anferth Amazon o 'Lord of the Rings' mae na hen ddigon i'w drafod. Yng ngwres a gola'r tân fe fydd y straeon yn llifo a'r chwerthin heintus yn llenwi'r nos. ",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P4_C3_Owain_Arthur_493.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Seren y sgrin a llwyfan y West End, Owain Arthur, sydd nôl adra ar ymweliad prin ac yn sgwrsio am bopeth dan y lloer gyda Elin Fflur. O'i fagwraeth yn Rhiwlas, Bangor i weithio yn Seland Newydd ac o ddyddia da 'Rownd a Rownd' i gynhyrchiad anferth Amazon o 'Lord of the Rings' mae na hen ddigon i'w drafod. Yng ngwres a gola'r tân fe fydd y straeon yn llifo a'r chwerthin heintus yn llenwi'r nos. ",
+      "clic_aired": "20 Mai 2023",
+      "fav_id": "819088838",
+      "id": "837080258",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-05-20 11:30:00",
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Cyfres fydd yn dod o hyd i ffotograffydd newydd gorau Cymru. Gyda her a phwnc gwahanol bob wythnos bydd y gwylwyr yn rhannu taith ac antur y cystadleuwyr wrth iddynt geisio darganfod y testun a thynnu y llun perffaith. Cawn ddod i adnabod y cystadleuwyr a'r cefndir tu ôl i'w diddordeb a'r stori ddifyr tu ôl i bob clic camera! Ac yno i gynnig ysbrydoliaeth i'r ffotograffwyr a'r gwylwyr brwd bydd panel o feirniaid angerddol i rannu eu harbenigedd ond hefyd beirniadaeth deg pan fo angen.",
