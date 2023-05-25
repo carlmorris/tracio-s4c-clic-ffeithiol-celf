@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "145",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 1",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
-      "thumbnail_url": "Ar_Werth_2022S4C_099.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
-      "clic_aired": "20 Mai 2023",
-      "fav_id": "797127033",
-      "id": "835786946",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-06-06 22:55:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "64",
       "series_title": "Ar Werth",
@@ -74,6 +55,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "145",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 1",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
+      "thumbnail_url": "Ar_Werth_2022S4C_099.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
+      "clic_aired": "20 Mai 2023",
+      "fav_id": "797127033",
+      "id": "835786946",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-06-06 22:55:00",
       "vs": "0"
     },
     {
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bwyd i'r ymenydd fydd Alison yn trafod, a byddwn yn clywed y diweddaraf o'r Giro D'Italia. ",
-      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bwyd i'r ymenydd fydd Alison yn trafod, a byddwn yn clywed y diweddaraf o'r Giro D'Italia. ",
-      "clic_aired": "24 Mai 2023",
-      "fav_id": "520950923",
-      "id": "871688678",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2023-05-24 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "63",
       "days_to_expire": "95",
       "series_title": "Prynhawn Da",
@@ -1404,6 +1385,25 @@
       "series_id": "852865743",
       "title": "Prynhawn Da",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bwyd i'r ymenydd fydd Alison yn trafod, a byddwn yn clywed y diweddaraf o'r Giro D'Italia. ",
+      "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bwyd i'r ymenydd fydd Alison yn trafod, a byddwn yn clywed y diweddaraf o'r Giro D'Italia. ",
+      "clic_aired": "24 Mai 2023",
+      "fav_id": "520950923",
+      "id": "871688678",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2023-05-24 14:05:00",
       "vs": "0"
     },
     {
