@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 1",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
-      "thumbnail_url": "Ar_Werth_2022S4C_099.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
-      "clic_aired": "20 Mai 2023",
-      "fav_id": "797127033",
-      "id": "835786946",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-06-06 22:55:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "64",
       "series_title": "Ar Werth",
@@ -74,6 +55,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 1",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
+      "thumbnail_url": "Ar_Werth_2022S4C_099.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gan gwrdd â Jeian Jones, wrth iddi osod cartref teuluol ger Llanymddyfri ar y farchnad. Mae Ian Wyn-Jones yn mentro i'r byd hunangyflogedig, ac yn cael y pleser o werthu capel ym Mhenrhyndeudraeth. Ac mae tro ar fyd wyneb cyfarwydd arall y gyfres; gydag Iestyn Leyshon yn cychwyn ar antur newydd yng nghanol tre",
+      "clic_aired": "20 Mai 2023",
+      "fav_id": "797127033",
+      "id": "835786946",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-06-06 22:55:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": null,
       "programme_title": "Cyngerdd Cymru ac Wcrain",
       "short_billing": "Bron i flwyddyn yn ddiweddarach, cyfle arall i weld y gyngerdd arbennig fu yng Nghanolfan y Celfyddydau, Aber, i godi arian i Apêl Ddyngarol Wcráin ar y cyd rhwng DEC Cymru a S4C. Bydd artistiaid o Gymru ac Wcráin yn perfformio, yn cynnwys Yuriy Yurchuk, bariton o Wcráin, y tenor Gwyn Hughes Jones, Côr y Cwm, Côr Glanaethwy, Côr Ysgol Plascrug Aberystwyth, Contemporary Music Collective, Dafydd Wyn Jones, Glain Rhys a Sam Ebenezer. Elin Fflur sy'n arwain.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Meinir fydd yn clywed y diweddaraf ynglyn a'r sector defaid yn yr NSA\r\nFe fydd Melanie yn clywed yr hanes tu ol i gaws cynaliadwy newydd\r\nA pharatoadau munud olaf un fferm sy'n cynnal Eisteddfod yr Urdd eleni",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Wedi i Adam Price gamu lawr fel arweinydd Plaid Cymru yr wythnos hon, bydd Catrin Haf Jones yn holi arweinydd dros dro'r blaid, Llyr Gruffydd, am yr her o'u blaenau. A bydd Catrin a'i phanel o westeion yn y stiwdio yn fyw i drafod y diweddara o'r byd gwleidyddol, gyda'r Athro Richard Wyn Jones yn dadansoddi'r cyfan.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
