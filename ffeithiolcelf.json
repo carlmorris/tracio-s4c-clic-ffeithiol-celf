@@ -40,7 +40,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn y rhaglen ddogfen ddiweddar Bois y Rhondda, bydd y gyfres hon yn dilyn anturiaethau nesa'r criw ifanc o Gwm Rhondda wrth iddyn nhw addasu i'r byd newydd sydd ohoni, a wynebu heriau nesa' bywyd.  Mewn cyfres gynnes llawn hiwmor a dagrau, byddwn yn cael cip ar gymhlethdodau'r gymdeithas fodern, a'r brwydrau mae cenhedlaeth iau yn eu hwynebu pan nad oes llawer o gyfleoedd yn yr ardal mae nhw wedi'u magu ynddi.  ",
@@ -439,7 +439,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -454,25 +454,6 @@
       "series_id": null,
       "title": "Cymry'r Titanic",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "121",
-      "series_title": "Cynefin",
-      "programme_title": "Nant Conwy",
-      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "clic_aired": "30 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "864272952",
-      "series_id": "864272866",
-      "title": "Cynefin",
-      "date_broadcast": "2023-05-08 22:50:00",
       "vs": "0"
     },
     {
@@ -492,6 +473,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2023-05-29 18:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "121",
+      "series_title": "Cynefin",
+      "programme_title": "Nant Conwy",
+      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "clic_aired": "30 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "864272952",
+      "series_id": "864272866",
+      "title": "Cynefin",
+      "date_broadcast": "2023-05-08 22:50:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Dan Do",
       "programme_title": "Pennod 7",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â chartref Edwardaidd â steil unigryw yn Bow Street, hen ffermdy chwaethus ger Llandeilo a phlasty Cymreig sy'n edrych fel chateux Ffrengig yng Nghwm Tawe. ",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "101",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "clic_aired": "10 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "853180865",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "143",
       "series_title": "Ffermio",
@@ -967,6 +948,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2023-05-28 13:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "101",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "clic_aired": "10 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "853180865",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 1",
       "short_billing": "Mae drysau Gwesty Aduniad yn agored unwaith eto. Mae Caris Bowen o Borth Tywyn isio dweud diolch wrth rhywun arbennig oedd yn gefn iddi yn ei harddegau, a Peter Jones yn dod i'r Gwesty i ofyn am help wrth iddo chwilio am ei dad gwaed.\nMae'r Gwesty hefyd yn croesawu Chris Schoen sydd am gwrdd ag Arleen o Boston, UDA - ac am gynnal seremoni emosiynol i gofio dewrder ei nain a'i daid yn ystod yr Ail Rhyfel Byd.",
@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "27",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "clic_aired": "26 Ionawr 2023",
-      "fav_id": "799276940",
-      "id": "862281059",
-      "series_id": "862280878",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "146",
       "series_title": "Y Byd yn ei Le",
@@ -1689,6 +1670,25 @@
       "series_id": "871981420",
       "title": "Y Byd yn ei Le",
       "date_broadcast": "2023-05-25 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "27",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "26 Ionawr 2023",
+      "fav_id": "799276940",
+      "id": "862281059",
+      "series_id": "862280878",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
