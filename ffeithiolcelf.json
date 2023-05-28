@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "8",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-05-29 18:15:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "122",
       "series_title": "Cynefin",
@@ -492,6 +473,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-05-08 22:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "8",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-05-29 18:15:00",
       "vs": "0"
     },
     {
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "33",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Cawn glywed y diweddaraf o'r Giro D'Italia a byddwn hefyd yn fyw o Lanymddyfri, cartref Eisteddfod yr Urdd wythnos nesaf.",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cawn glywed y diweddaraf o'r Giro D'Italia a byddwn hefyd yn fyw o Lanymddyfri, cartref Eisteddfod yr Urdd wythnos nesaf.",
-      "clic_aired": "26 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871479127",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-26 19:00:00",
-      "vs": "0"
-    },
-    {
       "count": "59",
       "days_to_expire": "92",
       "series_title": "Heno",
@@ -1157,6 +1138,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "33",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Cawn glywed y diweddaraf o'r Giro D'Italia a byddwn hefyd yn fyw o Lanymddyfri, cartref Eisteddfod yr Urdd wythnos nesaf.",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cawn glywed y diweddaraf o'r Giro D'Italia a byddwn hefyd yn fyw o Lanymddyfri, cartref Eisteddfod yr Urdd wythnos nesaf.",
+      "clic_aired": "26 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871479127",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-26 19:00:00",
       "vs": "0"
     },
     {
