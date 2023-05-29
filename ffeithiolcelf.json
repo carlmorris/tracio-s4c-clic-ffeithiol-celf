@@ -819,7 +819,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "100",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
-      "clic_aired": "10 Ebrill 2023",
-      "fav_id": "533250950",
-      "id": "853180865",
-      "series_id": "853180215",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "Ffermio",
@@ -967,6 +948,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2023-06-10 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "100",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
+      "clic_aired": "10 Ebrill 2023",
+      "fav_id": "533250950",
+      "id": "853180865",
+      "series_id": "853180215",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "831",
+      "days_to_expire": "830",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "clic_aired": "29 Mai 2023",
-      "fav_id": "520950912",
-      "id": "871479148",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2023-05-29 19:00:00",
-      "vs": "0"
-    },
-    {
       "count": "59",
       "days_to_expire": "90",
       "series_title": "Heno",
@@ -1157,6 +1138,25 @@
       "series_id": "852334583",
       "title": "Heno",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "clic_aired": "29 Mai 2023",
+      "fav_id": "520950912",
+      "id": "871479148",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2023-05-29 19:00:00",
       "vs": "0"
     },
     {
