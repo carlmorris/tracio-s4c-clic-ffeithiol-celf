@@ -115,8 +115,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Bad Achub Porthdinllaen",
       "programme_title": null,
       "short_billing": "Dilyn criw bad achub Porthdinllaen.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -248,25 +248,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "79",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "20 Mawrth 2023",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "14",
       "series_title": "Cegin Bryn",
@@ -281,6 +262,25 @@
       "fav_id": "520950903",
       "id": "519751783",
       "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "79",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "20 Mawrth 2023",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
       "vs": "0"
@@ -325,7 +325,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "7",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-05-29 18:15:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "121",
       "series_title": "Cynefin",
@@ -492,6 +473,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-05-08 22:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "7",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-05-29 18:15:00",
       "vs": "0"
     },
     {
@@ -800,7 +800,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Andria",
       "short_billing": "Andria sy'n cael sylw Cadi ac Owain yn y stiwdio steilio heddi. Actores o Abertawe sy'n chwilio am wisg addas ar gyfer mynd i theatr y West End yn Llundain.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "63",
-      "days_to_expire": "90",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
-      "clic_aired": "31 Mawrth 2023",
-      "fav_id": "520950923",
-      "id": "852871263",
-      "series_id": "852865743",
-      "title": "Prynhawn Da",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "24",
       "days_to_expire": "31",
       "series_title": "Prynhawn Da",
@@ -1423,6 +1404,25 @@
       "series_id": "871687827",
       "title": "Prynhawn Da",
       "date_broadcast": "2023-05-26 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "63",
+      "days_to_expire": "90",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "thumbnail_url": "Prynhawn_Da_Cyfres_2017_Hydref.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
+      "clic_aired": "31 Mawrth 2023",
+      "fav_id": "520950923",
+      "id": "852871263",
+      "series_id": "852865743",
+      "title": "Prynhawn Da",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "146",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
-      "duration": "39",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
-      "clic_aired": "25 Mai 2023",
-      "fav_id": "799276940",
-      "id": "871981544",
-      "series_id": "871981420",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": "2023-05-25 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "27",
       "series_title": "Y Byd yn ei Le",
@@ -1708,6 +1689,25 @@
       "series_id": "862280878",
       "title": "Y Byd yn ei Le",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "146",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_010-Edit.jpg",
+      "duration": "39",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
+      "clic_aired": "25 Mai 2023",
+      "fav_id": "799276940",
+      "id": "871981544",
+      "series_id": "871981420",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": "2023-05-25 21:00:00",
       "vs": "0"
     },
     {
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Jennifer Jones",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
