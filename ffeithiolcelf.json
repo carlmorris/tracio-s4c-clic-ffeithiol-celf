@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "5",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "2 Mai 2023",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-05-29 18:15:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "118",
       "series_title": "Cynefin",
@@ -511,6 +492,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-05-08 22:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "2 Mai 2023",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-05-29 18:15:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": null,
       "programme_title": "Cyngerdd Cymru ac Wcrain",
       "short_billing": "Bron i flwyddyn yn ddiweddarach, cyfle arall i weld y gyngerdd arbennig fu yng Nghanolfan y Celfyddydau, Aber, i godi arian i Apêl Ddyngarol Wcráin ar y cyd rhwng DEC Cymru a S4C. Bydd artistiaid o Gymru ac Wcráin yn perfformio, yn cynnwys Yuriy Yurchuk, bariton o Wcráin, y tenor Gwyn Hughes Jones, Côr y Cwm, Côr Glanaethwy, Côr Ysgol Plascrug Aberystwyth, Contemporary Music Collective, Dafydd Wyn Jones, Glain Rhys a Sam Ebenezer. Elin Fflur sy'n arwain.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -1141,22 +1141,22 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "33",
+      "count": "25",
+      "days_to_expire": "34",
       "series_title": "Heno",
       "programme_title": null,
-      "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
+      "short_billing": "Heno, cawn glywed hanes murlun newydd yn Amlwch. ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
-      "clic_aired": "30 Mai 2023",
+      "full_billing": "Heno, cawn glywed hanes murlun newydd yn Amlwch. ",
+      "clic_aired": "31 Mai 2023",
       "fav_id": "520950912",
-      "id": "871479169",
+      "id": "871479190",
       "series_id": "871478307",
       "title": "Heno",
-      "date_broadcast": "2023-05-30 19:00:00",
+      "date_broadcast": "2023-05-31 19:00:00",
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
