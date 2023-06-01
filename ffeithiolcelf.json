@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "57",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "145",
       "series_title": "Ar Werth",
@@ -74,6 +55,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-05-27 17:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "57",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Cynefin",
       "programme_title": "Tyddewi - Ynys Dewi",
       "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Goleudu Pen-Caer i Geinewydd",
       "short_billing": "Cyfle i weld glannau Cymru o'r Awyr - y tro hwn, o Oleudu Pen-Caer i Geinewydd.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1331,8 +1331,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Pobol y Rhondda",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
@@ -1484,25 +1484,6 @@
     },
     {
       "count": "5",
-      "days_to_expire": "28",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gareth Davies",
-      "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P12_05.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
-      "clic_aired": "30 Ionawr 2023",
-      "fav_id": "819088838",
-      "id": "861087347",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
       "days_to_expire": "144",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Gareth Glyn",
@@ -1518,6 +1499,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-05-27 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "28",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gareth Davies",
+      "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P12_05.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
+      "clic_aired": "30 Ionawr 2023",
+      "fav_id": "819088838",
+      "id": "861087347",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn y bennod yma o Yn y Ffrâm mae'r daith yn parhau i ddod o hyd i'r enw newydd ym myd ffotograffiaeth yng Nghymru. 'Ffwr a phlu' fydd y thema yr wythnos yma - cyfle i'r cystadleuwyr gwrdd ag anifeiliaid arbennig o bob math, o'r annwyl i'r annisgwyl. Ond pwy fydd yn llwyddo i ddewis a thynnu y llun gorau a phwy fydd yn gadael y gyfres'",
