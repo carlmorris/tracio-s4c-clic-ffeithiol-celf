@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "56",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "143",
       "series_title": "Ar Werth",
@@ -93,6 +74,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-05-27 17:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "56",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Bad Achub Porthdinllaen",
       "programme_title": null,
       "short_billing": "Dilyn criw bad achub Porthdinllaen.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Cyfres yn canolbwyntio ar fyd y ceffyl yng Nghymru gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cynefin",
       "programme_title": "Yr Wyddgrug - Theatr Clwyd",
       "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1521,25 +1521,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "27",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gareth Davies",
-      "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P12_05.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
-      "clic_aired": "30 Ionawr 2023",
-      "fav_id": "819088838",
-      "id": "861087347",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "143",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1556,6 +1537,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-05-27 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "27",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gareth Davies",
+      "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P12_05.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
+      "clic_aired": "30 Ionawr 2023",
+      "fav_id": "819088838",
+      "id": "861087347",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1692,25 +1692,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "23",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "clic_aired": "26 Ionawr 2023",
-      "fav_id": "799276940",
-      "id": "862281059",
-      "series_id": "862280878",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "142",
       "series_title": "Y Byd yn ei Le",
@@ -1727,6 +1708,25 @@
       "series_id": "871981420",
       "title": "Y Byd yn ei Le",
       "date_broadcast": "2023-05-25 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "23",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "26 Ionawr 2023",
+      "fav_id": "799276940",
+      "id": "862281059",
+      "series_id": "862280878",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Jennifer Jones",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y darlledwr Jennifer Jones.",
