@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "53",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "141",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-05-27 17:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "53",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1464,8 +1464,8 @@
       "vs": "0"
     },
     {
-      "count": "20",
-      "days_to_expire": "25",
+      "count": "19",
+      "days_to_expire": "24",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Byddwn yn clywed hanes Gwyl Triban a bydd y Clwb Clecs yma i drafod. ",
@@ -1483,8 +1483,8 @@
       "vs": "0"
     },
     {
-      "count": "60",
-      "days_to_expire": "84",
+      "count": "59",
+      "days_to_expire": "83",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
@@ -1768,25 +1768,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "20",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
-      "clic_aired": "26 Ionawr 2023",
-      "fav_id": "799276940",
-      "id": "862281059",
-      "series_id": "862280878",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "139",
       "series_title": "Y Byd yn ei Le",
@@ -1803,6 +1784,25 @@
       "series_id": "871981420",
       "title": "Y Byd yn ei Le",
       "date_broadcast": "2023-05-25 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "20",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": null,
+      "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_00499.jpg",
+      "duration": "40",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "26 Ionawr 2023",
+      "fav_id": "799276940",
+      "id": "862281059",
+      "series_id": "862280878",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
