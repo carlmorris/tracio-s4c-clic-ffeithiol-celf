@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "33",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "25",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "33",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-06-10 17:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "47",
       "series_title": "Ar Werth",
@@ -150,6 +131,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-06-10 17:00:00",
       "vs": "0"
     },
     {
@@ -609,25 +609,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "25",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-06-01 18:15:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "108",
       "series_title": "Cynefin",
@@ -644,6 +625,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": "2023-05-08 22:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "25",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-06-01 18:15:00",
       "vs": "0"
     },
     {
@@ -951,7 +951,7 @@
       "vs": "0"
     },
     {
-      "count": "5",
+      "count": "4",
       "days_to_expire": "39",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
@@ -1616,25 +1616,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "148",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gillian Elisa",
-      "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P8_Gillian_Elisa.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "819088838",
-      "id": "837080370",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-06-10 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "18",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1651,6 +1632,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "148",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gillian Elisa",
+      "short_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P8_Gillian_Elisa.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pennod ola'r gyfres ac fe fydd Elin yn sgwrsio hefo seren y llwyfan a'r sgrîn, y fytholwyrdd Gillian Elisa. Â hithau bellach nôl 'adre' yn Llanbed dyma'r noson gynta i Gillian gynnal gwledd yn ei gardd - croeso cynnes a sgwrsio tan yr oriau mân, a hanner canrif o straeon am ei gyrfa anhygoel yn yn llifo. O flaen tanllwyth o dân fe fyddwn ni'n hel atgofion am ddyddiau yr opera roc Melltith ar y Nyth, Sabrina yn Pobol y Cwm¿ ac wrth gwrs, pwy all anghofio, Mrs OTT.",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "819088838",
+      "id": "837080370",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-06-10 11:00:00",
       "vs": "0"
     },
     {
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Symud i Gymru",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Mae'r cyn-ddeintydd Matt York wedi bachu swydd yng Ngogledd Cymru gyda Iechyd Cyhoeddus Cymru. Mae hyn yn golygu y bydd e, a'i bartner Robbie sy'n fyddar, yn chwilio am gartref newydd. Ei tywysydd lleol fydd Janine Hall, sy'n wreiddiol o Loegr ac sydd bellach wedi dysgu Cymraeg ar ôl byw ym Mlaenau Ffestiniog ers chwe mlynedd. Y pynciau o dan sylw fydd diffyg tai fforddiadwy, airbnbs, amrywiaeth, anabledd a pha mor hawdd yw hi i ddod yn rhan o gymdeithas glos.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
