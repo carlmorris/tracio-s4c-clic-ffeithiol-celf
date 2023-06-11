@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "33",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "24",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "33",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol: Ym 1998 roddodd yr actor Syr Anthony Hopkins filiwn o bunnoedd tuag at ymgyrch yr Ymddiriedolaeth Genedlaethol i brynu'r Wyddfa. Yn anffodus, yn dilyn camddealltwriaeth clerigol, yn hytrach na phrynu mynydd uchaf Cymru, mi sylweddolodd y seren ffilmiau o Bort Talbot ei fod nawr yn berchen ar y grwp canu pop poblogaidd o Lanberis.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "818",
+      "days_to_expire": "817",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
