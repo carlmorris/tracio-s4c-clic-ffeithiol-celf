@@ -115,7 +115,7 @@
       "vs": "0"
     },
     {
-      "count": "7",
+      "count": "6",
       "days_to_expire": "44",
       "series_title": "Ar Werth",
       "programme_title": null,
@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "22",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2023-06-01 18:15:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "105",
       "series_title": "Cynefin",
@@ -587,6 +568,25 @@
       "series_id": "864272866",
       "title": "Cynefin",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "22",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2023-06-01 18:15:00",
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Tair Dinas a Goncrodd y Byd",
       "programme_title": "1650- 1800 Gwrthdaro",
       "short_billing": "Mae gwrthdaro cyson rhwng yr Iseldiroedd a Lloegr ac yn y bennod hon cawn ddysgu sut y newidwyd enw Amsterdam Newydd i fod yn Efrog Newydd. Mae grym Amsterdam ar ei hanterth ond mae Llundain yn prysur ddatblygu, ac mewn modd annisgwyl, mae t¿ân mawr Llundain 1666 yn hwb enfawr i'r datblygiad hwn.",
