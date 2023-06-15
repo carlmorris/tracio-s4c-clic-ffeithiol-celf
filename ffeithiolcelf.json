@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "29",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "21",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "29",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "104",
-      "series_title": "Cynefin",
-      "programme_title": "Nant Conwy",
-      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
-      "clic_aired": "30 Ebrill 2023",
-      "fav_id": "796376120",
-      "id": "864272952",
-      "series_id": "864272866",
-      "title": "Cynefin",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "21",
       "series_title": "Cynefin",
@@ -606,6 +587,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2023-06-01 18:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "104",
+      "series_title": "Cynefin",
+      "programme_title": "Nant Conwy",
+      "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "thumbnail_url": "Cynefin_2023S4C_P6_Nant_Conwy_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
+      "clic_aired": "30 Ebrill 2023",
+      "fav_id": "796376120",
+      "id": "864272952",
+      "series_id": "864272866",
+      "title": "Cynefin",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Symud i Gymru",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Mae'r cyn-ddeintydd Matt York wedi bachu swydd yng Ngogledd Cymru gyda Iechyd Cyhoeddus Cymru. Mae hyn yn golygu y bydd e, a'i bartner Robbie sy'n fyddar, yn chwilio am gartref newydd. Ei tywysydd lleol fydd Janine Hall, sy'n wreiddiol o Loegr ac sydd bellach wedi dysgu Cymraeg ar ôl byw ym Mlaenau Ffestiniog ers chwe mlynedd. Y pynciau o dan sylw fydd diffyg tai fforddiadwy, airbnbs, amrywiaeth, anabledd a pha mor hawdd yw hi i ddod yn rhan o gymdeithas glos.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
