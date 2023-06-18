@@ -496,7 +496,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Jason Mohammad",
       "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "133",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "525516112",
-      "id": "875031196",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-06-01 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "70",
       "series_title": "Pawb a'i Farn",
@@ -1423,6 +1404,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "133",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "525516112",
+      "id": "875031196",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-06-01 21:30:00",
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Gareth Davies",
       "short_billing": "Â ninnau ar fin camu i gyfnod y Chwe Gwlad, heno fe fydd Elin yn teithio lawr yr A470 i gwrdd â chyn-seren Cymru a'r Llewod, Gareth Davies. Cyfle i fwynhau straeon am Gwm Gwendraeth y chwedegau, addysg Rhydychen a gyrfa sydd wedi mynd ag e o Gaerdydd, i Awstralia, ac i Leeds. Er yr yrfa lwyddiannus does dim yn llonni calon Gareth yn fwy erbyn hyn na bod yn Ddad-cu.... ac ambell gêm o golff! Recordiwyd fis Hydref 2022.",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydr rhyddid Iran",
       "short_billing": "Fe wnaeth marwolaeth Mahsa Amini yn Iran ysgogi protestiadau ledled y byd. Yr wythnos hon ar Y Byd ar Bedwar,  un o'r ymgyrchwyr Cymreig, Parisa Fouladi sy'n ceisio darganfod mwy am realiti bywyd yn Iran a sefyllfa'r rhai sydd wedi gorfod ffoi. Mae Parisa yn teithio i gwrdd a'i theulu yn Los Angeles, sy'n gartref i un o gymunedau Persiaidd mwyaf y byd, ac yn clywed galwadau bod angen neud mwy i sicrhau hawliau dynol i bobl Iran. ",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Byd ar Bedwar - Cyfres 2023",
       "programme_title": "Gwleidyddion dan fygythiad",
       "short_billing": "Mae bron i 80% o wleidyddion Cymru yn dweud eu bod nhw wedi teimlo dan fygythiad tra'n gwneud eu swydd, a bod pethau'n gwaethygu. Yn ol ymchwil egsliwsif Y Byd ar Bedwar mae'r gwariant i ddiogelu Aelodau o'r Senedd wedi cynyddu dros 1000% yn y tair blynedd diwethaf. Mi fyddwn ni'n clywed profiadau rhai ohonyn nhw.",
