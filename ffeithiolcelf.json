@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "24",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "15",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "24",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -116,25 +116,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "139",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-07-04 23:25:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "38",
       "series_title": "Ar Werth",
       "programme_title": null,
@@ -150,6 +131,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "139",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-07-04 23:25:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": null,
       "programme_title": "Can i Gymru 2023",
       "short_billing": "Elin Fflur a Trystan Ellis Morris fydd yn cyflwyno prif gystadleuaeth gyfansoddi y flwyddyn. Mewn darllediad byw o Ganolfan y Celfyddydau, Aberystwyth, bydd 8 cân newydd yn brwydro am dlws enillydd Cân i Gymru ynghyd a gwobr ariannol o £5000 i'r enillydd, £2000 i'r ail a £1000 i'r trydydd. Pleidlais ffôn gyhoeddus yn unig fydd yn dewis yr enillydd, felly cofiwch fwrw eich pleidlais. Y barnu, y cystadlu, yr anthemau di-ri. Pwy fydd nesa i hawlio eu lle yn llyfrau hanes Cân i Gymru'",
@@ -287,7 +287,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Cefn Gwlad",
       "programme_title": "Bois Blaennant y Mab",
       "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": null,
       "programme_title": "Cofio Dafydd Hywel",
       "short_billing": "Rhaglen deyrnged i un o actorion mwyaf eiconig Cymru, Dafydd Hywel. O'i fagwraeth yn Nyffryn Aman, i oes aur teledu a ffilm Cymreig, i'w gyfraniad rhyfeddol i adloniant ac addysg o rhan plant Cymru, dyma bortread o'r dyn yn ogystal a'r actor. Gyda chydweithrediad ei deulu a chyfraniadau gan ffrindiau, gan gynnwys Ruth Jones, Richard Harrington a Dewi 'Pws' Morris, dyma ddathliad o gymeriad cymleth a chawr Cymraeg - talent unigryw wnaeth ddylanwadu ar genedlaethau o Gymry, ar ac oddiar y sgrin.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": null,
       "programme_title": "Cranogwen gyda Ffion Hague",
       "short_billing": "Yr hanesydd a'r ddarlledwraig Ffion Hague sy'n olrhain stori yr arwres arloesol Cranogwen, wrth i gerflun arbennig ohoni gael ei ddadorchuddio yn Llangrannog.  ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cwpan Rygbi'r Byd Shane ac Ieuan",
       "programme_title": "Toulouse & Bordeaux",
       "short_billing": "Ma taith Shane Williams & Ieuan Evans o gwmpas Ffrainc yn parhau. Yn y bennod hon fydd y ddau yn cael sgwrs gydag un o chwaraewyr rygbi gorau'r byd yn Toulouse ac yn mwynhau gwydred neu ddau o win coch ar winllan sy'n agos iawn at galon Ieuan.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": null,
       "programme_title": "DRYCH: Alex Humphreys: Epilepsi a Fi",
       "short_billing": "Mae Alex Humphreys yn wyneb cyfarwydd i wylwyr S4C fel cyflwynydd Y Tywydd, Yr Wythnos a Heno. Dim ond y bobl sydd agosaf at Alex sy'n gwybod bod ganddi epilepsi. Mae Alex yn cyfaddef nad yw hi'n gwybod llawer am y cyflwr ond mae hi wedi cyrraedd pwynt ble mae hi eisiau gwybod mwy. Yn ystod y rhaglen hon fe fydd Alex yn cyfarfod ag arbenigwyr meddygol, hanesydd, a nifer o bobl sydd yn byw gyda'r cyflwr, gyda'r nod o godi mwy o ymwybyddiaeth.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": null,
       "programme_title": "DRYCH: Camau Tua'r Ser",
       "short_billing": "Ar ddechrau 2019 roedd Neil Hopper yn gweithio fel Llawfeddyg Fasgiwlar yn Ysbyty Frenhinol Cernyw yn Treliske ger Truro pan brofodd newid difrifol i'w fywyd tra ar wyliau.  Wedi dychwelyd adref datblygodd bneumonia ac yna sepsis wnaeth droi yn ddifrifol wael, a arweiniodd at lawdriniaeth lle bu'n rhaid trychu ei ddwy goes o dan y benglin. Tua blwyddyn wedi'r lawdrinaeth dychwelodd Neil at ei waith a dwy flynedd wedyn, ar ôl wynebu a goresgyn heriau rhyfeddol, mae her arall o'i flaen - y gofod!",
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": null,
       "programme_title": "DRYCH: DJ Terry",
       "short_billing": "Dyma stori Terry, myfyriwr o Flaenau Ffestiniog a'i freuddwyd i fod yn DJ radio.  Er mwyn llwyddo bydd angen iddo wynebu ambell i sialens personol.  Ar hyd y ffordd, mi wnawn gwrdd â'i deulu a'i  ffrindiau a'i arwyr, megis y DJ Ifan Jones Evans. Dyma stori Terry yn ei eiriau ei hun - hanes gwr ifanc hynod, gyda anghenion addysg ychwanegol, sy'n benderfynol o wthio'r ffiniau ym mhob ffordd. ",
@@ -724,7 +724,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": null,
       "programme_title": "DRYCH: Dyfodol i Dewi",
       "short_billing": "Mae 'Dyfodol i Dewi' yn dilyn brwydr foesol y comediwr Eleri Morgan am ddod â babi i fyd ansicr, oherwydd newid hinsawdd. Ar ôl addo peidio â chael plentyn ei hun, oherwydd ôl troed carbon enfawr babanod y Gorllewin; mae Eleri yn ffeindio ei hyn gyda beichiogrwydd sioc, a 6 mis i ddod o hyd i ffyrdd o gael babi mwy ecogyfeillgar, a rywfaint o bositifrwydd am y dyfodol. .",
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": null,
       "programme_title": "DRYCH: Dyn yn y Van",
       "short_billing": "Mae Paul wedi troi cefn ar gymdeithas gonfensiynol a byw mewn fan. Ond dim ond dechrau'r stori ydi ei fywyd yn y fan, mae o hefyd wedi creu set o reolau bywyd sydd yn gwbl wahanol i'w hen ffordd o fyw. ",
@@ -781,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": null,
       "programme_title": "DRYCH: Meddwl yn Wahanol",
       "short_billing": "Mae'r seiciatrydd Dr Olwen Payne yn gofyn os yw iaith a diwylliant yn llywio ein profiad o iechyd meddwl yng Nghymru. Taith bersonol a chraffus i ymchwilio'r nodweddion Cymreig unigryw a all fod yn ddylanwad ar salwch meddwl yn ein cymdeithas ni.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": null,
       "programme_title": "DRYCH: Rygbi Byddar a Chwpan y Byd",
       "short_billing": "Am y tro cyntaf erioed, mae timau rygbi'r dynion a menywod yn cystadlu yn Mhencampwriaeth Rygbi Byddar y Byd yn yr Ariannin. Er iddynt wynebu heriau, ar ac oddi ar y cae, roedd Rygbi Byddar Cymru yn benderfynol o oresgyn yr anawsterau a dychwelyd adref fel Pencampwyr dwbwl Cwpan y Byd.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i'r Algarve. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "865",
+      "days_to_expire": "864",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": null,
       "programme_title": "Eirys: Mam yr Urdd",
       "short_billing": "Ailddarllediad yng nghanol wythnos Eisteddfod yr Urdd. Mae rhai o ffigyrau mwyaf diddorol hanes, merched yn aml, yn bobl y cysgodion. Roedd Eirys Edwards, gwraig Syr Ifan ab Owen Edwards, sylfaenydd Yr Urdd, yn un o'r rheiny. Wrth i'r Urdd ddathlu ei ganmlwyddiant eleni, mae Mari Emlyn ar drywydd hanes ei nain, Eirys.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "FFIT Cymru",
       "programme_title": null,
       "short_billing": "Mae'r foment fawr wedi cyrraedd - datgelu pwysau a thrawsnewidiad ein Arweinwyr yng nghwmni Lisa Gwilym, eu teuluoedd a'i ffrindiau.  Dyma ddathlu taith colli pwysau ein pump Arweinydd  dros y deufis diwethaf gyda chefnogaeth barhaol y pedwar arbenigwr.  Ond mae'r daith yn parhau a tybed sut fyddent mewn 6 mis'  Parhewch i ddilyn eu siwrna #ffitcymru",
@@ -1388,6 +1388,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "67",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "clic_aired": "30 Mawrth 2023",
+      "fav_id": "525516112",
+      "id": "853450107",
+      "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "131",
       "series_title": "Pawb a'i Farn",
@@ -1404,25 +1423,6 @@
       "series_id": "875031185",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2023-06-01 21:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "68",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "clic_aired": "30 Mawrth 2023",
-      "fav_id": "525516112",
-      "id": "853450107",
-      "series_id": "853449914",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": null,
       "programme_title": "Qatar: Cymru ar Ben y Byd",
       "short_billing": "Taith emosiynol cefnogwyr a chwaraewyr Cymru yn y Cwpan Byd yn Qatar mewn rhaglen ddogfen sy'n edrych tu nôl i lenni'r garfan a'r Wal Goch. Mae'r ffilm rymus hon yn adrodd stori mis ryfeddol yn hanes pêl droed Cymru. Sut brofiad oedd hi i garfan Cymru fod o dan y fath bwysau' Trwy lygaid a lleisiau cymeriadau'r Wal Goch edrychwn yn ôl ar y profiad angerddol o fod yna. Y dagrau a'r dathlu, y rhyfeddod a'r siom. Wedi 64 o flynyddoedd hir sut beth oedd cael gweld ein gwlad ar y llwyfan mwyaf'",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "programme_title": null,
       "short_billing": "Yn y bennod olaf, bydd trydydd oes aur yn hanes rygbi Cymru yn cael sylw gyda charfan cenedlaethol y dynion yn mwynhau llwyddiannau bythgofiadwy ar y cae o dan hyfforddiant Warren Gatland. Daw chwaraewyr a chefnogwyr ynghyd i rannu eu hatgofion a'u straeon personol am y campau llawn yn 2005, 2008 a 2012.   \n ",
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "149",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "John Hartson",
-      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "clic_aired": "19 Mehefin 2023",
-      "fav_id": "819088838",
-      "id": "837080286",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-06-19 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "8",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1616,8 +1597,27 @@
       "vs": "0"
     },
     {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "John Hartson",
+      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "clic_aired": "19 Mehefin 2023",
+      "fav_id": "819088838",
+      "id": "837080286",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-06-19 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Teulu, Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Cyfres dwymgalon yn olrhain hanes teulu Wayne a Connagh Howard yng Nghymru, Iwerddon a Jamaica. Y tro hwn mae'r pâr yn teithio i'r Caribî i ddysgu mwy am eu gwreiddiau yn Jamaica. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "Trump: Byd Eithafol",
       "short_billing": "Maxine Hughes sy'n dilyn rhai o gefnogwyr mwyaf ffyddlon Donald Trump ac yn holi'r dyn ei hun amdanyn nhw. Beth sy'n gwneud i bobl deithio o un pen America i'r llall yn gwario miloedd o ddoleri i wrando ar yr un areithiau mewn un rali ar ol y llall' Beth yw'r berthynas rhwng Trump a'i ddilynwyr ffanatig'",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ty Am Ddim",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis. Unrhyw elw mae'n nhw'n ei wneud, mae'n nhw'n cael ei gadw! Y tro hwn, mae dwy athrawes yn dysgu sgiliau ac yn gwneud ffrindiau wrth adnewyddu cartre yn Llandrillo yn Rhos.",
@@ -1768,22 +1768,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
-      "short_billing": "Pan d'yw geiriau ddim yn ddigon mae blodau'n dweud y cyfan. Mewn cyfres newydd sbon,  Y 'Sgubor Flodau, bydd pobl o bob rhan o Gymru yn ymweld â'r 'sgubor i ofyn i'n tîm cynllunio creadigol i greu blodau syfrdanol ar gyfer pobol haeddiannol fel syrpreis. Yn y bennod hon, bydd fferm ar Ynys Môn yn derbyn rhywbeth i gofio eu sylfaenwyr. Byddwn ni'n dathlu'r genhedlaeth Windrush, ac mi fydd darpar briodferch yn cael ei Pharti Plu hir-ddisgwyliedig ac yn derbyn coron o flodau hardd ar gyfer y dathlu",
-      "thumbnail_url": "Y_Sgubor_Flodau_2023S4C_03012.jpg",
+      "short_billing": "Yn y bennod hon bydd mam o Gaerdydd yn derbyngosodiad o flodau anhygoel er cof am ei merch. ",
+      "thumbnail_url": "Y_Sgubor_Flodau_2023S4C_03168_P2_Ser_Aeron.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Pan d'yw geiriau ddim yn ddigon mae blodau'n dweud y cyfan. Mewn cyfres newydd sbon,  Y 'Sgubor Flodau, bydd pobl o bob rhan o Gymru yn ymweld â'r 'sgubor i ofyn i'n tîm cynllunio creadigol i greu blodau syfrdanol ar gyfer pobol haeddiannol fel syrpreis. Yn y bennod hon, bydd fferm ar Ynys Môn yn derbyn rhywbeth i gofio eu sylfaenwyr. Byddwn ni'n dathlu'r genhedlaeth Windrush, ac mi fydd darpar briodferch yn cael ei Pharti Plu hir-ddisgwyliedig ac yn derbyn coron o flodau hardd ar gyfer y dathlu",
-      "clic_aired": "13 Mehefin 2023",
+      "full_billing": "Yn y bennod hon bydd mam o Gaerdydd yn derbyngosodiad o flodau anhygoel er cof am ei merch. ",
+      "clic_aired": "20 Mehefin 2023",
       "fav_id": "860462020",
-      "id": "860462029",
+      "id": "860462051",
       "series_id": "860462020",
       "title": "Y 'Sgubor Flodau",
-      "date_broadcast": "2023-06-22 22:00:00",
+      "date_broadcast": "2023-06-29 22:00:00",
       "vs": "0"
     },
     {
