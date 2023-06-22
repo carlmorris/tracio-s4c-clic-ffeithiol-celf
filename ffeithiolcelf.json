@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "22",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "13",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "22",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": null,
       "programme_title": "Cyngerdd Cymru ac Wcrain",
       "short_billing": "Bron i flwyddyn yn ddiweddarach, cyfle arall i weld y gyngerdd arbennig fu yng Nghanolfan y Celfyddydau, Aber, i godi arian i Apêl Ddyngarol Wcráin ar y cyd rhwng DEC Cymru a S4C. Bydd artistiaid o Gymru ac Wcráin yn perfformio, yn cynnwys Yuriy Yurchuk, bariton o Wcráin, y tenor Gwyn Hughes Jones, Côr y Cwm, Côr Glanaethwy, Côr Ysgol Plascrug Aberystwyth, Contemporary Music Collective, Dafydd Wyn Jones, Glain Rhys a Sam Ebenezer. Elin Fflur sy'n arwain.",
@@ -989,8 +989,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "77",
+      "count": "5",
+      "days_to_expire": "76",
       "series_title": "Ffermio - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Ffermio - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Y tro hwn: byddwn yn ymweld â gwartheg cyfandirol go wahanol i'r arfer; a gyda phrisiau tir wedi cynyddu'n aruthrol yn ddiweddar, sut effaith mae hyn yn cael ar ffermwyr sydd eisiau prynu tir' Hefyd, cawn ymweld â theulu fu'n ennill gwobr genedlaethol am safon eu porfa.",
@@ -1198,22 +1198,22 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "33",
+      "count": "23",
+      "days_to_expire": "34",
       "series_title": "Heno - Cyfres 2023",
       "programme_title": null,
-      "short_billing": "Heddiw, cawn glywed hanes Aaron Pleming sydd yn DJ'io i Radio Ysbyty Gwynedd.",
+      "short_billing": "Heno, Terry Tuffrey fydd yn son am ei swydd newydd a sut mae'n setlo mewn. ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Heddiw, cawn glywed hanes Aaron Pleming sydd yn DJ'io i Radio Ysbyty Gwynedd.",
-      "clic_aired": "21 Mehefin 2023",
+      "full_billing": "Heno, Terry Tuffrey fydd yn son am ei swydd newydd a sut mae'n setlo mewn. ",
+      "clic_aired": "22 Mehefin 2023",
       "fav_id": "520950912",
-      "id": "871479505",
+      "id": "871479526",
       "series_id": "871478307",
       "title": "Heno - Cyfres 2023",
-      "date_broadcast": "2023-06-22 12:30:00",
+      "date_broadcast": "2023-06-23 12:30:00",
       "vs": "0"
     },
     {
@@ -1559,25 +1559,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "147",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "John Hartson",
-      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "clic_aired": "19 Mehefin 2023",
-      "fav_id": "819088838",
-      "id": "837080286",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-06-19 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1594,6 +1575,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "147",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "John Hartson",
+      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "clic_aired": "19 Mehefin 2023",
+      "fav_id": "819088838",
+      "id": "837080286",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-06-19 23:00:00",
       "vs": "0"
     },
     {
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Y Byd yn ei Le - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol gyda Catrin Haf Jones sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
