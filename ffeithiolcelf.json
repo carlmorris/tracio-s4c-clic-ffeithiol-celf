@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Cynefin",
       "programme_title": "Yr Wyddgrug - Theatr Clwyd",
       "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "66",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "clic_aired": "30 Mawrth 2023",
-      "fav_id": "525516112",
-      "id": "853450107",
-      "series_id": "853449914",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "129",
       "series_title": "Pawb a'i Farn",
@@ -1404,6 +1385,25 @@
       "series_id": "875031185",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2023-06-01 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "66",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "clic_aired": "30 Mawrth 2023",
+      "fav_id": "525516112",
+      "id": "853450107",
+      "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1464,22 +1464,22 @@
       "vs": "0"
     },
     {
-      "count": "18",
-      "days_to_expire": "33",
+      "count": "19",
+      "days_to_expire": "34",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
-      "short_billing": "Eric Jones fydd yn y clwb llyfrau ac mi fydd Sharon Leech yma gyda tipiau steilio i'ch gegin. ",
+      "short_billing": "Dr Celyn fydd yn y stiwdio a byddwn hefyd yn cael sesiwn ffitrwydd. ",
       "thumbnail_url": "Prynhawn_Da_2023S4C_Cyfres_099.jpg",
       "duration": "42",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Eric Jones fydd yn y clwb llyfrau ac mi fydd Sharon Leech yma gyda tipiau steilio i'ch gegin. ",
-      "clic_aired": "21 Mehefin 2023",
+      "full_billing": "Dr Celyn fydd yn y stiwdio a byddwn hefyd yn cael sesiwn ffitrwydd. ",
+      "clic_aired": "22 Mehefin 2023",
       "fav_id": "520950923",
-      "id": "871689023",
+      "id": "871689046",
       "series_id": "871687827",
       "title": "Prynhawn Da - Cyfres 2023",
-      "date_broadcast": "2023-06-21 14:05:00",
+      "date_broadcast": "2023-06-22 14:05:00",
       "vs": "0"
     },
     {
@@ -1616,8 +1616,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "21",
+      "count": "3",
+      "days_to_expire": "20",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Chris Roberts",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno a nhw yn y rhaglen hon, mi fydd brenin y barbeciw Chris Roberts.",
