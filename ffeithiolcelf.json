@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "128",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "525516112",
-      "id": "875031196",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-06-01 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "65",
       "series_title": "Pawb a'i Farn",
@@ -1404,6 +1385,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "128",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "525516112",
+      "id": "875031196",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-06-01 21:30:00",
       "vs": "0"
     },
     {
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Y Cosmos",
       "programme_title": "Llwybr Llaethog",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
