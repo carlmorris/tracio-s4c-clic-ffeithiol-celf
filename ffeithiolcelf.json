@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Cynefin",
       "programme_title": "Yr Wyddgrug - Theatr Clwyd",
       "short_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "127",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "525516112",
-      "id": "875031196",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-06-01 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "64",
       "series_title": "Pawb a'i Farn",
@@ -1404,6 +1385,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "127",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "525516112",
+      "id": "875031196",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-06-01 21:30:00",
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Chris Roberts",
       "short_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno a nhw yn y rhaglen hon, mi fydd brenin y barbeciw Chris Roberts.",
