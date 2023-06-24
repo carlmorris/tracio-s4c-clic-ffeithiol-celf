@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "12",
-      "series_title": "Adre",
-      "programme_title": "Mandy Watkins",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'. Yr wythnos hon byddwn yn ymweld â chartref y cynllunydd mewnol a'r gyflwynwraig Mandy Watkins ar Ynys Môn.",
-      "thumbnail_url": "Adre_2019-20S4C_P4_Mandy_Watkins_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'. Yr wythnos hon byddwn yn ymweld â chartref y cynllunydd mewnol a'r gyflwynwraig Mandy Watkins ar Ynys Môn.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "802516867",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2023-06-01 18:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "21",
       "series_title": "Adre",
       "programme_title": "Dafydd Wigley a Elinor Bennett",
@@ -36,6 +17,25 @@
       "series_id": "797462168",
       "title": "Adre",
       "date_broadcast": "2023-06-10 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "12",
+      "series_title": "Adre",
+      "programme_title": "Mandy Watkins",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'. Yr wythnos hon byddwn yn ymweld â chartref y cynllunydd mewnol a'r gyflwynwraig Mandy Watkins ar Ynys Môn.",
+      "thumbnail_url": "Adre_2019-20S4C_P4_Mandy_Watkins_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'. Yr wythnos hon byddwn yn ymweld â chartref y cynllunydd mewnol a'r gyflwynwraig Mandy Watkins ar Ynys Môn.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "802516867",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2023-06-01 18:30:00",
       "vs": "0"
     },
     {
@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "34",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "136",
       "series_title": "Ar Werth",
@@ -150,6 +131,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-07-04 23:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "34",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
