@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "16",
-      "series_title": "Adre",
-      "programme_title": "Dafydd Wigley a Elinor Bennett",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "793406870",
-      "id": "797462254",
-      "series_id": "797462168",
-      "title": "Adre",
-      "date_broadcast": "2023-06-10 11:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "8",
       "series_title": "Adre",
       "programme_title": "Mandy Watkins",
@@ -36,6 +17,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2023-06-01 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "16",
+      "series_title": "Adre",
+      "programme_title": "Dafydd Wigley a Elinor Bennett",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "thumbnail_url": "Adre_2018-19_P6_DafyddWigley_ElinorBennett_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd Dafydd Wigley a'r delynores Elinor Bennett.  ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "793406870",
+      "id": "797462254",
+      "series_id": "797462168",
+      "title": "Adre",
+      "date_broadcast": "2023-06-10 11:30:00",
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "44",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Prynhawn Da - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1483,8 +1483,8 @@
       "vs": "0"
     },
     {
-      "count": "19",
-      "days_to_expire": "34",
+      "count": "18",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Heddiw, Jeia sydd wedi bod i chware mewn clwb tennis LGBTQ+ a byddwn hefyd yn trafod y Tour De France. ",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
