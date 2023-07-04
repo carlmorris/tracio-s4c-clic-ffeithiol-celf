@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "125",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-07-04 23:25:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "24",
       "series_title": "Ar Werth",
@@ -169,6 +150,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "125",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-07-04 23:25:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": null,
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol: Ym 1998 roddodd yr actor Syr Anthony Hopkins filiwn o bunnoedd tuag at ymgyrch yr Ymddiriedolaeth Genedlaethol i brynu'r Wyddfa. Yn anffodus, yn dilyn camddealltwriaeth clerigol, yn hytrach na phrynu mynydd uchaf Cymru, mi sylweddolodd y seren ffilmiau o Bort Talbot ei fod nawr yn berchen ar y grwp canu pop poblogaidd o Lanberis.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Sut brofiad ydi hi i geisio lloches yng Nghymru' Cyfle i glywed lleisiau rhai unigolion sydd wedi dod i Gymru yn chwilio am ddiogelwch.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "795",
+      "days_to_expire": "794",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "116",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "525516112",
-      "id": "875031196",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-06-01 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "53",
       "series_title": "Pawb a'i Farn",
@@ -1423,6 +1404,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "116",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "525516112",
+      "id": "875031196",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-06-01 21:30:00",
       "vs": "0"
     },
     {
