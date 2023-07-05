@@ -97,7 +97,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Ar Lafar - Cyfres 1",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres ddogfen yn cofnodi a dathlu tafodieithoedd Cymru.",
@@ -116,7 +116,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Ar Lafar - Cyfres 2",
       "programme_title": "Bala",
       "short_billing": "Cyfres yn trafod tafodiaith ardaloedd gwahanol o Gymru.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Iaith ar Daith",
       "programme_title": "Uchafbwyntiau Cyfres 3",
       "short_billing": "Rhaglen uchafbwyntiau o gyfres 3 Iaith ar Daith.",
