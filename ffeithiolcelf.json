@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "120",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-07-04 23:25:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "19",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "120",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-07-04 23:25:00",
       "vs": "0"
     },
     {
@@ -894,6 +894,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Eisteddfod Llangollen 2023",
+      "programme_title": "Llangollen 2023: Côr y Byd",
+      "short_billing": "Pinacl y cystadlu yn Eisteddfod Llangollen, wrth i enillwyr gwahanol gategorïau corawl gystadlu yn erbyn ei gilydd ar gyfer teitl Côr y Byd 2023. ",
+      "thumbnail_url": "Eisteddfod_Llangollen_2023S4C_099.jpg",
+      "duration": "129",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pinacl y cystadlu yn Eisteddfod Llangollen, wrth i enillwyr gwahanol gategorïau corawl gystadlu yn erbyn ei gilydd ar gyfer teitl Côr y Byd 2023. ",
+      "clic_aired": "8 Gorffennaf 2023",
+      "fav_id": "535327615",
+      "id": "876892150",
+      "series_id": "876892142",
+      "title": "Eisteddfod Llangollen 2023",
+      "date_broadcast": "2023-07-08 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "8",
       "days_to_expire": "103",
       "series_title": "FFIT Cymru",
@@ -952,7 +971,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Shelley Rees",
       "short_billing": "Shelley Rees, Siôn Tomos Owen a Sue Roderick sy'n mwynhau ffilmiau o'r Cymoedd (Aberaman, Trealaw, a Ferndale) a Chaerdydd, a ffilm gynnar o Meic Povey, o gasgliad Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
