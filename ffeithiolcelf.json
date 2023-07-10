@@ -325,7 +325,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -742,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "147",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "clic_aired": "8 Gorffennaf 2023",
-      "fav_id": "802081093",
-      "id": "832477705",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "120",
       "series_title": "Dan Do",
@@ -777,6 +758,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2023-06-12 23:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "147",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "clic_aired": "8 Gorffennaf 2023",
+      "fav_id": "802081093",
+      "id": "832477705",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Straeon y Ffin",
       "programme_title": null,
       "short_billing": "Gareth Potter sy'n ymweld â llefydd a phobl ar hyd y ffin rhwng Cymru a Lloegr.",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Mali Rees",
       "short_billing": "Cyfres newydd sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd yr actores Mali Rees.",
