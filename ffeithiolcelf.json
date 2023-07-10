@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "120",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-07-04 23:25:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "18",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "120",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-07-04 23:25:00",
       "vs": "0"
     },
     {
@@ -1860,6 +1860,25 @@
       "series_id": "842405984",
       "title": "Yn y Ffram",
       "date_broadcast": "2023-06-17 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "142",
+      "series_title": null,
+      "programme_title": "Yr Arglwydd Morris o Aberafan ",
+      "short_billing": "I goffau ei farwolaeth yn ddiweddar, dyma ail-ddangosiad o'r portread o un o wleidyddion a chyfreithwyr pwysicaf Cymru dros yr hanner canrif ddiwethaf, ac un o benseiri datganoli Cymru; Yr Arglwydd Morris o Aberafan.",
+      "thumbnail_url": "Yr_Arglwydd_Morris_Aberfan_2015S4C_16844.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "I goffau ei farwolaeth yn ddiweddar, dyma ail-ddangosiad o'r portread o un o wleidyddion a chyfreithwyr pwysicaf Cymru dros yr hanner canrif ddiwethaf, ac un o benseiri datganoli Cymru; Yr Arglwydd Morris o Aberafan.",
+      "clic_aired": "2 Gorffennaf 2023",
+      "fav_id": "524717869",
+      "id": "524717869",
+      "series_id": null,
+      "title": "Yr Arglwydd Morris o Aberafan ",
+      "date_broadcast": "2023-07-02 21:00:00",
       "vs": "0"
     },
     {
