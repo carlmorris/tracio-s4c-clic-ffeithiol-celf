@@ -97,7 +97,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn y rhaglen ddogfen ddiweddar Bois y Rhondda, bydd y gyfres hon yn dilyn anturiaethau nesa'r criw ifanc o Gwm Rhondda wrth iddyn nhw addasu i'r byd newydd sydd ohoni, a wynebu heriau nesa' bywyd.  Mewn cyfres gynnes llawn hiwmor a dagrau, byddwn yn cael cip ar gymhlethdodau'r gymdeithas fodern, a'r brwydrau mae cenhedlaeth iau yn eu hwynebu pan nad oes llawer o gyfleoedd yn yr ardal mae nhw wedi'u magu ynddi.  ",
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -742,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "119",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "clic_aired": "11 Mehefin 2023",
-      "fav_id": "802081093",
-      "id": "842325376",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2023-06-12 23:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "146",
       "series_title": "Dan Do",
@@ -777,6 +758,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "119",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "clic_aired": "11 Mehefin 2023",
+      "fav_id": "802081093",
+      "id": "842325376",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2023-06-12 23:30:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
