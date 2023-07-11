@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Jason Mohammad",
       "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "110",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
-      "clic_aired": "1 Mehefin 2023",
-      "fav_id": "525516112",
-      "id": "875031196",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "47",
       "series_title": "Pawb a'i Farn",
@@ -1383,6 +1364,25 @@
       "fav_id": "525516112",
       "id": "853450107",
       "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "110",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gychwyn cyfres newydd o Pawb a'i Farn, Sion Jenkins sy'n arwain y drafodaeth o Lanymddyfri - cartref Eisteddfod yr Urdd 2023. Byddwn yn trafod hawliau traws, ydyn ni'n bwyta gormod o gig a pham fod pobl ifanc Cymru yn gadael eu cymunedau.",
+      "clic_aired": "1 Mehefin 2023",
+      "fav_id": "525516112",
+      "id": "875031196",
+      "series_id": "875031185",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
       "vs": "0"
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydr rhyddid Iran",
       "short_billing": "Fe wnaeth marwolaeth Mahsa Amini yn Iran ysgogi protestiadau ledled y byd. Yr wythnos hon ar Y Byd ar Bedwar,  un o'r ymgyrchwyr Cymreig, Parisa Fouladi sy'n ceisio darganfod mwy am realiti bywyd yn Iran a sefyllfa'r rhai sydd wedi gorfod ffoi. Mae Parisa yn teithio i gwrdd a'i theulu yn Los Angeles, sy'n gartref i un o gymunedau Persiaidd mwyaf y byd, ac yn clywed galwadau bod angen neud mwy i sicrhau hawliau dynol i bobl Iran. ",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd ar Bedwar - Cyfres 2023",
       "programme_title": "Ymchwiliad CK's",
       "short_billing": "Mae rheolau llym i'r diwydiant bwyd pan mae'n dod i baratoi a gwerthu cynnyrch - er mwyn diogelu iechyd y cyhoedd.  Ond heno, mae Y Byd ar Bedwar yn ymchwilio i honiadau bod busnes cymreig, CK foodstores yn methu glynu at y rheolau. A gyda thystiolaeth filmio'n gudd ry ni'n datgelu bod y cwmni yn torri'r gyfraith ar sawl achlysur. ",
