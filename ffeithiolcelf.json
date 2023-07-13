@@ -723,25 +723,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "145",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "clic_aired": "8 Gorffennaf 2023",
-      "fav_id": "802081093",
-      "id": "832477705",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "117",
       "series_title": "Dan Do",
@@ -758,6 +739,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2023-06-12 23:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "145",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "clic_aired": "8 Gorffennaf 2023",
+      "fav_id": "802081093",
+      "id": "832477705",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1388,8 +1388,8 @@
       "vs": "0"
     },
     {
-      "count": "34",
-      "days_to_expire": "46",
+      "count": "33",
+      "days_to_expire": "45",
       "series_title": "Prynhawn Da - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1407,7 +1407,7 @@
       "vs": "0"
     },
     {
-      "count": "25",
+      "count": "24",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
