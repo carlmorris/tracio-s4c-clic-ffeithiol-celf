@@ -248,25 +248,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "149",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Stori Teulu Caegwyn",
-      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "clic_aired": "17 Gorffennaf 2023",
-      "fav_id": "520950902",
-      "id": "875483747",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-08-01 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "16",
       "series_title": "Cefn Gwlad",
@@ -283,6 +264,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Stori Teulu Caegwyn",
+      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "clic_aired": "17 Gorffennaf 2023",
+      "fav_id": "520950902",
+      "id": "875483747",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-08-01 15:05:00",
       "vs": "0"
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Ffermio - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
