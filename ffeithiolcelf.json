@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "3 Lle",
       "programme_title": "Angharad Tomos",
       "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "110",
-      "series_title": "Ar Werth",
-      "programme_title": "Pennod 5",
-      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
-      "clic_aired": "10 Mehefin 2023",
-      "fav_id": "797127033",
-      "id": "835787042",
-      "series_id": "835786937",
-      "title": "Ar Werth",
-      "date_broadcast": "2023-07-04 23:25:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "9",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "800768284",
       "title": "Ar Werth",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "110",
+      "series_title": "Ar Werth",
+      "programme_title": "Pennod 5",
+      "short_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "thumbnail_url": "Ar_Werth_2022S4C_P5_SophiePenygroes.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda'r farchnad tai cyfredol yn un chwilboeth, mae rôl yr arwerthwr wedi dod yn fwy allweddol nag erioed. Dilynwn ar sawdl y sawl sy'n gofalu am y prynu a'r gwerthu yn y gyfres newydd hon, gyda Llion ap Dylan yn ymweld â safle adeiladu t&#375; eco ger Cross Inn yng Ngheredigion. Mae Ian Wyn-Jones yn gwerthu t&#375; yng Nghaernarfon, lle mae'r perchennog hefo rheswm da dros ddod i 'nabod unrhyw brynwr posib, ac mae Sophie Williams yn miniogi ei sgiliau prisio newydd hefo bungalow ym Mhenygroes. ",
+      "clic_aired": "10 Mehefin 2023",
+      "fav_id": "797127033",
+      "id": "835787042",
+      "series_id": "835786937",
+      "title": "Ar Werth",
+      "date_broadcast": "2023-07-04 23:25:00",
       "vs": "0"
     },
     {
