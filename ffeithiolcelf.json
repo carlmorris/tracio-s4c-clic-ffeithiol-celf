@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Cymry ar Gynfas",
       "programme_title": "Jason Mohammad",
       "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
@@ -1332,25 +1332,6 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Yn ystod wythnos Tafwyl, mae Pawb a'i Farn yn dod o'r Gyfnewidfa Lo yng Nghaerdydd yng nghwmni pobl y Brifddinas. Cyfle i drafod sefyllfa addysg Gymraeg, tlodi plant, a pa mor gynhwysol yw Gwyliau Cymraeg. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn ystod wythnos Tafwyl, mae Pawb a'i Farn yn dod o'r Gyfnewidfa Lo yng Nghaerdydd yng nghwmni pobl y Brifddinas. Cyfle i drafod sefyllfa addysg Gymraeg, tlodi plant, a pa mor gynhwysol yw Gwyliau Cymraeg. ",
-      "clic_aired": "13 Gorffennaf 2023",
-      "fav_id": "525516112",
-      "id": "875031222",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-07-13 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
       "days_to_expire": "39",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
@@ -1366,6 +1347,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Yn ystod wythnos Tafwyl, mae Pawb a'i Farn yn dod o'r Gyfnewidfa Lo yng Nghaerdydd yng nghwmni pobl y Brifddinas. Cyfle i drafod sefyllfa addysg Gymraeg, tlodi plant, a pa mor gynhwysol yw Gwyliau Cymraeg. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn ystod wythnos Tafwyl, mae Pawb a'i Farn yn dod o'r Gyfnewidfa Lo yng Nghaerdydd yng nghwmni pobl y Brifddinas. Cyfle i drafod sefyllfa addysg Gymraeg, tlodi plant, a pa mor gynhwysol yw Gwyliau Cymraeg. ",
+      "clic_aired": "13 Gorffennaf 2023",
+      "fav_id": "525516112",
+      "id": "875031222",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-07-13 21:00:00",
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydr rhyddid Iran",
       "short_billing": "Fe wnaeth marwolaeth Mahsa Amini yn Iran ysgogi protestiadau ledled y byd. Yr wythnos hon ar Y Byd ar Bedwar,  un o'r ymgyrchwyr Cymreig, Parisa Fouladi sy'n ceisio darganfod mwy am realiti bywyd yn Iran a sefyllfa'r rhai sydd wedi gorfod ffoi. Mae Parisa yn teithio i gwrdd a'i theulu yn Los Angeles, sy'n gartref i un o gymunedau Persiaidd mwyaf y byd, ac yn clywed galwadau bod angen neud mwy i sicrhau hawliau dynol i bobl Iran. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Y Byd ar Bedwar - Cyfres 2023",
       "programme_title": "Y ddadl addysg",
       "short_billing": "Wrth i nifer y plant sy'n dysgu o adref gynyddu'n sylweddol yng Nghymru, mae'r Byd ar Bedwar yn holi faint o ddylanwad mae'r cwricwlwm addysg rhyw newydd yn ei gael ar benderfyniadau rhieni. A gyda phryderon bod canllawiau newydd y Llywodraeth yn cyfyngu ar ryddid rhieni i addysgu eu plant fel maen nhw eisiau, Siôn Jenkins sy'n mynnu atebion gan y Gweinidog Addysg, Jeremy Miles.",
