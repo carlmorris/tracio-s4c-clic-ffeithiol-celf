@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Pont Britannia i Talacre",
       "short_billing": "Glannau Cymru o'r Awyr - y tro hwn o Bont Britannia i Dalacre.",
@@ -1036,13 +1036,13 @@
       "duration": "26",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Glannau Cymru o'r Awyr - y tro hwn o Bont Britannia i Dalacre.",
+      "full_billing": "Glannau Cymru o'r Awyr - y tro hwn o Ynys Enlli i Gaernarfon.",
       "clic_aired": "19 Mehefin 2023",
       "fav_id": "834148906",
-      "id": "834150305",
+      "id": "834150280",
       "series_id": "834149979",
       "title": "Glannau Cymru o'r Awyr",
-      "date_broadcast": "2023-06-30 18:00:00",
+      "date_broadcast": "2023-06-23 18:00:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Llangrannog",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' I bentref glan môr Llangrannog awn ni'r tro hwn, sydd â digon i'w gynnig ar y lan ac ar y môr.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Nyrsys",
       "programme_title": "Pennod 6",
       "short_billing": "Yn y gyfres hon, cawn glywed gan nyrsys mwyaf profiadol y wlad a'r rhai sy'n newydd ddechrau ar eu gyrfa am eu profiadau. Ym mhennod olaf y gyfres rydym yn dilyn Carys yn Y Rhondda, sy'n ymweld â Wil, gyda Megan yn ardal Castell Nedd, myfyrwraig blwyddyn gyntaf sydd ar leoliad gyda thîm nyrsio anabledd dysgu, ac yna gyda Gwawr sydd hefyd yn fyfyrwraig ar leoliad mewn hosbis yn gofalu ar ôl cleifion sydd angen gofal lliniarol.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
