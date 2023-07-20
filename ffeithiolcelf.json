@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "3 Lle",
       "programme_title": "Angharad Tomos",
       "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
@@ -229,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Stori Teulu Caegwyn",
-      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "clic_aired": "17 Gorffennaf 2023",
-      "fav_id": "520950902",
-      "id": "875483747",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-08-02 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "14",
       "series_title": "Cefn Gwlad",
@@ -264,6 +245,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "147",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Stori Teulu Caegwyn",
+      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "clic_aired": "17 Gorffennaf 2023",
+      "fav_id": "520950902",
+      "id": "875483747",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-08-02 22:30:00",
       "vs": "0"
     },
     {
