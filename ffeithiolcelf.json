@@ -458,7 +458,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": null,
       "short_billing": " \r\nCyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen hon, bydd y ddau'n dysgu hwylio; yn ymweld ag ynysoedd Sir Benfro; yn blasu 'bara lawr'; ac yn ymarfer yoga ar ben caer Ynys Thorne! ",
@@ -663,6 +663,25 @@
       "series_id": null,
       "title": "DRYCH: Dyfodol i Dewi",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": null,
+      "programme_title": "DRYCH: Hel y Mynydd",
+      "short_billing": "Mynyddoedd y Cambrian sy'n cael eu hadnabod fel asgwrn cefn Cymru yw un o ardaloedd mwyaf diarffordd y wlad. Ychydig o bobl sy'n dal i fyw a ffermio ar y mynyddoedd hyn lle mae'r ponis a'r defaid yn rhydd i bori. Yn y rhaglen hon, cawn ddod i adnabod rhai o ffermwyr a bugeiliaid yr ardal hynod hon wrth iddynt barhau i grynhoi y defaid yn y ffordd draddodiadol ar droed ac ar geffylau - traddodiad sy'n prysur ddod i ben. ",
+      "thumbnail_url": "DRYCH_2020S4C_Hel_y_Mynydd.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mynyddoedd y Cambrian sy'n cael eu hadnabod fel asgwrn cefn Cymru yw un o ardaloedd mwyaf diarffordd y wlad. Ychydig o bobl sy'n dal i fyw a ffermio ar y mynyddoedd hyn lle mae'r ponis a'r defaid yn rhydd i bori. Yn y rhaglen hon, cawn ddod i adnabod rhai o ffermwyr a bugeiliaid yr ardal hynod hon wrth iddynt barhau i grynhoi y defaid yn y ffordd draddodiadol ar droed ac ar geffylau - traddodiad sy'n prysur ddod i ben. ",
+      "clic_aired": "19 Gorffennaf 2023",
+      "fav_id": "804896437",
+      "id": "804896437",
+      "series_id": null,
+      "title": "DRYCH: Hel y Mynydd",
+      "date_broadcast": "2023-07-23 13:30:00",
       "vs": "0"
     },
     {
@@ -1864,7 +1883,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Yr Wythnos",
       "programme_title": null,
       "short_billing": "Cawn edrych yn ôl ar rai o straeon newyddion yr wythnos. ",
