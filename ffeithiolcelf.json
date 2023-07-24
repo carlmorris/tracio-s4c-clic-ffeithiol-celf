@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Shelley Rees",
       "short_billing": "Shelley Rees, Siôn Tomos Owen a Sue Roderick sy'n mwynhau ffilmiau o'r Cymoedd (Aberaman, Trealaw, a Ferndale) a Chaerdydd, a ffilm gynnar o Meic Povey, o gasgliad Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -1749,7 +1749,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "4",
       "days_to_expire": "149",
       "series_title": "Y Sioe 2023",
       "programme_title": "Bore Llun o'r Sioe",
