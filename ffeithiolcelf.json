@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "103",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-07-04 23:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "84",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Jason Mohammad",
-      "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_Jason_Mohammed_288-2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
-      "clic_aired": "22 Mai 2023",
-      "fav_id": "804336612",
-      "id": "862359489",
-      "series_id": "862359414",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2023-07-12 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "145",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2023-07-22 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "84",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Jason Mohammad",
+      "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_Jason_Mohammed_288-2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
+      "clic_aired": "22 Mai 2023",
+      "fav_id": "804336612",
+      "id": "862359489",
+      "series_id": "862359414",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2023-07-12 12:05:00",
       "vs": "0"
     },
     {
@@ -1312,8 +1312,8 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "32",
+      "count": "23",
+      "days_to_expire": "31",
       "series_title": "Prynhawn Da - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1331,7 +1331,7 @@
       "vs": "0"
     },
     {
-      "count": "22",
+      "count": "21",
       "days_to_expire": "28",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
@@ -1711,7 +1711,7 @@
       "vs": "0"
     },
     {
-      "count": "14",
+      "count": "15",
       "days_to_expire": "149",
       "series_title": "Y Sioe 2023",
       "programme_title": "Bore Iau o'r Sioe",
