@@ -229,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "139",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Stori Teulu Caegwyn",
-      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
-      "clic_aired": "17 Gorffennaf 2023",
-      "fav_id": "520950902",
-      "id": "875483747",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-08-02 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "147",
       "series_title": "Cefn Gwlad",
@@ -264,6 +245,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-07-25 22:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "139",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Stori Teulu Caegwyn",
+      "short_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P1_Caegwyn-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n mynd i Ddyffryn Cothi i gwrdd â tri brawd sy'n dal i fyw'n agos i'w cartref teuluol Caegwyn, yn Llanwrda, ac yn rhedeg busnesau yn gwasanathau'r gymuned lleol - Aelwyn, sy'n ffarmio Caegwyn ac yn rhedeg siop cyflenwi nwyddau amaethyddol; Elgan, sy'n cludo gwellt i ffermydd lleol gan fagu cobiau yn ei amser sbâr; a Melvin sy'n rhedeg garej a ralio bob penwythnos. A'r tri oll wedi dysgu llawer o'u tad, Tref, sy'n troi'n 90 eleni. Heddiw, awn i Sioe Llambed gyda'r brodyr.",
+      "clic_aired": "17 Gorffennaf 2023",
+      "fav_id": "520950902",
+      "id": "875483747",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-08-02 22:30:00",
       "vs": "0"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Her yr Hinsawdd",
       "programme_title": null,
       "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Huw Stephens",
       "short_billing": "Cyfres newydd sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y dj Huw Stephens.",
