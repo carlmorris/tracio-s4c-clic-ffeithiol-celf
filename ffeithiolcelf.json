@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Ar Werth",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
-      "clic_aired": "28 Chwefror 2023",
-      "fav_id": "797127033",
-      "id": "800768461",
-      "series_id": "800768284",
-      "title": "Ar Werth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "101",
       "series_title": "Ar Werth",
@@ -112,6 +93,25 @@
       "series_id": "835786937",
       "title": "Ar Werth",
       "date_broadcast": "2023-07-04 23:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Ar Werth",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "thumbnail_url": "Ar_Werth_2019S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae ein hasiantwyr ni wrthi'n brysur fel arfer! Mae Dafydd Hardy yn gwerthu fflatiau moethus newydd sbon ym Mhorthaethwy ac yn cynnal diwrnod agored er mwyn denu prynwyr newydd. Yng Nghaerdydd mae Marc Morrish yn gwerthu ty anarferol iawn yn ardal Y Rhath yn y brif ddinas. Rydym hefyd yn ymweld â thref Machynlleth yn y canolbarth lle mae John Hughes yn gwerthu ei gartref wedi iddo ef a'i deulu fyw yno am bron i 30 o flynyddoedd.",
+      "clic_aired": "28 Chwefror 2023",
+      "fav_id": "797127033",
+      "id": "800768461",
+      "series_id": "800768284",
+      "title": "Ar Werth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "82",
-      "series_title": "Cymry ar Gynfas",
-      "programme_title": "Jason Mohammad",
-      "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_Jason_Mohammed_288-2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
-      "clic_aired": "22 Mai 2023",
-      "fav_id": "804336612",
-      "id": "862359489",
-      "series_id": "862359414",
-      "title": "Cymry ar Gynfas",
-      "date_broadcast": "2023-07-12 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "143",
       "series_title": "Cymry ar Gynfas",
@@ -492,6 +473,25 @@
       "series_id": "837099434",
       "title": "Cymry ar Gynfas",
       "date_broadcast": "2023-07-22 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "82",
+      "series_title": "Cymry ar Gynfas",
+      "programme_title": "Jason Mohammad",
+      "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_Jason_Mohammed_288-2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
+      "clic_aired": "22 Mai 2023",
+      "fav_id": "804336612",
+      "id": "862359489",
+      "series_id": "862359414",
+      "title": "Cymry ar Gynfas",
+      "date_broadcast": "2023-07-12 12:05:00",
       "vs": "0"
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Ffermio - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -1255,25 +1255,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "148",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
-      "clic_aired": "27 Gorffennaf 2023",
-      "fav_id": "525516112",
-      "id": "875031248",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-07-27 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "30",
       "series_title": "Pawb a'i Farn",
@@ -1290,6 +1271,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "148",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
+      "clic_aired": "27 Gorffennaf 2023",
+      "fav_id": "525516112",
+      "id": "875031248",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-07-27 20:00:00",
       "vs": "0"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
