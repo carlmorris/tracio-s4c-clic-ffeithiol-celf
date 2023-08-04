@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "130",
-      "series_title": "3 Lle",
-      "programme_title": "Angharad Tomos",
-      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
-      "clic_aired": "16 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "432121680",
-      "series_id": "432121655",
-      "title": "3 Lle",
-      "date_broadcast": "2023-07-19 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "145",
       "series_title": "3 Lle",
       "programme_title": "Ifan Jones Evans",
@@ -55,6 +36,25 @@
       "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": "2023-08-14 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "130",
+      "series_title": "3 Lle",
+      "programme_title": "Angharad Tomos",
+      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
+      "clic_aired": "16 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "432121680",
+      "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": "2023-07-19 23:00:00",
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Ffermio - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "Ysgoloriaeth Bryn Terfel 2023",
       "short_billing": "Trystan Ellis Morris sy'n cyflwyno uchafbwyntiau Ysgoloriaeth Bryn Terfel Urdd Gobaith Cymru, sy'n dychwelyd ar ôl absenoldeb o dair blynedd. Chwech cystadleuydd wedi eu dewis o wahanol ddisgyblaethau yng nghystadlaethau hyn Eisteddfod yr Urdd llynedd s'yn cystadlu am fedal yr Ysgoloriaeth ynghyd â gwobr ariannol o bedair mil o bunnau. Canolfan y Celfyddydau Aberystwyth yw'r lleoliad i'r gystadleuaeth sydd wedi lawnsio gyrfaoedd proffesiynol nifer o sêr y byd perfformio yng Nghymru a thu hwnt.",
