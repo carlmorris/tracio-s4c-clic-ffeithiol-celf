@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Codi Hwyl",
       "programme_title": "Crinan, Tarbert a'r Mystique",
       "short_billing": "Ymdrech John Pierce Jones a Dilwyn Morgan i hwylio o gwmpas Ynysoedd Heledd a gorllewin yr Alban.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1066,25 +1066,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Her yr Hinsawdd",
-      "programme_title": null,
-      "short_billing": "Yr Athro Siwan Davies sy'n gadael ei labordy ym Mhrifysgol Abertawe, lle mae hi'n ymchwilio i newid hinsawdd y gorffennol pell, ac yn teithio i'r Ynys Las i edrych ar y newid hinsawdd presennol. Cyfres 5 rhan.",
-      "thumbnail_url": "her_yr_hinsawdd_05.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae rhaglen olaf y gyfres yn gyfle i'r Athro Siwan Davies grynhoi ei hargraffiadau o'i thaith o'r Ynys Las i'r Maldives gan droi ei sylw at rai o'r problemau a welir yng Nghymru o ran llifogydd ac erydu. Ond yn anad dim, neges y rhaglen olaf yw bod pethau bach a mawr y medrir eu gwneud i arafu'r ffordd mae tymheredd y blaned yn codi. Bydd Siwan yn ymweld â phrosiectau ynni solar ac ynni'r llanw arloesol, ac yn plannu 60 o goed er mwyn talu'r pris amgylcheddol am ei theithiau tramor.  ",
-      "clic_aired": "8 Mawrth 2023",
-      "fav_id": "537089847",
-      "id": "530118017",
-      "series_id": "530117857",
-      "title": "Her yr Hinsawdd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "7",
       "series_title": "Hewlfa Drysor",
       "programme_title": "Brynaman",
@@ -1161,7 +1142,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1693,7 +1674,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Huw Stephens",
       "short_billing": "Cyfres newydd sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y dj Huw Stephens.",
