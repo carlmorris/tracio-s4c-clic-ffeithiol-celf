@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "139",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sam Robinson",
-      "short_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P15_Sam_Robinson_03.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
-      "clic_aired": "25 Gorffennaf 2023",
-      "fav_id": "520950902",
-      "id": "856935960",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-07-25 22:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
@@ -226,6 +207,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-08-16 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "139",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sam Robinson",
+      "short_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P15_Sam_Robinson_03.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
+      "clic_aired": "25 Gorffennaf 2023",
+      "fav_id": "520950902",
+      "id": "856935960",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-07-25 22:00:00",
       "vs": "0"
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Jason Mohammad",
       "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydr rhyddid Iran",
       "short_billing": "Fe wnaeth marwolaeth Mahsa Amini yn Iran ysgogi protestiadau ledled y byd. Yr wythnos hon ar Y Byd ar Bedwar,  un o'r ymgyrchwyr Cymreig, Parisa Fouladi sy'n ceisio darganfod mwy am realiti bywyd yn Iran a sefyllfa'r rhai sydd wedi gorfod ffoi. Mae Parisa yn teithio i gwrdd a'i theulu yn Los Angeles, sy'n gartref i un o gymunedau Persiaidd mwyaf y byd, ac yn clywed galwadau bod angen neud mwy i sicrhau hawliau dynol i bobl Iran. ",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Y Byd ar Bedwar - Cyfres 2023",
       "programme_title": "Y ddadl addysg",
       "short_billing": "Wrth i nifer y plant sy'n dysgu o adref gynyddu'n sylweddol yng Nghymru, mae'r Byd ar Bedwar yn holi faint o ddylanwad mae'r cwricwlwm addysg rhyw newydd yn ei gael ar benderfyniadau rhieni. A gyda phryderon bod canllawiau newydd y Llywodraeth yn cyfyngu ar ryddid rhieni i addysgu eu plant fel maen nhw eisiau, Siôn Jenkins sy'n mynnu atebion gan y Gweinidog Addysg, Jeremy Miles.",
