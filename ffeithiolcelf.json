@@ -1179,25 +1179,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "140",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
-      "clic_aired": "27 Gorffennaf 2023",
-      "fav_id": "525516112",
-      "id": "875031248",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-07-27 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "21",
       "series_title": "Pawb a'i Farn",
@@ -1214,6 +1195,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "140",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar ddiwrnod ola'r Sioe Frenhinol, Meinir Howells fydd yn arwain Pawb a'i Farn arbennig o Lanelwedd. Cyfle i'r gymuned wledig a gwleidyddion a'r undebau drafod sut sefyllfa sydd ar y diwydiant amaeth a'r amgylchedd. Ymysg y pynciau dan sylw - y pryder am TB mewn gwartheg, targedau plannu coed llywodraeth Cymru, a safonau dwr ac afonydd y wlad.",
+      "clic_aired": "27 Gorffennaf 2023",
+      "fav_id": "525516112",
+      "id": "875031248",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-07-27 20:00:00",
       "vs": "0"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": null,
       "programme_title": "Y Sioe 2023: Sut i wylio",
       "short_billing": null,
