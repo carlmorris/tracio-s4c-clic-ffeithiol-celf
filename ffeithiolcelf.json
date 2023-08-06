@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Pwmpen",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Pwmpen.",
@@ -188,25 +188,6 @@
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2023-07-30 16:35:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "138",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sam Robinson",
-      "short_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P15_Sam_Robinson_03.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
-      "clic_aired": "25 Gorffennaf 2023",
-      "fav_id": "520950902",
-      "id": "856935960",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-07-25 22:00:00",
       "vs": "0"
     },
     {
@@ -226,6 +207,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-08-16 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "138",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sam Robinson",
+      "short_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P15_Sam_Robinson_03.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n cwrdd â'r bugail Sam Robinson, un o wir ryfeddodau Bro Ddyfi. Sais ydi Sam yn enedigol, ond sydd wedi setlo ym mwynder Maldwyn ers prin pum mlynedd, ac sydd  bellach yn bugeilio, bragu seidr a barddoni trwy gyfrwng y Gymraeg!",
+      "clic_aired": "25 Gorffennaf 2023",
+      "fav_id": "520950902",
+      "id": "856935960",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-07-25 22:00:00",
       "vs": "0"
     },
     {
