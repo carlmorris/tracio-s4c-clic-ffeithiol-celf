@@ -724,7 +724,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -853,6 +853,25 @@
       "series_id": "871756474",
       "title": "Ffermio - Cyfres 2023",
       "date_broadcast": "2023-07-16 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Ffilmiau Ddoe",
+      "programme_title": "Ffilmiau Ddoe Byr- Myrddin ap Dafydd a Beryl Vaughan",
+      "short_billing": "Myrddin ap Dafydd a'i westai sy'n gwylio ffilmiau o Archif Sgrin a Sain y Llyfrgell Genedlaethol. Yn y rhaglen hon bydd yn canolbwyntio ar fywyd cefn gwlad yng nghwmni Beryl Vaughan. ",
+      "thumbnail_url": "Ffilmiau_Ddoe_2020S4C_P5_Myrddin_ap_Dafydd_001.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myrddin ap Dafydd a'i westai sy'n gwylio ffilmiau o Archif Sgrin a Sain y Llyfrgell Genedlaethol. Yn y rhaglen hon bydd yn canolbwyntio ar fywyd cefn gwlad yng nghwmni Beryl Vaughan. ",
+      "clic_aired": "9 Awst 2023",
+      "fav_id": "810647351",
+      "id": "831702418",
+      "series_id": "831702310",
+      "title": "Ffilmiau Ddoe",
+      "date_broadcast": "2023-08-09 18:20:00",
       "vs": "0"
     },
     {
@@ -1142,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1693,7 +1712,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Huw Stephens",
       "short_billing": "Cyfres newydd sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y dj Huw Stephens.",
