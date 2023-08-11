@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
-      "series_title": "3 Lle",
-      "programme_title": "Ifan Jones Evans",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Ifan_Jones_Evans_00001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dyn ei filltir sgwâr yw'r cyflwynydd teledu a radio, Ifan Jones Evans. Heddiw, mae'n dechrau'r siwrnai ar ei fferm, Rhosyrhiw ym Mhontrhydygroes, Ceredigion cyn symud ymlaen i Glwb Pêl-droed Bontrhydfendigaid. Mae e wedi chwarae i'r Clwb ers iddo fod yn 15 oed. Maes y Sioe Frenhinol a'r Ffair Aeaf yn Llanelwedd yw'r trydydd dewis, lle dechreuodd ei yrfa deledu.",
-      "clic_aired": "30 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "536773718",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": "2023-08-14 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "123",
       "series_title": "3 Lle",
       "programme_title": "Angharad Tomos",
@@ -55,6 +36,25 @@
       "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": "2023-07-19 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "137",
+      "series_title": "3 Lle",
+      "programme_title": "Ifan Jones Evans",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Ifan_Jones_Evans_00001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dyn ei filltir sgwâr yw'r cyflwynydd teledu a radio, Ifan Jones Evans. Heddiw, mae'n dechrau'r siwrnai ar ei fferm, Rhosyrhiw ym Mhontrhydygroes, Ceredigion cyn symud ymlaen i Glwb Pêl-droed Bontrhydfendigaid. Mae e wedi chwarae i'r Clwb ers iddo fod yn 15 oed. Maes y Sioe Frenhinol a'r Ffair Aeaf yn Llanelwedd yw'r trydydd dewis, lle dechreuodd ei yrfa deledu.",
+      "clic_aired": "30 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "536773718",
+      "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": "2023-08-14 12:30:00",
       "vs": "0"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn y rhaglen ddogfen ddiweddar Bois y Rhondda, bydd y gyfres hon yn dilyn anturiaethau nesa'r criw ifanc o Gwm Rhondda wrth iddyn nhw addasu i'r byd newydd sydd ohoni, a wynebu heriau nesa' bywyd.  Mewn cyfres gynnes llawn hiwmor a dagrau, byddwn yn cael cip ar gymhlethdodau'r gymdeithas fodern, a'r brwydrau mae cenhedlaeth iau yn eu hwynebu pan nad oes llawer o gyfleoedd yn yr ardal mae nhw wedi'u magu ynddi.  ",
@@ -420,7 +420,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Sir Gaerfyrddin",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru o Fôr Hafren i Ynys Môn. Pysgota o'r lan yw'r her y tro hwn ar lannau'r afon Llwchwr, ac fe welwn ni Julian yn bachu pysgodyn go arbennig ym Mhorth Tywyn.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Castell y Strade, Llanelli",
       "short_billing": "Gydag Aled Hughes a Sara Huws, cyfle i grwydro coridorau crand Castell y Strade, Llanelli. Sut daeth cyfreithiwr cyffredin o Sir Gâr i etifeddu'r plasdy' Pwy oedd yr artist wariodd ffortiwn yn troi'r ty yn gastell' A beth yw'r cysylltiad â'r Orsedd'",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Babell Lên 2023",
       "programme_title": "Y Babell Lên: Dydd Iau",
       "short_billing": "Holl uchafbwyntiau'r dydd o'r Babell Lên. ",
