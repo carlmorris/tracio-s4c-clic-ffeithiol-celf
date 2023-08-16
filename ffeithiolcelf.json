@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
-      "series_title": "3 Lle",
-      "programme_title": "Angharad Tomos",
-      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
-      "clic_aired": "16 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "432121680",
-      "series_id": "432121655",
-      "title": "3 Lle",
-      "date_broadcast": "2023-07-19 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "133",
       "series_title": "3 Lle",
       "programme_title": "Ifan Jones Evans",
@@ -55,6 +36,25 @@
       "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": "2023-08-14 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "118",
+      "series_title": "3 Lle",
+      "programme_title": "Angharad Tomos",
+      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
+      "clic_aired": "16 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "432121680",
+      "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": "2023-07-19 23:00:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Y Gymanfa Ganu",
       "short_billing": "Awn yn fyw o faes ein prifwyl yn Boduan ar gyfer Cymanfa Ganu Eisteddfod Llyn ac Eifionydd 2023. Yn arwain y canu mawl bydd yr arweinyddes leol Pat Jones i gyfeiliant ensemble o delynau â'r cerddor Ilid Anne Jones wrth yr organ. Cawn ddatgelu pwy yw cyfansoddwr buddugol Cystadleuaeth yr emyn-dôn eleni, a derbyn cyfarchiad gan arweinydd Cymry a'r Byd, Esyllt Nest Roberts, sydd wedi ymsefydlu yn y Wladfa. Fe fydd cyfraniadau gan Gôr yr Eisteddfod yn rhoi sylw i'r gantores fyd-enwog Leila Megane. ",
@@ -838,7 +838,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Ffermio - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Y tro hwn: Alun fydd yn holi sut mae ffermwyr yn ymdopi gyda cherddwyr ar lwybrau cyhoeddus ar eu ffermydd, Meinir fydd yn dysgu mwy am gyfleoedd newydd i ffermwyr Cymru, byddwn yn ymweld a Melanie sydd yng nghanol yr wyna, a chip ar ddefnyddio slyri i dyfu Lliniad y D¿r - neu Duckweed, fel ffynhonnell amgen o brotein i wartheg.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ffermio - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Y tro hwn: clywn y diweddaraf am gynllun ffermio cynaliadwy Llywodraeth Cymru; ac am un cwmni sy'n dathlu carreg filltir go arbennig eleni; a gyda'r tymor cynhaeafau yn ei anterth bydd Daloni ar daith yng ngogledd Cymru yn ymweld a ffermydd sy'n gwneud y defnydd gorau o borfa.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
