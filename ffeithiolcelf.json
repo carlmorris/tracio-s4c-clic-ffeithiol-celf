@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
-      "series_title": "3 Lle",
-      "programme_title": "Angharad Tomos",
-      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
-      "clic_aired": "16 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "432121680",
-      "series_id": "432121655",
-      "title": "3 Lle",
-      "date_broadcast": "2023-07-19 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "132",
       "series_title": "3 Lle",
       "programme_title": "Ifan Jones Evans",
@@ -55,6 +36,25 @@
       "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": "2023-08-14 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "118",
+      "series_title": "3 Lle",
+      "programme_title": "Angharad Tomos",
+      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
+      "clic_aired": "16 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "432121680",
+      "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": "2023-07-19 23:00:00",
       "vs": "0"
     },
     {
@@ -1293,8 +1293,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "11",
+      "count": "9",
+      "days_to_expire": "10",
       "series_title": "Prynhawn Da - Cyfres 2022",
       "programme_title": null,
       "short_billing": "Bydd y Clwb Clecs yn trafod pynciau llosg yr wythnos, a cawn syniad am beth i wylio yn y sinema. ",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "15",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
       "short_billing": "PC Steve Morris fydd yn rhoi tips ar sut mae diogelu'r ty. ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
