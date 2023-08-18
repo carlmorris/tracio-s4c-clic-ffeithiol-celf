@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn y rhaglen ddogfen ddiweddar Bois y Rhondda, bydd y gyfres hon yn dilyn anturiaethau nesa'r criw ifanc o Gwm Rhondda wrth iddyn nhw addasu i'r byd newydd sydd ohoni, a wynebu heriau nesa' bywyd.  Mewn cyfres gynnes llawn hiwmor a dagrau, byddwn yn cael cip ar gymhlethdodau'r gymdeithas fodern, a'r brwydrau mae cenhedlaeth iau yn eu hwynebu pan nad oes llawer o gyfleoedd yn yr ardal mae nhw wedi'u magu ynddi.  ",
@@ -268,25 +268,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "46",
-      "series_title": "Codi Pac",
-      "programme_title": "Machynlleth",
-      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
-      "thumbnail_url": "Codi_Pac2017_P6_Machynlleth_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ym Machynlleth bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
-      "clic_aired": "7 Mai 2023",
-      "fav_id": "793406854",
-      "id": "793302360",
-      "series_id": "793302230",
-      "title": "Codi Pac",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "144",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
@@ -302,6 +283,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": "2023-08-18 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "46",
+      "series_title": "Codi Pac",
+      "programme_title": "Machynlleth",
+      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
+      "thumbnail_url": "Codi_Pac2017_P6_Machynlleth_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ym Machynlleth bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
+      "clic_aired": "7 Mai 2023",
+      "fav_id": "793406854",
+      "id": "793302360",
+      "series_id": "793302230",
+      "title": "Codi Pac",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -1255,25 +1255,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "141",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
-      "clic_aired": "10 Awst 2023",
-      "fav_id": "525516112",
-      "id": "875031274",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-08-10 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "8",
       "series_title": "Pawb a'i Farn",
@@ -1290,6 +1271,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "141",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
+      "clic_aired": "10 Awst 2023",
+      "fav_id": "525516112",
+      "id": "875031274",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-08-10 21:30:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Llawhaden a Dinbych y Pysgod",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru o Fôr Hafren i Ynys Môn. Y tro yma mae'r ddau yn pysgota 'carp' ar lyn yn Llawhaden ger Arberth, cyn mentro allan ar y môr yn Ninbych y Pysgod a gobeithio dal Draenog y Môr.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Llinell Las",
       "programme_title": "Gall Bywyd Newid Mewn Eiliad",
       "short_billing": "Cyfres sydd yn dilyn hynt a helynt Uned Plismona'r Ffyrdd, Heddlu Gogledd Cymru. Cipolwg y tu ol i'r llen ar waith heriol a pheryglus y tîm sy'n cadw ein ffyrdd a'n cymunedau ni'n saff. Pobl gyffredin sy'n gwneud swydd ryfeddol!",
