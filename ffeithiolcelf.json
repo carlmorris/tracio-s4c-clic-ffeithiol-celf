@@ -59,7 +59,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Am Dro",
       "programme_title": "Am Dro!",
       "short_billing": "Efallai mai un o lefydd hyfrytaf ein gwlad yw Penllyn - cartref yr Eisteddfod Genedlaethol eleni. Ac fel cyflwyniad I'r lleoliad, beth gwell na gwahodd 4 o gymeriadau'r ardal i gystadlu am fil o bunnau wrth dangos eu milltir sgwar fach nhw o Benllyn ar ei orau. Paratoi picnic blasus, a rhannu ffeithiau diddorol. Ymunwch a'r criw am wibdaith i Fynytho, Llithfaen, Llanystumdwy ac Ynys Enlli. Pwy o blith Mici Plwm, Nesdi Jones, Netta Pritchard ac Osian Gwyn Elis fydd yn cipio coron Am Dro Steddfod'",
@@ -154,7 +154,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
@@ -268,25 +268,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "46",
-      "series_title": "Codi Pac",
-      "programme_title": "Machynlleth",
-      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
-      "thumbnail_url": "Codi_Pac2017_P6_Machynlleth_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ym Machynlleth bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
-      "clic_aired": "7 Mai 2023",
-      "fav_id": "793406854",
-      "id": "793302360",
-      "series_id": "793302230",
-      "title": "Codi Pac",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "144",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
@@ -302,6 +283,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": "2023-08-18 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "46",
+      "series_title": "Codi Pac",
+      "programme_title": "Machynlleth",
+      "short_billing": "Geraint Hardy sy'n mynd â ni i lefydd gwahanol yng Nghymru i ddysgu am leoliadau o gwmpas y wlad.",
+      "thumbnail_url": "Codi_Pac2017_P6_Machynlleth_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ym Machynlleth bydd Geraint Hardy yn edrych ar weithgareddau difyr, llefydd i aros, llefydd i fwyta a llefydd i ymweld â nhw.  Byddwn hefyd yn cwrdd â thrigolion lleol i glywed mwy am hanes yr ardal.    ",
+      "clic_aired": "7 Mai 2023",
+      "fav_id": "793406854",
+      "id": "793302360",
+      "series_id": "793302230",
+      "title": "Codi Pac",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Nant Conwy",
       "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "17",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Meinir sy'n gwneud y jobsys bach ond pwysig ym Mhant y Wennol, a Rhys sydd ar ei randir yng Nghae Pawb Porthmadog yn coginio llysiau tymhorol a 'chydig o ffwng gobeithio. Mae Sioned ac Iwan yn crwydro'r wythnos hon; Sioned yn Sir Amwythig mewn gardd sy'n cynhyrchu conffeti ac Iwan yng Ngerddi Botaneg Treborth.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Iaith ar Daith",
       "programme_title": "Jayde Adams a Geraint Edwards",
       "short_billing": "Yn y rhaglen olaf o'r gyfres Iaith ar Daith y comedïwyr a'r actorion Jayde Adams a Geraint Rhys Edwards sy'n teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Jayde i  ddysgu Cymraeg. Fe fydd Jayde yn gwynebu cyfres o sialensau ieithyddol ac fe fydd Geraint wrth ei hochor ar hyd y ffordd. Ac fe fydd digon o gaws i gyd-fynd gydag ambell jôc gawslyd falle'\nOnd- a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "142",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
-      "clic_aired": "10 Awst 2023",
-      "fav_id": "525516112",
-      "id": "875031274",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2023-08-10 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "9",
       "series_title": "Pawb a'i Farn",
@@ -1271,6 +1252,25 @@
       "series_id": "853449914",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "142",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd y rhifyn yma'n dod o Faes yr Eisteddfod Genedlaethol ym Moduan. Angharad Mair sy'n cyflwyno ac ymysg y cyfranwyr gwleidyddol fydd Jeremy Miles, Gweinidog y Gymraeg ac Addysg yn Llywodraeth Cymru a Sioned Williams, AS Plaid Cymru. Rhai o bobl Llyn ac Eifionydd fydd yn codi'r pynciau trafod - am ddyfodol cymunedau, am yr her o greu swyddi a gwasanaethau trafnidiaeth effeithiol yng nghefn gwlad, a phwysigrwydd gwarchod yr iaith ymhob ran o Gymru.",
+      "clic_aired": "10 Awst 2023",
+      "fav_id": "525516112",
+      "id": "875031274",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2023-08-10 21:30:00",
       "vs": "0"
     },
     {
