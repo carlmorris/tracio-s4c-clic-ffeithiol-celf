@@ -78,7 +78,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Am Dro",
       "programme_title": null,
       "short_billing": "Yn y rhaglen yma bydd Jord yn tywys y criw drwy goedwig Fforest Fawr tuag at Castell Coch ar gyrion Caerdydd. Yna draw i Sir Benfro a dringo mynydd Carningli yn Nhrefdraeth gyda Jane cyn ei throi hi am y gogledd i Dinas Dinlle dan arweiniad Al ac yna diweddu gyda taith heriol Harri yn Ninas Mawddy. \r\nPedwar cystadleuydd brwd a phedair taith gerdded gofiadwy ond pwy fydd yn mynd a'r wobr o fil o bunnoedd' Dewch i ni fynd Am Dro.",
@@ -172,27 +172,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P5_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
-      "clic_aired": "23 Awst 2023",
-      "fav_id": "817962669",
-      "id": "817962863",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-08-27 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
@@ -207,6 +188,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-08-19 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "146",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P5_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond - dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Ifan Jones Evans, Eurig Salisbury a Mari Gwenllian.",
+      "clic_aired": "23 Awst 2023",
+      "fav_id": "817962669",
+      "id": "817962863",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-08-27 12:00:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Nant Conwy",
       "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Mae na brosiect ar y gweill gan Meinir ym Mhant y Wennol, ac mae Iwan yn taflu goleuni ar ystyr enwau Lladin planhigion. Mae Rhys ar ei randir yng Nghae Pawb Porthmadog yn brysur yn cynhaeafu tomatos, a Carol yn crwydro fferm blodau haul ym Mhenrhyn Gwyr.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Iaith ar Daith",
       "programme_title": "Jayde Adams a Geraint Edwards",
       "short_billing": "Yn y rhaglen olaf o'r gyfres Iaith ar Daith y comedïwyr a'r actorion Jayde Adams a Geraint Rhys Edwards sy'n teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Jayde i  ddysgu Cymraeg. Fe fydd Jayde yn gwynebu cyfres o sialensau ieithyddol ac fe fydd Geraint wrth ei hochor ar hyd y ffordd. Ac fe fydd digon o gaws i gyd-fynd gydag ambell jôc gawslyd falle'\nOnd- a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Gwenno Saunders",
       "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
