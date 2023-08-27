@@ -116,7 +116,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Llanbedrog- Castell Cricieth",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Ffilmiau Ddoe Byr- Huw Stephens a Huw Aaron",
       "short_billing": "\r\nShelley Rees a Sue Roderick yn mwynhau ffilmiau o gasgliad yr  Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
-      "clic_aired": "30 Mawrth 2023",
-      "fav_id": "525516112",
-      "id": "853450107",
-      "series_id": "853449914",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "133",
       "series_title": "Pawb a'i Farn",
@@ -1347,6 +1328,25 @@
       "series_id": "875031185",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2023-08-10 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_P8_1.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, o Theatr y Stiwt, Rhosllannerchrugog, cawn drafod sefyllfa Bwrdd Iechyd Betsi Cadwaladr a'r mater o ganslo projectau ffyrdd yng Nghymru a pha ddyfodol i gymunedau fel Rhosllanerchrugog. Ymunwch a'r bobl leol a'r gwleidyddion - Nia Griffith, Llafur Cymru; Rhun ap Iorwerth, Plaid Cymru; a'r Democrat Rhyddfrydol, Jane Dodds - i weld a oes 'na atebion i'r cwestiynau llosg.",
+      "clic_aired": "30 Mawrth 2023",
+      "fav_id": "525516112",
+      "id": "853450107",
+      "series_id": "853449914",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
