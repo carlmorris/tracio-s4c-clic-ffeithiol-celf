@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Mamwlad",
       "programme_title": "Grace Williams",
       "short_billing": "Ffion Hague sy'n adrodd hanes menywod dylanwadol o Gymru dros yr oesoedd.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-08-24 20:25:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "77",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1423,6 +1404,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-08-13 16:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "143",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Y Sioe Fwyd",
       "programme_title": "Huw Stephens",
       "short_billing": "Cyfres newydd sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda'r cyflwynydd Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith yn gyfrifol am greu a pharatoi ryseitiau llawn cynhwysion lleol. Yn ymuno â nhw yn y rhaglen hon, mi fydd y dj Huw Stephens.",
