@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "120",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Newyddion a Tywydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
-      "thumbnail_url": "Bwrdd_i_Dri_2023S4C_P10_04.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
-      "clic_aired": "2 Awst 2023",
-      "fav_id": "817962669",
-      "id": "842327254",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-08-19 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "148",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-09-03 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "120",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Newyddion a Tywydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
+      "thumbnail_url": "Bwrdd_i_Dri_2023S4C_P10_04.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
+      "clic_aired": "2 Awst 2023",
+      "fav_id": "817962669",
+      "id": "842327254",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-08-19 11:00:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Llynnoedd Teifi a Bae Ceredigion",
       "short_billing": "Cyfres yn dilyn yr actorion Julian Lewis Jones a Ryland Teifi wrth iddyn nhw ein tywys ni ar daith bysgota ar hyd arfordir Cymru o Fôr Hafren i Ynys Môn. Y tro yma mae Ryland yn dychwelyd i fro ei febyd ger yr afon Teifi, cyn teithio i fae Ceredigion ac i Gei Newydd am wledd o bysgota.",
