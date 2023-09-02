@@ -192,7 +192,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Pwmpen",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Pwmpen.",
@@ -1556,6 +1556,25 @@
       "series_id": "803920410",
       "title": "Waliau'n Siarad",
       "date_broadcast": "2023-08-20 23:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Wrecsam...Clwb Ni!",
+      "programme_title": "Pennod 3",
+      "short_billing": "Mae'r bragdy lleol yn paratoi dathliad ger y dre, ond a fydd cefnogwyr selog Wrecsam yn dathlu neu'n crio mewn i'w cwrw wrth i'r tymor cyntaf cyffrous - ers i'r clwb gael ei brynu'n annisgwyl gan ddau o sêr Hollywood - ddirwyn i ben. ",
+      "thumbnail_url": "Wrecsam_Clwb_Ni_2022S4C_C1P3_002-Enhanced.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r bragdy lleol yn paratoi dathliad ger y dre, ond a fydd cefnogwyr selog Wrecsam yn dathlu neu'n crio mewn i'w cwrw wrth i'r tymor cyntaf cyffrous - ers i'r clwb gael ei brynu'n annisgwyl gan ddau o sêr Hollywood - ddirwyn i ben. ",
+      "clic_aired": "2 Medi 2023",
+      "fav_id": "843439481",
+      "id": "854275007",
+      "series_id": "843439481",
+      "title": "Wrecsam...Clwb Ni!",
+      "date_broadcast": "2023-09-02 15:30:00",
       "vs": "0"
     },
     {
