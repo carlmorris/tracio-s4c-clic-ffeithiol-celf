@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Cynefin",
       "programme_title": "Enlli- Brenin Enlli",
       "short_billing": "Sion Tomos Owen yn troedio Ynys Enlli ym mhen draw Pen Llyn, yn adrodd hanes lliwgar Brenin Enlli.  Coronwyd y brenin cyntaf yn yr 1820au a bu sawl cymeriad lleol yn gwisgo'r goron ers hynny.",
@@ -1065,22 +1065,22 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "31",
+      "count": "23",
+      "days_to_expire": "34",
       "series_title": "Heno - Cyfres 2023",
       "programme_title": null,
-      "short_billing": "Cyflwynydd newydd Newyddion Ni, Siôn Thomas, fydd yn y stiwdio a byddwn yn fyw o Rali Bae Ceredigion.",
+      "short_billing": "Mi fydd Elin wedi bod yn sgwrsio â rhai o sêr Tour of Britain, a Criw Clwb Rygbi Caernarfon fydd ar y soffa i drafod eu cyfres newydd 'Rycia o 'ma'. ",
       "thumbnail_url": "Heno_2016S4C_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyflwynydd newydd Newyddion Ni, Siôn Thomas, fydd yn y stiwdio a byddwn yn fyw o Rali Bae Ceredigion.",
-      "clic_aired": "1 Medi 2023",
+      "full_billing": "Mi fydd Elin wedi bod yn sgwrsio â rhai o sêr Tour of Britain, a Criw Clwb Rygbi Caernarfon fydd ar y soffa i drafod eu cyfres newydd 'Rycia o 'ma'. ",
+      "clic_aired": "4 Medi 2023",
       "fav_id": "520950912",
-      "id": "871480597",
+      "id": "871480618",
       "series_id": "871478307",
       "title": "Heno - Cyfres 2023",
-      "date_broadcast": "2023-09-04 12:30:00",
+      "date_broadcast": "2023-09-05 12:30:00",
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "programme_title": null,
       "short_billing": "Mewn cyfres newydd sbon daw mawrion a chefnogwyr rygbi Cymru ynghyd i adrodd hanes tanllyd y gêm o 1875 hyd heddi gyda Syr Gareth Edwards, Ieuan Evans, Shane Williams, Beti George, Sioned Harries a Huw Llywelyn Davies yn rhannu straeon personol am ddylanwad y gamp ar eu bywydau.  Bydd sylw i oes aur cyntaf rygbi Cymru gyda buddugoliaeth yn erbyn y Crysau Duon yn 1905 a'r dorf yn canu Mae Hen Wlad fy Nhadau cyn y gêm am y tro cyntaf erioed.  ",
@@ -1347,25 +1347,6 @@
       "series_id": "808663884",
       "title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "date_broadcast": "2023-08-27 22:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "139",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
@@ -1385,6 +1366,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-08-13 16:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "139",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": null,
       "programme_title": "Yr Arglwydd Morris o Aberafan ",
       "short_billing": "I goffau ei farwolaeth yn ddiweddar, dyma ail-ddangosiad o'r portread o un o wleidyddion a chyfreithwyr pwysicaf Cymru dros yr hanner canrif ddiwethaf, ac un o benseiri datganoli Cymru; Yr Arglwydd Morris o Aberafan.",
