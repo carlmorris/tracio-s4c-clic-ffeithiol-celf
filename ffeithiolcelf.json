@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "112",
-      "series_title": "3 Lle",
-      "programme_title": "Ifan Jones Evans",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Ifan_Jones_Evans_00001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dyn ei filltir sgwâr yw'r cyflwynydd teledu a radio, Ifan Jones Evans. Heddiw, mae'n dechrau'r siwrnai ar ei fferm, Rhosyrhiw ym Mhontrhydygroes, Ceredigion cyn symud ymlaen i Glwb Pêl-droed Bontrhydfendigaid. Mae e wedi chwarae i'r Clwb ers iddo fod yn 15 oed. Maes y Sioe Frenhinol a'r Ffair Aeaf yn Llanelwedd yw'r trydydd dewis, lle dechreuodd ei yrfa deledu.",
-      "clic_aired": "30 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "536773718",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": "2023-08-14 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "98",
       "series_title": "3 Lle",
       "programme_title": "Angharad Tomos",
@@ -55,6 +36,25 @@
       "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "112",
+      "series_title": "3 Lle",
+      "programme_title": "Ifan Jones Evans",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Ifan_Jones_Evans_00001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dyn ei filltir sgwâr yw'r cyflwynydd teledu a radio, Ifan Jones Evans. Heddiw, mae'n dechrau'r siwrnai ar ei fferm, Rhosyrhiw ym Mhontrhydygroes, Ceredigion cyn symud ymlaen i Glwb Pêl-droed Bontrhydfendigaid. Mae e wedi chwarae i'r Clwb ers iddo fod yn 15 oed. Maes y Sioe Frenhinol a'r Ffair Aeaf yn Llanelwedd yw'r trydydd dewis, lle dechreuodd ei yrfa deledu.",
+      "clic_aired": "30 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "536773718",
+      "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": "2023-08-14 12:30:00",
       "vs": "0"
     },
     {
@@ -1274,8 +1274,8 @@
       "vs": "0"
     },
     {
-      "count": "19",
-      "days_to_expire": "34",
+      "count": "18",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Dr Owain Williams, enillydd coron Eisteddfod yr Urdd, fydd yn y stiwdio gyda chwpwl o dips meddygol. ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
