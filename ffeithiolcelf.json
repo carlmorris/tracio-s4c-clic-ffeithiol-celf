@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "149",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Dyffryn Nantlle",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrindi",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P2_Dyffryn_Nantlle_14.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrindi",
-      "clic_aired": "7 Medi 2023",
-      "fav_id": "817962669",
-      "id": "842327014",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-09-07 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "141",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-09-03 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "149",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Dyffryn Nantlle",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrindi",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P2_Dyffryn_Nantlle_14.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrindi",
+      "clic_aired": "7 Medi 2023",
+      "fav_id": "817962669",
+      "id": "842327014",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-09-07 12:05:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "Cymry'r Titanic",
       "short_billing": "Lowri Morgan sy'n mynd ar drywydd y Cymry a fu ynghlwm â llong y Titanic. Mae Lowri yn un o gant o bobl yn unig sydd wedi plymio i fan orffwys un o longau mwyaf adnabyddus y byd ac fe fydd hi hefyd yn hel atgofion am ei thaith at berfeddion yr Iwerydd.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "730",
+      "days_to_expire": "729",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
