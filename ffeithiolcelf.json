@@ -305,25 +305,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "122",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "13 Awst 2023",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2023-08-18 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "24",
       "series_title": "Codi Pac",
@@ -340,6 +321,25 @@
       "series_id": "793302230",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "122",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "13 Awst 2023",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2023-08-18 18:00:00",
       "vs": "0"
     },
     {
@@ -685,6 +685,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "87",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
+      "clic_aired": "8 Gorffennaf 2023",
+      "fav_id": "802081093",
+      "id": "832477705",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "59",
       "series_title": "Dan Do",
@@ -720,25 +739,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2023-09-08 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "87",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Angharad a Huw, Llanbedr Pont Steffan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy teras Angharad a Huw yng nghanol Llanbedr Pont Steffan.",
-      "clic_aired": "8 Gorffennaf 2023",
-      "fav_id": "802081093",
-      "id": "832477705",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Symud i Gymru",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Mae'r cyn-ddeintydd Matt York wedi bachu swydd yng Ngogledd Cymru gyda Iechyd Cyhoeddus Cymru. Mae hyn yn golygu y bydd e, a'i bartner Robbie sy'n fyddar, yn chwilio am gartref newydd. Ei tywysydd lleol fydd Janine Hall, sy'n wreiddiol o Loegr ac sydd bellach wedi dysgu Cymraeg ar ôl byw ym Mlaenau Ffestiniog ers chwe mlynedd. Y pynciau o dan sylw fydd diffyg tai fforddiadwy, airbnbs, amrywiaeth, anabledd a pha mor hawdd yw hi i ddod yn rhan o gymdeithas glos.",
