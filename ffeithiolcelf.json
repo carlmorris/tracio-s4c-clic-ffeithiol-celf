@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Y Gymanfa Ganu",
       "short_billing": "Awn yn fyw o faes ein prifwyl yn Boduan ar gyfer Cymanfa Ganu Eisteddfod Llyn ac Eifionydd 2023. Yn arwain y canu mawl bydd yr arweinyddes leol Pat Jones i gyfeiliant ensemble o delynau â'r cerddor Ilid Anne Jones wrth yr organ. Cawn ddatgelu pwy yw cyfansoddwr buddugol Cystadleuaeth yr emyn-dôn eleni, a derbyn cyfarchiad gan arweinydd Cymry a'r Byd, Esyllt Nest Roberts, sydd wedi ymsefydlu yn y Wladfa. Fe fydd cyfraniadau gan Gôr yr Eisteddfod yn rhoi sylw i'r gantores fyd-enwog Leila Megane. ",
@@ -685,6 +685,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
+      "thumbnail_url": "Dan_Do_2023S4C_P1-496.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
+      "clic_aired": "6 Medi 2023",
+      "fav_id": "802081093",
+      "id": "872656857",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2023-09-25 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "56",
       "series_title": "Dan Do",
@@ -739,25 +758,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2023-09-08 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
-      "thumbnail_url": "Dan_Do_2023S4C_P1-496.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
-      "clic_aired": "6 Medi 2023",
-      "fav_id": "802081093",
-      "id": "872656857",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2023-09-25 18:00:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "16",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Ffermio - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Y tro hwn: fe fydd sgiliau cneifio Meinir yn cael eu profi i'r eithaf mewn noson Cneifio Cyflym; Alun fydd yn ymweld â ffarmwr sy'n pryderu am ddiwedd cynllun Glastir; a Melanie fydd yn ymweld â Phencampwr y ceffylau Sioe Frenhniol Cymru.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": null,
       "programme_title": "Mas ar y Maes",
       "short_billing": "Eleni eto ar faes ein Prifwyl, bu'r Eisteddfod mewn partneriaeth â'r gymuned LHDT a Stonewall Cymru yn paratoi amserlen gynhwysfawr o ddigwyddiadau ar hyd yr wythnos - dyma gipolwg.",
@@ -1445,25 +1445,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "130",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-08-24 20:25:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "65",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1480,6 +1461,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-08-13 16:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "130",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Y Byd yn ei Le - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, Catrin Haf Jones a'i phanel o westeion sy'n ymateb i'r anhrefn yn Nhrelai yn dilyn marwolaeth dau fachgen ifanc yno nos Lun. Fe glywn y diweddaraf am heriau Bwrdd Iechyd Betsi Cadwaladr, a Gwern Gwynfil o Yes Cymru fydd yn cael ei holi wedi'r ymgyrchu diweddar. ",
