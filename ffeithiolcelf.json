@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "24 Awr",
       "programme_title": "Gwyneth Longworth",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, byddwn yn cwrdd â Gwyneth Longworth sydd yn gobeithio cael ei hyder yn ôl yn dilyn cyfres o ddigwyddiadau anodd a heriol yn ei bywyd.",
@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "136",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
-      "clic_aired": "30 Awst 2023",
-      "fav_id": "817962669",
-      "id": "826360420",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2023-09-03 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "143",
       "series_title": "Bwrdd i Dri",
@@ -188,6 +169,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2023-09-07 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "136",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P6_Caerdydd_010.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri'. Fe fydd pob un yn gyfrifol am ddewis un cwrs ond fe fydd y tri yn coginio pob un o'r cyrsiau! - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Connagh Howard, Mali Ann Rees a Mei Gwynedd.\n\n.",
+      "clic_aired": "30 Awst 2023",
+      "fav_id": "817962669",
+      "id": "826360420",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2023-09-03 12:00:00",
       "vs": "0"
     },
     {
@@ -666,6 +666,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
+      "thumbnail_url": "Dan_Do_2023S4C_P1-496.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
+      "clic_aired": "6 Medi 2023",
+      "fav_id": "802081093",
+      "id": "872656857",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2023-09-25 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "55",
       "series_title": "Dan Do",
@@ -720,25 +739,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2023-09-08 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
-      "thumbnail_url": "Dan_Do_2023S4C_P1-496.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. \nYn y rhaglen hon byddwn ni'n ymweld a thy sydd wedi adnewyddu o gragen hen feudy ger Dolgellau, adeilad newydd sbon yn Llangoedmor, Aberteifi a chartref sy'n gymaint mwy na rhywle i fyw yn unig.   \n\n ",
-      "clic_aired": "6 Medi 2023",
-      "fav_id": "802081093",
-      "id": "872656857",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2023-09-25 18:00:00",
       "vs": "0"
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Glannau Cymru o'r Awyr",
       "programme_title": "Pont Britannia i Talacre",
       "short_billing": "Glannau Cymru o'r Awyr - y tro hwn o Bont Britannia i Dalacre.",
@@ -979,10 +979,10 @@
       "duration": "26",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Glannau Cymru o'r Awyr - y tro hwn o Bont Britannia i Dalacre.",
+      "full_billing": "Glannau Cymru o'r Awyr - y tro hwn o Ynys Enlli i Gaernarfon.",
       "clic_aired": "19 Mehefin 2023",
       "fav_id": "834148906",
-      "id": "834150305",
+      "id": "834150280",
       "series_id": "834149979",
       "title": "Glannau Cymru o'r Awyr",
       "date_broadcast": null,
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Yn y gyfres newydd hon, byddwn ni'n mynd ar wyliau byr yng Nghymru. Dau griw ar ddwy gyllideb wahanol, ond sut hwyl gawn nhw arni' Biwmares ar Ynys Môn yw'r lleoliad y tro hwn, tref lan môr lle mae dewis eang i siwtio pob poced.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Hydref Gwyllt Iolo",
       "programme_title": "Tir Gwlyb",
       "short_billing": "Yn y rhan olaf o'i daith o fywyd gwyllt gorau'r hydref, mae Iolo Williams yn crwydro afonydd, coedlannau collddail a thir gwlyb yng Ngwm Rheidol, Cors Caron a  Llynnoedd Cosmeston. Hefyd un o olygfeydd gorau'r hydref.",
@@ -1464,25 +1464,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "130",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-08-24 20:25:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "64",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1499,6 +1480,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-08-13 16:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "130",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Yn y Ffram",
       "programme_title": null,
       "short_billing": "Yn rhaglen olaf y gyfres, thema'r wythnos fydd 'Cryfder a Nerth'. Wrth i'r tri ffotograffydd sydd ar ôl wynebu heriau newydd ac ambell sypreis ar hyd y ffordd, cryfder pwy fydd yn disgleirio, a phwy fydd yn cipio teitl enillydd 'Yn y Ffrâm 2022''",
