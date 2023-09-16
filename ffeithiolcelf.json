@@ -192,7 +192,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
@@ -229,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "137",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Bois Blaennant y Mab",
-      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "clic_aired": "3 Medi 2023",
-      "fav_id": "520950902",
-      "id": "856935983",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2023-09-05 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "103",
       "series_title": "Cefn Gwlad",
@@ -264,6 +245,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-08-16 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "137",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Bois Blaennant y Mab",
+      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "clic_aired": "3 Medi 2023",
+      "fav_id": "520950902",
+      "id": "856935983",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2023-09-05 15:05:00",
       "vs": "0"
     },
     {
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "115",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "13 Awst 2023",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2023-08-18 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "17",
       "series_title": "Codi Pac",
@@ -378,6 +359,25 @@
       "series_id": "793302230",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "115",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "13 Awst 2023",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2023-08-18 18:00:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn rhaglen ola'r gyfres, bydd y ddau'n cael profiad 'ysbrydol' ym Machynys; taith wyllt draw i Ynys Echni, ac ymweliad ag ynys mwya' poblogaidd Cymru ¿ Ynys y Barri! ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n dilyn dynion yn eu faniau. Helpu Christine i fudo i fynglo newydd ar Ynys Môn mae Shaun tra fod Lee yn gwagio ei garej gyntaf wedi i'r perchennog farw. Defnyddio ei fan i gludo darnau o hanes pêl-droed a hen offer fferm mae Rhys o'r Bala. ",
