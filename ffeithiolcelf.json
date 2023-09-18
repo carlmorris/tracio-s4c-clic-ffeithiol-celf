@@ -704,25 +704,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "140",
-      "series_title": "Dan Do",
-      "programme_title": "Ty David ac Anthony- Talog",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "clic_aired": "8 Medi 2023",
-      "fav_id": "802081093",
-      "id": "832478843",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2023-09-08 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "50",
       "series_title": "Dan Do",
@@ -739,6 +720,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "140",
+      "series_title": "Dan Do",
+      "programme_title": "Ty David ac Anthony- Talog",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "clic_aired": "8 Medi 2023",
+      "fav_id": "802081093",
+      "id": "832478843",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2023-09-08 18:00:00",
       "vs": "0"
     },
     {
@@ -1369,8 +1369,8 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "32",
+      "count": "23",
+      "days_to_expire": "31",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Elinor Snowshill fydd yn y stiwdio i drafod Cwpan Rygbi'r Byd a byddwn hefyd yn trafod y gyfraith newydd am yrru 20mya. ",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
