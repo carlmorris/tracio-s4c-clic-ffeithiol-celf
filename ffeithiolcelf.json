@@ -325,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Cerys Matthews a'r Goeden Faled",
       "programme_title": null,
       "short_billing": "Cerys Matthews sy'n mynd ar drywydd hanes deuddeg o'n caneuon gwerin mwyaf adnabyddus mewn cyfres chwe rhan.",
@@ -704,25 +704,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "144",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.   \r\nYn y rhaglen hon byddwn ni'n ymweld a ffermdy hynafol ar Ynys Môn sy'n dyddio nôl i'r 16eg ganrif, adeilad Fictorianaidd llawn cymeriad a hanes teuluol yng Nghaernarfon a th&#375; sydd wedi cael estyniad fodern yn ardal Cyncoed.  ",
-      "thumbnail_url": "Dan_Do_2023S4C_P3-571.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.   \r\nYn y rhaglen hon byddwn ni'n ymweld a ffermdy hynafol ar Ynys Môn sy'n dyddio nôl i'r 16eg ganrif, adeilad Fictorianaidd llawn cymeriad a hanes teuluol yng Nghaernarfon a th&#375; sydd wedi cael estyniad fodern yn ardal Cyncoed.  ",
-      "clic_aired": "20 Medi 2023",
-      "fav_id": "802081093",
-      "id": "872656913",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2023-10-09 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "42",
       "series_title": "Dan Do",
@@ -739,6 +720,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "144",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.   \r\nYn y rhaglen hon byddwn ni'n ymweld a ffermdy hynafol ar Ynys Môn sy'n dyddio nôl i'r 16eg ganrif, adeilad Fictorianaidd llawn cymeriad a hanes teuluol yng Nghaernarfon a th&#375; sydd wedi cael estyniad fodern yn ardal Cyncoed.  ",
+      "thumbnail_url": "Dan_Do_2023S4C_P3-571.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.   \r\nYn y rhaglen hon byddwn ni'n ymweld a ffermdy hynafol ar Ynys Môn sy'n dyddio nôl i'r 16eg ganrif, adeilad Fictorianaidd llawn cymeriad a hanes teuluol yng Nghaernarfon a th&#375; sydd wedi cael estyniad fodern yn ardal Cyncoed.  ",
+      "clic_aired": "20 Medi 2023",
+      "fav_id": "802081093",
+      "id": "872656913",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2023-10-09 18:00:00",
       "vs": "0"
     },
     {
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "117",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2023-08-24 20:25:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "51",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1461,6 +1442,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "117",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2023-08-24 20:25:00",
       "vs": "0"
     },
     {
