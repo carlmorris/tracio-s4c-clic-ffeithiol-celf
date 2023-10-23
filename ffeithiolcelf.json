@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "51",
+      "series_title": "3 Lle",
+      "programme_title": "Angharad Tomos",
+      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
+      "clic_aired": "16 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "432121680",
+      "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "146",
       "series_title": "3 Lle",
@@ -34,25 +53,6 @@
       "fav_id": "520950896",
       "id": "531740862",
       "series_id": "531740855",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "51",
-      "series_title": "3 Lle",
-      "programme_title": "Angharad Tomos",
-      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
-      "clic_aired": "16 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "432121680",
-      "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -305,25 +305,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "100",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Bois Blaennant y Mab",
-      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "clic_aired": "3 Medi 2023",
-      "fav_id": "520950902",
-      "id": "856935983",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "143",
       "series_title": "Cefn Gwlad",
@@ -340,6 +321,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-10-22 15:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "100",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Bois Blaennant y Mab",
+      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "clic_aired": "3 Medi 2023",
+      "fav_id": "520950902",
+      "id": "856935983",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": null,
       "programme_title": "Cymru, Alabama a'r Urdd",
       "short_billing": "Yn dilyn ffrwydriad hiliol gan y KKK mewn eglwys yn Birmingham, Alabama yn 1963 - lle lladdwyd pedwar plentyn - fe ddyluniodd yr artist gwydr o Gymru, John Petts, ffenestr yn portreadu Iesu fel dyn du. Gosodwyd y ffenestr yn yr eglwys yn 1964 a'i henwi y 'Wales Window'. Yn 2022, mae'r Urdd yn dathlu ei chanmlwyddiant, ac am ailgydio'n y berthynas hanesyddol rhwng Cymru ac Alabama, a bydd côr newydd yr Urdd yn teithio i Alabama i bartneriaethu gyda chôr gospel Prifysgol Alabama yn Birmingham.",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "16",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "clic_aired": "11 Mehefin 2023",
-      "fav_id": "802081093",
-      "id": "842325376",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "131",
       "series_title": "Dan Do",
@@ -796,6 +777,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2023-10-23 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "16",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "clic_aired": "11 Mehefin 2023",
+      "fav_id": "802081093",
+      "id": "842325376",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
