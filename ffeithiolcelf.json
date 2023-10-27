@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "47",
+      "series_title": "3 Lle",
+      "programme_title": "Angharad Tomos",
+      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
+      "clic_aired": "16 Gorffennaf 2023",
+      "fav_id": "520950896",
+      "id": "432121680",
+      "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "142",
       "series_title": "3 Lle",
@@ -34,25 +53,6 @@
       "fav_id": "520950896",
       "id": "531740862",
       "series_id": "531740855",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "47",
-      "series_title": "3 Lle",
-      "programme_title": "Angharad Tomos",
-      "short_billing": "Cymeriad adnabyddus yn dewis tri lleoliad o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C2_Angharad_Thomas_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon yr awdures Angharad Tomos sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei bywyd - Dyffryn Nantlle, carafan sipsi ger Rhydlewis a'r Rocking Stone ger Tredegar.",
-      "clic_aired": "16 Gorffennaf 2023",
-      "fav_id": "520950896",
-      "id": "432121680",
-      "series_id": "432121655",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -305,25 +305,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "96",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Bois Blaennant y Mab",
-      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
-      "clic_aired": "3 Medi 2023",
-      "fav_id": "520950902",
-      "id": "856935983",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "146",
       "series_title": "Cefn Gwlad",
@@ -340,6 +321,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2023-10-29 17:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "96",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Bois Blaennant y Mab",
+      "short_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P16_Bois_Blaenantymab_008.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ifan Jones Evans sy'n ymweld â ffarm Blaennant y Mab, Dryslwyn, Sir Gaerfyrddin, lle mae tri mab yn wynebu sefyllfa gyffredin iawn. Mae Alun, Daniel a Hefin i gyd am aros adref yng nghefn gwlad, ar y fferm deuluol - beth sy'n anghyffredin yw eu bod nhw'i gyd wedi mynd ati i chwilio ffordd o wneud hynny'n bosib trwy greu busnesau llwyddiannus bob un. Bechgyn sy'n fodlon mentro ydi Bois Blaennant y Mab.",
+      "clic_aired": "3 Medi 2023",
+      "fav_id": "520950902",
+      "id": "856935983",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -704,6 +704,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "127",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "clic_aired": "4 Hydref 2023",
+      "fav_id": "802081093",
+      "id": "872656969",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2023-10-23 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "11",
       "series_title": "Dan Do",
@@ -758,25 +777,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "127",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "clic_aired": "4 Hydref 2023",
-      "fav_id": "802081093",
-      "id": "872656969",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2023-10-23 18:00:00",
       "vs": "0"
     },
     {
@@ -1160,25 +1160,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "134",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P1_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "clic_aired": "12 Hydref 2023",
-      "fav_id": "810255618",
-      "id": "834036087",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2023-10-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "104",
       "series_title": "Heno Aur",
@@ -1195,6 +1176,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "134",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P1_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "clic_aired": "12 Hydref 2023",
+      "fav_id": "810255618",
+      "id": "834036087",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2023-10-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1445,8 +1445,8 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
+      "count": "24",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da - Cyfres 2023",
       "programme_title": null,
       "short_billing": "Andrew Rose o Gig Buddies fydd yn y stiwdio ac fe fydd Helen yn y gornel ffasiwn. ",
