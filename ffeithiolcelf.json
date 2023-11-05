@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "22",
-      "series_title": "3 Lle",
-      "programme_title": "Alex Jones",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
-      "thumbnail_url": "3_lle_2016_alex_jones.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld y cyflwynydd Alex Jones yn ein tywys i dri lleoliad arbennig. Bydd Alex yn dychwelyd i fro ei mebyd wrth ymweld â Chastell Carreg Cennen, ger Dyffryn Aman, lle sy'n llawn atgofion hapus o'i phlentyndod. Mae'n symud ymlaen i Gaerdydd ar gyfer ei hail ddewis, lle bu'n byw a gweithio fel cyflwynydd teledu am dros 10 mlynedd. Draw i Lundain awn ni ar gyfer y lleoliad olaf. Bellach, mae Alex wedi ymgartrefu yno ac yn cyflwyno rhaglen boblogaidd BBC1, 'The One Show'.",
-      "clic_aired": "30 Mehefin 2023",
-      "fav_id": "520950896",
-      "id": "531740862",
-      "series_id": "531740855",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "133",
       "series_title": "3 Lle",
@@ -53,6 +34,25 @@
       "fav_id": "520950896",
       "id": "432121680",
       "series_id": "432121655",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "22",
+      "series_title": "3 Lle",
+      "programme_title": "Alex Jones",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
+      "thumbnail_url": "3_lle_2016_alex_jones.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i weld y cyflwynydd Alex Jones yn ein tywys i dri lleoliad arbennig. Bydd Alex yn dychwelyd i fro ei mebyd wrth ymweld â Chastell Carreg Cennen, ger Dyffryn Aman, lle sy'n llawn atgofion hapus o'i phlentyndod. Mae'n symud ymlaen i Gaerdydd ar gyfer ei hail ddewis, lle bu'n byw a gweithio fel cyflwynydd teledu am dros 10 mlynedd. Draw i Lundain awn ni ar gyfer y lleoliad olaf. Bellach, mae Alex wedi ymgartrefu yno ac yn cyflwyno rhaglen boblogaidd BBC1, 'The One Show'.",
+      "clic_aired": "30 Mehefin 2023",
+      "fav_id": "520950896",
+      "id": "531740862",
+      "series_id": "531740855",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -515,7 +515,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Cwpan Rygbi'r Byd Shane ac Ieuan",
       "programme_title": "Nice, Monaco & Marseille",
       "short_billing": "Mae taith Shane Williams a Ieuan Evans yn dod i ben yn Ne Ffrainc. Yn y bennod hon fydd y ddau gyn-asgellwr yn ymweld â stadiwm Nice, yn cwrdd a'r person mwyaf c¿l yn y byd yn Monaco, ac yn cloi'r siwrnau o gwmpas Ffrainc yn Marseille.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": null,
       "programme_title": "DRYCH: Byw Heb Freichiau",
       "short_billing": "Stori bywyd unigryw Frank Letch wrth iddo ystyried pa effaith mae cael ei eni heb freichiau wedi ei gael ar ei fywyd. Cyfle yw hyn i gamu i mewn i fyd Frank yn ystod blwyddyn dyngedfennol yn ei fywyd, gydag archif sylweddol o fywyd Frank o'r 1970au a'r 1990au a mynediad i bob agwedd o'i fywyd a'i deulu. Yma, cawn ddarganfod sut mae agweddau tuag at anabledd wedi newid, a syfrdanu ar beth gall yr ysbryd dynol gyflawni yng ngwyneb adfyd enbyd.  ",
@@ -644,6 +644,25 @@
       "series_id": null,
       "title": "DRYCH: Camau Tua'r Ser",
       "date_broadcast": "2023-10-23 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "3",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "clic_aired": "11 Mehefin 2023",
+      "fav_id": "802081093",
+      "id": "842325376",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -720,25 +739,6 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2023-10-23 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "3",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "clic_aired": "11 Mehefin 2023",
-      "fav_id": "802081093",
-      "id": "842325376",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -890,7 +890,7 @@
       "id": "873318888",
       "series_id": "873318756",
       "title": "Ffasiwn Drefn",
-      "date_broadcast": "2023-11-03 18:00:00",
+      "date_broadcast": "2023-11-19 12:00:00",
       "vs": "0"
     },
     {
@@ -928,7 +928,7 @@
       "id": "840893371",
       "series_id": "840892888",
       "title": "Garddio a Mwy",
-      "date_broadcast": "2023-10-01 09:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1228",
+      "days_to_expire": "1227",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "916",
+      "days_to_expire": "915",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
-      "clic_aired": "30 Hydref 2023",
-      "fav_id": "810255618",
-      "id": "834036109",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2023-10-30 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "96",
       "series_title": "Heno Aur",
@@ -1176,6 +1157,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P2_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
+      "clic_aired": "30 Hydref 2023",
+      "fav_id": "810255618",
+      "id": "834036109",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2023-10-30 12:30:00",
       "vs": "0"
     },
     {
@@ -1503,6 +1503,25 @@
     },
     {
       "count": "2",
+      "days_to_expire": "11",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "John Hartson",
+      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
+      "clic_aired": "19 Mehefin 2023",
+      "fav_id": "819088838",
+      "id": "837080286",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
       "days_to_expire": "77",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Gwenno Saunders",
@@ -1516,25 +1535,6 @@
       "fav_id": "819088838",
       "id": "861087320",
       "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "12",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "John Hartson",
-      "short_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_John_Hartson_Clic.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, bydd Elin Fflur yn ymweld â gerddi'r 'gwesteion' liw nos ac yn sgwrsio am bopeth dan haul (... neu'r lloer!). Yn ei ffordd agos-atoch bydd Elin hefyd yn dod i nabod y person 'go iawn', y person teuluol a pherson y cartref. Y tro hwn, y cyn-chwaraewr pel-droed John Hartson fydd yn serennu.",
-      "clic_aired": "19 Mehefin 2023",
-      "fav_id": "819088838",
-      "id": "837080286",
-      "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
       "vs": "0"
@@ -1593,7 +1593,7 @@
       "id": "807185297",
       "series_id": null,
       "title": "Terfysg yn y Bae",
-      "date_broadcast": "2023-10-01 21:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Redhouse Cymru",
       "short_billing": "Stori adeilad sy'n sibrwd am gyfoeth gweithfeydd haearn Merthyr Tudful, ac am dlodi, trais a thrychineb dirdynnol. O ganolfan ddinesig i garchar a chlwb nos, Aled Hughes a Sara Huws sy'n datgelu haenau hanes hen neuadd y dre Merthyr --  Redhouse Cymru. ",
