@@ -248,7 +248,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "124",
       "series_title": "Cais Quinnell",
       "programme_title": "Rhaglen 1",
@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "33",
-      "series_title": "Codi Pac",
-      "programme_title": "Llandudno",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
-      "clic_aired": "13 Awst 2023",
-      "fav_id": "793406854",
-      "id": "817962117",
-      "series_id": "817961976",
-      "title": "Codi Pac",
-      "date_broadcast": "2023-11-04 11:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "18",
       "series_title": "Codi Pac",
@@ -454,6 +435,25 @@
       "series_id": "802491469",
       "title": "Codi Pac",
       "date_broadcast": "2023-11-21 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "33",
+      "series_title": "Codi Pac",
+      "programme_title": "Llandudno",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P6_Llandudno_2801.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
+      "clic_aired": "13 Awst 2023",
+      "fav_id": "793406854",
+      "id": "817962117",
+      "series_id": "817961976",
+      "title": "Codi Pac",
+      "date_broadcast": "2023-11-04 11:00:00",
       "vs": "0"
     },
     {
@@ -1123,25 +1123,6 @@
     },
     {
       "count": "3",
-      "days_to_expire": "63",
-      "series_title": "Heno Aur",
-      "programme_title": "Pennod 13",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "12 Medi 2023",
-      "fav_id": "810255618",
-      "id": "809467670",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
       "days_to_expire": "134",
       "series_title": "Heno Aur",
       "programme_title": null,
@@ -1157,6 +1138,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2023-11-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "63",
+      "series_title": "Heno Aur",
+      "programme_title": "Pennod 13",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "12 Medi 2023",
+      "fav_id": "810255618",
+      "id": "809467670",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
