@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "31",
-      "series_title": "Codi Pac",
-      "programme_title": "Ty Ddewi",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "clic_aired": "12 Rhagfyr 2023",
-      "fav_id": "793406854",
-      "id": "802491548",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2023-12-12 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "25",
       "series_title": "Codi Pac",
@@ -454,6 +435,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "31",
+      "series_title": "Codi Pac",
+      "programme_title": "Ty Ddewi",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "clic_aired": "12 Rhagfyr 2023",
+      "fav_id": "793406854",
+      "id": "802491548",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2023-12-12 12:05:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Heno Aur",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": null,
       "programme_title": "Prif Weinidog mewn Pandemig",
       "short_billing": "Wedi ymddiswyddo erbyn hyn, roedd cyn-Brif Weinidog Cymru, Mark Drakeford, unwaith yng nghanol y dasg enfawr o daclo pandemig Covid-19. Gyda mynediad arbennig dros gyfnod o 6 mis, mae'r ddogfen hon yn craffu ar y penderfyniadau mawr oedd yn nwylo'r cyn-Brif Weinidog wrth iddo wynebu'r her fwyaf yn hanes Llywodraeth Cymru. ",
