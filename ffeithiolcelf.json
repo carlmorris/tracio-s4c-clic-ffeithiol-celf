@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "30",
-      "series_title": "Codi Pac",
-      "programme_title": "Ty Ddewi",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
-      "clic_aired": "12 Rhagfyr 2023",
-      "fav_id": "793406854",
-      "id": "802491548",
-      "series_id": "802491469",
-      "title": "Codi Pac",
-      "date_broadcast": "2023-12-12 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "24",
       "series_title": "Codi Pac",
@@ -454,6 +435,25 @@
       "series_id": "817961976",
       "title": "Codi Pac",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "30",
+      "series_title": "Codi Pac",
+      "programme_title": "Ty Ddewi",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2019S4C_P5_Ty_Ddewi_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a Tyddewi sydd yn serennu yr wythnos hon.",
+      "clic_aired": "12 Rhagfyr 2023",
+      "fav_id": "793406854",
+      "id": "802491548",
+      "series_id": "802491469",
+      "title": "Codi Pac",
+      "date_broadcast": "2023-12-12 12:05:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
