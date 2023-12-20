@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "O'r Mynydd i'r Mor",
       "short_billing": "Ym mhennod 2 mae Chris yn dangos pa mor EPIC yw cyfuno bwyd môr y Fenai gyda chig o gaeau bro Eryri.",
@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Nadolig Colleen Ramsey ",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "clic_aired": "19 Rhagfyr 2023",
-      "fav_id": "875080509",
-      "id": "875080522",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2023-12-24 14:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "35",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -511,6 +492,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2023-12-06 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Nadolig Colleen Ramsey ",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "clic_aired": "19 Rhagfyr 2023",
+      "fav_id": "875080509",
+      "id": "875080522",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2023-12-24 14:30:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": null,
       "programme_title": "Prif Weinidog mewn Pandemig",
       "short_billing": "Wedi ymddiswyddo erbyn hyn, roedd cyn-Brif Weinidog Cymru, Mark Drakeford, unwaith yng nghanol y dasg enfawr o daclo pandemig Covid-19. Gyda mynediad arbennig dros gyfnod o 6 mis, mae'r ddogfen hon yn craffu ar y penderfyniadau mawr oedd yn nwylo'r cyn-Brif Weinidog wrth iddo wynebu'r her fwyaf yn hanes Llywodraeth Cymru. ",
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "32",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Gwenno Saunders",
-      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
-      "clic_aired": "24 Awst 2023",
-      "fav_id": "819088838",
-      "id": "861087320",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "117",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1708,6 +1689,25 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2023-12-30 15:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "32",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Gwenno Saunders",
+      "short_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2023S4C_P11_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Elin Fflur yn sgwrsio gyda'r cerddor a'r gantores, Gwenno Saunders.",
+      "clic_aired": "24 Awst 2023",
+      "fav_id": "819088838",
+      "id": "861087320",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
