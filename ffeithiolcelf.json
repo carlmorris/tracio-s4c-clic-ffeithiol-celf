@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "3",
-      "days_to_expire": "84",
-      "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
-      "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "110",
       "series_title": "3 Lle",
@@ -34,6 +15,25 @@
       "fav_id": "520950896",
       "id": "357862281",
       "series_id": "357862202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "84",
+      "series_title": "3 Lle",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
+      "fav_id": "520950896",
+      "id": "536773682",
+      "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Anrhegion Melys Richard Holt",
       "programme_title": null,
       "short_billing": "Mae dewin y gegin yn cynllunio syrpreis sy'n llawn hud a lledrith i ddwy ferch fach haeddiannol...",
@@ -496,7 +496,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Codi Pac",
       "programme_title": "Castell Nedd",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru a Chastell-nedd sydd yn serennu yr wythnos yma.",
@@ -1293,25 +1293,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "118",
       "series_title": "Heno Aur",
@@ -1328,6 +1309,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2023-11-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "       Ffordd o fyw/Lifestyle",
       "short_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld a gerddi Henry Jeffreys ym Mhontarddulais, Vyvyan Davies a Barbara Newman-Davies yn Machynys a Gareth a Falmai Roberts yn Llannefydd. ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n dilyn dynion yn eu faniau. Helpu Christine i fudo i fynglo newydd ar Ynys Môn mae Shaun tra fod Lee yn gwagio ei garej gyntaf wedi i'r perchennog farw. Defnyddio ei fan i gludo darnau o hanes pêl-droed a hen offer fferm mae Rhys o'r Bala. ",
