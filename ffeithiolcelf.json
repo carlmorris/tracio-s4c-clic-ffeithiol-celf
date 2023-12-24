@@ -515,7 +515,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Codi Pac",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "69",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "clic_aired": "4 Hydref 2023",
-      "fav_id": "802081093",
-      "id": "872656969",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2023-11-25 16:25:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "43",
       "series_title": "Dan Do",
@@ -872,6 +853,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "69",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "clic_aired": "4 Hydref 2023",
+      "fav_id": "802081093",
+      "id": "872656969",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2023-11-25 16:25:00",
       "vs": "0"
     },
     {
