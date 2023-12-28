@@ -249,7 +249,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": null,
       "programme_title": "Bwyd Byd Epic Chris",
       "short_billing": "Yn y bennod arbennig hon, mae Chris yn cydweithio gyda chymuned rhyngwladol Cymru i greu ryseitiau anarferol tanbaid. O'r Caribî i Ynysoedd y Philipinau, Syria a Japan - bydd cogyddion talentog o bedwar ban byd yn helpu Chris i weini'r bwyd i'r Cofis yn ei farchnad Nadoligaidd yng Nghaernarfon!",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "O'r Mynydd i'r Mor",
       "short_billing": "Ym mhennod 2 mae Chris yn dangos pa mor EPIC yw cyfuno bwyd môr y Fenai gyda chig o gaeau bro Eryri.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "39",
-      "series_title": "Dan Do",
-      "programme_title": "Ty David ac Anthony- Talog",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "clic_aired": "8 Medi 2023",
-      "fav_id": "802081093",
-      "id": "832478843",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "65",
       "series_title": "Dan Do",
@@ -891,6 +872,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2023-11-25 16:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "39",
+      "series_title": "Dan Do",
+      "programme_title": "Ty David ac Anthony- Talog",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "clic_aired": "8 Medi 2023",
+      "fav_id": "802081093",
+      "id": "832478843",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Heno Aur",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Prif Weinidog mewn Pandemig",
       "short_billing": "Wedi ymddiswyddo erbyn hyn, roedd cyn-Brif Weinidog Cymru, Mark Drakeford, unwaith yng nghanol y dasg enfawr o daclo pandemig Covid-19. Gyda mynediad arbennig dros gyfnod o 6 mis, mae'r ddogfen hon yn craffu ar y penderfyniadau mawr oedd yn nwylo'r cyn-Brif Weinidog wrth iddo wynebu'r her fwyaf yn hanes Llywodraeth Cymru. ",
