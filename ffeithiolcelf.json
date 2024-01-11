@@ -325,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -340,6 +340,25 @@
       "series_id": null,
       "title": "Branwen: Dadeni",
       "date_broadcast": "2023-12-30 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P4_Caerdydd_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
+      "clic_aired": "10 Ionawr 2024",
+      "fav_id": "817962669",
+      "id": "842327074",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2024-01-11 12:05:00",
       "vs": "0"
     },
     {
@@ -359,25 +378,6 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "149",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "thumbnail_url": "Bwrdd_i_Dri_2022S4C_P4_Caerdydd_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  A'r ôl y coginio mae'n amser blasu a chyfarfod y gweddill am y tro cyntaf. Beth mae nhw i gyd yn feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' A fydd y sgwrsio a'r bwyd blasus wedi troi tri dieithrin yn ffrind",
-      "clic_aired": "10 Ionawr 2024",
-      "fav_id": "817962669",
-      "id": "842327074",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2024-01-11 12:05:00",
       "vs": "0"
     },
     {
@@ -705,25 +705,6 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Traddodiadau Newydd",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma bydd rhai ryseitiau traddodiadol yn creu traddodiadau newydd yn y gegin. ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma bydd rhai ryseitiau traddodiadol yn creu traddodiadau newydd yn y gegin. ",
-      "clic_aired": "10 Ionawr 2024",
-      "fav_id": "875080509",
-      "id": "875080612",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-01-19 18:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
       "days_to_expire": "12",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
@@ -739,6 +720,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Traddodiadau Newydd",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma bydd rhai ryseitiau traddodiadol yn creu traddodiadau newydd yn y gegin. ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma bydd rhai ryseitiau traddodiadol yn creu traddodiadau newydd yn y gegin. ",
+      "clic_aired": "10 Ionawr 2024",
+      "fav_id": "875080509",
+      "id": "875080612",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-01-19 18:30:00",
       "vs": "0"
     },
     {
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Lle Bach Mawr",
       "programme_title": "Lle Bach Hapus",
       "short_billing": "Ymunwch a'r tri cynllunydd brwd Carwyn Lloyd Jones, Mandy Watkins a Gwyn Eiddior wrth iddynt dderbyn yr her o adnewyddu lle bach i fewn i ddihangfa fawr.  Yr wythnos hon mae'r tri yn cael dewis gwrthrych sy'n dal d&#373;r a'r thema ydy Lle Bach Hapus.  Sut hwyl fydd y tri creadigol yn cael wrth greu gofod gwych yn eu lle bach hapus nhw'  ",
@@ -2452,8 +2452,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "27",
       "series_title": "Y Llinell Las",
       "programme_title": "Y Llinell Las- Pobl Cyffredin, Swydd Rhyfeddol",
       "short_billing": "Pennod awr o hyd yn cloi cyfres sy'n dilyn hynt a helynt Uned Plismona'r Ffyrdd, Heddlu Gogledd Cymru. Cipolwg y tu ôl i'r llen ar waith heriol a pheryglus y tîm sy'n cadw ein ffyrdd a'n cymunedau ni'n saff. Pobl gyffredin - swydd ryfeddol.",
