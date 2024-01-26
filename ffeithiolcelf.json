@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "77",
-      "series_title": "3 Lle",
-      "programme_title": "Derwyn Jones",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
-      "clic_aired": "14 Tachwedd 2023",
-      "fav_id": "520950896",
-      "id": "357862281",
-      "series_id": "357862202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "126",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
@@ -55,6 +36,25 @@
       "series_id": "505397202",
       "title": "3 Lle",
       "date_broadcast": "2024-01-04 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "77",
+      "series_title": "3 Lle",
+      "programme_title": "Derwyn Jones",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
+      "clic_aired": "14 Tachwedd 2023",
+      "fav_id": "520950896",
+      "id": "357862281",
+      "series_id": "357862202",
+      "title": "3 Lle",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -97,25 +97,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Adre",
-      "programme_title": "       Adre - Nadolig",
-      "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "thumbnail_url": "Adre_2019-20S4C_P8_Nadolig_Dave_Easton_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
-      "clic_aired": "23 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "802669929",
-      "series_id": "802516813",
-      "title": "Adre",
-      "date_broadcast": "2023-12-23 11:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "123",
       "series_title": "Adre",
       "programme_title": "Robat Arwyn",
@@ -131,6 +112,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": "2023-12-30 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Adre",
+      "programme_title": "       Adre - Nadolig",
+      "short_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
+      "thumbnail_url": "Adre_2019-20S4C_P8_Nadolig_Dave_Easton_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mewn rhaglen arbennig Nadoligaidd, Nia Parry sy'n cael y pleser o fusnesa yn nhai tri o bobl sy'n mynd dros ben llestri wrth addurno ar gyfer yr wyl. ",
+      "clic_aired": "23 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "802669929",
+      "series_id": "802516813",
+      "title": "Adre",
+      "date_broadcast": "2023-12-23 11:00:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn rai o werthwyr tai amlycaf Cymru gan brofi'r holl emosiwn a'r ddrama sy'n dod gyda rhoi ty ar werth.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -363,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Tregaron",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "148",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Bara",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bara yw prif gynhwysyn y rhaglen heddiw a bydd Bryn Williams yn brysur yn y gegin yn creu bara Eidalaidd - 'foccacia' gyda thomatos; bara soda gyda cheirch a ffyn bara syml. Bydd e hefyd yn cwrdd â pherchnogion popty bychan yn Aberdaron ym Mhen Llyn, ac yn dangos sut mae coginio bara ar y barbeciw!",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "520950903",
-      "id": "511243013",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-02-05 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Cegin Bryn",
@@ -625,6 +606,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Bara",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bara yw prif gynhwysyn y rhaglen heddiw a bydd Bryn Williams yn brysur yn y gegin yn creu bara Eidalaidd - 'foccacia' gyda thomatos; bara soda gyda cheirch a ffyn bara syml. Bydd e hefyd yn cwrdd â pherchnogion popty bychan yn Aberdaron ym Mhen Llyn, ac yn dangos sut mae coginio bara ar y barbeciw!",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "520950903",
+      "id": "511243013",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-02-05 18:00:00",
       "vs": "0"
     },
     {
@@ -738,7 +738,7 @@
       "id": "875080672",
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-02-03 15:30:00",
+      "date_broadcast": "2024-02-09 18:30:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Cwpan Rygbi'r Byd Shane ac Ieuan",
       "programme_title": "Nice, Monaco & Marseille",
       "short_billing": "Mae taith Shane Williams a Ieuan Evans yn dod i ben yn Ne Ffrainc. Yn y bennod hon fydd y ddau gyn-asgellwr yn ymweld â stadiwm Nice, yn cwrdd a'r person mwyaf c¿l yn y byd yn Monaco, ac yn cloi'r siwrnau o gwmpas Ffrainc yn Marseille.",
@@ -814,7 +814,7 @@
       "id": "809593016",
       "series_id": "809592897",
       "title": "Cymry ar Gynfas - Cyfres 2",
-      "date_broadcast": "2024-01-21 23:05:00",
+      "date_broadcast": "2024-02-09 12:05:00",
       "vs": "0"
     },
     {
@@ -1046,6 +1046,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "133",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2024-01-09 15:50:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "10",
       "series_title": "Dan Do",
@@ -1066,26 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "133",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2024-01-09 15:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Gwlad Belg",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i Wlad Belg. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. \r\n \r\n ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1146",
+      "days_to_expire": "1145",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "834",
+      "days_to_expire": "833",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Lle Bach Mawr",
       "programme_title": "Lle Bach Hapus",
       "short_billing": "Ymunwch a'r tri cynllunydd brwd Carwyn Lloyd Jones, Mandy Watkins a Gwyn Eiddior wrth iddynt dderbyn yr her o adnewyddu lle bach i fewn i ddihangfa fawr.  Yr wythnos hon mae'r tri yn cael dewis gwrthrych sy'n dal d&#373;r a'r thema ydy Lle Bach Hapus.  Sut hwyl fydd y tri creadigol yn cael wrth greu gofod gwych yn eu lle bach hapus nhw'  ",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn hynt a helynt clwb rygbi menywod Caernarfon. Mae nhw ar waelod y league ac yn y bennod yma, yn wynebu eu prif elynion - clwb rygbi COBRA. Mae lot yn y fantol ac mae'n gem sy'n rhaid ei hennill. ",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Y Gêm",
       "programme_title": "Y Gêm gyda... - Osian Roberts ",
       "short_billing": "Yn y bennod yma fe fydd Owain Tudur Jones yn teithio i Marrakech i  sgwrsio a chyn is-hyfforddwr Tîm  Cymru a chyn Gyfarwyddwr technegol pêl droed Morocco - Osian Roberts",
@@ -2433,8 +2433,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Y Llinell Las",
       "programme_title": "Y Llinell Las- Pobl Cyffredin, Swydd Rhyfeddol",
       "short_billing": "Pennod awr o hyd yn cloi cyfres sy'n dilyn hynt a helynt Uned Plismona'r Ffyrdd, Heddlu Gogledd Cymru. Cipolwg y tu ôl i'r llen ar waith heriol a pheryglus y tîm sy'n cadw ein ffyrdd a'n cymunedau ni'n saff. Pobl gyffredin - swydd ryfeddol.",
