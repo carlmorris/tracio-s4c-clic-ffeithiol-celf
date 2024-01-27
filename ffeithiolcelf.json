@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "140",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Tregaron",
-      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
-      "clic_aired": "17 Ionawr 2024",
-      "fav_id": "817962669",
-      "id": "842327104",
-      "series_id": "842326971",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": "2024-01-18 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Bwrdd i Dri",
@@ -378,6 +359,25 @@
       "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "140",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Tregaron",
+      "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "thumbnail_url": "Bwrdd_i_dri_2022S4C_P5_Tregaron_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
+      "clic_aired": "17 Ionawr 2024",
+      "fav_id": "817962669",
+      "id": "842327104",
+      "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": "2024-01-18 12:05:00",
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Greenham",
       "programme_title": "Pennod 1",
       "short_billing": "Ffilm ddogfen gyda archif o'r cyfnod a chyfweliadau newydd yn cael eu cyfuno i adrodd stori anghredadwy Comin Greenham. Byddwn ni'n ailfyw yr ymgyrch o ddwy ochr y ffens, a thrwy ddefnyddio cyfweliadau archif a newydd, byddwn ni'n gweld sut mae bywydau a theimladau y menywod wedi newid 40 mlynedd yn ddiweddarach. Mewn penodau yn dilyn storiau unigol y menywod, cawn glywed am eu haberth, eu brwydr, eu gobeithion a'u hofnau yng nganol y Rhyfel Oer, a hefyd am sut mae'r frwydr yn parhau heddiw.",
