@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Caeau Cymru",
       "programme_title": "Trawsfynydd",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -533,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Bara",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bara yw prif gynhwysyn y rhaglen heddiw a bydd Bryn Williams yn brysur yn y gegin yn creu bara Eidalaidd - 'foccacia' gyda thomatos; bara soda gyda cheirch a ffyn bara syml. Bydd e hefyd yn cwrdd â pherchnogion popty bychan yn Aberdaron ym Mhen Llyn, ac yn dangos sut mae coginio bara ar y barbeciw!",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "520950903",
-      "id": "511243013",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-02-05 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "4",
       "series_title": "Cegin Bryn",
@@ -568,6 +549,25 @@
       "series_id": "534387301",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "146",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Bara",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bara yw prif gynhwysyn y rhaglen heddiw a bydd Bryn Williams yn brysur yn y gegin yn creu bara Eidalaidd - 'foccacia' gyda thomatos; bara soda gyda cheirch a ffyn bara syml. Bydd e hefyd yn cwrdd â pherchnogion popty bychan yn Aberdaron ym Mhen Llyn, ac yn dangos sut mae coginio bara ar y barbeciw!",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "520950903",
+      "id": "511243013",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-02-05 18:00:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 4",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen hon, bydd y ddau'n gobeithio dal cimwch ger Ynysoedd Tudwal; yn ceisio rhwyfo ar Lyn y Dywarchen, ac yn nofio hefo morloi Ynys Enlli! ",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Sir 5 ar y daith yw Sir Gâr, Sir Gaerfyrddin. Awn i Gaerfyrddin i fwynhau'r sîn roc Gymraeg yng Ng¿yl Canol Dre, i fwynhau seiclo yn ardal Llanelli, bro'r Scarlets, am drip i Dalacharn i flasu ysbryd Dylan Thomas ac am chips ar draeth Llansteffan. Gorffenwn yn y Mynydd Du, Drefach Felindre a Llandysul. Yna daw'r daith i ben yn sir enedigol Ryland, Ceredigion. Cawn fwynhau afonydd, traethau, pentrefi a threfin, trenau, rhaeadrau a promenâd!",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwlad Beirdd",
       "programme_title": "Cynan",
       "short_billing": "Y prifeirdd Mererid Hopwood a Tudur Dylan Jones sy'n bwrw golwg ar rai o feirdd mawr Cymru. ",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "1. Y 50au",
       "short_billing": "Yn rhaglen gyntaf 'Nôl i'r Gwersyll', mae Gwersyll yr Urdd, Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. Pwy yw 'swogs' y 50au a pha weithgareddau sydd wedi'u trefnu ar eu cyfer'  ",
