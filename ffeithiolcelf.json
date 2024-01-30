@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "118",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2023-12-30 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "79",
       "series_title": "Adre",
@@ -131,6 +112,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2024-01-29 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "118",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2023-12-30 12:00:00",
       "vs": "0"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Llwyfan y Maes: Candelas",
       "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
@@ -989,6 +989,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "31",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
+      "clic_aired": "4 Hydref 2023",
+      "fav_id": "802081093",
+      "id": "872656969",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "5",
       "series_title": "Dan Do",
@@ -1024,25 +1043,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-01-09 15:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "31",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld ag adeilad hynafol y tu allan i Borthcawl, cartref Edwardaidd chwaethus ger Casnewydd a thy anhygoel sy'n edrych draw at Fae Ceredigion",
-      "clic_aired": "4 Hydref 2023",
-      "fav_id": "802081093",
-      "id": "872656969",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1483,25 +1483,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "145",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "clic_aired": "26 Ionawr 2024",
-      "fav_id": "810255618",
-      "id": "834036175",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-01-26 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "106",
       "series_title": "Heno Aur",
@@ -1518,6 +1499,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "145",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "clic_aired": "26 Ionawr 2024",
+      "fav_id": "810255618",
+      "id": "834036175",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-01-26 12:30:00",
       "vs": "0"
     },
     {
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "Sage Todz: Y Neges Nid yr Iaith",
       "short_billing": "I nodi Mis Hanes Pobl Ddu - dyma daith gerddorol o amgylch Prydain lle mae'r artist hip hop Sage Todz yn cyfarfod artistiaid eraill sydd yn gweithio mewn ieithoedd lleiafrifol.",
