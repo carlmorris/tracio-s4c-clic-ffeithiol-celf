@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "79",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2024-01-29 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "117",
       "series_title": "Adre",
@@ -131,6 +112,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": "2023-12-30 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "79",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2024-01-29 20:00:00",
       "vs": "0"
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Caeau Cymru",
       "programme_title": "Dinas Mawddwy",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -533,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Cegin Bryn",
-      "programme_title": null,
-      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
-      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
-      "clic_aired": "4 Medi 2023",
-      "fav_id": "520950903",
-      "id": "534387442",
-      "series_id": "534387301",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "143",
       "series_title": "Cegin Bryn",
@@ -568,6 +549,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-02-05 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Cegin Bryn",
+      "programme_title": null,
+      "short_billing": "Y cogydd Bryn Williams sy'n ymweld â cheginau a chynhyrchwyr bwyd ar hyd a lled Cymru gan gynnig cymorth a chefnogaeth i unigolion brwd. ",
+      "thumbnail_url": "Cegyn_Bryn_Cyfres6_2017_5689.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
+      "clic_aired": "4 Medi 2023",
+      "fav_id": "520950903",
+      "id": "534387442",
+      "series_id": "534387301",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 5",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen hon, bydd y ddau'n \r\nrhwyf-fyrddio o gwmpas Ynys Gifftan; yn ymweld â charreg bedd go\r\n arbennig; a threulio noson ym maes gwersylla mwyaf Ewrop! ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Sir 5 ar y daith yw Sir Gâr, Sir Gaerfyrddin. Awn i Gaerfyrddin i fwynhau'r sîn roc Gymraeg yng Ng¿yl Canol Dre, i fwynhau seiclo yn ardal Llanelli, bro'r Scarlets, am drip i Dalacharn i flasu ysbryd Dylan Thomas ac am chips ar draeth Llansteffan. Gorffenwn yn y Mynydd Du, Drefach Felindre a Llandysul. Yna daw'r daith i ben yn sir enedigol Ryland, Ceredigion. Cawn fwynhau afonydd, traethau, pentrefi a threfin, trenau, rhaeadrau a promenâd!",
@@ -1426,22 +1426,22 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
+      "count": "5",
+      "days_to_expire": "149",
       "series_title": "Gwlad Beirdd",
-      "programme_title": "Cynan",
+      "programme_title": "Eifion Wyn",
       "short_billing": "Y prifeirdd Mererid Hopwood a Tudur Dylan Jones sy'n bwrw golwg ar rai o feirdd mawr Cymru. ",
       "thumbnail_url": "gwlad-beirdd.jpg",
-      "duration": "23",
+      "duration": "21",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ardal Aberdaron yw prif leoliad y rhaglen hon. Bydd Mererid Hopwood yn ymweld â'r bwthyn unig sydd yn edrych dros y traeth a bydd Tudur Dylan Jones yn edrych draw o Uwchmynydd at Ynys Enlli wrth drafod profiadau Cynan yn y rhyfel.",
-      "clic_aired": "24 Ionawr 2024",
+      "full_billing": "Porthmadog yw prif leoliad y rhaglen hon. Bu Eifion Wyn yn byw ynghanol y dref brysur hon am y rhan fwyaf o'i oes. Mae Tudur Dylan Jones a Mererid Hopwood yn crwydro'r dref yn chwilio am lefydd oedd yn bwysig i'r bardd.",
+      "clic_aired": "31 Ionawr 2024",
       "fav_id": "536381164",
-      "id": "360151182",
+      "id": "360151200",
       "series_id": "360151121",
       "title": "Gwlad Beirdd",
-      "date_broadcast": "2024-01-24 13:00:00",
+      "date_broadcast": "2024-01-31 13:00:00",
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "2: Y 60au",
       "short_billing": "Mae cabanau pren a phebyll Llangrannog y 60au yn eu hôl. Pa weithgareddau fydd wedi'u trefnu gan y 'swogs', Mici Plwm a Dilwyn Morgan, ar gyfer y gwersyllwyr'",
