@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "44",
-      "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
-      "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "70",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
@@ -55,6 +36,25 @@
       "series_id": "505397202",
       "title": "3 Lle",
       "date_broadcast": "2024-01-04 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "44",
+      "series_title": "3 Lle",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
+      "fav_id": "520950896",
+      "id": "536773682",
+      "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -951,6 +951,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "clic_aired": "31 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "872656997",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-02-15 18:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "3",
       "series_title": "Dan Do",
@@ -986,25 +1005,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-01-09 15:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "clic_aired": "31 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "872656997",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-02-15 18:30:00",
       "vs": "0"
     },
     {
