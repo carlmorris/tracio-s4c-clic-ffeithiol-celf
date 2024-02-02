@@ -496,7 +496,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Cefn Gwlad",
       "programme_title": "Awstralia",
       "short_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "147",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "clic_aired": "31 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "872656997",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-02-15 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Dan Do",
@@ -1005,6 +986,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-01-09 15:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "147",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "clic_aired": "31 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "872656997",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-02-15 18:30:00",
       "vs": "0"
     },
     {
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
