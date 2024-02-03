@@ -116,7 +116,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Adre",
       "programme_title": "Brett Johns",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "141",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "clic_aired": "26 Ionawr 2024",
-      "fav_id": "810255618",
-      "id": "834036175",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-01-26 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "102",
       "series_title": "Heno Aur",
@@ -1461,6 +1442,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "141",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "clic_aired": "26 Ionawr 2024",
+      "fav_id": "810255618",
+      "id": "834036175",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-01-26 12:30:00",
       "vs": "0"
     },
     {
