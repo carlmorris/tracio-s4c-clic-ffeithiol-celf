@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
-      "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
-      "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "117",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
@@ -55,6 +36,25 @@
       "series_id": "505397202",
       "title": "3 Lle",
       "date_broadcast": "2024-01-04 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "43",
+      "series_title": "3 Lle",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
+      "fav_id": "520950896",
+      "id": "536773682",
+      "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": null,
       "programme_title": "Hywel Gwynfryn yn 80",
       "short_billing": "Gyda Hywel Gwynfryn yn cael ei anrhydeddu â Gwobr Cyfraniad Arbennig yng Ngwobrau BAFTA Cymru 2023, dyma gyfle arall i weld rhaglen arbennig i ddathlu ei gyfraniad unigryw yng Nghymru. Mae'r ¿Dyn ei Hun¿ wedi bod yn llais a wyneb y Gymru Gymraeg ers 1964, ac mae'n dal i godi gwên a chreu argraff bron I 60m yn ddiweddarach. Awn ar daith trwy hanes trysor cenedlaethol gan fynd dan groen bywyd sydd wedi bod yn baradocs o'r llon a'r lleddf, a rhyfeddu at ei agwedd bositif at bob dim ¿a deud y gwir y",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Taro 9",
       "programme_title": "Sgandal y Swyddfa Bost",
       "short_billing": "Cyfle arall i weld pennod a ddarlledwyd gyntaf yn 2009, yn dilyn sylw diweddar ar y newyddion ac mewn drama ITV am sgandal y swyddfa bost. Dyma oedd y rhaglen gyntaf i ymchwilo achos cyn bostfeistr o Sir Fôn wedi iddo gael ei garcharu ar gam, gan godi cwestiynau difrifol am sefydliad Swyddfa'r Post.",
