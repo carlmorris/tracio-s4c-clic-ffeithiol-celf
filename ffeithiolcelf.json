@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Caeau Cymru",
       "programme_title": "Dinas Mawddwy",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 5",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen hon, bydd y ddau'n \r\nrhwyf-fyrddio o gwmpas Ynys Gifftan; yn ymweld â charreg bedd go\r\n arbennig; a threulio noson ym maes gwersylla mwyaf Ewrop! ",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "147",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "clic_aired": "31 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "872656997",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-02-15 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Dan Do",
@@ -1005,6 +986,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-01-09 15:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "147",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "clic_aired": "31 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "872656997",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-02-15 18:30:00",
       "vs": "0"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Sir 5 ar y daith yw Sir Gâr, Sir Gaerfyrddin. Awn i Gaerfyrddin i fwynhau'r sîn roc Gymraeg yng Ng¿yl Canol Dre, i fwynhau seiclo yn ardal Llanelli, bro'r Scarlets, am drip i Dalacharn i flasu ysbryd Dylan Thomas ac am chips ar draeth Llansteffan. Gorffenwn yn y Mynydd Du, Drefach Felindre a Llandysul. Yna daw'r daith i ben yn sir enedigol Ryland, Ceredigion. Cawn fwynhau afonydd, traethau, pentrefi a threfin, trenau, rhaeadrau a promenâd!",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Gwlad Beirdd",
       "programme_title": "Eifion Wyn",
       "short_billing": "Y prifeirdd Mererid Hopwood a Tudur Dylan Jones sy'n bwrw golwg ar rai o feirdd mawr Cymru. ",
@@ -1616,22 +1616,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Nôl i'r Gwersyll",
-      "programme_title": "2: Y 60au",
-      "short_billing": "Mae cabanau pren a phebyll Llangrannog y 60au yn eu hôl. Pa weithgareddau fydd wedi'u trefnu gan y 'swogs', Mici Plwm a Dilwyn Morgan, ar gyfer y gwersyllwyr'",
-      "thumbnail_url": "Nol_ir_Gwersyll_2022S4C_P2_001.jpg",
-      "duration": "48",
+      "programme_title": "3. Y 70au",
+      "short_billing": "Mae'r pebyll a'r cabanau pren yn dal i ddisgwyl ymwelwyr sy'n cael eu saethu'n ôl i'r 70au. Beth fydd eu hatgofion' Pwy fydd y 'swogs'' A pha lys fydd yn fuddugol' ",
+      "thumbnail_url": "Nol_ir_Gwersyll_2022S4C_P3_001.jpg",
+      "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae cabanau pren a phebyll Llangrannog y 60au yn eu hôl. Pa weithgareddau fydd wedi'u trefnu gan y 'swogs', Mici Plwm a Dilwyn Morgan, ar gyfer y gwersyllwyr'",
-      "clic_aired": "27 Ionawr 2024",
+      "full_billing": "Mae'r pebyll a'r cabanau pren yn dal i ddisgwyl ymwelwyr sy'n cael eu saethu'n ôl i'r 70au. Beth fydd eu hatgofion' Pwy fydd y 'swogs'' A pha lys fydd yn fuddugol' ",
+      "clic_aired": "3 Chwefror 2024",
       "fav_id": "846120847",
-      "id": "846120914",
+      "id": "846120936",
       "series_id": "846120847",
       "title": "Nôl i'r Gwersyll",
-      "date_broadcast": "2024-01-27 12:30:00",
+      "date_broadcast": "2024-02-03 12:30:00",
       "vs": "0"
     },
     {
