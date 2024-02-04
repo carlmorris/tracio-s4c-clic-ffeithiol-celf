@@ -800,7 +800,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Llwyfan y Maes: Candelas",
       "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
@@ -951,6 +951,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "145",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
+      "clic_aired": "31 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "872656997",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-02-18 12:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Dan Do",
@@ -986,25 +1005,6 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-01-09 15:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "145",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": " Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â hen fwthyn ceidwad sydd wedi ei drawsnewid yn d&#375; modern â golygfeydd anhygoel o'r de ddwyrain, byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli, a bwthyn hynafol o gyfnod Owain Glynd&#373;r ar fryn y tu allan i bentref Erwyd.",
-      "clic_aired": "31 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "872656997",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-02-18 12:00:00",
       "vs": "0"
     },
     {
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": null,
       "programme_title": "Sage Todz: Y Neges Nid yr Iaith",
       "short_billing": "I nodi Mis Hanes Pobl Ddu - dyma daith gerddorol o amgylch Prydain lle mae'r artist hip hop Sage Todz yn cyfarfod artistiaid eraill sydd yn gweithio mewn ieithoedd lleiafrifol.",
