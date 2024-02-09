@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "36",
-      "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
-      "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "62",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
@@ -53,6 +34,25 @@
       "fav_id": "520950896",
       "id": "505397227",
       "series_id": "505397202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "36",
+      "series_title": "3 Lle",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
+      "fav_id": "520950896",
+      "id": "536773682",
+      "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
       "programme_title": "Bethan Moch Coch",
       "short_billing": "Mari Lovgreen sy'n ymweld â Bethan Morgan sydd wedi dychwelyd i'w bro genedigol a phynu  fferm Penrallt ym mhentref Talog yn Sir Gaerfyrddin er mwyn magu stoc a gwybod yn union o le mae'r cig ar ei phlat wedi dod. Cawn hanes ei menter moch Tamworth gan ymuno gyda Bethan wrth iddi baratoi'r cig er mwyn gwerthu'r cynnyrch ym marchnad bwyd pentref Talog. ",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Gyda nifer wedi dechrau wyna, Alun sy'n clywed beth yw'r prif broblemau yr adeg yma a sut i'w lleihau i wneud y cyfnod heriol yma yn fwy hwylus. Hefyd mi fyddwn yng Ngwobrau Lantra Cymru yn dathlu llwyddiannau unigolion ym maes amaethyddiaeth. Mae'r tywydd wedi bod yn destun trafod yn ddiweddar, a Megan Williams fydd yn darganfod sut fath o dywydd sydd ar y gorwel yn 2024; mi fyddwn hefyd yng nghynadledd CFFI Cymru sy'n rhoi cyfle i ffermwyr ifanc Cymru leisio ei barn ar ddyfodol y diwydiant.",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "135",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
-      "clic_aired": "26 Ionawr 2024",
-      "fav_id": "810255618",
-      "id": "834036175",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-01-26 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "96",
       "series_title": "Heno Aur",
@@ -1385,6 +1366,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "135",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P5_006.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon: golwg ar dechnoleg y 90au, straeon c¿n, rhaglenni teledu a sgwrs gyda'r pêl-droediwr John Hartson. ",
+      "clic_aired": "26 Ionawr 2024",
+      "fav_id": "810255618",
+      "id": "834036175",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-01-26 12:30:00",
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Stryd i'r Sgrym",
       "programme_title": null,
       "short_billing": "Wrth i ni gwrdd ag aelodau'r tîm sefydlwn dau leoliad hyfforddi newydd ¿ clybiau rygbi Nant Conwy a Chefneithin. Erbyn hyn, mae'r chwaraewyr yn dechrau bondio a'u sgiliau rygbi yn datblygu. Ydy'r her yn ormod iddyn nhw yn feddyliol neu'n gorfforol'",
