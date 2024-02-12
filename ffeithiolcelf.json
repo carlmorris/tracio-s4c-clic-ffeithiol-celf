@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "4",
-      "series_title": "Bwyd Epic Chris",
-      "programme_title": "Bwyd Hanesyddol",
-      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "clic_aired": "13 Ionawr 2024",
-      "fav_id": "801175552",
-      "id": "808269620",
-      "series_id": "808269501",
-      "title": "Bwyd Epic Chris",
-      "date_broadcast": "2024-01-13 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "28",
       "series_title": "Bwyd Epic Chris",
@@ -397,6 +378,25 @@
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2024-02-05 15:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "4",
+      "series_title": "Bwyd Epic Chris",
+      "programme_title": "Bwyd Hanesyddol",
+      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "clic_aired": "13 Ionawr 2024",
+      "fav_id": "801175552",
+      "id": "808269620",
+      "series_id": "808269501",
+      "title": "Bwyd Epic Chris",
+      "date_broadcast": "2024-01-13 12:30:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Nant Conwy",
       "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "116",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2024-01-09 15:50:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "145",
       "series_title": "Dan Do",
@@ -967,6 +948,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2024-02-25 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "116",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2024-01-09 15:50:00",
       "vs": "0"
     },
     {
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "93",
       "series_title": "Heno Aur",
@@ -1404,6 +1385,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1749,8 +1749,8 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "32",
+      "count": "24",
+      "days_to_expire": "31",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Heddiw, byddwn yn dathlu Dydd Miwsig Cymru a hefyd yn nodi'r Flwyddyn Newydd Tseiniaidd. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ty Am Ddim",
       "programme_title": null,
       "short_billing": "I Glynderwen awn ni heno sydd arbwys Narberth yn Sir Gaerfyrddin. Dwy ferch ifanc sydd au bryd ar wneud elw drwy adnewyddu ty yn y pentref.  Ond cyn cychwyn y gwaith - rhaid clirio eiddo oes y perchnogion oedd yn byw yna o'r blaen.  ",
