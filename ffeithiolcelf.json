@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "65",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2024-01-29 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "104",
       "series_title": "Adre",
@@ -131,6 +112,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "65",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2024-01-29 20:00:00",
       "vs": "0"
     },
     {
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "3",
-      "series_title": "Bwyd Epic Chris",
-      "programme_title": "Bwyd Hanesyddol",
-      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "clic_aired": "13 Ionawr 2024",
-      "fav_id": "801175552",
-      "id": "808269620",
-      "series_id": "808269501",
-      "title": "Bwyd Epic Chris",
-      "date_broadcast": "2024-01-13 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "33",
       "series_title": "Bwyd Epic Chris",
@@ -397,6 +378,25 @@
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2024-02-12 15:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "3",
+      "series_title": "Bwyd Epic Chris",
+      "programme_title": "Bwyd Hanesyddol",
+      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "clic_aired": "13 Ionawr 2024",
+      "fav_id": "801175552",
+      "id": "808269620",
+      "series_id": "808269501",
+      "title": "Bwyd Epic Chris",
+      "date_broadcast": "2024-01-13 12:30:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": null,
       "programme_title": "Gatland a'i Garfan: Ffrainc 2023",
       "short_billing": "Cyfle i edrych yn ôl ar daith Cymru a'r Cwpan - y paratoadau, y pwysau a'r heriau na fyddai unrhywun arall wedi' gweld o thu fewn y cyfarfodydd tim, y 'team talks' angerddol yn yr ystafell newid, yn ogystal â chyfweliadau ddofn gyda'r cymeriadau o fewn y garfan; megis Jack Morgan, Dewi Lake, Gareth Davies, Josh Adams, George North, Dan Biggar a'r dyn ei hun - Warren Gatland.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "92",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "148",
       "series_title": "Heno Aur",
@@ -1404,6 +1385,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-02-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "92",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydro'r Gyllell",
       "short_billing": "Gyda'r nifer o droseddau â chyllell ar gynydd dros Gymru, mae Dot Davies yn cwrdd ag un dyn ifanc o Ogledd Cymru oedd bron marw ar ôl cael ei drywanu. A bydd Dot yn clywed sut mae un clwb hyfforddi ym Methesda yn ceisio paratoi pobl ifanc i amddiffyn eu hunain rhag cael eu bygwth gan gyllell. \n ",
