@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": null,
       "programme_title": "Gatland a'i Garfan: Ffrainc 2023",
       "short_billing": "Cyfle i edrych yn ôl ar daith Cymru a'r Cwpan - y paratoadau, y pwysau a'r heriau na fyddai unrhywun arall wedi' gweld o thu fewn y cyfarfodydd tim, y 'team talks' angerddol yn yr ystafell newid, yn ogystal â chyfweliadau ddofn gyda'r cymeriadau o fewn y garfan; megis Jack Morgan, Dewi Lake, Gareth Davies, Josh Adams, George North, Dan Biggar a'r dyn ei hun - Warren Gatland.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "144",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "88",
       "series_title": "Heno Aur",
@@ -1423,6 +1404,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "144",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Brwydro'r Gyllell",
       "short_billing": "Gyda'r nifer o droseddau â chyllell ar gynydd dros Gymru, mae Dot Davies yn cwrdd ag un dyn ifanc o Ogledd Cymru oedd bron marw ar ôl cael ei drywanu. A bydd Dot yn clywed sut mae un clwb hyfforddi ym Methesda yn ceisio paratoi pobl ifanc i amddiffyn eu hunain rhag cael eu bygwth gan gyllell. \n ",
