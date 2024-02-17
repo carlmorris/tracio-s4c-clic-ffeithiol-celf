@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Cymru",
       "short_billing": "Mae Bois y Pizza yn ol. Jez, Ieuz ac heb anghofio Smokey Pete --  a ma' nhw off ar antur  arall!  Y tro hon - taith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad. Wythnos bant i dîm rygbi Cymru --  felly ma'r bois yn aros yn nes at gatre ac yn crwydro eu hardal leol, Caerdydd. Ar ôl blasu rhai o fwydydd gorau y ddinas, ma'nhw am gynnal parti pizza sydd wedi'i ysbrydoli gan yr hyn ma' nhw di ddysgu. Corporation Yard, Bar 44, Bragdy Twt Lol, Ty Caws, Vegetarian Food Studio. Delish! ",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Bwyd Epic Chris",
-      "programme_title": "Bwyd Hanesyddol",
-      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
-      "clic_aired": "13 Ionawr 2024",
-      "fav_id": "801175552",
-      "id": "808269620",
-      "series_id": "808269501",
-      "title": "Bwyd Epic Chris",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "30",
       "series_title": "Bwyd Epic Chris",
@@ -397,6 +378,25 @@
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
       "date_broadcast": "2024-02-12 15:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Bwyd Epic Chris",
+      "programme_title": "Bwyd Hanesyddol",
+      "short_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P6_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Trwy ailddarganfod hen ryseitiau Cymreig, mae Chris yn profi bod gan y wlad gymaint mwy i'w chynnig. ",
+      "clic_aired": "13 Ionawr 2024",
+      "fav_id": "801175552",
+      "id": "808269620",
+      "series_id": "808269501",
+      "title": "Bwyd Epic Chris",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "147",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â th&#375; hynafol yng Nghonwy sy'n llawn nodweddion annisgwyl, cartref Edwardaidd crand yn y brifddinas a hen fwthyn glowr yng nghalon Cwm Tawe.   ",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â th&#375; hynafol yng Nghonwy sy'n llawn nodweddion annisgwyl, cartref Edwardaidd crand yn y brifddinas a hen fwthyn glowr yng nghalon Cwm Tawe.   ",
-      "clic_aired": "14 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657053",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-02-29 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "111",
       "series_title": "Dan Do",
@@ -967,6 +948,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "147",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â th&#375; hynafol yng Nghonwy sy'n llawn nodweddion annisgwyl, cartref Edwardaidd crand yn y brifddinas a hen fwthyn glowr yng nghalon Cwm Tawe.   ",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â th&#375; hynafol yng Nghonwy sy'n llawn nodweddion annisgwyl, cartref Edwardaidd crand yn y brifddinas a hen fwthyn glowr yng nghalon Cwm Tawe.   ",
+      "clic_aired": "14 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657053",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-02-29 18:30:00",
       "vs": "0"
     },
     {
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "88",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "145",
       "series_title": "Heno Aur",
@@ -1423,6 +1404,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-02-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "88",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Richard Holt - Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": null,
       "programme_title": "Y Pymtheg Olaf",
       "short_billing": "Cyfle arall i weld  cyn chwaraewr rygbi Cymru Dafydd Jones yn olrhain hanes aelodau tîm rygbi Cymru yn ystod y Rhyfel Byd Cyntaf. Mae'r ymchwil yn dadguddio straeon diddorol ac mae hanes 'Y Pymtheg Olaf' yn datgelu tipyn i ni am brofiad cyffredinol y Cymry yn ystod y Rhyfel.",
