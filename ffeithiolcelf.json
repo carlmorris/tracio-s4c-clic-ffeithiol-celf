@@ -762,7 +762,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Llwyfan y Maes: Candelas",
       "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": null,
       "programme_title": "Sage Todz: Y Neges Nid yr Iaith",
       "short_billing": "I nodi Mis Hanes Pobl Ddu - dyma daith gerddorol o amgylch Prydain lle mae'r artist hip hop Sage Todz yn cyfarfod artistiaid eraill sydd yn gweithio mewn ieithoedd lleiafrifol.",
@@ -1859,6 +1859,25 @@
       "id": "875241193",
       "series_id": null,
       "title": "Sage Todz: Y Neges Nid yr Iaith",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "57",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Sera Cracroft ",
+      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "clic_aired": "17 Tachwedd 2023",
+      "fav_id": "819088838",
+      "id": "878168920",
+      "series_id": "878168853",
+      "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1879,25 +1898,6 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-02-15 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "57",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Sera Cracroft ",
-      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "clic_aired": "17 Tachwedd 2023",
-      "fav_id": "819088838",
-      "id": "878168920",
-      "series_id": "878168853",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": null,
       "programme_title": "Wil, Aeron a'r Inca",
       "short_billing": "Mae Wil Hendreseifion ac Aeron Pughe yn ymgymryd â her newydd. O fynyddoedd Bro Ddyfi maen nhw'n mentro i uchelfannau Periw i fyw a gweithio ynghanol cymuned o fugeiliaid yr Andes. Dyma daith ysbrydoledig sy'n archwilio rhamant a realiti bywyd a thraddodiadau ffermwyr yr Inca. Ynghanol yr hwyl a'r antur, mae yma stori ddarganfod rymus a theimladwy; profiad sydd am aros yng nghof y ddau ffermwr o ardal Machynlleth am byth. ",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": null,
       "programme_title": "Y Tad, Y Mab a'r Côr",
       "short_billing": "Ffilm ddogfen gynnes a theimladwy ar y berthynas rhwng dynion a heneddio, trwy brism Côr Meibion Trelawnyd, un o gorau enwocaf Cymru.",
