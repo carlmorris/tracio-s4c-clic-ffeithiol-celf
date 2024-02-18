@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cefn Gwlad",
       "programme_title": "Troedyraur",
       "short_billing": "Ar ôl 70 mlynedd o odro ar fferm Troedyraur ym Mrongest ger Castell Newydd Emlyn, mae'r tad a mab Teifi a Rhys Evans wedi penderfynu gwerthu'r fuches laeth --  dilynwn ni nhw'n paratoi'r gwartheg at eu gwerthu ym mart Caerfyrddin.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Gyda nifer wedi dechrau wyna, Alun sy'n clywed beth yw'r prif broblemau yr adeg yma a sut i'w lleihau i wneud y cyfnod heriol yma yn fwy hwylus. Hefyd mi fyddwn yng Ngwobrau Lantra Cymru yn dathlu llwyddiannau unigolion ym maes amaethyddiaeth. Mae'r tywydd wedi bod yn destun trafod yn ddiweddar, a Megan Williams fydd yn darganfod sut fath o dywydd sydd ar y gorwel yn 2024; mi fyddwn hefyd yng nghynadledd CFFI Cymru sy'n rhoi cyfle i ffermwyr ifanc Cymru leisio ei barn ar ddyfodol y diwydiant.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1901,25 +1901,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "56",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Sera Cracroft ",
-      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "clic_aired": "17 Tachwedd 2023",
-      "fav_id": "819088838",
-      "id": "878168920",
-      "series_id": "878168853",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "146",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1936,6 +1917,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-02-15 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "56",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Sera Cracroft ",
+      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "clic_aired": "17 Tachwedd 2023",
+      "fav_id": "819088838",
+      "id": "878168920",
+      "series_id": "878168853",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
