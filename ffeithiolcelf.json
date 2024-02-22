@@ -40,25 +40,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
-      "series_title": "3 Lle",
-      "programme_title": "Gillian Elisa",
-      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
-      "clic_aired": "2 Ionawr 2024",
-      "fav_id": "520950896",
-      "id": "505397227",
-      "series_id": "505397202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "24",
       "series_title": "3 Lle",
       "programme_title": "Sean Fletcher",
@@ -72,6 +53,25 @@
       "fav_id": "520950896",
       "id": "536773682",
       "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "99",
+      "series_title": "3 Lle",
+      "programme_title": "Gillian Elisa",
+      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
+      "clic_aired": "2 Ionawr 2024",
+      "fav_id": "520950896",
+      "id": "505397227",
+      "series_id": "505397202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -230,7 +230,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn rai o werthwyr tai amlycaf Cymru gan brofi'r holl emosiwn a'r ddrama sy'n dod gyda rhoi ty ar werth.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -325,7 +325,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Tregaron",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
@@ -339,7 +339,7 @@
       "id": "842327104",
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
-      "date_broadcast": "2024-01-18 12:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -966,7 +966,7 @@
       "id": "872657081",
       "series_id": "872656845",
       "title": "Dan Do",
-      "date_broadcast": "2024-02-26 13:30:00",
+      "date_broadcast": "2024-03-07 18:30:00",
       "vs": "0"
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i'r Algarve. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
@@ -1008,22 +1008,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
-      "programme_title": "Sioned",
-      "short_billing": "Mae Cadi Matthews ac Owain Williams nol yn y stiwdio steilio i helpu unigolion haeddiannol ffeindio gwisgoedd perffaith ar gyfer achlysuron arbennig. Sioned sy'n cael ei steilio heddi, athrawes ysgol uwchradd sydd hefyd yn fam i'r hyfryd Idris, bachgen dwy flwydd oed.",
-      "thumbnail_url": "Dim_Byd_iw_Wisgo_2022S4C_1447.jpg",
-      "duration": "24",
+      "programme_title": "Elin ac Olive",
+      "short_billing": "Olive ac Elin, mam-gu ac wyres sy'n cael help Cadi ac Owain yn y stiwdio steilio heddi. Mae'r ddeuawd ddynamig o Rydaman yn chwilio am wisgoedd sydd yn wahanol i'r hyn ma' nhw fel arfer yn gwisgo, a rhai sydd gyda'r 'waw ffactor' ar gyfer mynd i briodas deuluol.",
+      "thumbnail_url": "Dim_Byd_iw_Wisgo_2022S4C_P2_001.jpg",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Cadi Matthews ac Owain Williams nol yn y stiwdio steilio i helpu unigolion haeddiannol ffeindio gwisgoedd perffaith ar gyfer achlysuron arbennig. Sioned sy'n cael ei steilio heddi, athrawes ysgol uwchradd sydd hefyd yn fam i'r hyfryd Idris, bachgen dwy flwydd oed.",
-      "clic_aired": "14 Chwefror 2024",
+      "full_billing": "Olive ac Elin, mam-gu ac wyres sy'n cael help Cadi ac Owain yn y stiwdio steilio heddi. Mae'r ddeuawd ddynamig o Rydaman yn chwilio am wisgoedd sydd yn wahanol i'r hyn ma' nhw fel arfer yn gwisgo, a rhai sydd gyda'r 'waw ffactor' ar gyfer mynd i briodas deuluol.",
+      "clic_aired": "21 Chwefror 2024",
       "fav_id": "800046900",
-      "id": "840743092",
+      "id": "840743116",
       "series_id": "840743082",
       "title": "Dim Byd i'w Wisgo - Cyfres 2",
-      "date_broadcast": "2024-02-14 23:00:00",
+      "date_broadcast": "2024-02-21 23:00:00",
       "vs": "0"
     },
     {
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1119",
+      "days_to_expire": "1118",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "807",
+      "days_to_expire": "806",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Radio Fa'ma",
       "programme_title": "Rhuthun",
       "short_billing": "Mae Kris Hughes a Tara Bethan yn Rhuthun i sgwrsio gyda phobl yr ardal am brofiadau sydd wedi effeithio ar eu bywydau, ac i glywed eu hoff ganeuon.  ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 3",
       "short_billing": "Mae hi'n ddiwedd tymor a dim ond y gemau cwpan ar ol. Mae'r merched angen adennill hyder a hunan-barch ond gyda llawer o'r tim yn meddwl gadael, fydd yna unrhyw beth ganddynt i'w ddathlu'    ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Y Ditectif",
       "programme_title": null,
       "short_billing": "Mali Harries sy'n dilyn ôl troed ditectifs Cymru ac yn dysgu am rai o achosion troseddol mwyaf arswydus Cymru. ",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Y Gêm",
       "programme_title": "Y Gêm gyda... - Osian Roberts ",
       "short_billing": "Yn y bennod yma fe fydd Owain Tudur Jones yn teithio i Marrakech i  sgwrsio a chyn is-hyfforddwr Tîm  Cymru a chyn Gyfarwyddwr technegol pêl droed Morocco - Osian Roberts",
