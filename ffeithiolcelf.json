@@ -115,6 +115,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "95",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "57",
       "series_title": "Adre",
@@ -131,25 +150,6 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2024-01-29 20:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "96",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Yn ôl ar S4C â chyfres newydd sbon eleni! Yn y bennod gyntaf mi fydd y ddau yng nghanol goleuadau llachar Efrog Newydd yn ymweld â Ynys Ellis, lle bu i aelod o deulu John deithio yno dros gan mlynedd yn ôl. Byddant hefyd yn cwrdd â mewnfudwyr Cymreig mwyaf diweddar y ddinas, ac yn cael cyfle i chwarae pêl-fâs gyd chriw o elusen ieuenctid yn Nwyrain Harlem sy'n gwneud iddynt sylwi nad yw eu hoedran yn rwystr i unrhyw antur. Fodd bynnag, buan maent yn sylwi bod teithio mewn camperfan yn llai esmwy",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "106",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "149",
       "series_title": "Dan Do",
@@ -986,6 +967,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2024-03-07 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "106",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "140",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "83",
       "series_title": "Heno Aur",
@@ -1461,6 +1442,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "140",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Pobl a'u Gerddi",
       "programme_title": "       Ffordd o fyw / Lifestyle",
       "short_billing": "Yn y rhaglen hon mae Aled Samuel yn ymweld a gardd Gwenda Griffith yn Tresimwn, gardd Mel a Heather Parkes yn y Trallwng a gardd John Hughes yn Creigiau. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Elinor Bennett",
       "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
