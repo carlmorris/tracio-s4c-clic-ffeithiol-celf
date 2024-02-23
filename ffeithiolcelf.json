@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Heno Aur",
       "programme_title": "Nadolig",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -1882,25 +1882,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "142",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Elinor Bennett",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
-      "clic_aired": "15 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087137",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-02-15 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "52",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1917,6 +1898,25 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "142",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Elinor Bennett",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P4_Elinor_Bennet.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn setlo o amgylch tanllwyth o dân ar gyfer sgwrs tan yr oriau mân yng nghwmni'r delynores, Elinor Bennett. Fe ddown ni i nabod y ddynes tu ôl i'r tannau - Elinor y gwleidydd, Elinor y gyfreithwraig, ac Elinor y wraig a'r fam annwyl. ",
+      "clic_aired": "15 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087137",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-02-15 12:05:00",
       "vs": "0"
     },
     {
