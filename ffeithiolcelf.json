@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cefn Gwlad",
       "programme_title": "Wini Jones Lewis",
       "short_billing": "Ifan Jones Evans sy'n mynd i Ben Llyn i gwrdd â'r artist Wini Jones Lewis sy'n teithio ar hyd a lled cefn gwlad gyda'i llyfr braslunio yn dehongli a chofnodi'r tirluniau sy'n dal ei llygaid. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Gyda nifer wedi dechrau wyna, Alun sy'n clywed beth yw'r prif broblemau yr adeg yma a sut i'w lleihau i wneud y cyfnod heriol yma yn fwy hwylus. Hefyd mi fyddwn yng Ngwobrau Lantra Cymru yn dathlu llwyddiannau unigolion ym maes amaethyddiaeth. Mae'r tywydd wedi bod yn destun trafod yn ddiweddar, a Megan Williams fydd yn darganfod sut fath o dywydd sydd ar y gorwel yn 2024; mi fyddwn hefyd yng nghynadledd CFFI Cymru sy'n rhoi cyfle i ffermwyr ifanc Cymru leisio ei barn ar ddyfodol y diwydiant.",
@@ -1407,25 +1407,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "137",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "81",
       "series_title": "Heno Aur",
@@ -1442,6 +1423,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "137",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Stryd i'r Sgrym",
       "programme_title": null,
       "short_billing": "Wrth i dîm rygbi Scott Quinnell fireinio eu sgiliiau ar y cae, oes ganddyn nhw'r hyn sydd ei angen i gymryd gêm gyfeillgar yn erbyn clwb Croesoswallt i baratoi ar gyfer eu her olaf yn Old Deer Park, Llundain ar Chwefror y 10fed' Ydyn nhw'n barod'\r\n ",
