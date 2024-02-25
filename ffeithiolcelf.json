@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "92",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "54",
       "series_title": "Adre",
@@ -150,6 +131,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2024-01-29 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "92",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": null,
       "programme_title": "Karl Jenkins: Pencerdd Penclawdd",
       "short_billing": "Cyfle arall i weld portread arbennig o un o'n cerddorion amlycaf, Karl Jenkins, i nodi ei ben-blwydd yn 80 oed. Bydd y cyflwynydd Nia Roberts yn clywed ffeithiau difyr am ei gefndir a'i gerddoriaeth unigryw a chawn glywed enghreifftiau o rai o'i weithiau poblogaidd gan gynnwys y gyfres hynod o ddarnau 'Adiemus', a'i gampwaith corawl, yr Offeren Heddwch.  Yn ogystal â chlywed gan y dyn ei hun, ceir cyfweliadau gan gerddorion, cyd-weithwyr a phenaethiaid cerdd a recordio rhyngwladol. ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
