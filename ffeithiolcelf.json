@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Heno Aur",
       "programme_title": "Nadolig",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -1613,6 +1613,25 @@
       "series_id": "863825597",
       "title": "Mike Phillips: Croeso i Dubai",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Mynyddoedd y Byd",
+      "programme_title": "Yr Himalaia: Ffion Dafis",
+      "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
+      "thumbnail_url": "Mynyddoedd_y_Byd_P1_Ffion_Dafis_Himalaia_KT7C7428.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sut beth yw byw ymhlith mynyddoedd uchaf y blaned' Yr actores amryddawn Ffion Dafis sy'n teithio ar hyd lôn newydd sy'n treiddio i galon yr Himalaia. Mae cewri o fynyddoedd ar bob llaw - ond eto ydyn nhw'n ddigon mawr i wrthsefyll holl bwysau'r byd modern'",
+      "clic_aired": "24 Chwefror 2024",
+      "fav_id": "535000152",
+      "id": "535000160",
+      "series_id": "535000152",
+      "title": "Mynyddoedd y Byd",
+      "date_broadcast": "2024-02-25 09:00:00",
       "vs": "0"
     },
     {
