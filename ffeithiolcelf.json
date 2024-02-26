@@ -1426,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "79",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "135",
       "series_title": "Heno Aur",
@@ -1461,6 +1442,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-02-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "79",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Karl Jenkins: Pencerdd Penclawdd",
       "short_billing": "Cyfle arall i weld portread arbennig o un o'n cerddorion amlycaf, Karl Jenkins, i nodi ei ben-blwydd yn 80 oed. Bydd y cyflwynydd Nia Roberts yn clywed ffeithiau difyr am ei gefndir a'i gerddoriaeth unigryw a chawn glywed enghreifftiau o rai o'i weithiau poblogaidd gan gynnwys y gyfres hynod o ddarnau 'Adiemus', a'i gampwaith corawl, yr Offeren Heddwch.  Yn ogystal â chlywed gan y dyn ei hun, ceir cyfweliadau gan gerddorion, cyd-weithwyr a phenaethiaid cerdd a recordio rhyngwladol. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
