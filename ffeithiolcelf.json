@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "24 Awr",
       "programme_title": "Tomi Roberts-Jones",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Tomi Roberts-Jones o Gaerdydd yn mynd i gynrychioli Cymru ym Mhencampwriaeth Athletau Prydain yn Derby.",
@@ -21,19 +21,19 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "17",
       "series_title": "3 Lle",
-      "programme_title": "Derwyn Jones",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
-      "clic_aired": "14 Tachwedd 2023",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
       "fav_id": "520950896",
-      "id": "357862281",
-      "series_id": "357862202",
+      "id": "536773682",
+      "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -59,19 +59,19 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "42",
       "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "programme_title": "Derwyn Jones",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
+      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
+      "clic_aired": "14 Tachwedd 2023",
       "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
+      "id": "357862281",
+      "series_id": "357862202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Agor y Clo",
       "programme_title": null,
       "short_billing": "Rhaglen ola'r gyfres sy'n agor y clo ar yr hanesion teuluol a chymdeithasol difyr y tu ôl i'r creiriau sy'n llechu yn ein cartrefi a'n cymunedau. Ymhlith y trysorau fydd yn rhyfeddu Manon Elis bydd casgliad o offer amaethyddol, gwydr lliw prydferth a chasgliad o fapiau arbennig sy'n adlais o oes a fu. ",
@@ -382,7 +382,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pancos Budr",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Pancos Budr.",
@@ -761,8 +761,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Caerdydd",
       "short_billing": "Bydd Heledd Cynwal yn cychwyn ei hymweliad i Gaerdydd drwy fynd ar drip cwch i Ynys Echni, yna'n dod i'r lan yn y Bae gan ddarganfod mwy am enwau Cymraeg y ddinas yn ogystal a chael cip olwg tu ol i'r llenni yn adeilad eiconig y Senedd.  Bydd Iestyn Jones yn adrodd hanes rhyfeddol Capten Scott, a Sion Tomos Owen ar un o strydoedd enwocaf y ddinas, Stryd Womanby.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Dan Do",
       "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Benfro i Trinidad",
       "short_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Dylan ar Daith",
       "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
       "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres. Dau nofiwr sydd am groesi o Ynys Enlli i'r tir mawr, taith adain un o awyrennau mwya'r byd ar Afon Dyfrdwy, a Chymraes sy'n teithio i'r Arctig ar drywydd llanw newydd sy'n ein bygwth ni i gyd. ",
@@ -2167,7 +2167,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "3",
       "days_to_expire": "145",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
