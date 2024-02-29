@@ -800,7 +800,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Llwyfan y Maes: Candelas",
       "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-04 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "98",
       "series_title": "Dan Do",
@@ -1024,6 +1005,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P5-971.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-04 13:30:00",
       "vs": "0"
     },
     {
@@ -1730,22 +1730,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "135",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
-      "short_billing": "Mae Pawb a'i Farn yng Nghaerdydd ar noson cyn i aelodau Llafur Cymru bleidleisio i ethol arweinydd newydd i'r blaid, gan gynnwys pwy fydd Prif Weinidog nesa' Cymru. Fe fyddwn yn clywed gan rai o aelodau Llafur a phobl tu allan i'r blaid ynglyn â'r blaenoriaethau fydd yn eu hwynebu. O iechyd i'r economi i 20 milltir yr awr, mae Pawb a'i Farn. Ar y noson cyn i'r bleidlais agor i ethol arweinydd newydd Llafur Cymru a'r Prif weinidog nesa Cymru, fe fydd Pawb a'i Farn yng Nghaerdydd, heno am naw",
+      "short_billing": "O Neuadd Les y Glowyr, Ystradgynlais - ac yng nghanol Pencampwriaeth y 6 Gwlad, rygbi Cymru fydd y pwnc. Beth yw dyfodol y gem - o'r tim cenedlaethol i'r clybie llawr gwlad; ydy'r gem wedi mynd yn fwy peryglus; a sut gellir denu mwy o chwaraewyr ifanc i'r clybiau lleol. Steffan Powell fydd yn arwain y drafodaeth.",
       "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
       "duration": "52",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Pawb a'i Farn yng Nghaerdydd ar noson cyn i aelodau Llafur Cymru bleidleisio i ethol arweinydd newydd i'r blaid, gan gynnwys pwy fydd Prif Weinidog nesa' Cymru. Fe fyddwn yn clywed gan rai o aelodau Llafur a phobl tu allan i'r blaid ynglyn â'r blaenoriaethau fydd yn eu hwynebu. O iechyd i'r economi i 20 milltir yr awr, mae Pawb a'i Farn. Ar y noson cyn i'r bleidlais agor i ethol arweinydd newydd Llafur Cymru a'r Prif weinidog nesa Cymru, fe fydd Pawb a'i Farn yng Nghaerdydd, heno am naw",
-      "clic_aired": "15 Chwefror 2024",
+      "full_billing": "O Neuadd Les y Glowyr, Ystradgynlais - ac yng nghanol Pencampwriaeth y 6 Gwlad, rygbi Cymru fydd y pwnc. Beth yw dyfodol y gem - o'r tim cenedlaethol i'r clybie llawr gwlad; ydy'r gem wedi mynd yn fwy peryglus; a sut gellir denu mwy o chwaraewyr ifanc i'r clybiau lleol. Steffan Powell fydd yn arwain y drafodaeth.",
+      "clic_aired": "29 Chwefror 2024",
       "fav_id": "525516112",
-      "id": "875031326",
+      "id": "875031352",
       "series_id": "875031185",
       "title": "Pawb a'i Farn",
-      "date_broadcast": "2024-02-15 21:00:00",
+      "date_broadcast": "2024-02-29 21:00:00",
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": null,
       "programme_title": "Sage Todz: Y Neges Nid yr Iaith",
       "short_billing": "I nodi Mis Hanes Pobl Ddu - dyma daith gerddorol o amgylch Prydain lle mae'r artist hip hop Sage Todz yn cyfarfod artistiaid eraill sydd yn gweithio mewn ieithoedd lleiafrifol.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": null,
       "programme_title": "Y Tad, Y Mab a'r Côr",
       "short_billing": "Ffilm ddogfen gynnes a theimladwy ar y berthynas rhwng dynion a heneddio, trwy brism Côr Meibion Trelawnyd, un o gorau enwocaf Cymru.",
