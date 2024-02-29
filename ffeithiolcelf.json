@@ -21,6 +21,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "42",
+      "series_title": "3 Lle",
+      "programme_title": "Derwyn Jones",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
+      "clic_aired": "14 Tachwedd 2023",
+      "fav_id": "520950896",
+      "id": "357862281",
+      "series_id": "357862202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "16",
       "series_title": "3 Lle",
       "programme_title": "Sean Fletcher",
@@ -53,25 +72,6 @@
       "fav_id": "520950896",
       "id": "505397227",
       "series_id": "505397202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "42",
-      "series_title": "3 Lle",
-      "programme_title": "Derwyn Jones",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
-      "clic_aired": "14 Tachwedd 2023",
-      "fav_id": "520950896",
-      "id": "357862281",
-      "series_id": "357862202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "49",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2024-01-29 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "88",
       "series_title": "Adre",
@@ -150,6 +131,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "49",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2024-01-29 20:00:00",
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Am Dro",
       "programme_title": null,
       "short_billing": "Yn y rhaglen yma bydd Andy'n tywys taith o Fodffordd i Langefni, Carys yn arwain y criw yng Nghaernarfon a'r Foryd, Sian o Landaf i ganol Caerdydd, a byddwn yn gorffen gyda Gwilym o gwmpas Castell Carreg Cennen.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2023",
       "short_billing": "10 carol mewn 10 lleoliad arbennig. Pa ysgol fydd yn ennill teitl Carol yr ¿yl 2023' Mared Williams ac Elidyr Glyn sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale, Arizona ar antur siopa i brynu Ceffylau i rai o'u cleientiaid cyfoethog o fewn Sioe mwyaf ceffylau Arabaidd yn y byd.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": "Creu Atgofion",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": null,
       "programme_title": "DRYCH: Stori Alys",
       "short_billing": "Dawnsio yw popeth i Alys. Ond llynedd newidodd ei bywyd dros nos wrth iddi golli ei choes mewn damwain adref. Mewn dogfen emosiynol, dirdynnol ond yn llawn gobaith a dewrder, byddwn yn dilyn Alys ar ei siwrne i geisio dawnsio eto.  ",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Benfro i Trinidad",
-      "short_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
-      "thumbnail_url": "Dylan_ar_Daith_2020S4C_P1_Thomas_Picton_006.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
-      "clic_aired": "23 Chwefror 2024",
-      "fav_id": "793726197",
-      "id": "532330299",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-02-23 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "69",
       "series_title": "Dylan ar Daith",
@@ -1138,6 +1119,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Benfro i Trinidad",
+      "short_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
+      "thumbnail_url": "Dylan_ar_Daith_2020S4C_P1_Thomas_Picton_006.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
+      "clic_aired": "23 Chwefror 2024",
+      "fav_id": "793726197",
+      "id": "532330299",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-02-23 15:05:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "FFIT Cymru 2023",
       "programme_title": "6 Mis Wedyn",
       "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Kelly, Matthew, Andrea, Linette a Dylan. Mewn rhaglen arbennig  ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr arweinwyr, gyda chefnogaeth barhaol yr arbenigwyr.  ",
@@ -1236,8 +1236,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "35",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Ffasiwn Drefn",
       "programme_title": null,
       "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Marred Jones o Fangor sy'n cael ei drawsnewid.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": null,
       "programme_title": "Gatland a'i Garfan: Ffrainc 2023",
       "short_billing": "Cyfle i edrych yn ôl ar daith Cymru a'r Cwpan - y paratoadau, y pwysau a'r heriau na fyddai unrhywun arall wedi' gweld o thu fewn y cyfarfodydd tim, y 'team talks' angerddol yn yr ystafell newid, yn ogystal â chyfweliadau ddofn gyda'r cymeriadau o fewn y garfan; megis Jack Morgan, Dewi Lake, Gareth Davies, Josh Adams, George North, Dan Biggar a'r dyn ei hun - Warren Gatland.",
@@ -1483,25 +1483,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "76",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "132",
       "series_title": "Heno Aur",
@@ -1518,6 +1499,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-02-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "76",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Prosiect Pum Mil",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": null,
       "programme_title": "Windrush: Rhwng Dau Fyd",
       "short_billing": "Rhaglen newydd yn ystod Mis Hanes Pobl Ddu. Beth yw bod yn Gymry' Sut mae siaradwyr Cymraeg yn edrych ' Beth am yr iaith ni'n ei defnyddio' 75 mlynedd ers I fenwnfudwyr o'r Caribi gyrraedd Prydain ar long y Windrush, Emily Pemberton sy'n holi'r cwestiynau, gan dynnu ar brofiadau ei theulu, ffrindiau a chymuned ddoe a heddiw yng Nghaerdydd. ",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Ail-ystyried Ail-gartrefi?",
       "short_billing": "Dot Davies sy'n cwrdd a busnesau yn Sir Benfro sy'n dweud fod polisiau Llywodraeth Cymru i fynd i'r afael ag ail gartrefi yn dinistrio diwydiant twristiaeth y sir. Fis cyn i'r cyngor sir gyflwyno premiwm o 200% ar berchnogion ail gartrefi, mae Dot yn clywed gan yr Aelod Senedd Ben Lake sy'n dweud fod y rheolau newydd wedi eu cyflwyno heb gyfiawnhad cadarn, a sy'n galw am eu hadolygu.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae Polly Garter y labrador wedi bod yn camfihafio. Mae'r tîm yn ceisio datrys problem yn llwnc cath fach, ac mae yna alwad brys gan fod terrier bach wedi cael ei frathu gan gi arall.\r\nBeth fydd eu hanes yn y Fets'",
