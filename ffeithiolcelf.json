@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "48",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": "2024-01-29 20:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "87",
       "series_title": "Adre",
@@ -150,6 +131,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "48",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": "2024-01-29 20:00:00",
       "vs": "0"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Tregaron",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Daniel Lloyd",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau poblogaidd. Cyfres 2017.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Gemma",
       "short_billing": "Mae gan Cadi ac Owain dasg arbennig heddi, ffeindio gwisg addas ar gyfer parti plu, a'r iâr sydd angen eu sylw nhw yw Gemma. Athrawes nofio o Gaerffili, sydd hefyd yn fam i Ella, merch un flwydd oed.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "68",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
-      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
-      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
-      "clic_aired": "11 Rhagfyr 2023",
-      "fav_id": "793726197",
-      "id": "511569272",
-      "series_id": "511569164",
-      "title": "Dylan ar Daith",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "149",
       "series_title": "Dylan ar Daith",
@@ -1176,6 +1157,25 @@
       "series_id": "532330290",
       "title": "Dylan ar Daith",
       "date_broadcast": "2024-03-01 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "68",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
+      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
+      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
+      "clic_aired": "11 Rhagfyr 2023",
+      "fav_id": "793726197",
+      "id": "511569272",
+      "series_id": "511569164",
+      "title": "Dylan ar Daith",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1521,25 +1521,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "131",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "75",
       "series_title": "Heno Aur",
@@ -1556,6 +1537,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "131",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Radio Fa'ma",
       "programme_title": "Rhuthun",
       "short_billing": "Mae Kris Hughes a Tara Bethan yn Rhuthun i sgwrsio gyda phobl yr ardal am brofiadau sydd wedi effeithio ar eu bywydau, ac i glywed eu hoff ganeuon.  ",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Y Ditectif",
       "programme_title": null,
       "short_billing": "Mali Harries sy'n dilyn ôl troed ditectifs Cymru ac yn dysgu am rai o achosion troseddol mwyaf arswydus Cymru. ",
