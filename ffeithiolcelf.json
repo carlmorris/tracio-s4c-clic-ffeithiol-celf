@@ -173,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cefn Gwlad",
       "programme_title": "Tafarn Yr Eagles",
       "short_billing": "Mae'n ddiwedd cyfnod a dechrau pennod newydd yn hanes tafarn yr Eagles, Llanuwchllyn wrth i Meirion ac Eleri Pugh, y perchnogion ers 20 mlynedd rhoi'r ffidil yn y to, ac i fenter gymunedol newydd afael yn yr awennnau . Mari Lovgreen sy'n cwrdd â'r cwpl adeg eu diwrnodau olaf y tu n¿ôl i'r bar, gan ddod i adnabod criw Menter yr Eagles \nsy'n brwydro i sicrhau fod drysau'r dafarn yn parhau'n agored am flynyddoedd i ddod.",
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "67",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
-      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
-      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
-      "clic_aired": "11 Rhagfyr 2023",
-      "fav_id": "793726197",
-      "id": "511569272",
-      "series_id": "511569164",
-      "title": "Dylan ar Daith",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Dylan ar Daith",
@@ -1176,6 +1157,25 @@
       "series_id": "532330290",
       "title": "Dylan ar Daith",
       "date_broadcast": "2024-03-01 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "67",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
+      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
+      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
+      "clic_aired": "11 Rhagfyr 2023",
+      "fav_id": "793726197",
+      "id": "511569272",
+      "series_id": "511569164",
+      "title": "Dylan ar Daith",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Gyda nifer wedi dechrau wyna, Alun sy'n clywed beth yw'r prif broblemau yr adeg yma a sut i'w lleihau i wneud y cyfnod heriol yma yn fwy hwylus. Hefyd mi fyddwn yng Ngwobrau Lantra Cymru yn dathlu llwyddiannau unigolion ym maes amaethyddiaeth. Mae'r tywydd wedi bod yn destun trafod yn ddiweddar, a Megan Williams fydd yn darganfod sut fath o dywydd sydd ar y gorwel yn 2024; mi fyddwn hefyd yng nghynadledd CFFI Cymru sy'n rhoi cyfle i ffermwyr ifanc Cymru leisio ei barn ar ddyfodol y diwydiant.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1996,25 +1996,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "43",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Sera Cracroft ",
-      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "clic_aired": "17 Tachwedd 2023",
-      "fav_id": "819088838",
-      "id": "878168920",
-      "series_id": "878168853",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "147",
       "series_title": "Sgwrs Dan y Lloer",
@@ -2031,6 +2012,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-02-29 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "43",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Sera Cracroft ",
+      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "clic_aired": "17 Tachwedd 2023",
+      "fav_id": "819088838",
+      "id": "878168920",
+      "series_id": "878168853",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
