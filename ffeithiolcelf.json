@@ -40,25 +40,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "83",
-      "series_title": "3 Lle",
-      "programme_title": "Gillian Elisa",
-      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
-      "clic_aired": "2 Ionawr 2024",
-      "fav_id": "520950896",
-      "id": "505397227",
-      "series_id": "505397202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "8",
       "series_title": "3 Lle",
       "programme_title": "Sean Fletcher",
@@ -72,6 +53,25 @@
       "fav_id": "520950896",
       "id": "536773682",
       "series_id": "536773621",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "83",
+      "series_title": "3 Lle",
+      "programme_title": "Gillian Elisa",
+      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
+      "clic_aired": "2 Ionawr 2024",
+      "fav_id": "520950896",
+      "id": "505397227",
+      "series_id": "505397202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -381,7 +381,7 @@
       "vs": "0"
     },
     {
-      "count": "7",
+      "count": "6",
       "days_to_expire": "30",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Sando Stec Chris",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": null,
       "programme_title": "Cofio Clive Rowlands",
       "short_billing": "Rhaglen deyrnged i gofio'r chwaraewr a'r hyfforddwr rygbi diweddar, Clive Rowlands.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "DRYCH: Camau Tua'r Ser",
       "short_billing": "Ar ddechrau 2019 roedd Neil Hopper yn gweithio fel Llawfeddyg Fasgiwlar yn Ysbyty Frenhinol Cernyw yn Treliske ger Truro pan brofodd newid difrifol i'w fywyd tra ar wyliau.  Wedi dychwelyd adref datblygodd bneumonia ac yna sepsis wnaeth droi yn ddifrifol wael, a arweiniodd at lawdriniaeth lle bu'n rhaid trychu ei ddwy goes o dan y benglin. Tua blwyddyn wedi'r lawdrinaeth dychwelodd Neil at ei waith a dwy flynedd wedyn, ar ôl wynebu a goresgyn heriau rhyfeddol, mae her arall o'i flaen - y gofod!",
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": null,
       "programme_title": "DRYCH: Meddwl yn Wahanol",
       "short_billing": "Mae'r seiciatrydd Dr Olwen Payne yn gofyn os yw iaith a diwylliant yn llywio ein profiad o iechyd meddwl yng Nghymru. Taith bersonol a chraffus i ymchwilio'r nodweddion Cymreig unigryw a all fod yn ddylanwad ar salwch meddwl yn ein cymdeithas ni.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": null,
       "programme_title": "DRYCH: Y Côr ",
       "short_billing": "Ffilm ddogfen gynnes a theimladwy am Gôr Meibion Trelawnyd, un o gorau mawr Cymru. Ond, â chyfartaledd oedran y côr yn 74, mae angen aelodau. Dilynwn ymdrechion Ed, Merf, Gwyn ac eraill i recriwtio, a chael cipolwg ar eu bywyd pob dydd yn y broses. ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": null,
       "programme_title": "Wil, Aeron a'r Inca",
       "short_billing": "Mae Wil Hendreseifion ac Aeron Pughe yn ymgymryd â her newydd. O fynyddoedd Bro Ddyfi maen nhw'n mentro i uchelfannau Periw i fyw a gweithio ynghanol cymuned o fugeiliaid yr Andes. Dyma daith ysbrydoledig sy'n archwilio rhamant a realiti bywyd a thraddodiadau ffermwyr yr Inca. Ynghanol yr hwyl a'r antur, mae yma stori ddarganfod rymus a theimladwy; profiad sydd am aros yng nghof y ddau ffermwr o ardal Machynlleth am byth. ",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Mewn rhaglen arbennig, bydd Catrin Haf Jones yn holi'r ddau ymgeisydd sy'n gobeithio camu i sgidie Mark Drakeford fel arweinydd nesa'r Blaid Lafur yng Nghymru - Vaughan Gething AS a Jeremy Miles AS. Bydd panel o westeion yn y stiwdio yn ymateb, a'r Athro Richard Jones yn dadansoddi'r cyfan. ",
