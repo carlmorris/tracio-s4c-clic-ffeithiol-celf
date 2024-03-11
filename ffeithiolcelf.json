@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": null,
       "programme_title": "Aled a Russell: Gala Llangollen",
       "short_billing": "Uchafbwyntiau perfformiadau o lwyfan pafiliwn rhyngwladol Llangollen yng nghwmni Aled Jones a Russell Watson. Bydd Aled a Russell yn cyflwyno unawdau a deuwadau poblogaidd, fel Funniculi Funnicula a Cinema Paradiso. Bydd Aled heddiw yn perfformio gyda Aled ddoe, pan oedd yn soprano ifanc, mewn perfformiad unigryw o Pie Jesu, a chawn berfformiad gan Anoushka Shankar a'i dehongliadau hudolus ar y sitar. Nia Roberts sy'n cyflwyno wrth i'r Eisteddfod Ryngwladol ddathlu tri chwarter canrif.",
@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "135",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llithfaen ",
-      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
-      "clic_aired": "26 Chwefror 2024",
-      "fav_id": "760725904",
-      "id": "510830090",
-      "series_id": "510829993",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-02-26 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Caeau Cymru",
@@ -454,6 +435,25 @@
       "series_id": "519715672",
       "title": "Caeau Cymru",
       "date_broadcast": "2024-03-13 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "135",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llithfaen ",
+      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
+      "clic_aired": "26 Chwefror 2024",
+      "fav_id": "760725904",
+      "id": "510830090",
+      "series_id": "510829993",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-02-26 13:00:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Cefn Gwlad",
       "programme_title": "Dafydd Davies Aberteifi",
       "short_billing": "Gyda busnesau stryd fawr Aberteifi yn mynd o nerth i nerth, Ifan Jones Evans sy'n ymweld â busnes sydd wedi bod yno ers bron i 80 mlynedd - siop y cigydd Dewi James a'i Gwmni. Cawn gwrdd â Dafydd Davies, bwrodd ei brentisiaeth yn y diwyddiant ceir yn Coventry, ond erbyn hyn mae wedi dychwelyd adref i fod y trydydd cenhedlaeth o fwtseriaid teuluol yn magu stoc ar y fferm cartref ac yn gwasanaethu'r gymuned lleol.",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "146",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Drefeglwys i Sardinia",
-      "short_billing": "Dylan Iorwerth sy'n ymweld â phentre' bychan yn Yr Eidal ar gyfer agor amgueddfa i goffau Benjamin Piercy. Piercy oedd y peiriannydd a alluogodd i'r rheilffordd ddod i'r gorllewin, i Fachynlleth a thu hwnt, ac fe oedd yn gyfrifol am adeiladu nifer o bontydd a gorsafoedd ar draws Cymru gan gynnwys Pont y Bermo. Wedi llwyddiant yng Nghymru, fe gafodd ei wahodd i adeiladu system drenau yn Sardinia. Does dim llawer o bobl yng Nghymru yn cofio ei enw ond yn Sardinia, mae'n enw adnabyddus.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P3_Benjamin_Piercy_009.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dylan Iorwerth sy'n ymweld â phentre' bychan yn Yr Eidal ar gyfer agor amgueddfa i goffau Benjamin Piercy. Piercy oedd y peiriannydd a alluogodd i'r rheilffordd ddod i'r gorllewin, i Fachynlleth a thu hwnt, ac fe oedd yn gyfrifol am adeiladu nifer o bontydd a gorsafoedd ar draws Cymru gan gynnwys Pont y Bermo. Wedi llwyddiant yng Nghymru, fe gafodd ei wahodd i adeiladu system drenau yn Sardinia. Does dim llawer o bobl yng Nghymru yn cofio ei enw ond yn Sardinia, mae'n enw adnabyddus.",
-      "clic_aired": "8 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330343",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-03-08 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "58",
       "series_title": "Dylan ar Daith",
@@ -1138,6 +1119,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Drefeglwys i Sardinia",
+      "short_billing": "Dylan Iorwerth sy'n ymweld â phentre' bychan yn Yr Eidal ar gyfer agor amgueddfa i goffau Benjamin Piercy. Piercy oedd y peiriannydd a alluogodd i'r rheilffordd ddod i'r gorllewin, i Fachynlleth a thu hwnt, ac fe oedd yn gyfrifol am adeiladu nifer o bontydd a gorsafoedd ar draws Cymru gan gynnwys Pont y Bermo. Wedi llwyddiant yng Nghymru, fe gafodd ei wahodd i adeiladu system drenau yn Sardinia. Does dim llawer o bobl yng Nghymru yn cofio ei enw ond yn Sardinia, mae'n enw adnabyddus.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P3_Benjamin_Piercy_009.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dylan Iorwerth sy'n ymweld â phentre' bychan yn Yr Eidal ar gyfer agor amgueddfa i goffau Benjamin Piercy. Piercy oedd y peiriannydd a alluogodd i'r rheilffordd ddod i'r gorllewin, i Fachynlleth a thu hwnt, ac fe oedd yn gyfrifol am adeiladu nifer o bontydd a gorsafoedd ar draws Cymru gan gynnwys Pont y Bermo. Wedi llwyddiant yng Nghymru, fe gafodd ei wahodd i adeiladu system drenau yn Sardinia. Does dim llawer o bobl yng Nghymru yn cofio ei enw ond yn Sardinia, mae'n enw adnabyddus.",
+      "clic_aired": "8 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330343",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-03-08 15:05:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Gyda nifer wedi dechrau wyna, Alun sy'n clywed beth yw'r prif broblemau yr adeg yma a sut i'w lleihau i wneud y cyfnod heriol yma yn fwy hwylus. Hefyd mi fyddwn yng Ngwobrau Lantra Cymru yn dathlu llwyddiannau unigolion ym maes amaethyddiaeth. Mae'r tywydd wedi bod yn destun trafod yn ddiweddar, a Megan Williams fydd yn darganfod sut fath o dywydd sydd ar y gorwel yn 2024; mi fyddwn hefyd yng nghynadledd CFFI Cymru sy'n rhoi cyfle i ffermwyr ifanc Cymru leisio ei barn ar ddyfodol y diwydiant.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1882,25 +1882,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "138",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "29 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-02-29 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "34",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1936,6 +1917,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-03-10 17:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "138",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "29 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-02-29 12:05:00",
       "vs": "0"
     },
     {
