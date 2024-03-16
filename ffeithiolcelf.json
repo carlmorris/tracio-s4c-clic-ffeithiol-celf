@@ -21,25 +21,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
-      "series_title": "3 Lle",
-      "programme_title": "Sean Fletcher",
-      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
-      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
-      "clic_aired": "19 Hydref 2023",
-      "fav_id": "520950896",
-      "id": "536773682",
-      "series_id": "536773621",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "27",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
@@ -72,6 +53,25 @@
       "fav_id": "520950896",
       "id": "505397227",
       "series_id": "505397202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "3 Lle",
+      "programme_title": "Sean Fletcher",
+      "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
+      "thumbnail_url": "3_Lle_C5_Sean_Fletcher_DSC00012.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lleoliad cyntaf y cyflwynydd teledu Sean Fletcher yw'r ysgol breifat Widford Lodge, Essex lle derbyniodd ei addysg rhwng 7 ac 13 oed. Awn ymlaen i Fae Tor ym Mhenrhyn G¿yr, lle mae Sean wedi treulio sawl ymweliad braf gyda'i deulu. Yn Llundain, bydd Sean yn ymweld â Choleg King's a stiwdio ITV lle mae'n gweithio fel cyflwynydd ar Good Morning Britain ers tair blynedd.",
+      "clic_aired": "19 Hydref 2023",
+      "fav_id": "520950896",
+      "id": "536773682",
+      "series_id": "536773621",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -206,7 +206,7 @@
       "id": "870173164",
       "series_id": "870173036",
       "title": "Am Dro",
-      "date_broadcast": "2024-03-12 15:05:00",
+      "date_broadcast": "2024-03-30 12:25:00",
       "vs": "0"
     },
     {
@@ -529,7 +529,7 @@
       "id": "856611788",
       "series_id": "856611693",
       "title": "Canu gyda fy Arwr",
-      "date_broadcast": "2024-02-10 22:15:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1027,25 +1027,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "133",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "83",
       "series_title": "Dan Do",
@@ -1065,8 +1046,27 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "133",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i'r Algarve. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1096",
+      "days_to_expire": "1095",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "784",
+      "days_to_expire": "783",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1540,25 +1540,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "117",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
-      "clic_aired": "12 Chwefror 2024",
-      "fav_id": "810255618",
-      "id": "834036197",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-02-12 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "61",
       "series_title": "Heno Aur",
@@ -1575,6 +1556,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "117",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "thumbnail_url": "Heno_Aur_2021S4C_P6_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr y cyfnod. Yr wythnos hon, sêr chwaraeon a chanu y 90au, straeon dirgelwch, a sgwrs gyda'r naturiaethwr Iolo Williams.     ",
+      "clic_aired": "12 Chwefror 2024",
+      "fav_id": "810255618",
+      "id": "834036197",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-02-12 12:30:00",
       "vs": "0"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 3",
       "short_billing": "Mae hi'n ddiwedd tymor a dim ond y gemau cwpan ar ol. Mae'r merched angen adennill hyder a hunan-barch ond gyda llawer o'r tim yn meddwl gadael, fydd yna unrhyw beth ganddynt i'w ddathlu'    ",
@@ -1898,25 +1898,6 @@
       "series_id": "868807654",
       "title": "Rycia o `Ma",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-03-10 17:25:00",
       "vs": "0"
     },
     {
@@ -1955,6 +1936,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-02-29 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-03-10 17:25:00",
       "vs": "0"
     },
     {
@@ -2049,7 +2049,7 @@
       "id": "821380959",
       "series_id": "821380840",
       "title": "Teulu'r Castell",
-      "date_broadcast": "2024-02-10 10:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Y Gêm",
       "programme_title": "Y Gêm gyda... - Osian Roberts ",
       "short_billing": "Yn y bennod yma fe fydd Owain Tudur Jones yn teithio i Marrakech i  sgwrsio a chyn is-hyfforddwr Tîm  Cymru a chyn Gyfarwyddwr technegol pêl droed Morocco - Osian Roberts",
