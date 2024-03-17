@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "148",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Ystalyfera i Israel",
-      "short_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
-      "thumbnail_url": "Dylan_ar_Daith2017_P4_Lily_Tobias_4121.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
-      "clic_aired": "15 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330365",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-03-15 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "53",
       "series_title": "Dylan ar Daith",
@@ -1176,6 +1157,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Ystalyfera i Israel",
+      "short_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
+      "thumbnail_url": "Dylan_ar_Daith2017_P4_Lily_Tobias_4121.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
+      "clic_aired": "15 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330365",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-03-15 15:05:00",
       "vs": "0"
     },
     {
@@ -1540,25 +1540,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "59",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "116",
       "series_title": "Heno Aur",
@@ -1575,6 +1556,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-02-12 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "59",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
