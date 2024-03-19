@@ -477,7 +477,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "129",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "79",
       "series_title": "Dan Do",
@@ -1024,6 +1005,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "129",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "536",
+      "days_to_expire": "535",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": null,
       "programme_title": "Y Parchedig Emyr Ddrwg",
       "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
