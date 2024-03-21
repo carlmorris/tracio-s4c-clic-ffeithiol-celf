@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "146",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llanllwni",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Troedio caeau ardal Llanllwni yng ngogledd Sir Gaerfyrddin bydd Brychan Llyr a Rhian Parry yr wythnos hon. Bydd y rhaglen yn canolbwyntio ar gasgliad o enwau diddorol ar fferm y Gelli gyda Janet Howells, ac yn olrhain hanes cae ym Maesycrugiau lle bu ymosodiad cas ym 1858.",
-      "clic_aired": "18 Mawrth 2024",
-      "fav_id": "760725904",
-      "id": "519715703",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-03-20 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "125",
       "series_title": "Caeau Cymru",
@@ -454,6 +435,25 @@
       "series_id": "510829993",
       "title": "Caeau Cymru",
       "date_broadcast": "2024-02-26 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "146",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llanllwni",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Troedio caeau ardal Llanllwni yng ngogledd Sir Gaerfyrddin bydd Brychan Llyr a Rhian Parry yr wythnos hon. Bydd y rhaglen yn canolbwyntio ar gasgliad o enwau diddorol ar fferm y Gelli gyda Janet Howells, ac yn olrhain hanes cae ym Maesycrugiau lle bu ymosodiad cas ym 1858.",
+      "clic_aired": "18 Mawrth 2024",
+      "fav_id": "760725904",
+      "id": "519715703",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-03-20 18:00:00",
       "vs": "0"
     },
     {
@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Moron",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Moron fydd y cynhwysyn hollbwysig heddiw a bydd Bryn yn ymweld â garddwr sy'n defnyddio technegau arbennig i dyfu llysiau er mwyn eu harddangos mewn sioeau.",
-      "clic_aired": "19 Mawrth 2024",
-      "fav_id": "520950903",
-      "id": "519751693",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-03-22 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "106",
       "series_title": "Cegin Bryn",
@@ -587,6 +568,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-02-19 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Moron",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Moron fydd y cynhwysyn hollbwysig heddiw a bydd Bryn yn ymweld â garddwr sy'n defnyddio technegau arbennig i dyfu llysiau er mwyn eu harddangos mewn sioeau.",
+      "clic_aired": "19 Mawrth 2024",
+      "fav_id": "520950903",
+      "id": "519751693",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-03-22 13:30:00",
       "vs": "0"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Nant Conwy",
       "short_billing": "Nant Conwy - ardal gyfoethog o ran diwylliant a chyfoeth naturiol lle mae sawl cwm a phentre yn cyfuno i greu bro ddiddorol i'w darganfod gan y tim.  Bydd Heledd yn cloddio, Ffion yn dysgu mwy am gysylltiadau'r fro gyda'r eisteddfod, Iestyn yn dilyn yr afon i'w tharddle a Sion yn crwydro i adrodd hanes un o bontydd enwog yr ardal.",
@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "128",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "78",
       "series_title": "Dan Do",
@@ -1043,6 +1024,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "128",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Ystalyfera i Israel",
-      "short_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
-      "thumbnail_url": "Dylan_ar_Daith2017_P4_Lily_Tobias_4121.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
-      "clic_aired": "15 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330365",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-03-15 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "49",
       "series_title": "Dylan ar Daith",
@@ -1157,6 +1138,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Ystalyfera i Israel",
+      "short_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
+      "thumbnail_url": "Dylan_ar_Daith2017_P4_Lily_Tobias_4121.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Stori Lily Tobias o Ystalyfera, awdur, ymgyrchydd dros heddwch a hawliau menywod. Roedd yn dyheu am diriogaeth i'w chenedl yr Iddewon a gwelodd adeiladu'r wlad newydd Israel. A hithau a'i theulu ond newydd symud i Haifa, bu cyfres o ddigwyddiadau gwaedlyd a newidiodd hi a'i bywyd yn llwyr.  ",
+      "clic_aired": "15 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330365",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-03-15 15:05:00",
       "vs": "0"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Llanw",
       "programme_title": "Deall y Llanw",
       "short_billing": "Trwy straeon o Gymru a phedwar ban byd byddwn yn edrych ar ddylanwad y grym cyntefig hwn ar fywyd pob un ohonom. O lanw ucha'r byd i drobyllau a thonnau ysgubol, o fwrdd tancer olew i draethau Donegal, mae'r amrywiaeth yn rhyfeddol.",
@@ -1844,8 +1844,8 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
+      "count": "24",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Sian Northey fydd yn trafod ei llyfr, Yn y Ty Hwn, ac fe fydd gan Ann Marie fargeinion ar gyfer y Pasg. ",
