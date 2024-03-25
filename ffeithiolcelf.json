@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "64",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "25",
       "series_title": "Adre",
@@ -110,6 +91,25 @@
       "fav_id": "793406870",
       "id": "817959792",
       "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "64",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": null,
       "vs": "0"
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Tregaron",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
@@ -586,7 +586,7 @@
       "id": "511243061",
       "series_id": "511242932",
       "title": "Cegin Bryn",
-      "date_broadcast": "2024-02-19 18:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cymoedd Roy Noble",
       "programme_title": null,
       "short_billing": "In the second series, Roy Noble visits more South Wales Valleys including the Neath, Gwendraeth, Swansea and Loughor Valleys.",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i'r Algarve. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "45",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
-      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
-      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
-      "clic_aired": "11 Rhagfyr 2023",
-      "fav_id": "793726197",
-      "id": "511569272",
-      "series_id": "511569164",
-      "title": "Dylan ar Daith",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "147",
       "series_title": "Dylan ar Daith",
@@ -1157,6 +1138,25 @@
       "series_id": "532330290",
       "title": "Dylan ar Daith",
       "date_broadcast": "2024-03-22 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "45",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
+      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
+      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
+      "clic_aired": "11 Rhagfyr 2023",
+      "fav_id": "793726197",
+      "id": "511569272",
+      "series_id": "511569164",
+      "title": "Dylan ar Daith",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1087",
+      "days_to_expire": "1086",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "775",
+      "days_to_expire": "774",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1540,25 +1540,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "52",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "147",
       "series_title": "Heno Aur",
@@ -1575,6 +1556,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-03-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "52",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 3",
       "short_billing": "Mae hi'n ddiwedd tymor a dim ond y gemau cwpan ar ol. Mae'r merched angen adennill hyder a hunan-barch ond gyda llawer o'r tim yn meddwl gadael, fydd yna unrhyw beth ganddynt i'w ddathlu'    ",
@@ -1898,25 +1898,6 @@
       "series_id": "868807654",
       "title": "Rycia o `Ma",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "125",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "29 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-02-29 12:05:00",
       "vs": "0"
     },
     {
@@ -1936,6 +1917,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-03-10 17:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "125",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "29 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-02-29 12:05:00",
       "vs": "0"
     },
     {
@@ -2205,22 +2205,22 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "27",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Y Ditectif",
       "programme_title": null,
       "short_billing": "Mali Harries sy'n dilyn ôl troed ditectifs Cymru ac yn dysgu am rai o achosion troseddol mwyaf arswydus Cymru. ",
-      "thumbnail_url": "Y_Ditectif_2017_P5_Beddau_004.jpg",
+      "thumbnail_url": "Y_Ditectif_C5_P6.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Pan gafodd corff ei ddarganfod mewn gardd gefn yn Ne Cymru wedi ei lapio mewn plastig, roedd y 'corff yn y bag' wedi hawlio'r penawdau ar draws y byd. Am y tro cyntaf, mae'r ditectifs yn agor ffeiliau'r achos i ddangos sut roedd y llofrudd wedi cuddio'r corff.",
-      "clic_aired": "17 Mawrth 2024",
+      "full_billing": "Mae achosion o gam-drin plant yn rhywiol ar-lein ar gynnydd ym Mhrydain.  Yr wythnos hon mae Mali Harries yn dysgu am uned arbennig Heddlu Gogledd Cymru sydd yn targedu troseddwyr rhyw ac yn clywed sut y dalon nhw un troseddwr o'r Gogledd oedd yn talu i weld trais rhywiol yn erbyn bechgyn ben draw'r byd. ",
+      "clic_aired": "24 Mawrth 2024",
       "fav_id": "537190231",
-      "id": "537198298",
+      "id": "537198318",
       "series_id": "537198210",
       "title": "Y Ditectif",
-      "date_broadcast": "2024-03-17 23:00:00",
+      "date_broadcast": "2024-03-24 23:05:00",
       "vs": "0"
     },
     {
