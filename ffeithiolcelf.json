@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "65",
-      "series_title": "3 Lle",
-      "programme_title": "Gillian Elisa",
-      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
-      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
-      "clic_aired": "2 Ionawr 2024",
-      "fav_id": "520950896",
-      "id": "505397227",
-      "series_id": "505397202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "16",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
@@ -39,8 +20,27 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "65",
+      "series_title": "3 Lle",
+      "programme_title": "Gillian Elisa",
+      "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
+      "thumbnail_url": "3_Lle_C3_Gillian_Elisa_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i ddilyn yr actores Gillian Elisa Thomas, i dri lle sydd wedi chwarae rhan bwysig yn ei bywyd; tref Llanbedr Pont Steffan, set Pobol y Cwm a Theatr Victoria Palace yn Llundain.",
+      "clic_aired": "2 Ionawr 2024",
+      "fav_id": "520950896",
+      "id": "505397227",
+      "series_id": "505397202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Adam Price a Streic y Glowyr",
       "programme_title": null,
       "short_billing": "Adam Price sy'n teithio yn ôl mewn hanes i ddarganfod mwy am ddigwyddiadau dramatig Streic y Glowyr 1984-85.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "O fannau enwog i berlau cudd, bydd y cogyddion tanbaid Chris 'Flamebaster' Roberts a Tomos Parry yn coginio a chiniawa o amgylch Efrog Newydd¿ a thanio angerdd gwladgarol gyda gwledd Gymreig arbennig yn Brooklyn!",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": null,
       "programme_title": "Cofio Clive Rowlands",
       "short_billing": "Rhaglen deyrnged i gofio'r chwaraewr a'r hyfforddwr rygbi diweddar, Clive Rowlands.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": null,
       "programme_title": "DRYCH: Meddwl yn Wahanol",
       "short_billing": "Mae'r seiciatrydd Dr Olwen Payne yn gofyn os yw iaith a diwylliant yn llywio ein profiad o iechyd meddwl yng Nghymru. Taith bersonol a chraffus i ymchwilio'r nodweddion Cymreig unigryw a all fod yn ddylanwad ar salwch meddwl yn ein cymdeithas ni.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -1521,25 +1521,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "50",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "145",
       "series_title": "Heno Aur",
@@ -1556,6 +1537,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-03-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "50",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Mewn rhaglen arbennig, bydd Catrin Haf Jones yn holi'r ddau ymgeisydd sy'n gobeithio camu i sgidie Mark Drakeford fel arweinydd nesa'r Blaid Lafur yng Nghymru - Vaughan Gething AS a Jeremy Miles AS. Bydd panel o westeion yn y stiwdio yn ymateb, a'r Athro Richard Jones yn dadansoddi'r cyfan. ",
