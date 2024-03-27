@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "3 Lle",
       "programme_title": "Derwyn Jones",
       "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Ar Werth",
       "programme_title": null,
       "short_billing": "Dilynwn rai o werthwyr tai amlycaf Cymru gan brofi'r holl emosiwn a'r ddrama sy'n dod gyda rhoi ty ar werth.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y drydedd rhaglen byddwn yn mynd i Bartneriaeth Ogwen i gwrdd â Meleri Davies sy'n arwain y fenter gymdeithasol er lles Bethesda.  Byddwn hefyd yn cwrdd ag Adam Quaeck sy'n swyddog cynnal a chadw yn y pentre ac sy'n sôn am sut mae byw yn rhywle fel Bethsda yn llesol i iechyd meddwl rhywun.  Mae Neville Hughes yn un o hoelion wyth y gymdeithas glos hon ac yn hynod o weithgar yn y gymuned ac mae o a Grif",
@@ -362,22 +362,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Byd o Liw: Arlunwyr",
-      "programme_title": "Harry Riley",
-      "short_billing": "Yn y rhaglen hon o 2006 bydd y diweddar Osi Rhys Osmond yn ymweld ag Aberystwyth lle y'i paentiodd yr arlunydd Harry Riley boster rheilffordd i hybu'r dref glan môr. Y ddau arlunydd cyfoes fydd yn ail greu'r olygfa yw Catrin Williams a Meirion Jones. ",
+      "programme_title": "James Harris",
+      "short_billing": "Yn y rhaglen hon o 2006, bydd y diweddar Osi Rhys Osmond yn ymweld ag Ystumllwynarth ar Benrhyn G¿yr, lle'r paentiodd yr arlunydd James Harris olygfeydd morwrol cyffrous. Sut y bydd y lleoliad hwn yn ysbrydoli gwaith yr arlunwyr cyfoes Gwilym Pritchard a Catrin Webster'",
       "thumbnail_url": "Byd_o_Liw2007_002.jpg",
-      "duration": "23",
+      "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon o 2006 bydd y diweddar Osi Rhys Osmond yn ymweld ag Aberystwyth lle y'i paentiodd yr arlunydd Harry Riley boster rheilffordd i hybu'r dref glan môr. Y ddau arlunydd cyfoes fydd yn ail greu'r olygfa yw Catrin Williams a Meirion Jones. ",
-      "clic_aired": "20 Mawrth 2024",
+      "full_billing": "Yn y rhaglen hon o 2006, bydd y diweddar Osi Rhys Osmond yn ymweld ag Ystumllwynarth ar Benrhyn G¿yr, lle'r paentiodd yr arlunydd James Harris olygfeydd morwrol cyffrous. Sut y bydd y lleoliad hwn yn ysbrydoli gwaith yr arlunwyr cyfoes Gwilym Pritchard a Catrin Webster'",
+      "clic_aired": "27 Mawrth 2024",
       "fav_id": "793328399",
-      "id": "73914529",
+      "id": "73914544",
       "series_id": "73914508",
       "title": "Byd o Liw: Arlunwyr",
-      "date_broadcast": "2024-03-20 13:00:00",
+      "date_broadcast": "2024-03-27 13:00:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -610,7 +610,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "John Pierce Jones a Dilwyn Morgan yn hwylio o'r gogledd i'r de.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn rhaglen ola'r gyfres, bydd y ddau'n cael profiad 'ysbrydol' ym Machynys; taith wyllt draw i Ynys Echni, ac ymweliad ag ynys mwya' poblogaidd Cymru ¿ Ynys y Barri! ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Sir 5 ar y daith yw Sir Gâr, Sir Gaerfyrddin. Awn i Gaerfyrddin i fwynhau'r sîn roc Gymraeg yng Ng¿yl Canol Dre, i fwynhau seiclo yn ardal Llanelli, bro'r Scarlets, am drip i Dalacharn i flasu ysbryd Dylan Thomas ac am chips ar draeth Llansteffan. Gorffenwn yn y Mynydd Du, Drefach Felindre a Llandysul. Yna daw'r daith i ben yn sir enedigol Ryland, Ceredigion. Cawn fwynhau afonydd, traethau, pentrefi a threfin, trenau, rhaeadrau a promenâd!",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Gwlad Beirdd",
       "programme_title": "Hedd Wyn",
       "short_billing": "Y prifeirdd Mererid Hopwood a Tudur Dylan Jones sy'n bwrw golwg ar rai o feirdd mawr Cymru. ",
@@ -1521,25 +1521,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "144",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "clic_aired": "22 Mawrth 2024",
-      "fav_id": "810255618",
-      "id": "834036241",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-03-22 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "49",
       "series_title": "Heno Aur",
@@ -1556,6 +1537,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "144",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "clic_aired": "22 Mawrth 2024",
+      "fav_id": "810255618",
+      "id": "834036241",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-03-22 12:30:00",
       "vs": "0"
     },
     {
@@ -1901,25 +1901,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "133",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-03-10 17:25:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "122",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1936,6 +1917,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-02-29 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "133",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-03-10 17:25:00",
       "vs": "0"
     },
     {
