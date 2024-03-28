@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "61",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2024-03-31 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "22",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "61",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2024-03-31 12:00:00",
       "vs": "0"
     },
     {
@@ -1920,25 +1920,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "122",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "29 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-02-29 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "18",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1955,6 +1936,25 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "122",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "29 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-02-29 12:05:00",
       "vs": "0"
     },
     {
