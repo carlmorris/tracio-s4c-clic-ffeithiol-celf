@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
       "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "22",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "60",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": "2024-03-31 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "22",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Caeau Cymru",
       "programme_title": "Brynddu",
       "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Cegin Bryn",
       "programme_title": "Cyw Iar",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "148",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2022S4C_P2_Edit2.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
-      "clic_aired": "27 Mawrth 2024",
-      "fav_id": "858729963",
-      "id": "858730000",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-03-27 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "86",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -701,6 +682,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "148",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2022S4C_P2_Edit2.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
+      "clic_aired": "27 Mawrth 2024",
+      "fav_id": "858729963",
+      "id": "858730000",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-03-27 12:05:00",
       "vs": "0"
     },
     {
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Ffaldybrenin i Tsieina",
-      "short_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P5_Timothy_Richards.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
-      "clic_aired": "22 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330387",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-03-22 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "42",
       "series_title": "Dylan ar Daith",
@@ -1138,6 +1119,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Ffaldybrenin i Tsieina",
+      "short_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P5_Timothy_Richards.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
+      "clic_aired": "22 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330387",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-03-22 15:05:00",
       "vs": "0"
     },
     {
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Crymych",
       "short_billing": "Mae'n ddiwrnod gêm yng Nghlwb Rygbi Crymych ac mae 'na dros gant o foliau llwglyd i'w bwydo. Cyri cig oen cartre' a dahl llysieuol sydd ar y fwydlen yn ogystal ag un o ffefrynnau Beca, pwdin taffi. Côr Bois Y Frenni fydd yn diddanu'r criw gyda chân, a bydd dau aelod ifanc o'r clwb yn pobi cacen oren a siocled i ddiolch i Maureen, gofalwraig y clwb.",
@@ -1901,25 +1901,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "132",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-03-10 17:25:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "121",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1955,6 +1936,25 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "132",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-03-10 17:25:00",
       "vs": "0"
     },
     {
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
