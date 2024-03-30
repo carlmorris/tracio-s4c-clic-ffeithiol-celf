@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "13",
-      "series_title": "3 Lle",
-      "programme_title": "Derwyn Jones",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
-      "clic_aired": "14 Tachwedd 2023",
-      "fav_id": "520950896",
-      "id": "357862281",
-      "series_id": "357862202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "62",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
@@ -34,6 +15,25 @@
       "fav_id": "520950896",
       "id": "505397227",
       "series_id": "505397202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "13",
+      "series_title": "3 Lle",
+      "programme_title": "Derwyn Jones",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
+      "clic_aired": "14 Tachwedd 2023",
+      "fav_id": "520950896",
+      "id": "357862281",
+      "series_id": "357862202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "20",
-      "series_title": "Adre",
-      "programme_title": "Brett Johns",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
-      "clic_aired": "21 Tachwedd 2023",
-      "fav_id": "793406870",
-      "id": "817959792",
-      "series_id": "817959638",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "59",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "806786066",
       "title": "Adre",
       "date_broadcast": "2024-03-31 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "20",
+      "series_title": "Adre",
+      "programme_title": "Brett Johns",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "thumbnail_url": "Adre_2021-22S4C_P7_Brett_Johns_010-Enhanced-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr ymladdwr cymysg proffesiynol, Brett Johns.",
+      "clic_aired": "21 Tachwedd 2023",
+      "fav_id": "793406870",
+      "id": "817959792",
+      "series_id": "817959638",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -149,7 +149,7 @@
       "id": "870173204",
       "series_id": "870173036",
       "title": "Am Dro",
-      "date_broadcast": "2024-03-26 15:05:00",
+      "date_broadcast": "2024-04-13 13:00:00",
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": null,
       "programme_title": "Branwen: Dadeni",
       "short_billing": "Sioe gerdd epig sy'n dod ag un o'n chwedlau mwyaf adnabyddus i mewn i'r byd cyfoes. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Tregaron",
       "short_billing": "Yn y gyfres yma bydd 3 person o'r un ardal yn camu i'w ceginau i baratoi pryd o fwyd tri chwrs i'w gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. Ond nid nhw fydd yn paratoi na choginio y ryseit ma nhw wedi ei ddewis. Fydd na flas ar y bwyd ac ar y sgwrs rownd y bwrdd tybed' Y tro hwn, byddwn yn Nhregaron.",
@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "117",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llithfaen ",
-      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
-      "clic_aired": "26 Chwefror 2024",
-      "fav_id": "760725904",
-      "id": "510830090",
-      "series_id": "510829993",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-02-26 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "145",
       "series_title": "Caeau Cymru",
@@ -435,6 +416,25 @@
       "series_id": "519715672",
       "title": "Caeau Cymru",
       "date_broadcast": "2024-04-03 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "117",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llithfaen ",
+      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
+      "clic_aired": "26 Chwefror 2024",
+      "fav_id": "760725904",
+      "id": "510830090",
+      "series_id": "510829993",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-02-26 13:00:00",
       "vs": "0"
     },
     {
@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "98",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "146",
       "series_title": "Cegin Bryn",
@@ -587,6 +568,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-03-29 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "98",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2022S4C_P2_Edit2.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
-      "clic_aired": "27 Mawrth 2024",
-      "fav_id": "858729963",
-      "id": "858730000",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-03-27 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "84",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -701,6 +682,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2022S4C_P2_Edit2.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn yr ail raglen cawn weld pa fath o fwydydd mae Colleen a'u theulu yn mwynhau ar y penwythnos.  ",
+      "clic_aired": "27 Mawrth 2024",
+      "fav_id": "858729963",
+      "id": "858730000",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-03-27 12:05:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cymoedd Roy Noble",
       "programme_title": null,
       "short_billing": "In the second series, Roy Noble visits more South Wales Valleys including the Neath, Gwendraeth, Swansea and Loughor Valleys.",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "119",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "69",
       "series_title": "Dan Do",
@@ -1027,8 +1008,27 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "119",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i'r Algarve. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1082",
+      "days_to_expire": "1081",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "770",
+      "days_to_expire": "769",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1521,25 +1521,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "47",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "142",
       "series_title": "Heno Aur",
@@ -1556,6 +1537,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-03-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "47",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1840,7 +1840,7 @@
       "id": "871200292",
       "series_id": "871200168",
       "title": "Prosiect Pum Mil",
-      "date_broadcast": null,
+      "date_broadcast": "2024-04-13 19:30:00",
       "vs": "0"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 3",
       "short_billing": "Mae hi'n ddiwedd tymor a dim ond y gemau cwpan ar ol. Mae'r merched angen adennill hyder a hunan-barch ond gyda llawer o'r tim yn meddwl gadael, fydd yna unrhyw beth ganddynt i'w ddathlu'    ",
@@ -1897,25 +1897,6 @@
       "id": "868807702",
       "series_id": "868807654",
       "title": "Rycia o `Ma",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "16",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Sera Cracroft ",
-      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
-      "clic_aired": "17 Tachwedd 2023",
-      "fav_id": "819088838",
-      "id": "878168920",
-      "series_id": "878168853",
-      "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1959,6 +1940,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "16",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Sera Cracroft ",
+      "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "clic_aired": "17 Tachwedd 2023",
+      "fav_id": "819088838",
+      "id": "878168920",
+      "series_id": "878168853",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "58",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
@@ -1992,7 +1992,7 @@
       "id": "872323828",
       "series_id": "872323765",
       "title": "Siwrna Scandi Chris",
-      "date_broadcast": null,
+      "date_broadcast": "2024-04-13 14:30:00",
       "vs": "0"
     },
     {
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Y Ditectif",
       "programme_title": null,
       "short_billing": "Mali Harries sy'n dilyn ôl troed ditectifs Cymru ac yn dysgu am rai o achosion troseddol mwyaf arswydus Cymru. ",
@@ -2277,7 +2277,7 @@
       "id": "879178726",
       "series_id": "879178476",
       "title": "Y Fets",
-      "date_broadcast": "2024-03-24 10:00:00",
+      "date_broadcast": "2024-04-13 12:30:00",
       "vs": "0"
     },
     {
