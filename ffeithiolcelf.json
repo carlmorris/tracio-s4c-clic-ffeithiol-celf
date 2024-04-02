@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Rhiwbob",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
-      "clic_aired": "2 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751729",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-05 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "94",
       "series_title": "Cegin Bryn",
@@ -606,6 +587,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Rhiwbob",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
+      "clic_aired": "2 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751729",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-05 13:30:00",
       "vs": "0"
     },
     {
@@ -1540,25 +1540,6 @@
       "vs": "0"
     },
     {
-      "count": "19",
-      "days_to_expire": "30",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Arwyn Herald fydd yn lawnsio Cystadleuaeth Ffotograffiaeth y Gwanwyn a byddwn yn cael sgwrs a chân gyda Lowri Evans. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Arwyn Herald fydd yn lawnsio Cystadleuaeth Ffotograffiaeth y Gwanwyn a byddwn yn cael sgwrs a chân gyda Lowri Evans. ",
-      "clic_aired": "29 Mawrth 2024",
-      "fav_id": "520950912",
-      "id": "871483664",
-      "series_id": "871478307",
-      "title": "Heno",
-      "date_broadcast": "2024-04-01 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -1575,6 +1556,25 @@
       "series_id": "889377992",
       "title": "Heno",
       "date_broadcast": "2024-04-03 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "19",
+      "days_to_expire": "30",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Arwyn Herald fydd yn lawnsio Cystadleuaeth Ffotograffiaeth y Gwanwyn a byddwn yn cael sgwrs a chân gyda Lowri Evans. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Arwyn Herald fydd yn lawnsio Cystadleuaeth Ffotograffiaeth y Gwanwyn a byddwn yn cael sgwrs a chân gyda Lowri Evans. ",
+      "clic_aired": "29 Mawrth 2024",
+      "fav_id": "520950912",
+      "id": "871483664",
+      "series_id": "871478307",
+      "title": "Heno",
+      "date_broadcast": "2024-04-01 12:30:00",
       "vs": "0"
     },
     {
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
