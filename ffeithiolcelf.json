@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
       "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Caeau Cymru",
       "programme_title": "Dol Clettwr",
       "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
@@ -571,6 +571,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "93",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Cegin Bryn",
@@ -587,25 +606,6 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-04-05 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "94",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -685,25 +685,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "80",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "875080509",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -720,6 +701,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-04-03 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "80",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "875080509",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1141,25 +1141,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "36",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
-      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
-      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
-      "clic_aired": "11 Rhagfyr 2023",
-      "fav_id": "793726197",
-      "id": "511569272",
-      "series_id": "511569164",
-      "title": "Dylan ar Daith",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "145",
       "series_title": "Dylan ar Daith",
@@ -1176,6 +1157,25 @@
       "series_id": "532330290",
       "title": "Dylan ar Daith",
       "date_broadcast": "2024-03-29 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "36",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
+      "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
+      "thumbnail_url": "Dylan_Ar_Daith2014_P6_Llundain_Rockies.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aeth Dafydd ap Tomos yn fachgen 14 oed i Ganada i fod yn brentis gyda chwmni Hudson Bay a oedd yn allforio crwyn a ffwr o Ogledd America i Lundain ar gyfer y diwydiant hetiau. David Thompson oedd ei enw byth wedyn a Canada oedd ei gartref ar hyd ei oes. Bydd Dylan Iorwerth yn olrhain ei hanes anhygoel yn y rhaglen wrth deithio o Lundain i Orllewin Canada lle y mapiodd Thompson afon fawr y Columbia yn ogystal â rhannau helaeth o gyfandir Gogledd America.  Mae Thompson erbyn hyn yn cael y gydnabyd",
+      "clic_aired": "11 Rhagfyr 2023",
+      "fav_id": "793726197",
+      "id": "511569272",
+      "series_id": "511569164",
+      "title": "Dylan ar Daith",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "137",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "clic_aired": "22 Mawrth 2024",
-      "fav_id": "810255618",
-      "id": "834036241",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-03-22 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "42",
       "series_title": "Heno Aur",
@@ -1613,6 +1594,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "137",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "clic_aired": "22 Mawrth 2024",
+      "fav_id": "810255618",
+      "id": "834036241",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-03-22 12:30:00",
       "vs": "0"
     },
     {
@@ -1673,7 +1673,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "28",
       "series_title": "Mamwlad",
       "programme_title": "Laura Ashley",
@@ -1768,22 +1768,22 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "143",
+      "count": "8",
+      "days_to_expire": "149",
       "series_title": "Parti Bwyd Beca",
-      "programme_title": "Crymych",
-      "short_billing": "Mae'n ddiwrnod gêm yng Nghlwb Rygbi Crymych ac mae 'na dros gant o foliau llwglyd i'w bwydo. Cyri cig oen cartre' a dahl llysieuol sydd ar y fwydlen yn ogystal ag un o ffefrynnau Beca, pwdin taffi. Côr Bois Y Frenni fydd yn diddanu'r criw gyda chân, a bydd dau aelod ifanc o'r clwb yn pobi cacen oren a siocled i ddiolch i Maureen, gofalwraig y clwb.",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn rhaglen olaf y gyfreso 2016 bydd Beca yn teithio'n ôl adref i Gaerdydd i baratoi gwledd o fwydydd llysieuol. Y lleoliad i'r parti y tro yma bydd Pantri Penylan a'r gwestai arbennig fydd y gantores Kizzy Crawford.  Yn ogystal â pherfformio cân i'r gynulleidfa, bydd Kizzy'n helpu Beca i baratoi pryd gyda blas o Farbados, sef blodfresych jerk gyda reis a phys.  Hefyd ar y fwydlen, bydd ramen blasus hynod o syml a phwdin reis cnau coco gyda ffrwythau egsotig.  ",
       "thumbnail_url": "Parti_Bwyd_Beca_2016_170.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'n ddiwrnod gêm yng Nghlwb Rygbi Crymych ac mae 'na dros gant o foliau llwglyd i'w bwydo. Cyri cig oen cartre' a dahl llysieuol sydd ar y fwydlen yn ogystal ag un o ffefrynnau Beca, pwdin taffi. Côr Bois Y Frenni fydd yn diddanu'r criw gyda chân, a bydd dau aelod ifanc o'r clwb yn pobi cacen oren a siocled i ddiolch i Maureen, gofalwraig y clwb.",
-      "clic_aired": "27 Mawrth 2024",
+      "full_billing": "Yn rhaglen olaf y gyfreso 2016 bydd Beca yn teithio'n ôl adref i Gaerdydd i baratoi gwledd o fwydydd llysieuol. Y lleoliad i'r parti y tro yma bydd Pantri Penylan a'r gwestai arbennig fydd y gantores Kizzy Crawford.  Yn ogystal â pherfformio cân i'r gynulleidfa, bydd Kizzy'n helpu Beca i baratoi pryd gyda blas o Farbados, sef blodfresych jerk gyda reis a phys.  Hefyd ar y fwydlen, bydd ramen blasus hynod o syml a phwdin reis cnau coco gyda ffrwythau egsotig.  ",
+      "clic_aired": "3 Ebrill 2024",
       "fav_id": "538844725",
-      "id": "530173991",
+      "id": "530174015",
       "series_id": "530173837",
       "title": "Parti Bwyd Beca",
-      "date_broadcast": "2024-03-29 18:30:00",
+      "date_broadcast": "2024-04-05 18:30:00",
       "vs": "0"
     },
     {
@@ -1901,25 +1901,6 @@
       "vs": "0"
     },
     {
-      "count": "23",
-      "days_to_expire": "30",
-      "series_title": "Prynhawn Da",
-      "programme_title": null,
-      "short_billing": "Rhaglen arbennig yn hel atgofion gyda Glynnog Davies - cynhyrchydd a cyn-gyflwynydd Heno a Prynhawn Da ers dechrau'r rhaglen, sydd erbyn hyn wedi ymddeol. ",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_064-Edit.jpg",
-      "duration": "41",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig yn hel atgofion gyda Glynnog Davies - cynhyrchydd a cyn-gyflwynydd Heno a Prynhawn Da ers dechrau'r rhaglen, sydd erbyn hyn wedi ymddeol. ",
-      "clic_aired": "29 Mawrth 2024",
-      "fav_id": "520950923",
-      "id": "871693326",
-      "series_id": "871687827",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2024-03-29 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -1936,6 +1917,25 @@
       "series_id": "889413974",
       "title": "Prynhawn Da",
       "date_broadcast": "2024-04-02 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "23",
+      "days_to_expire": "30",
+      "series_title": "Prynhawn Da",
+      "programme_title": null,
+      "short_billing": "Rhaglen arbennig yn hel atgofion gyda Glynnog Davies - cynhyrchydd a cyn-gyflwynydd Heno a Prynhawn Da ers dechrau'r rhaglen, sydd erbyn hyn wedi ymddeol. ",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_064-Edit.jpg",
+      "duration": "41",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig yn hel atgofion gyda Glynnog Davies - cynhyrchydd a cyn-gyflwynydd Heno a Prynhawn Da ers dechrau'r rhaglen, sydd erbyn hyn wedi ymddeol. ",
+      "clic_aired": "29 Mawrth 2024",
+      "fav_id": "520950923",
+      "id": "871693326",
+      "series_id": "871687827",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2024-03-29 14:05:00",
       "vs": "0"
     },
     {
@@ -1977,6 +1977,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "115",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "29 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-02-29 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "126",
       "series_title": "Sgwrs Dan y Lloer",
@@ -2012,25 +2031,6 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "115",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "29 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-02-29 12:05:00",
       "vs": "0"
     },
     {
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
