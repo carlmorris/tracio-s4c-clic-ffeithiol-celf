@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "145",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Dol Clettwr",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yng Ngogledd Ceredigion bydd Brychan Llyr a Rhian Parry ar gyfer pedwaredd raglen y gyfres, ar dir fferm Dol Clettwr ym mhentref Tre'r Ddôl, sydd hanner ffordd rhwng Machynlleth ac Aberystwyth. Mae enwau a hanesion y caeau yn adlewyrchiad o hanesion cyfoethog y pentref.",
-      "clic_aired": "1 Ebrill 2024",
-      "fav_id": "760725904",
-      "id": "519715747",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-04-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "110",
       "series_title": "Caeau Cymru",
@@ -473,6 +454,25 @@
       "series_id": "510829993",
       "title": "Caeau Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "145",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Dol Clettwr",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yng Ngogledd Ceredigion bydd Brychan Llyr a Rhian Parry ar gyfer pedwaredd raglen y gyfres, ar dir fferm Dol Clettwr ym mhentref Tre'r Ddôl, sydd hanner ffordd rhwng Machynlleth ac Aberystwyth. Mae enwau a hanesion y caeau yn adlewyrchiad o hanesion cyfoethog y pentref.",
+      "clic_aired": "1 Ebrill 2024",
+      "fav_id": "760725904",
+      "id": "519715747",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-04-10 18:00:00",
       "vs": "0"
     },
     {
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "146",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Rhiwbob",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
-      "clic_aired": "2 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751729",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-05 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "91",
       "series_title": "Cegin Bryn",
@@ -625,6 +606,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Rhiwbob",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
+      "clic_aired": "2 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751729",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-05 13:30:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
       "programme_title": "Llwyfan y Maes: Candelas",
       "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
@@ -1065,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "112",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "62",
       "series_title": "Dan Do",
@@ -1100,6 +1081,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "112",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Lleuwen Steffan",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau poblogaidd. Cyfres 2017.",
@@ -1179,25 +1179,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "142",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Aberystwyth i'r Almaen",
-      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "clic_aired": "29 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330409",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-03-29 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "33",
       "series_title": "Dylan ar Daith",
@@ -1214,6 +1195,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "142",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Aberystwyth i'r Almaen",
+      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "clic_aired": "29 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330409",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-03-29 15:05:00",
       "vs": "0"
     },
     {
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": null,
       "programme_title": "Wil, Aeron a'r Inca",
       "short_billing": "Mae Wil Hendreseifion ac Aeron Pughe yn ymgymryd â her newydd. O fynyddoedd Bro Ddyfi maen nhw'n mentro i uchelfannau Periw i fyw a gweithio ynghanol cymuned o fugeiliaid yr Andes. Dyma daith ysbrydoledig sy'n archwilio rhamant a realiti bywyd a thraddodiadau ffermwyr yr Inca. Ynghanol yr hwyl a'r antur, mae yma stori ddarganfod rymus a theimladwy; profiad sydd am aros yng nghof y ddau ffermwr o ardal Machynlleth am byth. ",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Y Gêm",
       "programme_title": "Jonny Clayton",
       "short_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
