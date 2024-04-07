@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "110",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "60",
       "series_title": "Dan Do",
@@ -1119,6 +1100,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "110",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "32",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Heddiw, byddwn yn clywed am hanes ffilm newydd Netflix, Scoop, a byddwn yn Nhafarn Rhos yr Hafod. ",
-      "thumbnail_url": "Heno_2016S4C_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw, byddwn yn clywed am hanes ffilm newydd Netflix, Scoop, a byddwn yn Nhafarn Rhos yr Hafod. ",
-      "clic_aired": "5 Ebrill 2024",
-      "fav_id": "520950912",
-      "id": "889378080",
-      "series_id": "889377992",
-      "title": "Heno",
-      "date_broadcast": "2024-04-08 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "16",
       "days_to_expire": "25",
       "series_title": "Heno",
@@ -1613,6 +1594,25 @@
       "series_id": "871478307",
       "title": "Heno",
       "date_broadcast": "2024-04-01 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "32",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Heddiw, byddwn yn clywed am hanes ffilm newydd Netflix, Scoop, a byddwn yn Nhafarn Rhos yr Hafod. ",
+      "thumbnail_url": "Heno_2016S4C_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw, byddwn yn clywed am hanes ffilm newydd Netflix, Scoop, a byddwn yn Nhafarn Rhos yr Hafod. ",
+      "clic_aired": "5 Ebrill 2024",
+      "fav_id": "520950912",
+      "id": "889378080",
+      "series_id": "889377992",
+      "title": "Heno",
+      "date_broadcast": "2024-04-08 12:30:00",
       "vs": "0"
     },
     {
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
