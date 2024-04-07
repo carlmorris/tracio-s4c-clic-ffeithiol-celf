@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Dol Clettwr",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yng Ngogledd Ceredigion bydd Brychan Llyr a Rhian Parry ar gyfer pedwaredd raglen y gyfres, ar dir fferm Dol Clettwr ym mhentref Tre'r Ddôl, sydd hanner ffordd rhwng Machynlleth ac Aberystwyth. Mae enwau a hanesion y caeau yn adlewyrchiad o hanesion cyfoethog y pentref.",
-      "clic_aired": "1 Ebrill 2024",
-      "fav_id": "760725904",
-      "id": "519715747",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-04-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "108",
       "series_title": "Caeau Cymru",
@@ -473,6 +454,25 @@
       "series_id": "510829993",
       "title": "Caeau Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Dol Clettwr",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yng Ngogledd Ceredigion bydd Brychan Llyr a Rhian Parry ar gyfer pedwaredd raglen y gyfres, ar dir fferm Dol Clettwr ym mhentref Tre'r Ddôl, sydd hanner ffordd rhwng Machynlleth ac Aberystwyth. Mae enwau a hanesion y caeau yn adlewyrchiad o hanesion cyfoethog y pentref.",
+      "clic_aired": "1 Ebrill 2024",
+      "fav_id": "760725904",
+      "id": "519715747",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-04-10 18:00:00",
       "vs": "0"
     },
     {
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": null,
       "programme_title": "Gatland a'i Garfan: Ffrainc 2023",
       "short_billing": "Cyfle i edrych yn ôl ar daith Cymru a'r Cwpan - y paratoadau, y pwysau a'r heriau na fyddai unrhywun arall wedi' gweld o thu fewn y cyfarfodydd tim, y 'team talks' angerddol yn yr ystafell newid, yn ogystal â chyfweliadau ddofn gyda'r cymeriadau o fewn y garfan; megis Jack Morgan, Dewi Lake, Gareth Davies, Josh Adams, George North, Dan Biggar a'r dyn ei hun - Warren Gatland.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": null,
       "programme_title": "Port Talbot - Diwedd y Dur?",
       "short_billing": "Mae gwaith dur Tata yn ymgynghori ar golli 2,400 o swyddi yn y gwaith dur ym Mhort Talbot erbyn diwedd mis Mawrth eleni. Yn y rhaglen hon fe fyddwn ni yn dod i wybod mwy am y gymuned trwy lygaid dau aelod. Mae'r dref a'r ardal yn ddibynnol ar y gwaith dur am gyflogaeth, ac mewn rhyw fodd neu gilydd, mae pob un agwedd bron ar y gymuned â chysylltiad gyda'r gwaith dur. A oes yna obaith i'r gymuned ar ôl colli'r nifer hyn o swyddi'",
@@ -1996,6 +1996,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "121",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-03-10 17:25:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "111",
       "series_title": "Sgwrs Dan y Lloer",
@@ -2031,25 +2050,6 @@
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "121",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-03-10 17:25:00",
       "vs": "0"
     },
     {
