@@ -496,7 +496,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Canu gyda fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "141",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Rhiwbob",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
-      "clic_aired": "2 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751729",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-05 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "86",
       "series_title": "Cegin Bryn",
@@ -625,6 +606,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "141",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Rhiwbob",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7377.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhiwbob yw seren y rhaglen hon - ond does dim crymbl yn agos at y lle! Bydd Bryn Williams yn defnyddio'r rhiwbob llachar i greu pryd tri chwrs cyflawn. Bydd e hefyd yn ymweld â garddwr brwd sy'n cadw gardd a rhandir llawn llysiau amrywiol ym Mlaenau Ffestiniog.",
+      "clic_aired": "2 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751729",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-05 13:30:00",
       "vs": "0"
     },
     {
@@ -1179,25 +1179,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "137",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Aberystwyth i'r Almaen",
-      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "clic_aired": "29 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330409",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-04-22 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "28",
       "series_title": "Dylan ar Daith",
@@ -1214,6 +1195,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "137",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Aberystwyth i'r Almaen",
+      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "clic_aired": "29 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330409",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-04-22 22:30:00",
       "vs": "0"
     },
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "514",
+      "days_to_expire": "513",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Cymro, Saesneg, Nigerian? Pwy ydw i?",
       "short_billing": "Dyn ifanc yn ystyried sut mae diwylliant, traddodiadau a threftadaeth yn diffinio ei hunaniaeth",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": null,
       "programme_title": "Y Parchedig Emyr Ddrwg",
       "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
