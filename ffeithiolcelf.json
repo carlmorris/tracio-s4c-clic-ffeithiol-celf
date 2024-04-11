@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "0",
-      "series_title": "3 Lle",
-      "programme_title": "Derwyn Jones",
-      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
-      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
-      "clic_aired": "14 Tachwedd 2023",
-      "fav_id": "520950896",
-      "id": "357862281",
-      "series_id": "357862202",
-      "title": "3 Lle",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "49",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
@@ -34,6 +15,25 @@
       "fav_id": "520950896",
       "id": "505397227",
       "series_id": "505397202",
+      "title": "3 Lle",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "3 Lle",
+      "programme_title": "Derwyn Jones",
+      "short_billing": "Rhai o wynebau adnabyddus Cymru sy'n ein cyflwyno i dri lle sydd neu fu'n chwarae rhan bwysig yn eu bywydau nhw.",
+      "thumbnail_url": "3_Lle_C1_Derwen_Jones_2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn chwaraewr a'r sylwebydd rygbi, Derwyn Jones, sydd yn mynd â ni i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Cwm Dulais ger Pontarddulais, Parc yr Arfau yng Nghaerdydd ac Ysgol Arnold Lodge yn Leamington Spa.",
+      "clic_aired": "14 Tachwedd 2023",
+      "fav_id": "520950896",
+      "id": "357862281",
+      "series_id": "357862202",
       "title": "3 Lle",
       "date_broadcast": null,
       "vs": "0"
@@ -743,7 +743,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cyfres 2024",
       "programme_title": null,
       "short_billing": "Sharon Leech sy'n rhannu tipiau ar sut mae steilio silffoedd, a bydd y milfeddyg yn y stiwdio. ",
@@ -1502,25 +1502,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "34",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "129",
       "series_title": "Heno Aur",
@@ -1537,6 +1518,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-03-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1863,8 +1863,8 @@
       "vs": "0"
     },
     {
-      "count": "17",
-      "days_to_expire": "22",
+      "count": "16",
+      "days_to_expire": "21",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Rhaglen arbennig yn hel atgofion gyda Glynnog Davies - cynhyrchydd a cyn-gyflwynydd Heno a Prynhawn Da ers dechrau'r rhaglen, sydd erbyn hyn wedi ymddeol. ",
