@@ -59,25 +59,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "45",
-      "series_title": "Adre",
-      "programme_title": "Robat Arwyn",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
-      "clic_aired": "30 Rhagfyr 2023",
-      "fav_id": "793406870",
-      "id": "806786119",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2024-04-13 16:55:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "6",
       "series_title": "Adre",
       "programme_title": "Brett Johns",
@@ -93,6 +74,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "45",
+      "series_title": "Adre",
+      "programme_title": "Robat Arwyn",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P3_Robat_Arwyn_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y cerddor Robat Arwyn yn Rhuthun",
+      "clic_aired": "30 Rhagfyr 2023",
+      "fav_id": "793406870",
+      "id": "806786119",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2024-04-13 16:55:00",
       "vs": "0"
     },
     {
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "106",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "55",
       "series_title": "Dan Do",
@@ -986,6 +967,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "106",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1464,7 +1464,7 @@
       "vs": "0"
     },
     {
-      "count": "14",
+      "count": "13",
       "days_to_expire": "21",
       "series_title": "Heno",
       "programme_title": null,
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Heno-Cyfres 2024",
       "programme_title": null,
       "short_billing": "Heledd Cynwal fydd yn westai ar y soffa i drafod Can i Gymru a byddwn yn sgwrsio gyda Brett Johns cyn ei ffeit fawr wythnos nesaf. ",
