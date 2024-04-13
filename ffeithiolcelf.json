@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": null,
       "programme_title": "Cranogwen gyda Ffion Hague",
       "short_billing": "Yr hanesydd a'r ddarlledwraig Ffion Hague sy'n olrhain stori yr arwres arloesol Cranogwen, wrth i gerflun arbennig ohoni gael ei ddadorchuddio yn Llangrannog.  ",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "22",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "1 Ebrill 2024",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2024-04-01 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "23",
       "series_title": "Cynefin",
@@ -815,6 +796,25 @@
       "series_id": "832947033",
       "title": "Cynefin",
       "date_broadcast": "2024-04-02 13:15:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "22",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "1 Ebrill 2024",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2024-04-01 13:15:00",
       "vs": "0"
     },
     {
@@ -1483,25 +1483,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "127",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "clic_aired": "22 Mawrth 2024",
-      "fav_id": "810255618",
-      "id": "834036241",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": "2024-03-22 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "32",
       "series_title": "Heno Aur",
@@ -1518,6 +1499,25 @@
       "series_id": "809467444",
       "title": "Heno Aur",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "127",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "clic_aired": "22 Mawrth 2024",
+      "fav_id": "810255618",
+      "id": "834036241",
+      "series_id": "834036078",
+      "title": "Heno Aur",
+      "date_broadcast": "2024-03-22 12:30:00",
       "vs": "0"
     },
     {
@@ -2012,6 +2012,25 @@
       "series_id": "872323765",
       "title": "Siwrna Scandi Chris",
       "date_broadcast": "2024-04-13 14:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Stori'r Iaith",
+      "programme_title": "Lisa Jen",
+      "short_billing": "Lisa Jên sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd Lisa yn dysgu am Gymreictod cymunedau llechi'r gogledd ac yn darganfod mwy am wreiddiau'r berthynas anodd rhwng Cymraeg a Saesneg.  Mae'n darganfod effeithiau hir dymor y Deddfau Uno 500 mlynedd yn ôl ar yr iaith Gymraeg ac yn datgelu'r gwirionedd anghyfforddus am y Welsh Not. Cyfres sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
+      "thumbnail_url": "Storir_Iaith_2023S4C_P2_LisaJ.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lisa Jên sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd Lisa yn dysgu am Gymreictod cymunedau llechi'r gogledd ac yn darganfod mwy am wreiddiau'r berthynas anodd rhwng Cymraeg a Saesneg.  Mae'n darganfod effeithiau hir dymor y Deddfau Uno 500 mlynedd yn ôl ar yr iaith Gymraeg ac yn datgelu'r gwirionedd anghyfforddus am y Welsh Not. Cyfres sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
+      "clic_aired": "13 Ebrill 2024",
+      "fav_id": "808323681",
+      "id": "808323721",
+      "series_id": "808323681",
+      "title": "Stori'r Iaith",
+      "date_broadcast": "2024-04-13 17:20:00",
       "vs": "0"
     },
     {
