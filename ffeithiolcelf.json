@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "52",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "102",
       "series_title": "Dan Do",
@@ -967,6 +948,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2024-03-21 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "52",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1445,25 +1445,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "29",
-      "series_title": "Heno Aur",
-      "programme_title": "Nadolig",
-      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
-      "clic_aired": "18 Rhagfyr 2023",
-      "fav_id": "810255618",
-      "id": "810075913",
-      "series_id": "809467444",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "125",
       "series_title": "Heno Aur",
@@ -1480,6 +1461,25 @@
       "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": "2024-03-22 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "29",
+      "series_title": "Heno Aur",
+      "programme_title": "Nadolig",
+      "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "thumbnail_url": "Heno_Aur_2020S4C_P12_Nadolig_2615.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
+      "clic_aired": "18 Rhagfyr 2023",
+      "fav_id": "810255618",
+      "id": "810075913",
+      "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Iaith ar Daith",
       "programme_title": "Jayde Adams a Geraint Edwards",
       "short_billing": "Yn y rhaglen olaf o'r gyfres Iaith ar Daith y comedïwyr a'r actorion Jayde Adams a Geraint Rhys Edwards sy'n teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Jayde i  ddysgu Cymraeg. Fe fydd Jayde yn gwynebu cyfres o sialensau ieithyddol ac fe fydd Geraint wrth ei hochor ar hyd y ffordd. Ac fe fydd digon o gaws i gyd-fynd gydag ambell jôc gawslyd falle'\nOnd- a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1825,8 +1825,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "42",
+      "count": "5",
+      "days_to_expire": "41",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Waliau'n Siarad",
       "programme_title": "Castell y Strade, Llanelli",
       "short_billing": "Gydag Aled Hughes a Sara Huws, cyfle i grwydro coridorau crand Castell y Strade, Llanelli. Sut daeth cyfreithiwr cyffredin o Sir Gâr i etifeddu'r plasdy' Pwy oedd yr artist wariodd ffortiwn yn troi'r ty yn gastell' A beth yw'r cysylltiad â'r Orsedd'",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
       "short_billing": "Yn y bennod olaf o'r gyfres bydd y tîm yn creu trefniant i ddathlu 20 mlynedd o elusen Prostate Cymru. ",
