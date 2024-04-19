@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "78",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "133",
       "series_title": "Cegin Bryn",
@@ -530,6 +511,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-04-05 13:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "78",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": null,
       "programme_title": "Colli Dy Dafod",
       "short_billing": "Katie Owen a Molly Palmer sy'n neidio yn eu fan hufen iâ i weld os yw'r iaith Gymraeg yn fyw ar strydoedd y Cymoedd. Beth yw barn y bobol' Yw'r iaith yn gaeth i'r 'stafell ddosbarth' Un peth yn sicr, mae'r ddwy yn ymfalchïo yn yr iaith ac yn barod i floeddio'u Cymreictod drwy ffenestri'r fan hufen iâ!",
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": null,
       "programme_title": "Dai ar y Piste",
       "short_billing": "O'r archif. Cyfle arall i weld y diweddar Dai Jones yn mentro am y tro cyntaf i ddysgu sgio gyda gyda'r ffermwr o Fro Hiraethog, Wil Williams, neu Wil Yr Hafod ar lethrau Courmayeur, Gogledd yr Eidal.",
@@ -909,6 +909,25 @@
       "id": "21613315",
       "series_id": null,
       "title": "Dai ar y Piste",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "49",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -929,25 +948,6 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "49",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "987",
+      "days_to_expire": "986",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": null,
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "1127",
+      "days_to_expire": "1126",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Be sy'n mynd mlaen mewn un o'r 'car meets' drwg-enwog sy'n denu miloedd ar filoedd o bobl ifanc ar draws Prydain bob wythnos' Dyna mae criw ceir Unit Thirteen isio ffeindio allan yn y bennod olaf o'r gyfres, cyn neidio o un eithaf i'r llall a theithio ar draws y môr Gwyddelig at LZ Festival i weld ffordd llawer gwell - a saffach - o fwynhau ceir. \r\n ",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": null,
       "programme_title": "Strip",
       "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "999",
+      "days_to_expire": "998",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 4",
       "short_billing": "Mae dwrnod y 'Parti Bwmp' wedi cyrraedd - ond cyn dathlu y 'Mini Cooper' sydd ar y ffordd mae gan Tanwen gant a mil o bethau i'w gwneud.",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": null,
       "programme_title": "Y Gic Fawr",
       "short_billing": "O Ben-y-bont i ben y byd pêl-droed Americanaidd- dyma raglen ddogfen arbennig sy'n dilyn stori anhygoel y cyn chwaraewr rygbi, Evan Williams. Gwelwn Evan yn dechrau ei flwyddyn olaf yn chwarae i goleg Missouri Western State, cyn edrych tuag at ei freuddwyd fawr o gyrraedd yr NFL.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Y Sin",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres newydd gyda Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwr y Flwyddyn yr Eisteddfod Genedlaethol, yn bwrw golwg dros y sîn greadigol ifanc yng Nghymru. Yn y bennod yma byddwn yn blasu gwinoedd Cymreig, dysgu am bensaerniaeth ac am brosiectau cymunedol yn Abertawe cyn treulio amser gyda'r comedïwr Leila Navabi.",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": null,
       "programme_title": "Yma o Hyd",
       "short_billing": "Ar drothwy'r gêm fawr nos fory, cyfle arall i weld y ddogfen hon o 2022: 39 mlynedd ers ei chyfansoddi, mae Dafydd Iwan a'r gân Yma o Hyd wedi cyrraedd rhif 1 ag ar ei ffordd i Gwpan y Byd yn Qatar. Rhaglen ddogfen arbennig sydd wedi dilyn taith arbennig Dafydd a'r gân gyda chefnogwyr a chwaraewyr y tîm peldroed cenedlaethol ers y perfformiad cyntaf yn y gêm yn erbyn Awstria nol ar ddechrau'r flwyddyn. Dysgwn am hanes y gân a'r siwrne ma'i wedi bod arni wrth gyrraedd rhif 1 yn y siartiau.",
