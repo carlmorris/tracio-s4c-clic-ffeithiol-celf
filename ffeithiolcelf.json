@@ -363,25 +363,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "96",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llithfaen ",
-      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
-      "clic_aired": "26 Chwefror 2024",
-      "fav_id": "760725904",
-      "id": "510830090",
-      "series_id": "510829993",
-      "title": "Caeau Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "145",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
@@ -397,6 +378,25 @@
       "series_id": "519715672",
       "title": "Caeau Cymru",
       "date_broadcast": "2024-04-24 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "96",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llithfaen ",
+      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
+      "clic_aired": "26 Chwefror 2024",
+      "fav_id": "760725904",
+      "id": "510830090",
+      "series_id": "510829993",
+      "title": "Caeau Cymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -495,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "149",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Pys",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Pys sydd dan sylw yn y rhaglen heddiw. Yn ogystal â choginio pryd tri chwrs, sy'n cynnwys pwdin go annisgwyl, bydd Bryn Williams yn ymweld â chwmni yn Llanllechid sy'n cynhyrchu amrywiaeth o lysiau ar hen fferm fynydd. Ar y fwydlen: salad pys a chig moch, risotto pys a ffiled o gig oen a bavarois pys.",
-      "clic_aired": "19 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751765",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-23 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "77",
       "series_title": "Cegin Bryn",
@@ -530,6 +511,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Pys",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pys sydd dan sylw yn y rhaglen heddiw. Yn ogystal â choginio pryd tri chwrs, sy'n cynnwys pwdin go annisgwyl, bydd Bryn Williams yn ymweld â chwmni yn Llanllechid sy'n cynhyrchu amrywiaeth o lysiau ar hen fferm fynydd. Ar y fwydlen: salad pys a chig moch, risotto pys a ffiled o gig oen a bavarois pys.",
+      "clic_aired": "19 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751765",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-23 18:00:00",
       "vs": "0"
     },
     {
@@ -609,25 +609,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "147",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "clic_aired": "17 Ebrill 2024",
-      "fav_id": "890520484",
-      "id": "858730078",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-04-17 12:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "64",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -644,6 +625,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "147",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "clic_aired": "17 Ebrill 2024",
+      "fav_id": "890520484",
+      "id": "858730078",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-04-17 12:05:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": null,
       "programme_title": "Cranogwen gyda Ffion Hague",
       "short_billing": "Yr hanesydd a'r ddarlledwraig Ffion Hague sy'n olrhain stori yr arwres arloesol Cranogwen, wrth i gerflun arbennig ohoni gael ei ddadorchuddio yn Llangrannog.  ",
@@ -742,7 +742,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "17",
       "series_title": "Cynefin",
       "programme_title": "Cwm Ystwyth- Gweithfeydd",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Stori'r Iaith",
       "programme_title": "Lisa Jen",
       "short_billing": "Lisa Jên sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd Lisa yn dysgu am Gymreictod cymunedau llechi'r gogledd ac yn darganfod mwy am wreiddiau'r berthynas anodd rhwng Cymraeg a Saesneg.  Mae'n darganfod effeithiau hir dymor y Deddfau Uno 500 mlynedd yn ôl ar yr iaith Gymraeg ac yn datgelu'r gwirionedd anghyfforddus am y Welsh Not. Cyfres sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
