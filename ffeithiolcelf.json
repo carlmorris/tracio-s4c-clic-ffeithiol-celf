@@ -59,7 +59,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Chris Roberts, y gomediwraig Kiri Pritchard-Mclean a'r cyflwynydd Alun Williams ar daith fythgofiadwy drwy Seland Newydd. Mae'r daith yn cychwyn yn Queenstown, tref yn Ynys y De sydd â chysylltiad annisgwyl â Chymru, cyn profi un o anturiaethau enwocaf y wlad, y Nevis Swing - ond faint fydd yn barod i roi cynnig arni' Yn Dunedin, mae'r tri yn mwynhau sesiwn blasu cwrw yn Speights Brewery, bragdy hynaf ac enwocaf y wlad, cyn rhoi cynnig ar seiclo i fyny Stryd Fwyaf Serth y Byd.",
@@ -97,7 +97,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ar Brawf",
       "programme_title": null,
       "short_billing": "Wrth gamu allan o carchar Y Berwyn am yr eildro, mae Martin yn gwneud addewid iddo ei hun na fydd yn mynd yno eto. Ond does gan Gabriel ddim yr un awydd ac agwedd tuag at newid. Steve ac Elin ydy'r Swyddogion Prawf sydd yn rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
@@ -325,25 +325,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llwyngwern",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thiroedd Llwyngwern a Llwynllwydyn fydd lleoliadau rhaglen olaf y gyfres hon o 2015. Mae'r ffermydd hyn ger Llanuwchllyn, yn Sir Feirionnydd, yn frith o gaeau ag iddynt enwau difyr a hanesyddol, fel Drylliau'r Tarw. Mae Rhian yn darganfod hen fapiau ystâd o 1769 sy'n dangos parhad yr enwau, gyda'r un rhai yn cael eu defnyddio hyd heddiw gan y ffermwr Hywel Jones. Mae Brychan yn dod ar draws safle hynafol o'r enw Bryn Eurych, sy'n cynnwys claddfa o bwys ac olion pentref o dai crynion.",
-      "clic_aired": "15 Ebrill 2024",
-      "fav_id": "760725904",
-      "id": "519715791",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-04-24 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "93",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
@@ -359,6 +340,25 @@
       "series_id": "510829993",
       "title": "Caeau Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "142",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llwyngwern",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thiroedd Llwyngwern a Llwynllwydyn fydd lleoliadau rhaglen olaf y gyfres hon o 2015. Mae'r ffermydd hyn ger Llanuwchllyn, yn Sir Feirionnydd, yn frith o gaeau ag iddynt enwau difyr a hanesyddol, fel Drylliau'r Tarw. Mae Rhian yn darganfod hen fapiau ystâd o 1769 sy'n dangos parhad yr enwau, gyda'r un rhai yn cael eu defnyddio hyd heddiw gan y ffermwr Hywel Jones. Mae Brychan yn dod ar draws safle hynafol o'r enw Bryn Eurych, sy'n cynnwys claddfa o bwys ac olion pentref o dai crynion.",
+      "clic_aired": "15 Ebrill 2024",
+      "fav_id": "760725904",
+      "id": "519715791",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-04-24 18:00:00",
       "vs": "0"
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "60",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "890520484",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "144",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -625,6 +606,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-04-17 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "60",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "890520484",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "558",
+      "days_to_expire": "557",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl ar y soffa. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i chwerthin a chrio a dadlau dros deledu'r wythnos o Gymru a thu hwnt.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "336",
+      "days_to_expire": "335",
       "series_title": null,
       "programme_title": "Nathan Brew: Un Eiliad Un Ergyd",
       "short_billing": "Y cyn-chwaraewr rygbi, Nathan Brew, yn datgelu am y tro cyntaf hanes trawmatig lofruddiaeth ei frawd, Matthew Thomas, mewn ymosodiad echrydus un ergyd yng Nghastell-nedd. Dros y tair blynedd diwethaf, mae ymosodiadau un ergyd wedi bod yn gyfrifol am 1 o bob 10 llofruddiaeth a dynladdiad yng Nghymru.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Ym mhennod olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn profi danteithion Copenhagen yn Denmarc.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Taith Bywyd",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams fydd yn mynd a'r cyn aelod seneddol, Sian James ar daith bywyd. Byddwn yn clywed hanes Streic y Glowyr pan ddarganfyddodd Sian ei llais, a sud deimlad oedd cael ei stori wedi ei adrodd yn y film lwyddiannus, Pride.",
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Byd yn ei Le - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Wrth i faterion rhyngwladol hawlio sylw gwleidyddion San Steffan, mae pryderon am ddyfodol y sector ddiwylliannol yn cael eu codi yma yng Nghymru. Catrin Haf Jones a phanel o westeion sy'n trafod y diweddaraf o'r ddwy senedd gyda'r Athro Richard Wyn Jones yno i ddadansoddi'r cyfan. ",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Y Frwydr: Stori Anabledd",
       "programme_title": null,
       "short_billing": "Mae'r actor Mared Jarman yn parhau ei thaith i ddysgu am hanes anabledd yng Nghymru gan edrych ar y 90au hyd at heddiw. Dyma gyfnod o frwydro'r ol, ymladd tros hawliau a dechrau dathlu anabledd mewn ffordd na welwyd o'r blaen.",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "Y Lein - Streic Friction Dynamics",
       "short_billing": "Ffilm ddogfen yn edrych ar hanes un o'r anghydfodau diwydiannol hiraf yn hanes Prydain: Streic ffatri Friction Dynamics ar gyrion Caernarfon.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Prif",
       "programme_title": null,
       "short_billing": "Mae'r Prif am waredu trais yn y cartref yn llwyr o ardal Dyfed Powys. Ond pa mor realistig yw hynny' Wythnos yma mae e'n dod wyneb yn wyneb a phroblemau plismona trais domestig, a'i sylwadau am gan Delilah yn ysgogi storm ar y cyfryngau cymdeithasol.",
