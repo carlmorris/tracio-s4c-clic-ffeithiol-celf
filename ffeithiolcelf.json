@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Adre",
       "programme_title": "Robat Arwyn",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cais Quinnell",
       "programme_title": "Rhaglen 1",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi rhyngwladol Scott Quinnell yn mynd ar daith ar hyd a lled Cymru, yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth iddo siarad hefo'r bobl leol ac ambell wyneb cyfarwydd.  Ac wrth gwrs bydd personoliaeth heintus Scott yn siwr o sicrhau llond bol o hwyl yn y broses. \r\nYr wythnos hon mae'n rhoi cynnig ar Yodlo hefo Ieuan Jones, yn Ceufadu ar yr afon Tâf yng ngwmni Rhys Pinner, ac yn my",
@@ -438,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "107",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Mawrth 2024",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2024-03-27 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "118",
       "series_title": "Cefn Gwlad",
@@ -473,6 +454,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": "2024-03-22 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "107",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Mawrth 2024",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2024-03-27 18:00:00",
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -590,6 +590,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "143",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "clic_aired": "17 Ebrill 2024",
+      "fav_id": "890520484",
+      "id": "858730078",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-04-17 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "60",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -606,25 +625,6 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "clic_aired": "17 Ebrill 2024",
-      "fav_id": "890520484",
-      "id": "858730078",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-04-17 12:05:00",
       "vs": "0"
     },
     {
@@ -894,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "95",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2024-03-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "45",
       "series_title": "Dan Do",
@@ -929,6 +910,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "95",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2024-03-21 18:30:00",
       "vs": "0"
     },
     {
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Rhian Lois",
       "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
@@ -2353,7 +2353,7 @@
       "id": "872765543",
       "series_id": null,
       "title": "Y Gic Fawr",
-      "date_broadcast": "2024-05-03 21:40:00",
+      "date_broadcast": "2024-05-03 21:45:00",
       "vs": "0"
     },
     {
