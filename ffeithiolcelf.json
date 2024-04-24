@@ -92,7 +92,7 @@
       "id": "870173204",
       "series_id": "870173036",
       "title": "Am Dro",
-      "date_broadcast": "2024-04-26 21:00:00",
+      "date_broadcast": "2024-04-26 21:30:00",
       "vs": "0"
     },
     {
@@ -306,25 +306,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llithfaen ",
-      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
-      "clic_aired": "26 Chwefror 2024",
-      "fav_id": "760725904",
-      "id": "510830090",
-      "series_id": "510829993",
-      "title": "Caeau Cymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "140",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
@@ -343,6 +324,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "91",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llithfaen ",
+      "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
+      "clic_aired": "26 Chwefror 2024",
+      "fav_id": "760725904",
+      "id": "510830090",
+      "series_id": "510829993",
+      "title": "Caeau Cymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "143",
       "series_title": "Cais Quinnell",
@@ -358,7 +358,7 @@
       "id": "873338819",
       "series_id": "873338808",
       "title": "Cais Quinnell",
-      "date_broadcast": "2024-05-03 13:30:00",
+      "date_broadcast": "2024-05-08 18:00:00",
       "vs": "0"
     },
     {
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "72",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "144",
       "series_title": "Cegin Bryn",
@@ -492,6 +473,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-04-23 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "72",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -875,25 +875,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "44",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "9 Ionawr 2024",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "94",
       "series_title": "Dan Do",
@@ -910,6 +891,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": "2024-03-21 18:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "44",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "9 Ionawr 2024",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1768,22 +1768,22 @@
       "vs": "0"
     },
     {
-      "count": "17",
-      "days_to_expire": "33",
+      "count": "18",
+      "days_to_expire": "34",
       "series_title": "Prynhawn Da - Cyfres 2024",
       "programme_title": null,
-      "short_billing": "Angharad Mair fydd yn trafod ei phrofiad gyda twisted bowel, a Meinir Howells fydd yn trafod Shadog. ",
+      "short_billing": "Kathryn Thomas fydd yn neud sesiwn ffitrwydd byw yn y stiwdio ac fe fydd Sharon Leech yn trafod lliwiau. ",
       "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
       "duration": "42",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Angharad Mair fydd yn trafod ei phrofiad gyda twisted bowel, a Meinir Howells fydd yn trafod Shadog. ",
-      "clic_aired": "23 Ebrill 2024",
+      "full_billing": "Kathryn Thomas fydd yn neud sesiwn ffitrwydd byw yn y stiwdio ac fe fydd Sharon Leech yn trafod lliwiau. ",
+      "clic_aired": "24 Ebrill 2024",
       "fav_id": "520950923",
-      "id": "889414490",
+      "id": "889414513",
       "series_id": "889413974",
       "title": "Prynhawn Da - Cyfres 2024",
-      "date_broadcast": "2024-04-23 14:05:00",
+      "date_broadcast": "2024-04-24 14:05:00",
       "vs": "0"
     },
     {
