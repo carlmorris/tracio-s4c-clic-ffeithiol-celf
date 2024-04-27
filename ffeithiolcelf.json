@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
       "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Cegin Bryn",
       "programme_title": "Cyw Iar",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
@@ -572,25 +572,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "56",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "890520484",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "146",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
@@ -606,6 +587,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-04-24 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "56",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "890520484",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Caerdydd",
       "short_billing": "Yn rhaglen olaf y gyfreso 2016 bydd Beca yn teithio'n ôl adref i Gaerdydd i baratoi gwledd o fwydydd llysieuol. Y lleoliad i'r parti y tro yma bydd Pantri Penylan a'r gwestai arbennig fydd y gantores Kizzy Crawford.  Yn ogystal â pherfformio cân i'r gynulleidfa, bydd Kizzy'n helpu Beca i baratoi pryd gyda blas o Farbados, sef blodfresych jerk gyda reis a phys.  Hefyd ar y fwydlen, bydd ramen blasus hynod o syml a phwdin reis cnau coco gyda ffrwythau egsotig.  ",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
