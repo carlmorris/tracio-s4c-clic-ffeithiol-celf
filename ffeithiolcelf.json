@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "26 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-30 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "65",
       "series_title": "Cegin Bryn",
@@ -492,6 +473,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "26 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-30 18:00:00",
       "vs": "0"
     },
     {
@@ -1065,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Ar Ffermio heno, bydd y newyddiadurwraig Nia Thomas yn edrych i mewn i rai o bynciau llosg y diwydiant amaeth, gan holi ffermwyr, arbenigwyr ac yn cyfweld a'r Ysgrifennydd dros Newid Hinsawdd a Materion Gwledig, Huw Irranca-Davies.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Ffermio heno, bydd y newyddiadurwraig Nia Thomas yn edrych i mewn i rai o bynciau llosg y diwydiant amaeth, gan holi ffermwyr, arbenigwyr ac yn cyfweld a'r Ysgrifennydd dros Newid Hinsawdd a Materion Gwledig, Huw Irranca-Davies.",
-      "clic_aired": "29 Ebrill 2024",
-      "fav_id": "533250950",
-      "id": "890670569",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-04-29 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "141",
       "series_title": "Ffermio",
@@ -1100,6 +1081,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Ar Ffermio heno, bydd y newyddiadurwraig Nia Thomas yn edrych i mewn i rai o bynciau llosg y diwydiant amaeth, gan holi ffermwyr, arbenigwyr ac yn cyfweld a'r Ysgrifennydd dros Newid Hinsawdd a Materion Gwledig, Huw Irranca-Davies.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Ffermio heno, bydd y newyddiadurwraig Nia Thomas yn edrych i mewn i rai o bynciau llosg y diwydiant amaeth, gan holi ffermwyr, arbenigwyr ac yn cyfweld a'r Ysgrifennydd dros Newid Hinsawdd a Materion Gwledig, Huw Irranca-Davies.",
+      "clic_aired": "29 Ebrill 2024",
+      "fav_id": "533250950",
+      "id": "890670569",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-04-29 21:00:00",
       "vs": "0"
     },
     {
