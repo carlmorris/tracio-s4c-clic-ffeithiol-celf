@@ -78,7 +78,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Am Dro",
       "programme_title": null,
       "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": null,
       "programme_title": "Barry John: Cofio'r Brenin",
       "short_billing": "Dyma raglen deyrnged i gofio am un o fawrion y byd rygbi yng Nghymru fu farw yn ddiweddar - Barry John. Bydd teulu a chyfeillion yn hel atgofion am ei fywyd a'i dalent aruthrol. Rhaglen deimladwy ac emosiynol am un o eiconau Cymru ac un o'r chwaraewyr rygbi gorau welodd Cymru erioed, wrth ddathlu ei fywyd a'i gyfraniad aruthrol.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": null,
       "programme_title": "Carol yr Wyl 2023",
       "short_billing": "10 carol mewn 10 lleoliad arbennig. Pa ysgol fydd yn ennill teitl Carol yr ¿yl 2023' Mared Williams ac Elidyr Glyn sy'n beirniadu'r gystadleuaeth boblogaidd yma i ysgrifennu carolau gwreiddiol ar gyfer plant ysgolion cynradd.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale, Arizona ar antur siopa i brynu Ceffylau i rai o'u cleientiaid cyfoethog o fewn Sioe mwyaf ceffylau Arabaidd yn y byd.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Cefn Gwlad",
       "programme_title": "Iolo Trefri",
       "short_billing": "Fel teyrnged i'r diweddar Iolo Trefri, dyma gyfle arall i weld Mari Lovgreen yn dathlu bywyd un o gymeriadau chwedlonol Ynys Môn - na, nid y digrifwr Tudur Owen ond ei dad, sydd wedi treulio oes yn arloesi ac arbrofi. Nid pob ffarmwr sydd wedi creu brîd newydd o ddafad, mentro i fyd adloniant, sefydlu bwyty enwog a zoo nid anenwog, ac wedyn yn 90 oed penderfynu adfer ty tafarn!  ",
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "142",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "26 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-30 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "63",
       "series_title": "Cegin Bryn",
@@ -492,6 +473,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "142",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "26 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-30 18:00:00",
       "vs": "0"
     },
     {
@@ -572,6 +572,25 @@
     },
     {
       "count": "6",
+      "days_to_expire": "49",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Ionawr 2024",
+      "fav_id": "890520484",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
       "days_to_expire": "140",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
       "programme_title": null,
@@ -587,25 +606,6 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-04-24 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "50",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Ionawr 2024",
-      "fav_id": "890520484",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -800,7 +800,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Côr Cymru 2024",
       "programme_title": "Corau Lleisiau Unfath",
       "short_billing": "Ymunwch â Heledd Cynwal a Morgan Jones yn Aberystwyth ar gyfer rownd gynderfynol gyffrous y corau lleisiau unfath. Pedwar côr o'r de i'r gogledd yn canu am le yn y ffeinal.  Heno Bechgyn Bro Taf o Gaerdydd, Côr Meibion Risca, Côr Glanaethwy a Chôr Meibion Machynlleth.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": null,
       "programme_title": "DRYCH: Stori Alys",
       "short_billing": "Dawnsio yw popeth i Alys. Ond llynedd newidodd ei bywyd dros nos wrth iddi golli ei choes mewn damwain adref. Mewn dogfen emosiynol, dirdynnol ond yn llawn gobaith a dewrder, byddwn yn dilyn Alys ar ei siwrne i geisio dawnsio eto.  ",
@@ -876,7 +876,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "FFIT Cymru 2023",
       "programme_title": "6 Mis Wedyn",
       "short_billing": "Beth ydi canlyniad dilyn cynllun iach FFIT Cymru' Mae 6 mis wedi mynd heibio ers i ni weld trawsnewidiad diwethaf Kelly, Matthew, Andrea, Linette a Dylan. Mewn rhaglen arbennig  ymunwch â'u ffrindiau, teuluoedd a Lisa Gwilym wrth i ni ddathlu moment fawr: canlyniad taith chwe mis colli pwysau yr arweinwyr, gyda chefnogaeth barhaol yr arbenigwyr.  ",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni Meinir Gwilym, Sioned Edwards, a Rhys Rowlands. Draw ym Mhant y Wennol mae Meinir yn creu pwll meicro ar gyfer bywyd gwyllt, tra mae Sioned yn trawsnewid ardal o'r ardd ym Mhont y T¿r. Yn rhandiroedd Cae Pawb mae Rhys yn gobeithio am gnwd da o ffacbys eleni. ",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2024",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2024 - ac mae un ymgais uchelgeisiol yn cynnwys lori anferth, monster truck a'r rhaff tynnu'r gelyn hiraf yn y byd! Yna, mae Bois y Pizza ac Ysgol y Strade yn anelu at dorri record y llun cerdyn fflip fwyaf - a bydd ymgais hefyd i dorri record y 20 metr cyflymaf ar Space Hopper ac adeiladu'r t¿r uchaf wedi ei neud o bicau ar y maen! Alun Williams a Rhianna Loren sydd yn ôl i dorri mwy o recordiau Guinness World Records!",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Y Daith i Rwanda",
       "short_billing": "Mae'r cynllun i anfon ceiswyr lloches i Rwanda wedi wynebu heriau moesol a chyfreithiol, ac yn dal i wneud. Ond pam Rwanda' Ydy hi'n ddiogel' A beth mae'r ddêl hon yn golygu i un o wledydd lleiaf datblygedig y byd' Siôn Jenkins sy'n teithio yno gyda Chymro o Abertawe sydd â gwreiddiau dwfn yn y wlad.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
