@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Bois y Rhondda",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn y rhaglen ddogfen ddiweddar Bois y Rhondda, bydd y gyfres hon yn dilyn anturiaethau nesa'r criw ifanc o Gwm Rhondda wrth iddyn nhw addasu i'r byd newydd sydd ohoni, a wynebu heriau nesa' bywyd.  Mewn cyfres gynnes llawn hiwmor a dagrau, byddwn yn cael cip ar gymhlethdodau'r gymdeithas fodern, a'r brwydrau mae cenhedlaeth iau yn eu hwynebu pan nad oes llawer o gyfleoedd yn yr ardal mae nhw wedi'u magu ynddi.  ",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Deuawdau Rhys Meirion",
-      "programme_title": "Gwyneth Glyn",
-      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
-      "thumbnail_url": "Deuawdau_RhysM2016_Gwyneth_Glyn002.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae artist yr wythnos hon - Gwyneth Glyn - yn rhannu hud a lledrith ei milltir sgwâr yn Eifionydd gyda Rhys Meirion, ac yn teithio i Rydychen i ail-fyw ei dyddiau coleg. Cawn weld y dylanwadau cerddorol sydd wedi siapio ei chaneuon unigryw a chlywed y ddau'n canu ambell ddeuawd wreiddiol.",
-      "clic_aired": "4 Mai 2024",
-      "fav_id": "760704226",
-      "id": "533285831",
-      "series_id": "533285783",
-      "title": "Deuawdau Rhys Meirion",
-      "date_broadcast": "2024-05-04 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "111",
       "series_title": "Deuawdau Rhys Meirion",
@@ -986,6 +967,25 @@
       "series_id": "541801856",
       "title": "Deuawdau Rhys Meirion",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Deuawdau Rhys Meirion",
+      "programme_title": "Gwyneth Glyn",
+      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
+      "thumbnail_url": "Deuawdau_RhysM2016_Gwyneth_Glyn002.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae artist yr wythnos hon - Gwyneth Glyn - yn rhannu hud a lledrith ei milltir sgwâr yn Eifionydd gyda Rhys Meirion, ac yn teithio i Rydychen i ail-fyw ei dyddiau coleg. Cawn weld y dylanwadau cerddorol sydd wedi siapio ei chaneuon unigryw a chlywed y ddau'n canu ambell ddeuawd wreiddiol.",
+      "clic_aired": "4 Mai 2024",
+      "fav_id": "760704226",
+      "id": "533285831",
+      "series_id": "533285783",
+      "title": "Deuawdau Rhys Meirion",
+      "date_broadcast": "2024-05-04 21:00:00",
       "vs": "0"
     },
     {
@@ -1008,25 +1008,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "109",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Aberystwyth i'r Almaen",
-      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
-      "clic_aired": "29 Mawrth 2024",
-      "fav_id": "793726197",
-      "id": "532330409",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2024-04-22 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Dylan ar Daith",
@@ -1043,6 +1024,25 @@
       "series_id": "511569164",
       "title": "Dylan ar Daith",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "109",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Aberystwyth i'r Almaen",
+      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "clic_aired": "29 Mawrth 2024",
+      "fav_id": "793726197",
+      "id": "532330409",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2024-04-22 22:30:00",
       "vs": "0"
     },
     {
