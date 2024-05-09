@@ -358,7 +358,7 @@
       "id": "873338900",
       "series_id": "873338808",
       "title": "Cais Quinnell",
-      "date_broadcast": "2024-05-09 12:05:00",
+      "date_broadcast": "2024-05-24 13:30:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Cymoedd Roy Noble",
       "programme_title": null,
       "short_billing": "In the second series, Roy Noble visits more South Wales Valleys including the Neath, Gwendraeth, Swansea and Loughor Valleys.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "78",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "28",
       "series_title": "Dan Do",
@@ -889,6 +870,25 @@
       "fav_id": "802081093",
       "id": "832478819",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "78",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -971,7 +971,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1103,25 +1103,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun Elidyr yn edrych ar y sector ddefaid ar ol cyfnod o brisiau uchel. Bydd Daloni yn gweld beth sydd gan wisgi a gwartheg yn gyffredin a bydd Meinir yn ymweld a theulu yn ardal Llambed sydd wedi buddsoddi ar gyfer y dyfodol.",
-      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun Elidyr yn edrych ar y sector ddefaid ar ol cyfnod o brisiau uchel. Bydd Daloni yn gweld beth sydd gan wisgi a gwartheg yn gyffredin a bydd Meinir yn ymweld a theulu yn ardal Llambed sydd wedi buddsoddi ar gyfer y dyfodol.",
-      "clic_aired": "6 Mai 2024",
-      "fav_id": "533250950",
-      "id": "890670589",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-12 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "132",
       "series_title": "Ffermio",
@@ -1138,6 +1119,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun Elidyr yn edrych ar y sector ddefaid ar ol cyfnod o brisiau uchel. Bydd Daloni yn gweld beth sydd gan wisgi a gwartheg yn gyffredin a bydd Meinir yn ymweld a theulu yn ardal Llambed sydd wedi buddsoddi ar gyfer y dyfodol.",
+      "thumbnail_url": "Ffermio_2023S4C_Alun_Elidyr_0224-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun Elidyr yn edrych ar y sector ddefaid ar ol cyfnod o brisiau uchel. Bydd Daloni yn gweld beth sydd gan wisgi a gwartheg yn gyffredin a bydd Meinir yn ymweld a theulu yn ardal Llambed sydd wedi buddsoddi ar gyfer y dyfodol.",
+      "clic_aired": "6 Mai 2024",
+      "fav_id": "533250950",
+      "id": "890670589",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-12 15:55:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "1041",
+      "days_to_expire": "1040",
       "series_title": "Grid",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "729",
+      "days_to_expire": "728",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "101",
-      "series_title": "Heno Aur",
-      "programme_title": null,
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
-      "clic_aired": "22 Mawrth 2024",
-      "fav_id": "810255618",
-      "id": "834036241",
-      "series_id": "834036078",
-      "title": "Heno Aur",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "6",
       "series_title": "Heno Aur",
@@ -1421,6 +1402,25 @@
       "fav_id": "810255618",
       "id": "810075913",
       "series_id": "809467444",
+      "title": "Heno Aur",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "101",
+      "series_title": "Heno Aur",
+      "programme_title": null,
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "thumbnail_url": "Heno_Aur_2021S4C_P8_005.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
+      "clic_aired": "22 Mawrth 2024",
+      "fav_id": "810255618",
+      "id": "834036241",
+      "series_id": "834036078",
       "title": "Heno Aur",
       "date_broadcast": null,
       "vs": "0"
@@ -1631,7 +1631,7 @@
       "id": "530174015",
       "series_id": "530173837",
       "title": "Parti Bwyd Beca",
-      "date_broadcast": "2024-04-05 18:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Rycia o `Ma",
       "programme_title": "Pennod 3",
       "short_billing": "Mae hi'n ddiwedd tymor a dim ond y gemau cwpan ar ol. Mae'r merched angen adennill hyder a hunan-barch ond gyda llawer o'r tim yn meddwl gadael, fydd yna unrhyw beth ganddynt i'w ddathlu'    ",
