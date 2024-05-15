@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "73",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "23",
       "series_title": "Dan Do",
@@ -872,6 +853,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2024-05-19 14:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "73",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad.",
-      "clic_aired": "13 Mai 2024",
-      "fav_id": "533250950",
-      "id": "890670609",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-19 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "127",
       "series_title": "Ffermio",
@@ -1119,6 +1100,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad.",
+      "clic_aired": "13 Mai 2024",
+      "fav_id": "533250950",
+      "id": "890670609",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-19 17:35:00",
       "vs": "0"
     },
     {
