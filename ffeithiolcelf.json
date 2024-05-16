@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "3 Lle",
       "programme_title": "Gillian Elisa",
       "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Cegin Bryn",
       "programme_title": "Cyw Iar",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
       "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
@@ -514,7 +514,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "27",
       "series_title": "Codi Hwyl - Cyfres 2",
       "programme_title": "Pennod 6",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "72",
-      "series_title": "Dan Do",
-      "programme_title": null,
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
-      "clic_aired": "28 Chwefror 2024",
-      "fav_id": "802081093",
-      "id": "872657109",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "143",
       "series_title": "Dan Do",
@@ -834,6 +815,25 @@
       "series_id": "842325112",
       "title": "Dan Do",
       "date_broadcast": "2024-05-19 14:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "72",
+      "series_title": "Dan Do",
+      "programme_title": null,
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "thumbnail_url": "Dan_Do_2023S4C_P10-5.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
+      "clic_aired": "28 Chwefror 2024",
+      "fav_id": "802081093",
+      "id": "872657109",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1046,25 +1046,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "126",
-      "series_title": "Ffermio",
-      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "clic_aired": "22 Ebrill 2024",
-      "fav_id": "533250950",
-      "id": "871757124",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "147",
       "series_title": "Ffermio",
@@ -1081,6 +1062,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": "2024-05-19 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "126",
+      "series_title": "Ffermio",
+      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "clic_aired": "22 Ebrill 2024",
+      "fav_id": "533250950",
+      "id": "871757124",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-10 18:00:00",
       "vs": "0"
     },
     {
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Parti Bwyd Beca",
       "programme_title": "Caerdydd",
       "short_billing": "Yn rhaglen olaf y gyfreso 2016 bydd Beca yn teithio'n ôl adref i Gaerdydd i baratoi gwledd o fwydydd llysieuol. Y lleoliad i'r parti y tro yma bydd Pantri Penylan a'r gwestai arbennig fydd y gantores Kizzy Crawford.  Yn ogystal â pherfformio cân i'r gynulleidfa, bydd Kizzy'n helpu Beca i baratoi pryd gyda blas o Farbados, sef blodfresych jerk gyda reis a phys.  Hefyd ar y fwydlen, bydd ramen blasus hynod o syml a phwdin reis cnau coco gyda ffrwythau egsotig.  ",
@@ -1749,25 +1749,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "83",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "72",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1784,6 +1765,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-05-04 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "83",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Symud i Gymru",
       "programme_title": "Blaenau Ffestiniog",
       "short_billing": "Mae'r cyn-ddeintydd Matt York wedi bachu swydd yng Ngogledd Cymru gyda Iechyd Cyhoeddus Cymru. Mae hyn yn golygu y bydd e, a'i bartner Robbie sy'n fyddar, yn chwilio am gartref newydd. Ei tywysydd lleol fydd Janine Hall, sy'n wreiddiol o Loegr ac sydd bellach wedi dysgu Cymraeg ar ôl byw ym Mlaenau Ffestiniog ers chwe mlynedd. Y pynciau o dan sylw fydd diffyg tai fforddiadwy, airbnbs, amrywiaeth, anabledd a pha mor hawdd yw hi i ddod yn rhan o gymdeithas glos.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
