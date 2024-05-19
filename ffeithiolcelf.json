@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "126",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Tomatos",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
-      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
-      "clic_aired": "26 Ebrill 2024",
-      "fav_id": "520950903",
-      "id": "519751783",
-      "series_id": "519751686",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-04-30 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "47",
       "series_title": "Cegin Bryn",
@@ -454,6 +435,25 @@
       "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "126",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Tomatos",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams yn canolbwyntio ar gynhwysyn gwahanol bob tro.",
+      "thumbnail_url": "Cegin_Bryn_2015S4C_C4_7443.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tomatos amryliw yw prif gynhwysyn pennod ola'r gyfres, wrth i Bryn Williams eu defnyddio i greu pryd tri chwrs blasus. Ar ymweliad ag Ystum Taf yng Nghaerdydd, bydd Bryn yn cwrdd â garddwraig sy'n mwynhau coginio cynnyrch oddi ar ei rhandir ac mae'n cyfuno tomatos o bob lliw a llun gyda chorizo mewn salad hafaidd lliwgar.",
+      "clic_aired": "26 Ebrill 2024",
+      "fav_id": "520950903",
+      "id": "519751783",
+      "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-04-30 18:00:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "123",
-      "series_title": "Ffermio",
-      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "clic_aired": "22 Ebrill 2024",
-      "fav_id": "533250950",
-      "id": "871757124",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "144",
       "series_title": "Ffermio",
@@ -1119,6 +1100,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": "2024-05-19 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "123",
+      "series_title": "Ffermio",
+      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "clic_aired": "22 Ebrill 2024",
+      "fav_id": "533250950",
+      "id": "871757124",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-10 18:00:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "25",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Heno - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Byddwn yn troi olwyn Ffansi Ffortiwn, a byddwn hefyd yn dathlu 50 'mlynedd o Glwb Rygbi Caernarfon. ",
