@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "42",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "121",
       "series_title": "Cegin Bryn",
@@ -435,6 +416,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": "2024-04-30 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "42",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1122,27 +1122,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
-      "clic_aired": "20 Mai 2024",
-      "fav_id": "533250950",
-      "id": "890670629",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-26 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Ffermio",
       "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
@@ -1157,6 +1138,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "145",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
+      "clic_aired": "20 Mai 2024",
+      "fav_id": "533250950",
+      "id": "890670629",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-26 17:35:00",
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": null,
       "programme_title": "Tu ôl i'r Llen: Branwen Dadeni",
       "short_billing": "Cip arbennig y tu ôl i gynhyrchiad sioe ddrama epig Branwen Dadeni ddarlledwyd ar S4C yn ddiweddar. Bydd sgwrsio gyda'r cast a'r criw yn rhoi mewnwelediad uniongyrchol i'r cynhyrchiad. Mae'r sioe wreiddiol ar gael ar hyn o bryd ar S4C Clic.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Y Byd yn ei Le - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Gyda'r cwestiynau yn parhau i Vaughan Gething yn y Senedd, a newidiadau yn dod i arweinyddiaeth yr SNP yn yr Alban, Catrin Haf Jones sy'n trafod wythnos fawr arall yn y byd gwleidyddol. Gyda phanel o westeion yn fyw o'r stiwdio ym Mae Caerdydd, bydd yr Athro Richard Wyn Jones yno i ddadansoddi'r cyfan hefyd.",
