@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": null,
       "programme_title": "30 Stôn: Brwydr Fawr Geth a Monty",
       "short_billing": "Mae Gethin John o Borthmadog yn pwyso bron i 30 stôn ac wedi cael ei ddychryn gan broblemau iechyd. Mae'n benderfynol o golli pwyso eithafol a thrawsnewid ei fywyd, a'r person gorau i'w helpu gyflawni hynny ydi ei hen ffrind ysgol, Sion Monty --  corffluniwr a dylanwadwr ffitrwydd. Dros gyfnod o flwyddyn, cawn ddilyn y ddau drwy gyfnodau o lwyddiant ysgubol a rhai heriol dros ben wrth i Geth drio brwydro yn erbyn hen arferion drwg, colli 10 stôn a choncro'r Wyddfa erbyn diwrnod ei benblwydd nesa",
@@ -78,7 +78,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Ym mhennod olaf y gyfres, mae Alun, Chris a Kiri ymweld â phyllau daearwresol sanctaidd y Maori yn Rotorua, cyn cael bath mwd a gwers syrffio mewn storm!",
@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -382,7 +382,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Côr Cymru 2024",
       "programme_title": "Y Ffeinal",
       "short_billing": "Uchafbwynt y cystadlu eleni. Heledd Cynwal a Morgan Jones fydd yn dod a chyffro'r cystadlu yn fyw o Aberystwyth.",
@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "148",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 4",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
-      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
-      "clic_aired": "23 Mai 2024",
-      "fav_id": "802081093",
-      "id": "842325208",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2024-06-03 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "143",
       "series_title": "Dan Do",
@@ -872,6 +853,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2024-05-18 14:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 4",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
+      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
+      "clic_aired": "23 Mai 2024",
+      "fav_id": "802081093",
+      "id": "842325208",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2024-06-03 13:00:00",
       "vs": "0"
     },
     {
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Deuawdau Rhys Meirion",
-      "programme_title": "Siân James",
-      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
-      "thumbnail_url": "Deuawdau_RhysM2016_Sian_James_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cawn olwg bersonol ar fwynder Maldwyn yng nghwmni artist yr wythnos hon. Bydd Siân James yn tywys Rhys Meirion o gwmpas ei chynefin gan rannu ei phrofiadau a'i dylanwadau cerddorol. Cawn eu gweld yn paratoi ac yn perfformio deuawdau unigryw o'u dewis.  ",
-      "clic_aired": "18 Mai 2024",
-      "fav_id": "760704226",
-      "id": "533285851",
-      "series_id": "533285783",
-      "title": "Deuawdau Rhys Meirion",
-      "date_broadcast": "2024-05-18 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "95",
       "series_title": "Deuawdau Rhys Meirion",
@@ -967,6 +948,25 @@
       "series_id": "541801856",
       "title": "Deuawdau Rhys Meirion",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Deuawdau Rhys Meirion",
+      "programme_title": "Siân James",
+      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
+      "thumbnail_url": "Deuawdau_RhysM2016_Sian_James_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cawn olwg bersonol ar fwynder Maldwyn yng nghwmni artist yr wythnos hon. Bydd Siân James yn tywys Rhys Meirion o gwmpas ei chynefin gan rannu ei phrofiadau a'i dylanwadau cerddorol. Cawn eu gweld yn paratoi ac yn perfformio deuawdau unigryw o'u dewis.  ",
+      "clic_aired": "18 Mai 2024",
+      "fav_id": "760704226",
+      "id": "533285851",
+      "series_id": "533285783",
+      "title": "Deuawdau Rhys Meirion",
+      "date_broadcast": "2024-05-18 21:00:00",
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "526",
+      "days_to_expire": "525",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "117",
-      "series_title": "Ffermio",
-      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "clic_aired": "22 Ebrill 2024",
-      "fav_id": "533250950",
-      "id": "871757124",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "145",
       "series_title": "Ffermio",
@@ -1157,6 +1138,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": "2024-05-26 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "117",
+      "series_title": "Ffermio",
+      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "clic_aired": "22 Ebrill 2024",
+      "fav_id": "533250950",
+      "id": "871757124",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-10 18:00:00",
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl ar y soffa. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i chwerthin a chrio a dadlau dros deledu'r wythnos o Gymru a thu hwnt.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "304",
+      "days_to_expire": "303",
       "series_title": null,
       "programme_title": "Nathan Brew: Un Eiliad Un Ergyd",
       "short_billing": "Y cyn-chwaraewr rygbi, Nathan Brew, yn datgelu am y tro cyntaf hanes trawmatig lofruddiaeth ei frawd, Matthew Thomas, mewn ymosodiad echrydus un ergyd yng Nghastell-nedd. Dros y tair blynedd diwethaf, mae ymosodiadau un ergyd wedi bod yn gyfrifol am 1 o bob 10 llofruddiaeth a dynladdiad yng Nghymru.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ni yw'r Cymry",
       "programme_title": null,
       "short_billing": "Mae saith o Gymry o wahanol rannau o'r wlad yn dod at ei gilydd am wythnos i drafod rhai or pynciau llosg sydd yn effeithio ar Gymru heddiw, ac yn agos at ei calonau nhw. Mi fydd trafodaeth am y Frenhiniaeth yn gwahanu barn y criw, ac mi fydd y ddadl am effaith ail gartrefi yn dod o dan y lach. Ac a ydy hi'n bosib i ffemenist gymeryd rhan mewn cystadlaethau harddwch' Saith person, saith cwestiwn a digon i'w drafod.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
@@ -1806,25 +1806,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "64",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Rhian Lois",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
-      "clic_aired": "29 Chwefror 2024",
-      "fav_id": "819088838",
-      "id": "861087189",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-05-04 16:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "74",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1841,6 +1822,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "64",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Rhian Lois",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_C4P6_Rhian_Lois.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn sgwrsio tan yr oriau mân hefo'r soprano, Rhian Lois.",
+      "clic_aired": "29 Chwefror 2024",
+      "fav_id": "819088838",
+      "id": "861087189",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-05-04 16:30:00",
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Taith Bywyd",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams fydd yn mynd a'r cyn aelod seneddol, Sian James ar daith bywyd. Byddwn yn clywed hanes Streic y Glowyr pan ddarganfyddodd Sian ei llais, a sud deimlad oedd cael ei stori wedi ei adrodd yn y film lwyddiannus, Pride.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae Waynne Phillips yn gyn chwaraewr ac un o sêr Wrecsam yn y nawdegau. Yn y raglen yma byddwn ni'n ymuno a Waynne wrth iddo rannu ei ddefod lwc dda a'i deimladau am y clwb yn ystod y cyfnod cyffrous yma. Mae tîm y merched hefyd yn mynd o nerth i nerth ar y Cae Ras ac oddi cartref. Hefyd, byddwn ni'n cyfarfod Liam Stokes-Massey, artist sydd yn dathlu'r clwb a'i llwyddiant gyda'i furluniau anhygoel. ",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": null,
       "programme_title": "Y Lein - Streic Friction Dynamics",
       "short_billing": "Ffilm ddogfen yn edrych ar hanes un o'r anghydfodau diwydiannol hiraf yn hanes Prydain: Streic ffatri Friction Dynamics ar gyrion Caernarfon.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Llinell Las",
       "programme_title": null,
       "short_billing": "O'r trefi prysur i'r pentrefi tawel, dyma weld yn union sut beth ydy gweithio i Heddlu Gogledd Cymru. Portread cwbl onest a llawn i waith unedau arbenigol wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Y tro hwn, cawn gipolwg ar achos o greulondeb at foch daear ac achos o yfed a gyrru.",
