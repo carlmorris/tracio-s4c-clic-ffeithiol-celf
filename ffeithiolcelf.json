@@ -306,25 +306,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Llwyngwern",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Caeau a thiroedd Llwyngwern a Llwynllwydyn fydd lleoliadau rhaglen olaf y gyfres hon o 2015. Mae'r ffermydd hyn ger Llanuwchllyn, yn Sir Feirionnydd, yn frith o gaeau ag iddynt enwau difyr a hanesyddol, fel Drylliau'r Tarw. Mae Rhian yn darganfod hen fapiau ystâd o 1769 sy'n dangos parhad yr enwau, gyda'r un rhai yn cael eu defnyddio hyd heddiw gan y ffermwr Hywel Jones. Mae Brychan yn dod ar draws safle hynafol o'r enw Bryn Eurych, sy'n cynnwys claddfa o bwys ac olion pentref o dai crynion.",
-      "clic_aired": "15 Ebrill 2024",
-      "fav_id": "760725904",
-      "id": "519715791",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2024-04-24 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "62",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
@@ -340,6 +321,25 @@
       "series_id": "510829993",
       "title": "Caeau Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "111",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llwyngwern",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Caeau a thiroedd Llwyngwern a Llwynllwydyn fydd lleoliadau rhaglen olaf y gyfres hon o 2015. Mae'r ffermydd hyn ger Llanuwchllyn, yn Sir Feirionnydd, yn frith o gaeau ag iddynt enwau difyr a hanesyddol, fel Drylliau'r Tarw. Mae Rhian yn darganfod hen fapiau ystâd o 1769 sy'n dangos parhad yr enwau, gyda'r un rhai yn cael eu defnyddio hyd heddiw gan y ffermwr Hywel Jones. Mae Brychan yn dod ar draws safle hynafol o'r enw Bryn Eurych, sy'n cynnwys claddfa o bwys ac olion pentref o dai crynion.",
+      "clic_aired": "15 Ebrill 2024",
+      "fav_id": "760725904",
+      "id": "519715791",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2024-04-24 18:00:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Catrin Williams a Beti George",
       "short_billing": "Yn y rhaglen hon bydd yr artist Catrin Williams yn mynd ati i geisio portreadu'r ddarlledwraig Beti George. ",
@@ -1122,25 +1122,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
-      "clic_aired": "20 Mai 2024",
-      "fav_id": "533250950",
-      "id": "890670629",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-26 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "118",
       "series_title": "Ffermio",
@@ -1157,6 +1138,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tro hwn: Cyhoeddiadau gan yr Ysgrifennydd Dros Faterion Gwledig newydd ynghylch polisiau amaethyddol yng Nghymru; dilynwn criw o fyfyrwyr Aberystwyth i Gaergrawnt; a bydd Alun ym Mhenllyn wrth i Peredur Williams o Hufenfa De Arfon ymddeol.",
+      "clic_aired": "20 Mai 2024",
+      "fav_id": "533250950",
+      "id": "890670629",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-26 17:35:00",
       "vs": "0"
     },
     {
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Iaith ar Daith",
       "programme_title": "Jayde Adams a Geraint Edwards",
       "short_billing": "Yn y rhaglen olaf o'r gyfres Iaith ar Daith y comedïwyr a'r actorion Jayde Adams a Geraint Rhys Edwards sy'n teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Jayde i  ddysgu Cymraeg. Fe fydd Jayde yn gwynebu cyfres o sialensau ieithyddol ac fe fydd Geraint wrth ei hochor ar hyd y ffordd. Ac fe fydd digon o gaws i gyd-fynd gydag ambell jôc gawslyd falle'\nOnd- a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Richard Holt: Yr Academi Felys",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
       "short_billing": "Yn y bennod olaf o'r gyfres bydd y tîm yn creu trefniant i ddathlu 20 mlynedd o elusen Prostate Cymru. ",
