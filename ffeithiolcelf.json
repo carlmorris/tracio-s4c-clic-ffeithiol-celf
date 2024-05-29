@@ -723,25 +723,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
-      "programme_title": "Llwyfan y Maes: Candelas",
-      "short_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
-      "thumbnail_url": "Cyngherddau_Eisteddfod_Gen_2023S4C_P5_Candelas.jpg",
-      "duration": "73",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhan o gyngherddau Eisteddfod Genedlaethol Cymru 2023 - o Llwyfan y Maes - cyfle i fwynhau gwledd o gerddoriaeth gan y Candelas.",
-      "clic_aired": "31 Rhagfyr 2023",
-      "fav_id": "878159266",
-      "id": "878159399",
-      "series_id": "878159266",
-      "title": "Cyngherddau Eisteddfod Genedlaethol Cymru 2023",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "133",
       "series_title": "Cysgu o Gwmpas",
@@ -800,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": null,
       "programme_title": "DRYCH: Rygbi Byddar a Chwpan y Byd",
       "short_billing": "Dangosiad i nodi Mis Ymwybyddiaeth Byddarwch. Am y tro cyntaf erioed, mae timau rygbi'r dynion a menywod yn cystadlu yn Mhencampwriaeth Rygbi Byddar y Byd yn yr Ariannin. Er iddynt wynebu heriau, ar ac oddi ar y cae, roedd Rygbi Byddar Cymru yn benderfynol o oresgyn yr anawsterau a dychwelyd adref fel Pencampwyr dwbwl Cwpan y Byd.",
@@ -819,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "DRYCH: Y Ceffyl Blaen",
       "short_billing": "Mae 'na ddau gwmni Cymreig wedi gadael eu marc ar farchnad ceffylau rhyngwladol. O wneud dêls gyda Sheiks mwyaf cefnog y Dwyrain Canol i gludo ceffylau Cymreig i rai o gartrefi mwyaf godidog Ewrop. Yn y rhaglen hon dilynwn Gwmni Cludo Ceffylau Nebo ger Llanrhystud a Theulu'r Joneses o Fridfa Bychan ger Llandeilo wrth iddynt geisio gwarchod eu henw da a'u busnesau byd eang trwy gydol cyfnod o newid mawr gyda Covid a Brexit. ",
@@ -834,6 +815,25 @@
       "series_id": null,
       "title": "DRYCH: Y Ceffyl Blaen",
       "date_broadcast": "2024-05-20 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "138",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Jan a'r Teulu- Pontcanna",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
+      "clic_aired": "18 Mai 2024",
+      "fav_id": "802081093",
+      "id": "832478795",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2024-05-18 14:30:00",
       "vs": "0"
     },
     {
@@ -872,25 +872,6 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "138",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Jan a'r Teulu- Pontcanna",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "clic_aired": "18 Mai 2024",
-      "fav_id": "802081093",
-      "id": "832478795",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2024-05-18 14:30:00",
       "vs": "0"
     },
     {
@@ -1103,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "112",
-      "series_title": "Ffermio",
-      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
-      "clic_aired": "22 Ebrill 2024",
-      "fav_id": "533250950",
-      "id": "871757124",
-      "series_id": "871756474",
-      "title": "Ffermio",
-      "date_broadcast": "2024-05-10 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "147",
       "series_title": "Ffermio",
@@ -1138,6 +1100,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": "2024-06-08 12:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "112",
+      "series_title": "Ffermio",
+      "programme_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "short_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw fferm Shadog  yn fyw wrth i Gary a Meinir gynnal taith dractorau ar y cyd gyda chyngerdd fawreddog o fuarth y fferm. Hefyd fe fyddwn yn dathlu'r Nadolig gyda'r teulu bach. Ydy'r plant wedi bod yn blant da eleni' A fydd Sion Corn wedi plesio Sioned a Dafydd ar fore'r 'Dolig tybed'",
+      "clic_aired": "22 Ebrill 2024",
+      "fav_id": "533250950",
+      "id": "871757124",
+      "series_id": "871756474",
+      "title": "Ffermio",
+      "date_broadcast": "2024-05-10 18:00:00",
       "vs": "0"
     },
     {
@@ -1787,25 +1768,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "145",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Bethan Rhys Roberts",
-      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn cwrdd â'r wyneb a'r llais sydd wedi dod â holl newyddion llon a lleddf y byd i'n cartrefi ni bob nos, prif angor Newyddion S4C, Bethan Rhys Roberts. ",
-      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P10_Bethan_Rhys_Roberts_01.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn cwrdd â'r wyneb a'r llais sydd wedi dod â holl newyddion llon a lleddf y byd i'n cartrefi ni bob nos, prif angor Newyddion S4C, Bethan Rhys Roberts. ",
-      "clic_aired": "25 Mai 2024",
-      "fav_id": "819088838",
-      "id": "861087293",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-05-25 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "69",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1822,6 +1784,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "145",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Bethan Rhys Roberts",
+      "short_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn cwrdd â'r wyneb a'r llais sydd wedi dod â holl newyddion llon a lleddf y byd i'n cartrefi ni bob nos, prif angor Newyddion S4C, Bethan Rhys Roberts. ",
+      "thumbnail_url": "Sgwrs_Dan_Y_Lloer_2022S4C_P10_Bethan_Rhys_Roberts_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Sgwrs dan y Lloer heno fe fydd Elin yn cwrdd â'r wyneb a'r llais sydd wedi dod â holl newyddion llon a lleddf y byd i'n cartrefi ni bob nos, prif angor Newyddion S4C, Bethan Rhys Roberts. ",
+      "clic_aired": "25 Mai 2024",
+      "fav_id": "819088838",
+      "id": "861087293",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-05-25 16:50:00",
       "vs": "0"
     },
     {
@@ -2206,7 +2187,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Llinell Las",
       "programme_title": null,
       "short_billing": "O'r trefi prysur i'r pentrefi tawel, dyma weld yn union sut beth ydy gweithio i Heddlu Gogledd Cymru. Portread cwbl onest a llawn i waith unedau arbenigol wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Y tro hwn, mae penbleth am bwy sydd ar fai mewn damwain rhwng car a motorbeic.",
