@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "30 Stôn: Brwydr Fawr Geth a Monty",
       "short_billing": "Mae Gethin John o Borthmadog yn pwyso bron i 30 stôn ac wedi cael ei ddychryn gan broblemau iechyd. Mae'n benderfynol o golli pwyso eithafol a thrawsnewid ei fywyd, a'r person gorau i'w helpu gyflawni hynny ydi ei hen ffrind ysgol, Sion Monty --  corffluniwr a dylanwadwr ffitrwydd. Dros gyfnod o flwyddyn, cawn ddilyn y ddau drwy gyfnodau o lwyddiant ysgubol a rhai heriol dros ben wrth i Geth drio brwydro yn erbyn hen arferion drwg, colli 10 stôn a choncro'r Wyddfa erbyn diwrnod ei benblwydd nesa",
@@ -59,7 +59,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Ym mhennod olaf y gyfres, mae Alun, Chris a Kiri ymweld â phyllau daearwresol sanctaidd y Maori yn Rotorua, cyn cael bath mwd a gwers syrffio mewn storm!",
@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -343,25 +343,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "69",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Mawrth 2024",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "79",
       "series_title": "Cefn Gwlad",
@@ -376,6 +357,25 @@
       "fav_id": "520950902",
       "id": "856935669",
       "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "68",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Mawrth 2024",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -514,25 +514,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Iawn cyw?",
-      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma cawn weld sut mae Colleen yn creu a chynllunio prydiau gyda chyw iâr.   ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma cawn weld sut mae Colleen yn creu a chynllunio prydiau gyda chyw iâr.   ",
-      "clic_aired": "25 Mai 2024",
-      "fav_id": "890520484",
-      "id": "875080582",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-06-03 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "112",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -549,6 +530,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "143",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Iawn cyw?",
+      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma cawn weld sut mae Colleen yn creu a chynllunio prydiau gyda chyw iâr.   ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma cawn weld sut mae Colleen yn creu a chynllunio prydiau gyda chyw iâr.   ",
+      "clic_aired": "25 Mai 2024",
+      "fav_id": "890520484",
+      "id": "875080582",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-06-03 18:00:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Côr Cymru 2024",
       "programme_title": "Y Ffeinal",
       "short_billing": "Uchafbwynt y cystadlu eleni. Heledd Cynwal a Morgan Jones fydd yn dod a chyffro'r cystadlu yn fyw o Aberystwyth.",
@@ -818,6 +818,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "136",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Jan a'r Teulu- Pontcanna",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
+      "clic_aired": "18 Mai 2024",
+      "fav_id": "802081093",
+      "id": "832478795",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2024-05-18 14:30:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "141",
       "series_title": "Dan Do",
@@ -856,25 +875,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "136",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Jan a'r Teulu- Pontcanna",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "clic_aired": "18 Mai 2024",
-      "fav_id": "802081093",
-      "id": "832478795",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2024-05-18 14:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "25",
       "series_title": "Der' Dramor 'Da Fi!",
@@ -894,6 +894,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "143",
+      "series_title": "Deuawdau Rhys Meirion",
+      "programme_title": "Bryn Fôn",
+      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
+      "thumbnail_url": "Deuawdau_RhysM2016_Bryn_Fon_004.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle arall i weld Bryn yn rhannu straeon ac yn siarad am y pethau a'r bobl sydd wedi dylanwadu ar ei fywyd a'i yrfa. Bydd Bryn a Rhys yn crwydro trwy Ddyffryn Nantlle ac yn canu deuawdau o'u dewis nhw gan roi gwedd newydd ar ambell glasur.",
+      "clic_aired": "25 Mai 2024",
+      "fav_id": "760704226",
+      "id": "533285871",
+      "series_id": "533285783",
+      "title": "Deuawdau Rhys Meirion",
+      "date_broadcast": "2024-05-25 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "88",
       "series_title": "Deuawdau Rhys Meirion",
@@ -910,25 +929,6 @@
       "series_id": "541801856",
       "title": "Deuawdau Rhys Meirion",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "144",
-      "series_title": "Deuawdau Rhys Meirion",
-      "programme_title": "Bryn Fôn",
-      "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
-      "thumbnail_url": "Deuawdau_RhysM2016_Bryn_Fon_004.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld Bryn yn rhannu straeon ac yn siarad am y pethau a'r bobl sydd wedi dylanwadu ar ei fywyd a'i yrfa. Bydd Bryn a Rhys yn crwydro trwy Ddyffryn Nantlle ac yn canu deuawdau o'u dewis nhw gan roi gwedd newydd ar ambell glasur.",
-      "clic_aired": "25 Mai 2024",
-      "fav_id": "760704226",
-      "id": "533285871",
-      "series_id": "533285783",
-      "title": "Deuawdau Rhys Meirion",
-      "date_broadcast": "2024-05-25 21:00:00",
       "vs": "0"
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "519",
+      "days_to_expire": "518",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Ffermio",
       "programme_title": "Sir Drefaldwyn",
       "short_billing": "Bydd tîm Ffermio yn ymweld ag ardal Eisteddfod yr Urdd eleni - Sir Drefaldwyn. Bydd Alun Elidyr yn ymweld ag Edward Vaughan, enillydd gwobr arbennig yn y Sioe Frenhinol y llynedd; bydd Daloni yn ymweld â safle'r Eisteddfod yn Meifod; a bydd Melanie Owen yn cwrdd â theulu sy'n ffermio yng Nghymru a Lloegr.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl ar y soffa. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i chwerthin a chrio a dadlau dros deledu'r wythnos o Gymru a thu hwnt.",
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "145",
-      "series_title": "Hen Dy Newydd",
-      "programme_title": "Llandysul",
-      "short_billing": "Yn y gyntaf yn y gyfres newydd hon mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn ffermdy traddodiadol yn ardal Llandysul. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol ac fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
-      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P1_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyntaf yn y gyfres newydd hon mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn ffermdy traddodiadol yn ardal Llandysul. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol ac fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
-      "clic_aired": "26 Mai 2024",
-      "fav_id": "826345615",
-      "id": "826345623",
-      "series_id": "826345615",
-      "title": "Hen Dy Newydd",
-      "date_broadcast": "2024-06-11 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "94",
       "series_title": "Hen Dy Newydd",
@@ -1366,6 +1347,25 @@
       "series_id": "851192203",
       "title": "Hen Dy Newydd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "145",
+      "series_title": "Hen Dy Newydd",
+      "programme_title": "Llandysul",
+      "short_billing": "Yn y gyntaf yn y gyfres newydd hon mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn ffermdy traddodiadol yn ardal Llandysul. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol ac fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
+      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P1_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyntaf yn y gyfres newydd hon mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn ffermdy traddodiadol yn ardal Llandysul. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol ac fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
+      "clic_aired": "26 Mai 2024",
+      "fav_id": "826345615",
+      "id": "826345623",
+      "series_id": "826345615",
+      "title": "Hen Dy Newydd",
+      "date_broadcast": "2024-06-11 15:05:00",
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "297",
+      "days_to_expire": "296",
       "series_title": null,
       "programme_title": "Nathan Brew: Un Eiliad Un Ergyd",
       "short_billing": "Y cyn-chwaraewr rygbi, Nathan Brew, yn datgelu am y tro cyntaf hanes trawmatig lofruddiaeth ei frawd, Matthew Thomas, mewn ymosodiad echrydus un ergyd yng Nghastell-nedd. Dros y tair blynedd diwethaf, mae ymosodiadau un ergyd wedi bod yn gyfrifol am 1 o bob 10 llofruddiaeth a dynladdiad yng Nghymru.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Ni yw'r Cymry",
       "programme_title": null,
       "short_billing": "Mae saith o Gymry o wahanol rannau o'r wlad yn dod at ei gilydd am wythnos i drafod rhai or pynciau llosg sydd yn effeithio ar Gymru heddiw, ac yn agos at ei calonau nhw. Mi fydd trafodaeth am y Frenhiniaeth yn gwahanu barn y criw, ac mi fydd y ddadl am effaith ail gartrefi yn dod o dan y lach. Ac a ydy hi'n bosib i ffemenist gymeryd rhan mewn cystadlaethau harddwch' Saith person, saith cwestiwn a digon i'w drafod.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
@@ -1825,25 +1825,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "67",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "143",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1860,6 +1841,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-05-25 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "67",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae Waynne Phillips yn gyn chwaraewr ac un o sêr Wrecsam yn y nawdegau. Yn y raglen yma byddwn ni'n ymuno a Waynne wrth iddo rannu ei ddefod lwc dda a'i deimladau am y clwb yn ystod y cyfnod cyffrous yma. Mae tîm y merched hefyd yn mynd o nerth i nerth ar y Cae Ras ac oddi cartref. Hefyd, byddwn ni'n cyfarfod Liam Stokes-Massey, artist sydd yn dathlu'r clwb a'i llwyddiant gyda'i furluniau anhygoel. ",
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": null,
       "programme_title": "Y Lein - Streic Friction Dynamics",
       "short_billing": "Ffilm ddogfen yn edrych ar hanes un o'r anghydfodau diwydiannol hiraf yn hanes Prydain: Streic ffatri Friction Dynamics ar gyrion Caernarfon.",
