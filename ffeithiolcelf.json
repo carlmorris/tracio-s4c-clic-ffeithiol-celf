@@ -781,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": null,
       "programme_title": "DRYCH: Rygbi Byddar a Chwpan y Byd",
       "short_billing": "Dangosiad i nodi Mis Ymwybyddiaeth Byddarwch. Am y tro cyntaf erioed, mae timau rygbi'r dynion a menywod yn cystadlu yn Mhencampwriaeth Rygbi Byddar y Byd yn yr Ariannin. Er iddynt wynebu heriau, ar ac oddi ar y cae, roedd Rygbi Byddar Cymru yn benderfynol o oresgyn yr anawsterau a dychwelyd adref fel Pencampwyr dwbwl Cwpan y Byd.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "DRYCH: Y Ceffyl Blaen",
       "short_billing": "Mae 'na ddau gwmni Cymreig wedi gadael eu marc ar farchnad ceffylau rhyngwladol. O wneud dêls gyda Sheiks mwyaf cefnog y Dwyrain Canol i gludo ceffylau Cymreig i rai o gartrefi mwyaf godidog Ewrop. Yn y rhaglen hon dilynwn Gwmni Cludo Ceffylau Nebo ger Llanrhystud a Theulu'r Joneses o Fridfa Bychan ger Llandeilo wrth iddynt geisio gwarchod eu henw da a'u busnesau byd eang trwy gydol cyfnod o newid mawr gyda Covid a Brexit. ",
@@ -815,25 +815,6 @@
       "series_id": null,
       "title": "DRYCH: Y Ceffyl Blaen",
       "date_broadcast": "2024-05-20 21:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "140",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 4",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
-      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
-      "clic_aired": "23 Mai 2024",
-      "fav_id": "802081093",
-      "id": "842325208",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2024-06-03 13:00:00",
       "vs": "0"
     },
     {
@@ -872,6 +853,25 @@
       "series_id": "872656845",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "140",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 4",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
+      "thumbnail_url": "Dan_Do_2022S4C_P4_003.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn ni'n ymweld â Villa Sioraidd deniadol yng Nghaernarfon, t&#375; Fictoraidd a bwrlwm cyfoes yng Nghaerdydd, a bwthyn bach ac estyniad cynaladwy ar Ynys Môn.  ",
+      "clic_aired": "23 Mai 2024",
+      "fav_id": "802081093",
+      "id": "842325208",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2024-06-03 13:00:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Lleuwen Steffan",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau poblogaidd. Cyfres 2017.",
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Ffermio",
-      "programme_title": "Sir Drefaldwyn",
-      "short_billing": "Bydd tîm Ffermio yn ymweld ag ardal Eisteddfod yr Urdd eleni - Sir Drefaldwyn. Bydd Alun Elidyr yn ymweld ag Edward Vaughan, enillydd gwobr arbennig yn y Sioe Frenhinol y llynedd; bydd Daloni yn ymweld â safle'r Eisteddfod yn Meifod; a bydd Melanie Owen yn cwrdd â theulu sy'n ffermio yng Nghymru a Lloegr.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd tîm Ffermio yn ymweld ag ardal Eisteddfod yr Urdd eleni - Sir Drefaldwyn. Bydd Alun Elidyr yn ymweld ag Edward Vaughan, enillydd gwobr arbennig yn y Sioe Frenhinol y llynedd; bydd Daloni yn ymweld â safle'r Eisteddfod yn Meifod; a bydd Melanie Owen yn cwrdd â theulu sy'n ffermio yng Nghymru a Lloegr.",
-      "clic_aired": "27 Mai 2024",
-      "fav_id": "533250950",
-      "id": "890670649",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": "2024-06-08 12:00:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "109",
       "series_title": "Ffermio",
@@ -1119,6 +1100,25 @@
       "series_id": "871756474",
       "title": "Ffermio",
       "date_broadcast": "2024-05-10 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Ffermio",
+      "programme_title": "Sir Drefaldwyn",
+      "short_billing": "Bydd tîm Ffermio yn ymweld ag ardal Eisteddfod yr Urdd eleni - Sir Drefaldwyn. Bydd Alun Elidyr yn ymweld ag Edward Vaughan, enillydd gwobr arbennig yn y Sioe Frenhinol y llynedd; bydd Daloni yn ymweld â safle'r Eisteddfod yn Meifod; a bydd Melanie Owen yn cwrdd â theulu sy'n ffermio yng Nghymru a Lloegr.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd tîm Ffermio yn ymweld ag ardal Eisteddfod yr Urdd eleni - Sir Drefaldwyn. Bydd Alun Elidyr yn ymweld ag Edward Vaughan, enillydd gwobr arbennig yn y Sioe Frenhinol y llynedd; bydd Daloni yn ymweld â safle'r Eisteddfod yn Meifod; a bydd Melanie Owen yn cwrdd â theulu sy'n ffermio yng Nghymru a Lloegr.",
+      "clic_aired": "27 Mai 2024",
+      "fav_id": "533250950",
+      "id": "890670649",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": "2024-06-08 12:00:00",
       "vs": "0"
     },
     {
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen drafod materion cyfoes. ",
-      "clic_aired": "30 Mai 2024",
-      "fav_id": "525516112",
-      "id": "892228510",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2024-05-30 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "84",
       "series_title": "Pawb a'i Farn",
@@ -1708,6 +1689,25 @@
       "series_id": "875031185",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "147",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen drafod materion cyfoes. ",
+      "clic_aired": "30 Mai 2024",
+      "fav_id": "525516112",
+      "id": "892228510",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2024-05-30 21:30:00",
       "vs": "0"
     },
     {
@@ -1844,25 +1844,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "66",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Nathan Brew",
-      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
-      "clic_aired": "10 Mawrth 2024",
-      "fav_id": "819088838",
-      "id": "837080342",
-      "series_id": "837080163",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "142",
       "series_title": "Sgwrs Dan y Lloer",
@@ -1879,6 +1860,25 @@
       "series_id": "861087047",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": "2024-05-25 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "66",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Nathan Brew",
+      "short_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2021S4C_P7_Nathan_Brew_7858.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Elin yn sgwrsio â'r chwaraewr rygbi rhyngwladol a'r sylwebydd, Nathan Brew. O flaen tanllwyth o dân a thafliad carreg o goedwig Penllergaer, cawn hanes ei fagwraeth ym Mrynaman, ei yrfa ar y cae rygbi, a magu 5 o blant! Dyma sgwrs fydd yn cnesu'r galon ar noson hydrefol oer.",
+      "clic_aired": "10 Mawrth 2024",
+      "fav_id": "819088838",
+      "id": "837080342",
+      "series_id": "837080163",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Llinell Las",
       "programme_title": null,
       "short_billing": "O'r trefi prysur i'r pentrefi tawel, dyma weld yn union sut beth ydy gweithio i Heddlu Gogledd Cymru. Portread cwbl onest a llawn i waith unedau arbenigol wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Y tro hwn, mae penbleth am bwy sydd ar fai mewn damwain rhwng car a motorbeic.",
