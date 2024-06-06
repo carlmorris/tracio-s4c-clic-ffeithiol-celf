@@ -59,7 +59,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Am Dro",
       "programme_title": null,
       "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": null,
       "programme_title": "Barry John: Cofio'r Brenin",
       "short_billing": "Dyma raglen deyrnged i gofio am un o fawrion y byd rygbi yng Nghymru fu farw yn ddiweddar - Barry John. Bydd teulu a chyfeillion yn hel atgofion am ei fywyd a'i dalent aruthrol. Rhaglen deimladwy ac emosiynol am un o eiconau Cymru ac un o'r chwaraewyr rygbi gorau welodd Cymru erioed, wrth ddathlu ei fywyd a'i gyfraniad aruthrol.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Cefn Gwlad",
       "programme_title": "Iolo Trefri",
       "short_billing": "Fel teyrnged i'r diweddar Iolo Trefri, dyma gyfle arall i weld Mari Lovgreen yn dathlu bywyd un o gymeriadau chwedlonol Ynys Môn - na, nid y digrifwr Tudur Owen ond ei dad, sydd wedi treulio oes yn arloesi ac arbrofi. Nid pob ffarmwr sydd wedi creu brîd newydd o ddafad, mentro i fyd adloniant, sefydlu bwyty enwog a zoo nid anenwog, ac wedyn yn 90 oed penderfynu adfer ty tafarn!  ",
@@ -363,25 +363,6 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cyw Iar",
-      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
-      "thumbnail_url": "cegin-bryn-2014.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
-      "clic_aired": "7 Chwefror 2024",
-      "fav_id": "520950903",
-      "id": "511243061",
-      "series_id": "511242932",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
       "days_to_expire": "108",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
@@ -395,6 +376,25 @@
       "fav_id": "520950903",
       "id": "519751783",
       "series_id": "519751686",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "29",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cyw Iar",
+      "short_billing": "Cyfres goginio yng nghwmni Bryn Williams.",
+      "thumbnail_url": "cegin-bryn-2014.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen olaf y gyfres bydd y cogydd Bryn Williams yn dangos sut i goginio gyda chyw iâr. Bydd e'n coginio cyw iâr wedi ei botsio hefo lemwnwellt a phak choi a chyw iâr gyda madarch gwyllt, yn ogystal â dangos sut mae e'n paratoi cyw iâr wedi ei rostio.",
+      "clic_aired": "7 Chwefror 2024",
+      "fav_id": "520950903",
+      "id": "511243061",
+      "series_id": "511242932",
       "title": "Cegin Bryn",
       "date_broadcast": null,
       "vs": "0"
@@ -514,25 +514,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "106",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P6_099.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
-      "clic_aired": "24 Ebrill 2024",
-      "fav_id": "890520484",
-      "id": "858730104",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "137",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -549,6 +530,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-06-03 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "106",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P6_099.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
+      "clic_aired": "24 Ebrill 2024",
+      "fav_id": "890520484",
+      "id": "858730104",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": null,
       "programme_title": "Cymru, Alabama a'r Urdd",
       "short_billing": "Yn dilyn ffrwydriad hiliol gan y KKK mewn eglwys yn Birmingham, Alabama yn 1963 - lle lladdwyd pedwar plentyn - fe ddyluniodd yr artist gwydr o Gymru, John Petts, ffenestr yn portreadu Iesu fel dyn du. Gosodwyd y ffenestr yn yr eglwys yn 1964 a'i henwi y 'Wales Window'. Yn 2022, mae'r Urdd yn dathlu ei chanmlwyddiant, ac am ailgydio'n y berthynas hanesyddol rhwng Cymru ac Alabama, a bydd côr newydd yr Urdd yn teithio i Alabama i bartneriaethu gyda chôr gospel Prifysgol Alabama yn Birmingham.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Llanberis",
       "short_billing": "Llanberis.   Bydd criw Cynefin yn crwydo'r dref boblogaidd ar droed Yr Wyddfa i ddarganfod hanes yr ardal.  Ffion Dafis sy'n helpu criw i drwsio trac  trên bach Yr Wyddfa, a caiff glywed am gyfraniad merched i'r hanes chwarelyddol.  Heledd Cynwal sy'n clywed hanes casgliad arbennig o ffotograffau gafodd eu darganfod ar ddamwain mewn atig, ac mi gaiff hi dro ar ddringo gan ddefnyddio offer diogelwch gynhyrchwyd lleol.  Iestyn Jones sy'n helpu gwarchod y Torgoch yn Llyn Padarn, a Siôn Tomos Owen s",
@@ -857,7 +857,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Garddio a Mwy - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd, yng nghwmni Meinir Gwilym, Sioned Edwards, a Rhys Rowlands. Draw ym Mhont y T¿r mae Sioned yn hau blodau llenwi tra mae Ian Keith Jones yn ceisio denu mwy o adar i'r ardd.\n ",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2024",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2024 - ac mae un ymgais uchelgeisiol yn cynnwys lori anferth, monster truck a'r rhaff tynnu'r gelyn hiraf yn y byd! Yna, mae Bois y Pizza ac Ysgol y Strade yn anelu at dorri record y llun cerdyn fflip fwyaf - a bydd ymgais hefyd i dorri record y 20 metr cyflymaf ar Space Hopper ac adeiladu'r t¿r uchaf wedi ei neud o bicau ar y maen! Alun Williams a Rhianna Loren sydd yn ôl i dorri mwy o recordiau Guinness World Records!",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "146",
-      "series_title": "Hen Dy Newydd",
-      "programme_title": "Betws yn Rhos",
-      "short_billing": "Yn ail bennod y gyfres newydd hon mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn cartref sydd hefyd yn feithrinfa yn ardal Betws yn Rhos, Clwyd. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
-      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P2_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn ail bennod y gyfres newydd hon mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn cartref sydd hefyd yn feithrinfa yn ardal Betws yn Rhos, Clwyd. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
-      "clic_aired": "2 Mehefin 2024",
-      "fav_id": "826345615",
-      "id": "826345643",
-      "series_id": "826345615",
-      "title": "Hen Dy Newydd",
-      "date_broadcast": "2024-06-18 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "88",
       "series_title": "Hen Dy Newydd",
@@ -1404,6 +1385,25 @@
       "series_id": "851192203",
       "title": "Hen Dy Newydd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "146",
+      "series_title": "Hen Dy Newydd",
+      "programme_title": "Betws yn Rhos",
+      "short_billing": "Yn ail bennod y gyfres newydd hon mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn cartref sydd hefyd yn feithrinfa yn ardal Betws yn Rhos, Clwyd. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
+      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P2_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn ail bennod y gyfres newydd hon mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn cartref sydd hefyd yn feithrinfa yn ardal Betws yn Rhos, Clwyd. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn Hen Dy Newydd'",
+      "clic_aired": "2 Mehefin 2024",
+      "fav_id": "826345615",
+      "id": "826345643",
+      "series_id": "826345615",
+      "title": "Hen Dy Newydd",
+      "date_broadcast": "2024-06-18 15:05:00",
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ma'i Off 'Ma",
       "programme_title": null,
       "short_billing": "Cyfres realiti yn dilyn teulu tair cenhedlaeth o Benparc, Sir Gaerfyrddin sy'n byw a bod y byd amaeth. Rydym yn eu gweld yn ymestyn eu fferm deuluol er mwyn sicrhau pob cyfle masnachol posib a helpu Myfanwy ac Adrian i sicrhau'r dyfodol gorau i'w 3 plentyn. Does dim dal nôl ar y teulu yma - maent yn rhannu gwybodaeth ac emosiynau yn onest ac yn glir. Y tro hwn: Mae'r cyfnod gwerthu wedi cyrraedd sy'n meddwl un peth i deulu Penparc - amser prysur ofnadwy! A nawn nhw lwyddo i werthu'r cwbl'",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Y Daith i Rwanda",
       "short_billing": "Mae'r cynllun i anfon ceiswyr lloches i Rwanda wedi wynebu heriau moesol a chyfreithiol, ac yn dal i wneud. Ond pam Rwanda' Ydy hi'n ddiogel' A beth mae'r ddêl hon yn golygu i un o wledydd lleiaf datblygedig y byd' Siôn Jenkins sy'n teithio yno gyda Chymro o Abertawe sydd â gwreiddiau dwfn yn y wlad.",
@@ -2243,8 +2243,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "63",
+      "count": "9",
+      "days_to_expire": "62",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
