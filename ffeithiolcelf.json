@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "34",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen hon byddwn yn ymweld â Pharc Dinefwr, Stad y Faenol, Llwybr Arfordirol Ceredigion ger Llangrannog ac ynys rhamantus Llanddwyn ym Môn. Pwy fydd â'r daith orau' Helen o Landeilo, Craig o'r Felinheli, Aled o Lanon neu Seren o'r Bala' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr o mil o bunnoedd.",
-      "thumbnail_url": "Am_Dro_2020S4C_Llanddwyn_6223.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen hon byddwn yn ymweld â Pharc Dinefwr, Stad y Faenol, Llwybr Arfordirol Ceredigion ger Llangrannog ac ynys rhamantus Llanddwyn ym Môn. Pwy fydd â'r daith orau' Helen o Landeilo, Craig o'r Felinheli, Aled o Lanon neu Seren o'r Bala' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr o mil o bunnoedd.",
-      "clic_aired": "20 Gorffennaf 2024",
-      "fav_id": "809997292",
-      "id": "809997839",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2024-07-21 09:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "125",
       "series_title": "Am Dro!",
@@ -116,7 +97,26 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "34",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "Yn y rhaglen hon byddwn yn ymweld â Pharc Dinefwr, Stad y Faenol, Llwybr Arfordirol Ceredigion ger Llangrannog ac ynys rhamantus Llanddwyn ym Môn. Pwy fydd â'r daith orau' Helen o Landeilo, Craig o'r Felinheli, Aled o Lanon neu Seren o'r Bala' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr o mil o bunnoedd.",
+      "thumbnail_url": "Am_Dro_2020S4C_Llanddwyn_6223.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon byddwn yn ymweld â Pharc Dinefwr, Stad y Faenol, Llwybr Arfordirol Ceredigion ger Llangrannog ac ynys rhamantus Llanddwyn ym Môn. Pwy fydd â'r daith orau' Helen o Landeilo, Craig o'r Felinheli, Aled o Lanon neu Seren o'r Bala' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr o mil o bunnoedd.",
+      "clic_aired": "20 Gorffennaf 2024",
+      "fav_id": "809997292",
+      "id": "809997839",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2024-07-21 09:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "30",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": null,
       "programme_title": "Barry John: Cofio'r Brenin",
       "short_billing": "Dyma raglen deyrnged i gofio am un o fawrion y byd rygbi yng Nghymru fu farw yn ddiweddar - Barry John. Bydd teulu a chyfeillion yn hel atgofion am ei fywyd a'i dalent aruthrol. Rhaglen deimladwy ac emosiynol am un o eiconau Cymru ac un o'r chwaraewyr rygbi gorau welodd Cymru erioed, wrth ddathlu ei fywyd a'i gyfraniad aruthrol.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": null,
       "programme_title": "Byd Eithafol: Chwarae Teg?",
       "short_billing": " Ar drothwy  Gemau Olympaidd Paris 2024, mae'r newyddiadurwraig a chyn-bencampwr Jiwdo Cymru, Maxine Hughes, yn ymchwilio i'r ddadl a ddylai menywod traws gystadlu yng nghategori'r merched. Mae'n cyfweld â phobl ar y ddwy ochr gan gynnwys y bencampwraig nofio Olympaidd Sharron Davies, arwres chwaraeon Cymru, Non Evans, a nofwraig traws Americanaidd, Meghan Cortez-Fields, ac mae hefyd yn holi gwyddonydd blaenllaw a chynrychiolydd o'r Pwyllgor Olympaidd Rhyngwladol.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cefn Gwlad",
       "programme_title": "Iolo Trefri",
       "short_billing": "Fel teyrnged i'r diweddar Iolo Trefri, dyma gyfle arall i weld Mari Lovgreen yn dathlu bywyd un o gymeriadau chwedlonol Ynys Môn - na, nid y digrifwr Tudur Owen ond ei dad, sydd wedi treulio oes yn arloesi ac arbrofi. Nid pob ffarmwr sydd wedi creu brîd newydd o ddafad, mentro i fyd adloniant, sefydlu bwyty enwog a zoo nid anenwog, ac wedyn yn 90 oed penderfynu adfer ty tafarn!  ",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "61",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P6_099.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
-      "clic_aired": "24 Ebrill 2024",
-      "fav_id": "890520484",
-      "id": "858730104",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "122",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -701,6 +682,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-07-20 19:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "61",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P6_099.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
+      "clic_aired": "24 Ebrill 2024",
+      "fav_id": "890520484",
+      "id": "858730104",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": null,
       "programme_title": "Cymru, Alabama a'r Urdd",
       "short_billing": "Yn dilyn ffrwydriad hiliol gan y KKK mewn eglwys yn Birmingham, Alabama yn 1963 - lle lladdwyd pedwar plentyn - fe ddyluniodd yr artist gwydr o Gymru, John Petts, ffenestr yn portreadu Iesu fel dyn du. Gosodwyd y ffenestr yn yr eglwys yn 1964 a'i henwi y 'Wales Window'. Yn 2022, mae'r Urdd yn dathlu ei chanmlwyddiant, ac am ailgydio'n y berthynas hanesyddol rhwng Cymru ac Alabama, a bydd côr newydd yr Urdd yn teithio i Alabama i bartneriaethu gyda chôr gospel Prifysgol Alabama yn Birmingham.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Porthmadog",
       "short_billing": "Porthmadog.  Mae digon i'w ddarganfod ym Mhorthmadog, ag mae'r tîm ar grwydr yn yr ardal.  Bydd Llinos Owen yn tiwnio piano, Siôn Tomos Owen yn canu'r delyn, ag yn mwynhau ei gêm bêl droed gyntaf erioed, Heledd Cynwal yn dysgu am hanes y Cob a'r Ynysoedd sydd yn dal i'w gweld ar gyrrion y dref a Ffion Dafis yn cael tro ar ddringo craig uchel yn ogystal ag addurno ag yna gyrru trên stêm.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Dan Do",
       "programme_title": null,
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \r\nYn y rhaglen hon byddwn ni'n ymweld â beudy sydd wedi ei drawsnewid yn gartref trawiadol yng Ngogledd Ceredigion, t&#375; newydd sbon sy'n gartref perffaith i'r teulu yn y Gwyr, a th&#375; teras braf yn ardal Pontcanna o Gaerdydd.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "34",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Eisteddfod yr Urdd 2024",
       "programme_title": "Uchafbwyntiau Steddfod yr Urdd",
       "short_billing": "Uchafbwyntiau o Eisteddfod yr Urdd 2024 yn Meifod.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "14",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Garddio a Mwy - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Blodau, llysiau a phethau da bywyd o bob cwr o Gymru. Mae Meinir Gwilym yn ymweld â Adam Jones yn ei ardd ar gyrion Caerfyrddin tra mae Sioned Edwards yn ceisio lleihau ei defnydd o blastig yn yr ardd. ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2024",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2024 - ac mae un ymgais uchelgeisiol yn cynnwys lori anferth, monster truck a'r rhaff tynnu'r gelyn hiraf yn y byd! Yna, mae Bois y Pizza ac Ysgol y Strade yn anelu at dorri record y llun cerdyn fflip fwyaf - a bydd ymgais hefyd i dorri record y 20 metr cyflymaf ar Space Hopper ac adeiladu'r t¿r uchaf wedi ei neud o bicau ar y maen! Alun Williams a Rhianna Loren sydd yn ôl i dorri mwy o recordiau Guinness World Records!",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Ma'i Off 'Ma",
       "programme_title": null,
       "short_billing": "Cyfres realiti yn dilyn teulu tair cenhedlaeth o Benparc, Sir Gaerfyrddin sy'n byw a bod y byd amaeth. Rydym yn eu gweld yn ymestyn eu fferm deuluol er mwyn sicrhau pob cyfle masnachol posib a helpu Myfanwy ac Adrian i sicrhau'r dyfodol gorau i'w 3 plentyn. Does dim dal nôl ar y teulu yma - maent yn rhannu gwybodaeth ac emosiynau yn onest ac yn glir. Tro hwn, mae pen-blwydd mawr gyda theulu Penparc¿ A fydd yna ddathlu mawr' Ma'i Off 'Ma! ",
@@ -1806,25 +1806,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "35",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
-      "clic_aired": "28 Mawrth 2024",
-      "fav_id": "525516112",
-      "id": "875031378",
-      "series_id": "875031185",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "126",
       "series_title": "Pawb a'i Farn",
@@ -1841,6 +1822,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2024-06-27 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "35",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sion Jenkins fydd yn llywio trafodaeth Pawb a'i Farn o neuadd Pontyberem yng Nghwm Gwendraeth. Ymysg y pynciau sy'n cael eu trafod fydd prinder meddygon teulu, yr angen i fynd a'r afael a thlodi plant, a sut mae dirywiad y diwydiant amaeth yn peryglu'r Gymraeg fel iaith gymunedol.",
+      "clic_aired": "28 Mawrth 2024",
+      "fav_id": "525516112",
+      "id": "875031378",
+      "series_id": "875031185",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Tanwen & Ollie",
       "programme_title": null,
       "short_billing": "Mae'n amser datgelu rhyw y babi a gaiff  Tanwen gyngor ei chwaer Efa am ei dillad newydd ar gyfer y Parti Bwmp.",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Y Daith i Rwanda",
       "short_billing": "Mae'r cynllun i anfon ceiswyr lloches i Rwanda wedi wynebu heriau moesol a chyfreithiol, ac yn dal i wneud. Ond pam Rwanda' Ydy hi'n ddiogel' A beth mae'r ddêl hon yn golygu i un o wledydd lleiaf datblygedig y byd' Siôn Jenkins sy'n teithio yno gyda Chymro o Abertawe sydd â gwreiddiau dwfn yn y wlad.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Y Fets",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Y Gêm",
       "programme_title": "Y Gêm gyda...Nia Jones ",
       "short_billing": "Owain Tudur Jones sy'n siarad gyda'r chwaraewraig pelrhwyd a'r peldroedwraig, Nia Jones, y tro hwn. ",
