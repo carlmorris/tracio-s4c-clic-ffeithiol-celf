@@ -477,25 +477,6 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cig Oen",
-      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
-      "thumbnail_url": "Cegin_Bryn_2012S4C_P5_8771.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, bydd Bryn Williams yn coginio gyda hen ffefryn, cig oen Cymreig a hefyd chig dafad. ",
-      "clic_aired": "26 Gorffennaf 2024",
-      "fav_id": "520950903",
-      "id": "502576536",
-      "series_id": "502576457",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-07-29 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
       "days_to_expire": "55",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
@@ -511,6 +492,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "146",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cig Oen",
+      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
+      "thumbnail_url": "Cegin_Bryn_2012S4C_P5_8771.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, bydd Bryn Williams yn coginio gyda hen ffefryn, cig oen Cymreig a hefyd chig dafad. ",
+      "clic_aired": "26 Gorffennaf 2024",
+      "fav_id": "520950903",
+      "id": "502576536",
+      "series_id": "502576457",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-07-29 18:00:00",
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "O fannau enwog i berlau cudd, bydd y cogyddion tanbaid Chris 'Flamebaster' Roberts a Tomos Parry yn coginio a chiniawa o amgylch Efrog Newydd¿ a thanio angerdd gwladgarol gyda gwledd Gymreig arbennig yn Brooklyn!",
@@ -914,7 +914,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Lleuwen Steffan",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau poblogaidd. Cyfres 2017.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": null,
       "programme_title": "Gerallt Lloyd Owen",
       "short_billing": "Cyfle arall i weld rhaglen ddogfen onest a threiddgar am y Prifardd Gerallt Lloyd Owen - mae bellach yn ddeng mlynedd ers iddo farw. Mae'r rhaglen yn codi'r llen ar y cymeriad preifat ac enigmatig a ysgrifennodd rai o gerddi enwocaf Cymru ac a fu'n Feuryn Talwrn y Beirdd am 30 mlynedd. Drwy gyfres o gyfweliadau estynedig, mynediad ecsgliwsif i'w gartref, ynghyd â chyfweliadau gydag aelodau o'i deulu, mae'r ffilm-ddogfen hon yn cyflwyno ochr arall i'r persona cyhoeddus ac yn datgelu ei angerdd a'",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Gerddi Cymru",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Pennod 5",
       "short_billing": "Ym mhennod ola emosiynol y gyfres mae y Gwesty yn helpu Myra Williams, 91 oed, i ddod o hyd i fedd ei brawd bach, sydd ar goll ar ochr arall y byd, ers dros 70 mlynedd. Mae yna aduniad i Ian Thomas, sydd wedi bod yn chwilio am ei chwaer ers dros 10 mlynedd.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres. Dau nofiwr sydd am groesi o Ynys Enlli i'r tir mawr, taith adain un o awyrennau mwya'r byd ar Afon Dyfrdwy, a Chymraes sy'n teithio i'r Arctig ar drywydd llanw newydd sy'n ein bygwth ni i gyd. ",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Sgwrs Dan y Lloer",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": null,
       "programme_title": "Windrush: Rhwng Dau Fyd",
       "short_billing": "Rhaglen newydd yn ystod Mis Hanes Pobl Ddu. Beth yw bod yn Gymry' Sut mae siaradwyr Cymraeg yn edrych ' Beth am yr iaith ni'n ei defnyddio' 75 mlynedd ers I fenwnfudwyr o'r Caribi gyrraedd Prydain ar long y Windrush, Emily Pemberton sy'n holi'r cwestiynau, gan dynnu ar brofiadau ei theulu, ffrindiau a chymuned ddoe a heddiw yng Nghaerdydd. ",
