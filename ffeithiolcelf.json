@@ -77,44 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "20",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
-      "thumbnail_url": "Am_Dro_2024S4C_P9-2.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
-      "clic_aired": "24 Mawrth 2024",
-      "fav_id": "809997292",
-      "id": "870173204",
-      "series_id": "870173036",
-      "title": "Am Dro!",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Am Dro!",
-      "programme_title": "Steddfod!",
-      "short_billing": "Un o gymoedd enwocaf, thawiadol ac hanesyddol ein gwlad yw'r Rhondda - Cartref yr Eisteddfod Genedlaethol eleni. Ac fel cyflwyniad i fro'r Steddfod, beth gwell na gwahodd 4 o gymeriadau lleol i ddangos eu milltir sgwar fach nhw ar ei orau. Paratoi picnic blasus, a rhannu ffeithiau diddorol a golygfeydd gwefreiddiol wrth gystadlu am fil o bunnau.",
-      "thumbnail_url": "Am_Dro_2024S4C_P1_Eisteddfod-143815473.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Un o gymoedd enwocaf, thawiadol ac hanesyddol ein gwlad yw'r Rhondda - Cartref yr Eisteddfod Genedlaethol eleni. Ac fel cyflwyniad i fro'r Steddfod, beth gwell na gwahodd 4 o gymeriadau lleol i ddangos eu milltir sgwar fach nhw ar ei orau. Paratoi picnic blasus, a rhannu ffeithiau diddorol a golygfeydd gwefreiddiol wrth gystadlu am fil o bunnau.",
-      "clic_aired": "28 Gorffennaf 2024",
-      "fav_id": "809997292",
-      "id": "887386544",
-      "series_id": "887386535",
-      "title": "Am Dro!",
-      "date_broadcast": "2024-08-08 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "114",
       "series_title": "Am Dro!",
@@ -153,6 +115,44 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "20",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
+      "thumbnail_url": "Am_Dro_2024S4C_P9-2.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
+      "clic_aired": "24 Mawrth 2024",
+      "fav_id": "809997292",
+      "id": "870173204",
+      "series_id": "870173036",
+      "title": "Am Dro!",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Am Dro!",
+      "programme_title": "Steddfod!",
+      "short_billing": "Un o gymoedd enwocaf, thawiadol ac hanesyddol ein gwlad yw'r Rhondda - Cartref yr Eisteddfod Genedlaethol eleni. Ac fel cyflwyniad i fro'r Steddfod, beth gwell na gwahodd 4 o gymeriadau lleol i ddangos eu milltir sgwar fach nhw ar ei orau. Paratoi picnic blasus, a rhannu ffeithiau diddorol a golygfeydd gwefreiddiol wrth gystadlu am fil o bunnau.",
+      "thumbnail_url": "Am_Dro_2024S4C_P1_Eisteddfod-143815473.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Un o gymoedd enwocaf, thawiadol ac hanesyddol ein gwlad yw'r Rhondda - Cartref yr Eisteddfod Genedlaethol eleni. Ac fel cyflwyniad i fro'r Steddfod, beth gwell na gwahodd 4 o gymeriadau lleol i ddangos eu milltir sgwar fach nhw ar ei orau. Paratoi picnic blasus, a rhannu ffeithiau diddorol a golygfeydd gwefreiddiol wrth gystadlu am fil o bunnau.",
+      "clic_aired": "28 Gorffennaf 2024",
+      "fav_id": "809997292",
+      "id": "887386544",
+      "series_id": "887386535",
+      "title": "Am Dro!",
+      "date_broadcast": "2024-08-08 21:30:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "64",
       "series_title": "Ar Brawf",
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -187,7 +187,7 @@
       "id": "535266325",
       "series_id": "535266195",
       "title": "Arfordir Cymru: Bae Ceredigion",
-      "date_broadcast": "2024-06-29 23:30:00",
+      "date_broadcast": "2024-08-15 18:30:00",
       "vs": "0"
     },
     {
@@ -457,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Alison a Sion Tryfil Uchaf",
-      "short_billing": "Ar drothwy'r Eisteddfod Genedlaethol dathliad o gamp a bywyd enillydd Dysgwr y Flwyddyn 2023, Alison Cairns. Symudodd yr Albanes i Gymru yn 2007 ar ôl cwrdd â Sion Roberts, Tryfil Uchaf a bwrw gwreiddie yn Ynys Mon - nawr mae'r ddau nawr yn magu a 7 o blant ar ei ffarm yn Llandrygarn, Llanerchymedd.  Mari Lovgreen sy'n rhyfeddu ar sut mae'r cwpl yn cadw'r cyfan ar y cledrau.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P2_Alison_a_Sion-12.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar drothwy'r Eisteddfod Genedlaethol dathliad o gamp a bywyd enillydd Dysgwr y Flwyddyn 2023, Alison Cairns. Symudodd yr Albanes i Gymru yn 2007 ar ôl cwrdd â Sion Roberts, Tryfil Uchaf a bwrw gwreiddie yn Ynys Mon - nawr mae'r ddau nawr yn magu a 7 o blant ar ei ffarm yn Llandrygarn, Llanerchymedd.  Mari Lovgreen sy'n rhyfeddu ar sut mae'r cwpl yn cadw'r cyfan ar y cledrau.",
-      "clic_aired": "29 Gorffennaf 2024",
-      "fav_id": "520950902",
-      "id": "892182261",
-      "series_id": "892182226",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2024-08-11 15:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "18",
       "series_title": "Cefn Gwlad",
@@ -492,6 +473,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Alison a Sion Tryfil Uchaf",
+      "short_billing": "Ar drothwy'r Eisteddfod Genedlaethol dathliad o gamp a bywyd enillydd Dysgwr y Flwyddyn 2023, Alison Cairns. Symudodd yr Albanes i Gymru yn 2007 ar ôl cwrdd â Sion Roberts, Tryfil Uchaf a bwrw gwreiddie yn Ynys Mon - nawr mae'r ddau nawr yn magu a 7 o blant ar ei ffarm yn Llandrygarn, Llanerchymedd.  Mari Lovgreen sy'n rhyfeddu ar sut mae'r cwpl yn cadw'r cyfan ar y cledrau.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P2_Alison_a_Sion-12.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar drothwy'r Eisteddfod Genedlaethol dathliad o gamp a bywyd enillydd Dysgwr y Flwyddyn 2023, Alison Cairns. Symudodd yr Albanes i Gymru yn 2007 ar ôl cwrdd â Sion Roberts, Tryfil Uchaf a bwrw gwreiddie yn Ynys Mon - nawr mae'r ddau nawr yn magu a 7 o blant ar ei ffarm yn Llandrygarn, Llanerchymedd.  Mari Lovgreen sy'n rhyfeddu ar sut mae'r cwpl yn cadw'r cyfan ar y cledrau.",
+      "clic_aired": "29 Gorffennaf 2024",
+      "fav_id": "520950902",
+      "id": "892182261",
+      "series_id": "892182226",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2024-08-11 15:30:00",
       "vs": "0"
     },
     {
@@ -515,25 +515,6 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Cig Oen",
-      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
-      "thumbnail_url": "Cegin_Bryn_2012S4C_P5_8771.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, bydd Bryn Williams yn coginio gyda hen ffefryn, cig oen Cymreig a hefyd chig dafad. ",
-      "clic_aired": "26 Gorffennaf 2024",
-      "fav_id": "520950903",
-      "id": "502576536",
-      "series_id": "502576457",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-07-29 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
       "days_to_expire": "53",
       "series_title": "Cegin Bryn",
       "programme_title": "Tomatos",
@@ -552,6 +533,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Cig Oen",
+      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
+      "thumbnail_url": "Cegin_Bryn_2012S4C_P5_8771.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, bydd Bryn Williams yn coginio gyda hen ffefryn, cig oen Cymreig a hefyd chig dafad. ",
+      "clic_aired": "26 Gorffennaf 2024",
+      "fav_id": "520950903",
+      "id": "502576536",
+      "series_id": "502576457",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-07-29 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "125",
       "series_title": "Cerys Matthews a'r Goeden Faled",
@@ -567,7 +567,7 @@
       "id": "536781232",
       "series_id": "536781113",
       "title": "Cerys Matthews a'r Goeden Faled",
-      "date_broadcast": "2024-07-07 12:00:00",
+      "date_broadcast": "2024-08-15 13:00:00",
       "vs": "0"
     },
     {
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "112",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Mehefin 2024",
-      "fav_id": "890520484",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-07-20 19:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "51",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -701,6 +682,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "112",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Mehefin 2024",
+      "fav_id": "890520484",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-07-20 19:30:00",
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cymoedd Roy Noble",
       "programme_title": null,
       "short_billing": "In the second series, Roy Noble visits more South Wales Valleys including the Neath, Gwendraeth, Swansea and Loughor Valleys.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1099,7 +1099,7 @@
       "id": "859634899",
       "series_id": "859634831",
       "title": "Ein Llwybrau Celtaidd",
-      "date_broadcast": "2024-06-27 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "646",
+      "days_to_expire": "645",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "958",
+      "days_to_expire": "957",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1502,25 +1502,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "118",
-      "series_title": "Hen Dy Newydd",
-      "programme_title": "Caerdydd",
-      "short_billing": "Yn y bennod olaf, mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn catref yn ardal Grangetown, Caerdydd. Gyda'r bath yn llawn planhigion, mae tipyn o her gan ein cynllunwyr yn yr ystafell molchi yr wythnos hon! Ni fydd gan y pâr syniad sut hwyl geith y tri, a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn dy newydd'\n ",
-      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P6_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y bennod olaf, mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn catref yn ardal Grangetown, Caerdydd. Gyda'r bath yn llawn planhigion, mae tipyn o her gan ein cynllunwyr yn yr ystafell molchi yr wythnos hon! Ni fydd gan y pâr syniad sut hwyl geith y tri, a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn dy newydd'\n ",
-      "clic_aired": "30 Mehefin 2024",
-      "fav_id": "826345615",
-      "id": "826345723",
-      "series_id": "826345615",
-      "title": "Hen Dy Newydd",
-      "date_broadcast": "2024-06-30 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "33",
       "series_title": "Hen Dy Newydd",
@@ -1537,6 +1518,25 @@
       "series_id": "851192203",
       "title": "Hen Dy Newydd",
       "date_broadcast": "2024-07-27 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "118",
+      "series_title": "Hen Dy Newydd",
+      "programme_title": "Caerdydd",
+      "short_billing": "Yn y bennod olaf, mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn catref yn ardal Grangetown, Caerdydd. Gyda'r bath yn llawn planhigion, mae tipyn o her gan ein cynllunwyr yn yr ystafell molchi yr wythnos hon! Ni fydd gan y pâr syniad sut hwyl geith y tri, a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn dy newydd'\n ",
+      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P6_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod olaf, mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn catref yn ardal Grangetown, Caerdydd. Gyda'r bath yn llawn planhigion, mae tipyn o her gan ein cynllunwyr yn yr ystafell molchi yr wythnos hon! Ni fydd gan y pâr syniad sut hwyl geith y tri, a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn dy newydd'\n ",
+      "clic_aired": "30 Mehefin 2024",
+      "fav_id": "826345615",
+      "id": "826345723",
+      "series_id": "826345615",
+      "title": "Hen Dy Newydd",
+      "date_broadcast": "2024-06-30 22:30:00",
       "vs": "0"
     },
     {
@@ -1764,7 +1764,7 @@
       "id": "874596037",
       "series_id": "874595989",
       "title": "Ni yw'r Cymry",
-      "date_broadcast": null,
+      "date_broadcast": "2024-08-15 22:00:00",
       "vs": "0"
     },
     {
@@ -1821,7 +1821,7 @@
       "id": "892228588",
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
-      "date_broadcast": "2024-06-27 21:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1996,25 +1996,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "129",
-      "series_title": "Sgwrs Dan y Lloer",
-      "programme_title": "Alex Jones",
-      "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2022S4C_P7_03.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
-      "clic_aired": "11 Gorffennaf 2024",
-      "fav_id": "819088838",
-      "id": "861087215",
-      "series_id": "861087047",
-      "title": "Sgwrs Dan y Lloer",
-      "date_broadcast": "2024-07-28 15:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "6",
       "series_title": "Sgwrs Dan y Lloer",
@@ -2031,6 +2012,25 @@
       "series_id": "837080163",
       "title": "Sgwrs Dan y Lloer",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "129",
+      "series_title": "Sgwrs Dan y Lloer",
+      "programme_title": "Alex Jones",
+      "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2022S4C_P7_03.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
+      "clic_aired": "11 Gorffennaf 2024",
+      "fav_id": "819088838",
+      "id": "861087215",
+      "series_id": "861087047",
+      "title": "Sgwrs Dan y Lloer",
+      "date_broadcast": "2024-07-28 15:00:00",
       "vs": "0"
     },
     {
@@ -2486,7 +2486,7 @@
       "id": "872393629",
       "series_id": "872393489",
       "title": "Y Llinell Las",
-      "date_broadcast": "2024-06-27 22:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
