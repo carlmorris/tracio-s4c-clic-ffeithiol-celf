@@ -77,6 +77,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "28",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "Yn y chweched rhaglen o'r gyfres, byddwn yn ymweld â Phenrhyn G¿yr, Parc Margam ger Port Talbot, ac yn crwydro llwybr arfordir Sir Benfro, cyn dringo i'r uchelfannau uwchben Llangollen. Pwy fydd â'r daith orau' Delyth, Jalisa, Tomos neu Geraint' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr mil o bunnoedd.",
+      "thumbnail_url": "Am_Dro_2020S4C_P6_101.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y chweched rhaglen o'r gyfres, byddwn yn ymweld â Phenrhyn G¿yr, Parc Margam ger Port Talbot, ac yn crwydro llwybr arfordir Sir Benfro, cyn dringo i'r uchelfannau uwchben Llangollen. Pwy fydd â'r daith orau' Delyth, Jalisa, Tomos neu Geraint' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr mil o bunnoedd.",
+      "clic_aired": "27 Gorffennaf 2024",
+      "fav_id": "809997292",
+      "id": "809997881",
+      "series_id": "809997652",
+      "title": "Am Dro!",
+      "date_broadcast": "2024-07-28 09:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "143",
       "series_title": "Am Dro!",
@@ -112,25 +131,6 @@
       "series_id": "870173036",
       "title": "Am Dro!",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "28",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "Yn y chweched rhaglen o'r gyfres, byddwn yn ymweld â Phenrhyn G¿yr, Parc Margam ger Port Talbot, ac yn crwydro llwybr arfordir Sir Benfro, cyn dringo i'r uchelfannau uwchben Llangollen. Pwy fydd â'r daith orau' Delyth, Jalisa, Tomos neu Geraint' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr mil o bunnoedd.",
-      "thumbnail_url": "Am_Dro_2020S4C_P6_101.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y chweched rhaglen o'r gyfres, byddwn yn ymweld â Phenrhyn G¿yr, Parc Margam ger Port Talbot, ac yn crwydro llwybr arfordir Sir Benfro, cyn dringo i'r uchelfannau uwchben Llangollen. Pwy fydd â'r daith orau' Delyth, Jalisa, Tomos neu Geraint' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr mil o bunnoedd.",
-      "clic_aired": "27 Gorffennaf 2024",
-      "fav_id": "809997292",
-      "id": "809997881",
-      "series_id": "809997652",
-      "title": "Am Dro!",
-      "date_broadcast": "2024-07-28 09:00:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": null,
       "programme_title": "DRYCH: Rygbi Byddar a Chwpan y Byd",
       "short_billing": "Dangosiad i nodi Mis Ymwybyddiaeth Byddarwch. Am y tro cyntaf erioed, mae timau rygbi'r dynion a menywod yn cystadlu yn Mhencampwriaeth Rygbi Byddar y Byd yn yr Ariannin. Er iddynt wynebu heriau, ar ac oddi ar y cae, roedd Rygbi Byddar Cymru yn benderfynol o oresgyn yr anawsterau a dychwelyd adref fel Pencampwyr dwbwl Cwpan y Byd.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": null,
       "programme_title": "DRYCH: Y Ceffyl Blaen",
       "short_billing": "Mae 'na ddau gwmni Cymreig wedi gadael eu marc ar farchnad ceffylau rhyngwladol. O wneud dêls gyda Sheiks mwyaf cefnog y Dwyrain Canol i gludo ceffylau Cymreig i rai o gartrefi mwyaf godidog Ewrop. Yn y rhaglen hon dilynwn Gwmni Cludo Ceffylau Nebo ger Llanrhystud a Theulu'r Joneses o Fridfa Bychan ger Llandeilo wrth iddynt geisio gwarchod eu henw da a'u busnesau byd eang trwy gydol cyfnod o newid mawr gyda Covid a Brexit. ",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "140",
-      "series_title": "Dan Do",
-      "programme_title": "Pennod 10",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
-      "clic_aired": "25 Gorffennaf 2024",
-      "fav_id": "802081093",
-      "id": "842325376",
-      "series_id": "842325112",
-      "title": "Dan Do",
-      "date_broadcast": "2024-07-29 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "72",
       "series_title": "Dan Do",
@@ -948,6 +929,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "140",
+      "series_title": "Dan Do",
+      "programme_title": "Pennod 10",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "thumbnail_url": "Dan_Do_2022S4C_C4P10_172.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn ni'n ymweld ag ysgubor hynafol sydd bellach wedi'i hadfywio'n gartref hyfryd ger Llangollen, adeilad Sioraidd gyda golygfeydd godidog a phrosiect newydd sbon yn Ffwrnais sy'n gartref perffaith i'r teulu fyw a gweithio yno.",
+      "clic_aired": "25 Gorffennaf 2024",
+      "fav_id": "802081093",
+      "id": "842325376",
+      "series_id": "842325112",
+      "title": "Dan Do",
+      "date_broadcast": "2024-07-29 13:00:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": null,
       "programme_title": "Eisteddfod Llangollen: Côr y Byd 2024",
       "short_billing": "Uchafbwynt Eisteddfod Gerddorol Rhyngwladol Llangollen a diweddglo i wythnos o gystadlu. Bydd enillwyr y cystadlaethau corawl amrywiol yn cystadlu yn erbyn ei gilydd ar gyfer yr anrhydedd o deitl Côr y Byd 2024 a Thlws Pavarotti.  ",
