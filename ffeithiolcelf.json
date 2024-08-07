@@ -116,7 +116,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Yn y chweched rhaglen o'r gyfres, byddwn yn ymweld â Phenrhyn G¿yr, Parc Margam ger Port Talbot, ac yn crwydro llwybr arfordir Sir Benfro, cyn dringo i'r uchelfannau uwchben Llangollen. Pwy fydd â'r daith orau' Delyth, Jalisa, Tomos neu Geraint' Pedair taith gerdded, pedwar cystadleuydd ond dim ond un enillydd fydd yn cipio'r wobr mil o bunnoedd.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Bwrdd i Dri",
       "programme_title": "Y Cymoedd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
@@ -476,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "144",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Siocled",
-      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
-      "thumbnail_url": "Cegin_Bryn_2012S4C_P6_Siocled_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen o 2012, mae'r cogydd Bryn Williams yn coginio gydag un o hoff gynhwysion y genedl - siocled. Fe fydd Bryn yn ymweld â chanolfan chwisgi Penderyn ac yn cyfuno'r ddiod gyda siocled tywyll i greu peli nefolaidd.",
-      "clic_aired": "2 Awst 2024",
-      "fav_id": "520950903",
-      "id": "502576554",
-      "series_id": "502576457",
-      "title": "Cegin Bryn",
-      "date_broadcast": "2024-08-12 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "46",
       "series_title": "Cegin Bryn",
@@ -511,6 +492,25 @@
       "series_id": "519751686",
       "title": "Cegin Bryn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "144",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Siocled",
+      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
+      "thumbnail_url": "Cegin_Bryn_2012S4C_P6_Siocled_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mewn rhaglen o 2012, mae'r cogydd Bryn Williams yn coginio gydag un o hoff gynhwysion y genedl - siocled. Fe fydd Bryn yn ymweld â chanolfan chwisgi Penderyn ac yn cyfuno'r ddiod gyda siocled tywyll i greu peli nefolaidd.",
+      "clic_aired": "2 Awst 2024",
+      "fav_id": "520950903",
+      "id": "502576554",
+      "series_id": "502576457",
+      "title": "Cegin Bryn",
+      "date_broadcast": "2024-08-12 18:00:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Codi Hwyl",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": null,
       "programme_title": "Hel y Mynydd",
       "short_billing": "Mynyddoedd y Cambrian sy'n cael eu hadnabod fel asgwrn cefn Cymru yw un o ardaloedd mwyaf diarffordd y wlad. Ychydig o bobl sy'n dal i fyw a ffermio ar y mynyddoedd hyn lle mae'r ponis a'r defaid yn rhydd i bori. Yn y rhaglen hon, cawn ddod i adnabod rhai o ffermwyr a bugeiliaid yr ardal hynod hon wrth iddynt barhau i grynhoi y defaid yn y ffordd draddodiadol ar droed ac ar geffylau - traddodiad sy'n prysur ddod i ben. ",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Hen Dy Newydd",
       "programme_title": "Caerdydd",
       "short_billing": "Yn y bennod olaf, mae ein 3 cynllunydd creadigol, sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones, yn wynebu'r her o adnewyddu 3 ardal/ ystafell mewn catref yn ardal Grangetown, Caerdydd. Gyda'r bath yn llawn planhigion, mae tipyn o her gan ein cynllunwyr yn yr ystafell molchi yr wythnos hon! Ni fydd gan y pâr syniad sut hwyl geith y tri, a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn dy newydd'\n ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": null,
       "programme_title": "Trysorau Gareth Edwards",
       "short_billing": "Mae gan Gareth Edwards fynydd o femorabilia, yn deillio o'i amser ar frig y gêm genedlaethol. Mae Gareth yn cadw ei drysorau mewn bocsys a bagiau sy'n orlawn. Ac maen nhw'n bygwth boddi ei gartref e a Maureen, ei wraig. Nawr, mae'n rhaid i Gareth ddewis deg eitem yn unig o blith miloedd ar gyfer arddangosfa fydd yn adrodd hanes ei fywyd. Dewch ar daith i ddarganfod creiriau sydd heb weld golau dydd ers degawdau, a chofio hen hanesion o oes aur rygbi. ",
