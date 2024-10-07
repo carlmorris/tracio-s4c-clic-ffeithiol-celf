@@ -16,25 +16,6 @@
       "id": "878170573",
       "series_id": null,
       "title": "30 Stôn: Brwydr Fawr Geth a Monty",
-      "date_broadcast": "2024-09-03 21:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "80",
-      "series_title": "Adre",
-      "programme_title": "Geraint Lewis",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr awdur a'r actor - Geraint Lewis, yn Aberaeron. ",
-      "thumbnail_url": "Adre_2021-22S4C_P4_GERAINT_LEWIS_2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr awdur a'r actor - Geraint Lewis, yn Aberaeron. ",
-      "clic_aired": "30 Gorffennaf 2024",
-      "fav_id": "793406870",
-      "id": "817959720",
-      "series_id": "817959638",
-      "title": "Adre",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -53,6 +34,25 @@
       "fav_id": "793406870",
       "id": "806786207",
       "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "80",
+      "series_title": "Adre",
+      "programme_title": "Geraint Lewis",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr awdur a'r actor - Geraint Lewis, yn Aberaeron. ",
+      "thumbnail_url": "Adre_2021-22S4C_P4_GERAINT_LEWIS_2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Mae bob 'Adre' yn wahanol a'r cartref yn aml iawn yn adlewyrchu'r cymeriad sy'n byw yno. Yr wythnos hon byddwn yn ymweld â chartref yr awdur a'r actor - Geraint Lewis, yn Aberaeron. ",
+      "clic_aired": "30 Gorffennaf 2024",
+      "fav_id": "793406870",
+      "id": "817959720",
+      "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": null,
       "vs": "0"
@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -724,7 +724,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "578",
+      "days_to_expire": "577",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "890",
+      "days_to_expire": "889",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": null,
       "programme_title": "Ifan Phillips: Y Cam Nesaf",
       "short_billing": "Gyda'i yrfa rygbi yn edrych yn addawol, dioddefodd Ifan Phillips, blaenwr i'r Gweilch, ddamwain beic-modur trychinebus a achoswyd Ifan I golli ei goes. Nawr yn ail-feddwl ei yrfa a'i fywyd, mae'n darganfod beth sydd wir yn ei ddiffinio fel person.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Tra bod Jude Cisse yn byw bywyd i'r eitha yn Dubai, mae Rhiana Courlander a'i theulu yn benderfynol o gadw eu cefndir Cymreig yn fyw yma. Mae hen ffrind i Mike Phillips, artist Julian Castaldi yn cofio'r hen ddyddiau gyda'r cyn chwaraewr.  Ac Mike yn wynebu un o'i ofnau mwyaf. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ty Am Ddim",
       "programme_title": "Abertawe",
       "short_billing": "I Abertawe awn am y rhaglen olaf i dy smart llawn potensial arbwys parc Cwmdoncyn.  Mae'n na gryn dipyn o waith i'w wneud a'r ddau sy'n adnewyddu yn weddol dibrofiad.  Oes elw i'w wneud os mae'r ddau yn gaddo'r gwaith i adeiladwyr'",
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Content note summary unavailable.",
