@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -381,6 +381,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "99",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Dolfawr",
+      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "clic_aired": "26 Awst 2024",
+      "fav_id": "520950902",
+      "id": "816571786",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "106",
       "series_title": "Cefn Gwlad",
@@ -397,25 +416,6 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": "2024-09-18 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "99",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Dolfawr",
-      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "clic_aired": "26 Awst 2024",
-      "fav_id": "520950902",
-      "id": "816571786",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2024-09-11 15:05:00",
       "vs": "0"
     },
     {
@@ -533,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "23",
-      "series_title": "Codi Hwyl",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
-      "thumbnail_url": "codi_hwyl_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
-      "clic_aired": "11 Mehefin 2024",
-      "fav_id": "533276078",
-      "id": "528497840",
-      "series_id": "528497732",
-      "title": "Codi Hwyl",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "128",
       "series_title": "Codi Hwyl",
@@ -568,6 +549,25 @@
       "series_id": "521885762",
       "title": "Codi Hwyl",
       "date_broadcast": "2024-09-26 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "23",
+      "series_title": "Codi Hwyl",
+      "programme_title": null,
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan wrth iddynt hwylio yn eu cwch newydd, Mystique. (2016)",
+      "thumbnail_url": "codi_hwyl_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar gymal olaf eu taith ar hyd rhan o arfordir gorllewinol Iwerddon mae John Pierce Jones a Dilwyn Morgan yn ymweld â Roundstone yn Connemara. Yno, maen nhw'n cwrdd ag un neu ddau o ffrindiau annisgwyl ac yn mynd i bysgota ar Lough Gowla cyn codi hwyl am y daith hir yn ôl i Gymru fach.",
+      "clic_aired": "11 Mehefin 2024",
+      "fav_id": "533276078",
+      "id": "528497840",
+      "series_id": "528497732",
+      "title": "Codi Hwyl",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -724,7 +724,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -1123,25 +1123,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
-      "series_title": "Gerddi Cymru",
-      "programme_title": "Castell y Waun a Plas yn Rhiw",
-      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
-      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn bydd Aled Samuel yn edrych ar erddi Amgueddfa Werin Cymru Sain Ffagan. Mae Aled yn gyfarwydd iawn ag adeiladau Sain Ffagan, ac wedi gwneud rhaglenni am nifer ohonynt, ond mae dysgu am y gerddi'n agoriad llygad. Wrth glywed am hanes y gerddi, mae e hefyd yn dysgu mwy am hanes y bobl gan weld sut mae gerddi crand y castell yn wahanol i erddi symlach y bythynnod. Boed yn uchelwr neu'n berson cyffredin, mae'r ardd wedi chwarae rhan bwysig ym mywydau'r Cymry dros y canrifoedd.",
-      "clic_aired": "13 Hydref 2024",
-      "fav_id": "537401297",
-      "id": "533848480",
-      "series_id": "533848392",
-      "title": "Gerddi Cymru",
-      "date_broadcast": "2024-10-13 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "43",
       "series_title": "Gerddi Cymru",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
@@ -1157,6 +1138,25 @@
       "series_id": "527532245",
       "title": "Gerddi Cymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "147",
+      "series_title": "Gerddi Cymru",
+      "programme_title": "Castell y Waun a Plas yn Rhiw",
+      "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
+      "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn bydd Aled Samuel yn edrych ar erddi Amgueddfa Werin Cymru Sain Ffagan. Mae Aled yn gyfarwydd iawn ag adeiladau Sain Ffagan, ac wedi gwneud rhaglenni am nifer ohonynt, ond mae dysgu am y gerddi'n agoriad llygad. Wrth glywed am hanes y gerddi, mae e hefyd yn dysgu mwy am hanes y bobl gan weld sut mae gerddi crand y castell yn wahanol i erddi symlach y bythynnod. Boed yn uchelwr neu'n berson cyffredin, mae'r ardd wedi chwarae rhan bwysig ym mywydau'r Cymry dros y canrifoedd.",
+      "clic_aired": "13 Hydref 2024",
+      "fav_id": "537401297",
+      "id": "533848480",
+      "series_id": "533848392",
+      "title": "Gerddi Cymru",
+      "date_broadcast": "2024-10-13 13:00:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "570",
+      "days_to_expire": "569",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "882",
+      "days_to_expire": "881",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": null,
       "programme_title": "Ifan Phillips: Y Cam Nesaf",
       "short_billing": "Gyda'i yrfa rygbi yn edrych yn addawol, dioddefodd Ifan Phillips, blaenwr i'r Gweilch, ddamwain beic-modur trychinebus a achoswyd Ifan I golli ei goes. Nawr yn ail-feddwl ei yrfa a'i fywyd, mae'n darganfod beth sydd wir yn ei ddiffinio fel person.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Tra bod Jude Cisse yn byw bywyd i'r eitha yn Dubai, mae Rhiana Courlander a'i theulu yn benderfynol o gadw eu cefndir Cymreig yn fyw yma. Mae hen ffrind i Mike Phillips, artist Julian Castaldi yn cofio'r hen ddyddiau gyda'r cyn chwaraewr.  Ac Mike yn wynebu un o'i ofnau mwyaf. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Ty Am Ddim",
       "programme_title": "Abertawe",
       "short_billing": "I Abertawe awn am y rhaglen olaf i dy smart llawn potensial arbwys parc Cwmdoncyn.  Mae'n na gryn dipyn o waith i'w wneud a'r ddau sy'n adnewyddu yn weddol dibrofiad.  Oes elw i'w wneud os mae'r ddau yn gaddo'r gwaith i adeiladwyr'",
@@ -2353,7 +2353,7 @@
       "id": "815579767",
       "series_id": null,
       "title": "Y Pysgotwyr",
-      "date_broadcast": "2024-10-19 17:00:00",
+      "date_broadcast": "2024-10-30 13:00:00",
       "vs": "0"
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Content note summary unavailable.",
