@@ -324,25 +324,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "97",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Dolfawr",
-      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "clic_aired": "26 Awst 2024",
-      "fav_id": "520950902",
-      "id": "816571786",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "69",
       "series_title": "Cefn Gwlad",
@@ -397,6 +378,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": "2024-09-18 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "97",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Dolfawr",
+      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "clic_aired": "26 Awst 2024",
+      "fav_id": "520950902",
+      "id": "816571786",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": null,
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
-      "clic_aired": "16 Hydref 2024",
-      "fav_id": "890520484",
-      "id": "858730078",
-      "series_id": "858729963",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-10-18 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "34",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -606,6 +587,25 @@
       "series_id": "875080509",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2024-10-19 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": null,
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P5_099.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos prydiau sy'n defnyddio cynnwys er mwyn osgoi gwastraff. Mae ei ffrind gorau Rachel yn dod draw i gael cyri.  ",
+      "clic_aired": "16 Hydref 2024",
+      "fav_id": "890520484",
+      "id": "858730078",
+      "series_id": "858729963",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-10-18 18:00:00",
       "vs": "0"
     },
     {
