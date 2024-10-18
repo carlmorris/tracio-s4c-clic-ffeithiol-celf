@@ -40,6 +40,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "35",
+      "series_title": "Am Dro!",
+      "programme_title": "Am Dro! Ar Lan y Mor",
+      "short_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
+      "thumbnail_url": "Am_Dro_2021S4C_P1_Ar_Lan_y_Mor_2100.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
+      "clic_aired": "26 Mehefin 2024",
+      "fav_id": "809997292",
+      "id": "833368972",
+      "series_id": "833368956",
+      "title": "Am Dro!",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "67",
       "series_title": "Am Dro!",
       "programme_title": "Steddfod!",
@@ -74,25 +93,6 @@
       "series_id": "870173036",
       "title": "Am Dro!",
       "date_broadcast": "2024-10-15 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "36",
-      "series_title": "Am Dro!",
-      "programme_title": "Am Dro! Ar Lan y Mor",
-      "short_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
-      "thumbnail_url": "Am_Dro_2021S4C_P1_Ar_Lan_y_Mor_2100.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
-      "clic_aired": "26 Mehefin 2024",
-      "fav_id": "809997292",
-      "id": "833368972",
-      "series_id": "833368956",
-      "title": "Am Dro!",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "70",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Y Cymoedd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "clic_aired": "30 Gorffennaf 2024",
-      "fav_id": "817962669",
-      "id": "817962807",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "27",
       "series_title": "Bwrdd i Dri",
@@ -186,6 +167,25 @@
       "fav_id": "817962669",
       "id": "842327254",
       "series_id": "842326971",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "70",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Y Cymoedd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "clic_aired": "30 Gorffennaf 2024",
+      "fav_id": "817962669",
+      "id": "817962807",
+      "series_id": "817962739",
       "title": "Bwrdd i Dri",
       "date_broadcast": null,
       "vs": "0"
@@ -287,7 +287,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Canu Gyda Fy Arwr",
       "programme_title": "Ian 'H' Watkins",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw 'H' o'r gr&#373;p poblogaidd o'r 90au - Steps.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Cefn Gwlad",
       "programme_title": "Alison a Sion Tryfil Uchaf",
       "short_billing": "Ar drothwy'r Eisteddfod Genedlaethol dathliad o gamp a bywyd enillydd Dysgwr y Flwyddyn 2023, Alison Cairns. Symudodd yr Albanes i Gymru yn 2007 ar ôl cwrdd â Sion Roberts, Tryfil Uchaf a bwrw gwreiddie yn Ynys Mon - nawr mae'r ddau nawr yn magu a 7 o blant ar ei ffarm yn Llandrygarn, Llanerchymedd.  Mari Lovgreen sy'n rhyfeddu ar sut mae'r cwpl yn cadw'r cyfan ar y cledrau.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Cefn Gwlad",
       "programme_title": "Dolfawr",
       "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Cefn Gwlad",
       "programme_title": "Kees Huysmans",
       "short_billing": "Mari Lovgreen sy'n cwrdd â Kees Huysmans o'r Iseldiroedd a sefydlodd fusnes Waffles Tregroes wedi setlo yn Nyffryn Teifi union 40 mlynedd yn ôl. Hanes bywyd Kees, \ny llon a'r lleddf, a sut wnaeth croeso bro helpu creu busnes llewyrchus - heb son am ennill Rhuban Las yr Eisteddfod Gendlaethol.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Cefn Gwlad",
       "programme_title": "Teulu'r Ffridd",
       "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn ail ymweld â ffarm Ffridd, Dyffryn Nantlle a'r teulu oedd yn destyn y ffilm ddogfen blant ¿Byd Mari¿, greodd argraff fawr 20 mlynedd yn ôl. Mari Lovgreen sy'n darganfod beth ydi hanes Bryn a Glenda Hughes erbyn hyn, gan weld sut mae'r plant Mari, Gwawr a Gerallt yn dal i droi'r tir ac yn rhannu'u cariad hwythau at gefngwlad gyda'r genhedlaeth nesaf.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": null,
       "programme_title": "Chdi, Fi ac IVF",
       "short_billing": "Cyfle arall i weld y ddogfen hon yn ystod Mis Ymwybyddiaeth Anffrwythlondeb y Byd. Dyma raglen fydd yn dilyn profiad personol y canwr a'r cyflwynydd poblogaidd Elin Fflur a'i g¿r Jason yn ystod eu triniaeth IVF, o ddiwrnod cyntaf y cylch hyd at y canlyniad tyngedfennol. Hanes taith emosiynol cwpl sy'n dyheu i fod yn rieni a stori sydd erbyn hyn yn gyfarwydd iawn i nifer o gyplau a theuluoedd yng Nghymru heddiw.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": null,
       "programme_title": "Cofio Dewi Pws",
       "short_billing": "Rhaglen arbennig i gofio'n annwyl am yr unigryw Dewi Pws Morris fu farw ym mis Awst. Cyfle i ddathlu cyfraniad Dewi - yr actor, y canwr, y cyfansoddwr, y bardd, a'r cenedlaetholwr brwd. Mi enillodd Dewi Cân i Gymru yn 1971, ac roedd yn aelod o grwpiau y Tebot Piws, Edward H Dafis, ac yn ddiweddarach, Radwm. Clywn gan ei deulu a'i ffrindiau.",
@@ -568,25 +568,6 @@
       "series_id": null,
       "title": "Cofio Dewi Pws",
       "date_broadcast": "2024-09-30 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "33",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Creu Atgofion",
-      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
-      "clic_aired": "24 Mehefin 2024",
-      "fav_id": "890520484",
-      "id": "875080672",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-10-19 16:30:00",
       "vs": "0"
     },
     {
@@ -609,8 +590,27 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "33",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Creu Atgofion",
+      "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_01143-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
+      "clic_aired": "24 Mehefin 2024",
+      "fav_id": "890520484",
+      "id": "875080672",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-10-19 16:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Mae'r byd yn cynhesu ac mae lefelau'r moroedd yn codi, yn y rhaglen hon bydd Steffan Powell yn darganfod sut mae natur yn medru bod yn gymorth wrth i ni ddysgu sut i addasu i'r newidiadau hyn, a bydd Steffan Griffiths yn yr Iseldiroedd i gyfarfod peirianwyr arloesol. ",
@@ -629,7 +629,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cyfrinachau'r Llyfrgell",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma, llais Cymru yn America, y newyddiadurwr Maxine Hughes.\n ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Pontypridd",
       "short_billing": "Bydd Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen yn crwydro o amgylch Pontypridd; tref cafodd ei siapio gan sawl diwydiant gwahanol. Cawn glywed am sawl cymeriad gwnaeth eu henw yma gan gynnwys y 007 gwreiddiol ac Archdderwydd lliwgar o'r gorffenol yn ogystal â chael hanes y bont enwog roddodd enw i'r dref a chyfle i nofio yn yr awyr agored. ",
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Bryn Fôn",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "379",
+      "days_to_expire": "378",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl ar y soffa. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i chwerthin a chrio a dadlau dros deledu'r wythnos o Gymru a thu hwnt.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": null,
       "programme_title": "Lwp: Maes B `24",
       "short_billing": "Uchafbwyntiau Maes B o Eisteddfod Genedlaethol Rhondda Cynon Tâf 2024. Ymunwch â Molly Palmer wrth iddi hi ddod a'r gorau o un o ¿yliau Cerddorol mwya' Cymru. O Fleur De Lys i Mared, o Lloyd Dom a Don i Chroma, mwynhewch binacl berfformio y Sîn Gerddorol Gymraeg. ",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Marw gyda Kris",
       "programme_title": "India",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd. Y tro hwn, mae Kris yn teithio i ddinas fwyaf cysegredig India, Varanasi i brofi amlosgi awyr agored, gwestai marwolaeth, a ffigwr eithafol yr Aghori Baba ar lannau'r afon Ganges. ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "157",
+      "days_to_expire": "156",
       "series_title": null,
       "programme_title": "Nathan Brew: Un Eiliad Un Ergyd",
       "short_billing": "Y cyn-chwaraewr rygbi, Nathan Brew, yn datgelu am y tro cyntaf hanes trawmatig lofruddiaeth ei frawd, Matthew Thomas, mewn ymosodiad echrydus un ergyd yng Nghastell-nedd. Dros y tair blynedd diwethaf, mae ymosodiadau un ergyd wedi bod yn gyfrifol am 1 o bob 10 llofruddiaeth a dynladdiad yng Nghymru.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Ni yw'r Cymry",
       "programme_title": null,
       "short_billing": "Mae saith o Gymry o wahanol rannau o'r wlad yn dod at ei gilydd am wythnos i drafod rhai or pynciau llosg sydd yn effeithio ar Gymru heddiw, ac yn agos at ei calonau nhw. Mi fydd trafodaeth am y Frenhiniaeth yn gwahanu barn y criw, ac mi fydd y ddadl am effaith ail gartrefi yn dod o dan y lach. Ac a ydy hi'n bosib i ffemenist gymeryd rhan mewn cystadlaethau harddwch' Saith person, saith cwestiwn a digon i'w drafod.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Radio Fa'ma",
       "programme_title": "Llanberis",
       "short_billing": "Rhifyn arall o'r rhaglen radio sydd hefyd yn rhaglen deledu wrth i Tara Bethan a Kris Hughes sgwrsio gyda phobl Dyffryn Peris am brofiadau sydd wedi effeithio ar eu bywydau.  ",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Ym mhennod olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn profi danteithion Copenhagen yn Denmarc.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae Waynne Phillips yn gyn chwaraewr ac un o sêr Wrecsam yn y nawdegau. Yn y raglen yma byddwn ni'n ymuno a Waynne wrth iddo rannu ei ddefod lwc dda a'i deimladau am y clwb yn ystod y cyfnod cyffrous yma. Mae tîm y merched hefyd yn mynd o nerth i nerth ar y Cae Ras ac oddi cartref. Hefyd, byddwn ni'n cyfarfod Liam Stokes-Massey, artist sydd yn dathlu'r clwb a'i llwyddiant gyda'i furluniau anhygoel. ",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Y Byd yn ei Le - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": null,
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -2338,8 +2338,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "27",
       "series_title": "Y Llinell Las",
       "programme_title": "Mwy Na Job",
       "short_billing": "Pennod ola'r gyfres. O'r trefi prysur i'r pentrefi tawel, dyma weld yn union sut beth ydy gweithio i Heddlu Gogledd Cymru. Portread cwbl onest a llawn i waith unedau arbenigol wrth iddyn nhw weithio i'n cadw ni a'n cymunedau'n saff. Y tro hwn: Mae Sion yn cael ei alw i Flaenau Ffestiniog, mae Iwan ar drywydd troseddwyr nos ar Fynydd Hiraethog, ac mae Vinny ac Arwel yn gwneud ¿mwy na job¿.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Y Sioe 2024",
       "programme_title": "Uchafbwyntiau'r Wythnos",
       "short_billing": "Ymunwch ag Ifan Jones Evans a Mari Lovgreen i fwynhau uchafbwyntiau Sioe Frenhinol 2024. Isdeitlau Saesneg ar gael.  ",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
