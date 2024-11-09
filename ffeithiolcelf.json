@@ -286,25 +286,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "145",
-      "series_title": "Cais Quinnell",
-      "programme_title": null,
-      "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru yn troi ei law at pob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond ei fol o hwyl. \r\n\r\nYr wythnos hon mae'n rhoi cynnig ar Ganu Opera, yn ymweld â gôf  ac yn mwynhau antur yng nghwmni c&#373;n hysgi gyda criw Mynydd Sleddog.",
-      "thumbnail_url": "Cais_Quinnell_2024S4C_P1.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru yn troi ei law at pob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond ei fol o hwyl. \r\n\r\nYr wythnos hon mae'n rhoi cynnig ar Ganu Opera, yn ymweld â gôf  ac yn mwynhau antur yng nghwmni c&#373;n hysgi gyda criw Mynydd Sleddog.",
-      "clic_aired": "4 Tachwedd 2024",
-      "fav_id": "891152307",
-      "id": "886769118",
-      "series_id": "886769106",
-      "title": "Cais Quinnell",
-      "date_broadcast": "2024-11-20 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "146",
       "series_title": "Cais Quinnell",
@@ -321,6 +302,25 @@
       "series_id": "873338808",
       "title": "Cais Quinnell",
       "date_broadcast": "2024-11-06 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "145",
+      "series_title": "Cais Quinnell",
+      "programme_title": null,
+      "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru yn troi ei law at pob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond ei fol o hwyl. \r\n\r\nYr wythnos hon mae'n rhoi cynnig ar Ganu Opera, yn ymweld â gôf  ac yn mwynhau antur yng nghwmni c&#373;n hysgi gyda criw Mynydd Sleddog.",
+      "thumbnail_url": "Cais_Quinnell_2024S4C_P1.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru yn troi ei law at pob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond ei fol o hwyl. \r\n\r\nYr wythnos hon mae'n rhoi cynnig ar Ganu Opera, yn ymweld â gôf  ac yn mwynhau antur yng nghwmni c&#373;n hysgi gyda criw Mynydd Sleddog.",
+      "clic_aired": "4 Tachwedd 2024",
+      "fav_id": "891152307",
+      "id": "886769118",
+      "series_id": "886769106",
+      "title": "Cais Quinnell",
+      "date_broadcast": "2024-11-20 21:30:00",
       "vs": "0"
     },
     {
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Byd ar Bedwar - Cyfres 2024",
       "programme_title": "Llanast llwyr?",
       "short_billing": "Mae Cymru wedi'i henwi fel yr ail wlad orau yn y byd am ailgylchu ond yr wythnos hon mae Y Byd ar Bedwar yn rhoi'r datganiad hynny ar brawf.  Sion Jenkins sy'n clywed pryderon yn Sir Ddinbych bod y system wastraff yno yn llanast llwyr. A gyda nifer yn dal i waredu sbwriel yn anghyfreithlon ar draws Cymru mae'r tim yn mynd ati i gynnal ymchwiliad camera cudd.",
