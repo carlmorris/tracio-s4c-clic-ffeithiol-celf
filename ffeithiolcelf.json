@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Adam Price a Streic y Glowyr",
       "programme_title": "Pennod 1",
       "short_billing": "Adam Price sy'n teithio yn ôl mewn hanes i ddarganfod mwy am ddigwyddiadau dramatig Streic y Glowyr 1984-85.",
@@ -16,25 +16,6 @@
       "id": "519848551",
       "series_id": "519848543",
       "title": "Adam Price a Streic y Glowyr",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "75",
-      "series_title": "Adre",
-      "programme_title": "Angharad Mair",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P8_Angharad_Mair_102.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref newydd y gyflwynwraig Angharad Mair, yn y brifddinas.",
-      "clic_aired": "3 Medi 2024",
-      "fav_id": "793406870",
-      "id": "806786229",
-      "series_id": "806786066",
-      "title": "Adre",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -55,6 +36,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2024-11-15 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "75",
+      "series_title": "Adre",
+      "programme_title": "Angharad Mair",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P8_Angharad_Mair_102.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref newydd y gyflwynwraig Angharad Mair, yn y brifddinas.",
+      "clic_aired": "3 Medi 2024",
+      "fav_id": "793406870",
+      "id": "806786229",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -515,25 +515,6 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
-      "series_title": "Cegin Bryn",
-      "programme_title": "Siocled",
-      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
-      "thumbnail_url": "Cegin_Bryn_2012S4C_P6_Siocled_004.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen o 2012, mae'r cogydd Bryn Williams yn coginio gydag un o hoff gynhwysion y genedl - siocled. Fe fydd Bryn yn ymweld â chanolfan chwisgi Penderyn ac yn cyfuno'r ddiod gyda siocled tywyll i greu peli nefolaidd.",
-      "clic_aired": "2 Awst 2024",
-      "fav_id": "520950903",
-      "id": "502576554",
-      "series_id": "502576457",
-      "title": "Cegin Bryn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "6",
       "days_to_expire": "95",
       "series_title": "Cegin Bryn",
       "programme_title": "Madarch",
@@ -547,6 +528,25 @@
       "fav_id": "520950903",
       "id": "507119593",
       "series_id": "507119474",
+      "title": "Cegin Bryn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "43",
+      "series_title": "Cegin Bryn",
+      "programme_title": "Siocled",
+      "short_billing": "Cyngor ar goginio a bywd gyda Bryn Williams.",
+      "thumbnail_url": "Cegin_Bryn_2012S4C_P6_Siocled_004.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mewn rhaglen o 2012, mae'r cogydd Bryn Williams yn coginio gydag un o hoff gynhwysion y genedl - siocled. Fe fydd Bryn yn ymweld â chanolfan chwisgi Penderyn ac yn cyfuno'r ddiod gyda siocled tywyll i greu peli nefolaidd.",
+      "clic_aired": "2 Awst 2024",
+      "fav_id": "520950903",
+      "id": "502576554",
+      "series_id": "502576457",
       "title": "Cegin Bryn",
       "date_broadcast": null,
       "vs": "0"
@@ -952,7 +952,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "953",
+      "days_to_expire": "952",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Arwyddion Angau",
       "short_billing": "Yr hanesydd a'r YouTuber, Jimmy Johnson, sy'n ymchwilio i stori canibal erchyll yn ardal Lanberis.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Cysgu efo Ysbrydion",
       "programme_title": "Pennod 3",
       "short_billing": "Nei di gysgu yn llefydd mwya' 'haunted' Cymru'  Iwan Steffan sy'n trio perswadio Aimee Fox fod ysbrydion yn wir.  Fydd na ddagrau yn y carchar yn Rhuthun'",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "775",
+      "days_to_expire": "774",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": null,
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Grid - Cyfres 4",
       "programme_title": "Braint y Sîn Gerddoriaeth",
       "short_billing": "Gyda dim ond 23 y cant o bobl yn y sîn gerddoriaeth yn dod o ddosbarth gweithiol, mae Katie Hall o'r band Chroma yn gofyn ydy braint yn broblem o fewn y sîn' ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Da neu Du. Dyma ddarn gonest a chryf wrth i Lily Beau ceisio derbyn ateb i gwestiwn dwys... A'i fy mod yn dda neu'n ddu' ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": null,
       "programme_title": "Iwan Morgan: Un Gol",
       "short_billing": "Stori personol Iwan Morgan, talent pêl-droed 18 mlwydd oed o Gymru gyda ffocws  ar ei uchelgais i gyrraedd tîm cyntaf Brentford FC a chwarae yn y Premier League yn erbyn chwaraewyr elitaidd y byd.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'n ddwfn i jyngl Indonesia i gyfarfod pobol sy'n byw gyda'r meirw am flynyddoedd ac arferiad llwyth sy'n ail-godi cyrff anwyliaid. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Pen Petrol",
       "programme_title": null,
       "short_billing": "Ma' Slim yn disgwyl yn y garej efo llond lle o VW Golffs. Jyst esgus i fynd am sbin mewn stynar o Mk2.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "915",
+      "days_to_expire": "914",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Be sy'n mynd mlaen mewn un o'r 'car meets' drwg-enwog sy'n denu miloedd ar filoedd o bobl ifanc ar draws Prydain bob wythnos' Dyna mae criw ceir Unit Thirteen isio ffeindio allan yn y bennod olaf o'r gyfres, cyn neidio o un eithaf i'r llall a theithio ar draws y môr Gwyddelig at LZ Festival i weld ffordd llawer gwell - a saffach - o fwynhau ceir. \r\n ",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "861",
+      "days_to_expire": "860",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cipolwg ar uchafbwyntiau Pride Cymru 2024.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "815",
+      "days_to_expire": "814",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Y Sin",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres newydd gyda Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwr y Flwyddyn yr Eisteddfod Genedlaethol, yn bwrw golwg dros y sîn greadigol ifanc yng Nghymru. Yn y bennod yma byddwn yn blasu gwinoedd Cymreig, dysgu am bensaerniaeth ac am brosiectau cymunedol yn Abertawe cyn treulio amser gyda'r comedïwr Leila Navabi.",
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Y Ty Gwyrdd",
       "programme_title": "Pennod 6",
       "short_billing": "Diwrnod olaf y criw yn y Ty Gwyrdd wrth i rai fyfyrio ar eu hamser yn y gwersyll, ma eraill yn paratoi ar gyfer y sialens olaf. Ond mae tro munud olaf yn taflu'r tawelwch i anhrefn cyn i Sian Eleri goroni enillydd y wobr o £5000.",
