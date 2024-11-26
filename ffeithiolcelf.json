@@ -229,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "31",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Y Cymoedd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "clic_aired": "30 Gorffennaf 2024",
-      "fav_id": "817962669",
-      "id": "817962807",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "146",
       "series_title": "Bwrdd i Dri",
@@ -264,6 +245,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2024-11-23 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "31",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Y Cymoedd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "clic_aired": "30 Gorffennaf 2024",
+      "fav_id": "817962669",
+      "id": "817962807",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Garddio a Mwy - Cyfres 2024",
       "programme_title": "Japan",
       "short_billing": "Rhaglen arbennig awr o hyd yng nghwmni Meinir Gwilym a Helen Scutt - o flodau'r Sakura i drin Bonsai, cawn flas ar ddiwylliant garddio unigryw Japan.  Ymunwch â ni yn nhymor blaguro'r ceirios - sy'n troi Japan yn binc yn y Gwanwyn, mewn ton o flodau sy'n tasgu o'r de i'r gogledd.",
