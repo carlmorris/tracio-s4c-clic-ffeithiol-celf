@@ -59,7 +59,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Adre",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -210,25 +210,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "23",
-      "series_title": "Bwrdd i Dri",
-      "programme_title": "Y Cymoedd",
-      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
-      "clic_aired": "30 Gorffennaf 2024",
-      "fav_id": "817962669",
-      "id": "817962807",
-      "series_id": "817962739",
-      "title": "Bwrdd i Dri",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "144",
       "series_title": "Bwrdd i Dri",
@@ -245,6 +226,25 @@
       "series_id": "842326971",
       "title": "Bwrdd i Dri",
       "date_broadcast": "2024-12-16 20:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "23",
+      "series_title": "Bwrdd i Dri",
+      "programme_title": "Y Cymoedd",
+      "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "thumbnail_url": "Bwrdd_i_Dri_2021S4C_P3_Y_Cymoedd_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Ond dydyn nhw ddim yn gwybod tan cyrraedd y bwrdd pa selebs fydd yn rhannu eu 'bwrdd i dri' . Fe fydd pob seleb yn gyfrifol am ddewis un cwrs ond fe fydd gofyn i'r tri baratoi a choginio cwrs - sut siap fydd arnyn nhw yn y gegin tybed' Y tri seleb yn y bennod yma fydd Lloyd Macey, Eadyth Crawford a Sion Tomos Owen.",
+      "clic_aired": "30 Gorffennaf 2024",
+      "fav_id": "817962669",
+      "id": "817962807",
+      "series_id": "817962739",
+      "title": "Bwrdd i Dri",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -324,6 +324,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Cais Quinnell",
+      "programme_title": null,
+      "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
+      "thumbnail_url": "Cais_Quinnell_2024S4C_P5-1.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
+      "clic_aired": "2 Rhagfyr 2024",
+      "fav_id": "891152307",
+      "id": "886769238",
+      "series_id": "886769106",
+      "title": "Cais Quinnell",
+      "date_broadcast": "2024-12-18 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "143",
       "series_title": "Cais Quinnell",
@@ -340,25 +359,6 @@
       "series_id": "873338808",
       "title": "Cais Quinnell",
       "date_broadcast": "2024-11-27 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "Cais Quinnell",
-      "programme_title": null,
-      "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
-      "thumbnail_url": "Cais_Quinnell_2024S4C_P5-1.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
-      "clic_aired": "2 Rhagfyr 2024",
-      "fav_id": "891152307",
-      "id": "886769238",
-      "series_id": "886769106",
-      "title": "Cais Quinnell",
-      "date_broadcast": "2024-12-13 13:30:00",
       "vs": "0"
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Syr Bryn Terfel",
       "short_billing": "Yn y rhaglen hon bydd yr artist Billy Bagilhole yn ceisio portreadu Syr Bryn Terfel. ",
@@ -1123,21 +1123,21 @@
     },
     {
       "count": "2",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2024",
       "programme_title": null,
       "short_billing": "Ifan Jones Evans, Eleri Siôn, a Terwyn Davies fydd yn dod â holl gyffro Steddfod y Ffermwyr Ifanc i'r sgrîn fach. Bydd Heledd Roberts yn dod â hwyl y diwrnod ar ddigidol a'r cyfryngau cymdeithasol. Ffederasiwn Sir Gâr sy'n noddi'r digwyddiad unigryw hwn eleni. ",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_13865_ii.jpg",
-      "duration": "246",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Ifan Jones Evans, Eleri Siôn, a Terwyn Davies fydd yn dod â holl gyffro Steddfod y Ffermwyr Ifanc i'r sgrîn fach. Bydd Heledd Roberts yn dod â hwyl y diwrnod ar ddigidol a'r cyfryngau cymdeithasol. Ffederasiwn Sir Gâr sy'n noddi'r digwyddiad unigryw hwn eleni. ",
-      "clic_aired": "3 Tachwedd 2024",
+      "clic_aired": "2 Tachwedd 2024",
       "fav_id": "537583011",
-      "id": "904055190",
+      "id": "904055168",
       "series_id": "904055159",
       "title": "Eisteddfod Ffermwyr Ifanc 2024",
-      "date_broadcast": "2024-11-02 19:30:00",
+      "date_broadcast": "2024-11-02 15:00:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "521",
+      "days_to_expire": "520",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "833",
+      "days_to_expire": "832",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1806,25 +1806,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "69",
-      "series_title": "Pen Petrol",
-      "programme_title": "Drift Rhan 1",
-      "short_billing": "Mae criw U13 yn adeiladu car allan o sgrap - efo'r gobaith o'i gael o'n barod i yrru rownd trac yn un o wyliau \"drifft\" fwyaf y wlad. ",
-      "thumbnail_url": "Pen_Petrol_2022S4C_P5_Lewis_Rushton_efor_car_newydd.jpg",
-      "duration": "20",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "ECs: 16eiliad",
-      "clic_aired": "14 Medi 2024",
-      "fav_id": "847578970",
-      "id": "841305310",
-      "series_id": "841305222",
-      "title": "Pen Petrol",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "143",
       "series_title": "Pen Petrol",
@@ -1841,6 +1822,25 @@
       "series_id": "891670409",
       "title": "Pen Petrol",
       "date_broadcast": "2024-12-09 22:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "69",
+      "series_title": "Pen Petrol",
+      "programme_title": "Drift Rhan 1",
+      "short_billing": "Mae criw U13 yn adeiladu car allan o sgrap - efo'r gobaith o'i gael o'n barod i yrru rownd trac yn un o wyliau \"drifft\" fwyaf y wlad. ",
+      "thumbnail_url": "Pen_Petrol_2022S4C_P5_Lewis_Rushton_efor_car_newydd.jpg",
+      "duration": "20",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "ECs: 16eiliad",
+      "clic_aired": "14 Medi 2024",
+      "fav_id": "847578970",
+      "id": "841305310",
+      "series_id": "841305222",
+      "title": "Pen Petrol",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Ty Am Ddim",
       "programme_title": "Abertawe",
       "short_billing": "I Abertawe awn am y rhaglen olaf i dy smart llawn potensial arbwys parc Cwmdoncyn.  Mae'n na gryn dipyn o waith i'w wneud a'r ddau sy'n adnewyddu yn weddol dibrofiad.  Oes elw i'w wneud os mae'r ddau yn gaddo'r gwaith i adeiladwyr'",
@@ -2486,7 +2486,7 @@
       "id": "815579767",
       "series_id": null,
       "title": "Y Pysgotwyr",
-      "date_broadcast": "2024-10-30 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2586,7 +2586,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Yn y Fan a'r Lle",
       "programme_title": null,
       "short_billing": "Content note summary unavailable.",
