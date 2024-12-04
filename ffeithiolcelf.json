@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Adre",
-      "programme_title": "Carwyn Jones",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
-      "clic_aired": "2 Rhagfyr 2024",
-      "fav_id": "793406870",
-      "id": "806786075",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": "2024-12-02 23:10:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "130",
       "series_title": "Adre",
@@ -74,6 +55,25 @@
       "series_id": "817959638",
       "title": "Adre",
       "date_broadcast": "2024-11-15 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Adre",
+      "programme_title": "Carwyn Jones",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
+      "clic_aired": "2 Rhagfyr 2024",
+      "fav_id": "793406870",
+      "id": "806786075",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": "2024-12-02 23:10:00",
       "vs": "0"
     },
     {
@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "83",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
-      "thumbnail_url": "Am_Dro_2024S4C_P9-2.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
-      "clic_aired": "29 Medi 2024",
-      "fav_id": "809997292",
-      "id": "870173204",
-      "series_id": "870173036",
-      "title": "Am Dro!",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "147",
       "series_title": "Am Dro!",
@@ -131,6 +112,25 @@
       "series_id": "887386535",
       "title": "Am Dro!",
       "date_broadcast": "2024-12-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "83",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
+      "thumbnail_url": "Am_Dro_2024S4C_P9-2.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
+      "clic_aired": "29 Medi 2024",
+      "fav_id": "809997292",
+      "id": "870173204",
+      "series_id": "870173036",
+      "title": "Am Dro!",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": null,
       "programme_title": "Ken Owens: Y Sheriff",
       "short_billing": "Stori bersonol bachwr Cymru a'r Scarlets, Ken Owens, dros y 18 mis diwethaf. Cewch ddilyn hynt a helynt ei gyfnod fel capten cenedlaethol, bygythiad o streic gan y chwaraewyr, delio ag anafiadau, a golwg ecsgliwsif ar realiti bywyd chwaraewr proffesiynol.",
