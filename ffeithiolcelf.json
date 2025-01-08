@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "113",
-      "series_title": "Adre",
-      "programme_title": "Carwyn Jones",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
-      "clic_aired": "2 Rhagfyr 2024",
-      "fav_id": "793406870",
-      "id": "806786075",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "28",
       "series_title": "Adre",
@@ -74,6 +55,25 @@
       "series_id": "802516813",
       "title": "Adre",
       "date_broadcast": "2025-01-02 12:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "113",
+      "series_title": "Adre",
+      "programme_title": "Carwyn Jones",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
+      "clic_aired": "2 Rhagfyr 2024",
+      "fav_id": "793406870",
+      "id": "806786075",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -115,6 +115,25 @@
       "vs": "0"
     },
     {
+      "count": "5",
+      "days_to_expire": "143",
+      "series_title": "Am Dro!",
+      "programme_title": "Selebs!",
+      "short_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
+      "thumbnail_url": "Am_Dro_2024S4C_P6_Selebs-1.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
+      "clic_aired": "1 Ionawr 2025",
+      "fav_id": "809997292",
+      "id": "887386664",
+      "series_id": "887386535",
+      "title": "Am Dro!",
+      "date_broadcast": "2025-01-17 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "97",
       "series_title": "Am Dro!",
@@ -150,25 +169,6 @@
       "series_id": "870173036",
       "title": "Am Dro!",
       "date_broadcast": "2024-12-21 10:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Am Dro!",
-      "programme_title": "Selebs!",
-      "short_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
-      "thumbnail_url": "Am_Dro_2024S4C_P6_Selebs-1.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
-      "clic_aired": "1 Ionawr 2025",
-      "fav_id": "809997292",
-      "id": "887386664",
-      "series_id": "887386535",
-      "title": "Am Dro!",
-      "date_broadcast": "2025-01-17 21:00:00",
       "vs": "0"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Canu Gyda Fy Arwr",
       "programme_title": "Mike Peters",
       "short_billing": "Mewn rhaglen arbennig o Canu Gyda Fy Arwr, Rhys Meirion sy'n cael canu gyda rhai o'i arwyr cerddorol o: Emily, Jessica a Charlotte - tripledi ysbrydoledig o ardal Aberystwyth a Mike Peters o fand poblogaidd yr 1980au 'The Alarm'; hefyd cyfle i greu perfformiad arbennig o gan sydd wedi enwi ar ôl ei elusen 'Cariad, Gobaith a Nerth'. Bydd digon o chwerthin, crio a dathlu yn yr awr arbennig hon sy'n llawn canu a sgwrsio.\n ",
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "15",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Dolfawr",
-      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "clic_aired": "26 Awst 2024",
-      "fav_id": "520950902",
-      "id": "816571786",
-      "series_id": "816571690",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "22",
       "series_title": "Cefn Gwlad",
@@ -435,6 +416,25 @@
       "series_id": "892182226",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-01-12 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "15",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Dolfawr",
+      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "clic_aired": "26 Awst 2024",
+      "fav_id": "520950902",
+      "id": "816571786",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -571,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "126",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Nadolig Colleen Ramsey ",
-      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "clic_aired": "15 Rhagfyr 2024",
-      "fav_id": "890520484",
-      "id": "875080522",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-12-23 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "72",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -606,6 +587,25 @@
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "126",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Nadolig Colleen Ramsey ",
+      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "clic_aired": "15 Rhagfyr 2024",
+      "fav_id": "890520484",
+      "id": "875080522",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-12-23 13:00:00",
       "vs": "0"
     },
     {
@@ -689,18 +689,18 @@
       "days_to_expire": "27",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
-      "short_billing": "A fydd Y Gnoll yn ysbrydoliaeth berffaith i'r artist Meuryn Hughes wrth iddo wynebu'r her o beintio portread o'r cyn-chwaraewr rygbi Jonathan Davies'",
-      "thumbnail_url": "CaG-Jonathan.jpg",
+      "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2022S4C_P6_CarysE_002.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "A fydd Y Gnoll yn ysbrydoliaeth berffaith i'r artist Meuryn Hughes wrth iddo wynebu'r her o beintio portread o'r cyn-chwaraewr rygbi Jonathan Davies'",
+      "full_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
       "clic_aired": "7 Medi 2024",
       "fav_id": "804336612",
-      "id": "837099540",
+      "id": "837099564",
       "series_id": "837099434",
       "title": "Cymry ar Gynfas - Cyfres 3",
-      "date_broadcast": "2024-12-20 12:05:00",
+      "date_broadcast": "2024-12-27 12:00:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2024",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2024 - ac mae un ymgais uchelgeisiol yn cynnwys lori anferth, monster truck a'r rhaff tynnu'r gelyn hiraf yn y byd! Yna, mae Bois y Pizza ac Ysgol y Strade yn anelu at dorri record y llun cerdyn fflip fwyaf - a bydd ymgais hefyd i dorri record y 20 metr cyflymaf ar Space Hopper ac adeiladu'r t¿r uchaf wedi ei neud o bicau ar y maen! Alun Williams a Rhianna Loren sydd yn ôl i dorri mwy o recordiau Guinness World Records!",
@@ -1236,7 +1236,7 @@
       "vs": "0"
     },
     {
-      "count": "11",
+      "count": "10",
       "days_to_expire": "135",
       "series_title": "Gwesty Aduniad",
       "programme_title": "Nadolig",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Y DJ a'r gantores Aleighcia Scott sy'n mynd â'r iaith ar daith trwy Gymru. Yn cadw cwmni iddi ac yn barod i ddysgu Cymraeg iddi mae'r actores Mali Ann Rees.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -1825,8 +1825,8 @@
       "vs": "0"
     },
     {
-      "count": "19",
-      "days_to_expire": "34",
+      "count": "18",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da. ",
