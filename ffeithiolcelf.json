@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "3 Lle",
       "programme_title": "Erin Richards",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
@@ -287,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Bywyd y Fet",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn milfeddygon yn y Gogledd Ddwyrain wrth iddynt fynd o gwmpas eu gwaith bob dydd yn trin anifeiliaid bach a mawr.",
@@ -419,6 +419,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "9",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Dolfawr",
+      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
+      "clic_aired": "26 Awst 2024",
+      "fav_id": "520950902",
+      "id": "816571786",
+      "series_id": "816571690",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -452,25 +471,6 @@
       "fav_id": "520950902",
       "id": "856935801",
       "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "9",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Dolfawr",
-      "short_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "thumbnail_url": "Cefn_Gwlad_2021S4C_P4_Dolfawr_103.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig pan fydd Ifan Jones Evans yn ymweld â'i gymdogion adref yn ardal Pontrhydfendigaid, Sir Geredigion ac yn rhannu stori Ronian a Gwen Herberts, yr olaf o naw brawd a chwaer fagwyd ar ffarm Dolfawr ers 1947.",
-      "clic_aired": "26 Awst 2024",
-      "fav_id": "520950902",
-      "id": "816571786",
-      "series_id": "816571690",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": null,
       "programme_title": "Y Flwyddyn a Fu: Y Byd yn ei Le",
       "short_billing": "Mewn rhifyn arbennig, bydd Catrin Haf Jones a'r Athro Richard Wyn Jones yn dadansoddi'r flwyddyn o newid ym myd gwleidyddiaeth, ac yn rhoi'r Byd yn ei Le wrth y bar gyda chwis ar ddigwyddiadau dramatig 2024. ",
