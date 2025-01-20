@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "3 Lle",
       "programme_title": "Erin Richards",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "101",
-      "series_title": "Adre",
-      "programme_title": "Carwyn Jones",
-      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
-      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
-      "clic_aired": "2 Rhagfyr 2024",
-      "fav_id": "793406870",
-      "id": "806786075",
-      "series_id": "806786066",
-      "title": "Adre",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "106",
       "series_title": "Adre",
@@ -112,6 +93,25 @@
       "series_id": "793324084",
       "title": "Adre",
       "date_broadcast": "2025-01-19 11:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "101",
+      "series_title": "Adre",
+      "programme_title": "Carwyn Jones",
+      "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
+      "thumbnail_url": "Adre_2020-21S4C_P1_Carwyn_Jones_101.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Yr wythnos hon byddwn yn ymweld â chartref y gwleidydd adnabyddus ¿ Carwyn Jones ym Mhenybont.",
+      "clic_aired": "2 Rhagfyr 2024",
+      "fav_id": "793406870",
+      "id": "806786075",
+      "series_id": "806786066",
+      "title": "Adre",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Bywyd y Fet",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn milfeddygon yn y Gogledd Ddwyrain wrth iddynt fynd o gwmpas eu gwaith bob dydd yn trin anifeiliaid bach a mawr.",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "114",
-      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
-      "programme_title": "Nadolig Colleen Ramsey ",
-      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
-      "clic_aired": "15 Rhagfyr 2024",
-      "fav_id": "890520484",
-      "id": "875080522",
-      "series_id": "875080509",
-      "title": "Colleen Ramsey: Bywyd a Bwyd",
-      "date_broadcast": "2024-12-23 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "145",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd",
@@ -625,6 +606,25 @@
       "series_id": "892227382",
       "title": "Colleen Ramsey: Bywyd a Bwyd",
       "date_broadcast": "2025-01-21 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "114",
+      "series_title": "Colleen Ramsey: Bywyd a Bwyd",
+      "programme_title": "Nadolig Colleen Ramsey ",
+      "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P1_Nadolig_07563-Edit.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
+      "clic_aired": "15 Rhagfyr 2024",
+      "fav_id": "890520484",
+      "id": "875080522",
+      "series_id": "875080509",
+      "title": "Colleen Ramsey: Bywyd a Bwyd",
+      "date_broadcast": "2024-12-23 13:00:00",
       "vs": "0"
     },
     {
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
@@ -1711,25 +1711,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "109",
-      "series_title": "Pen Petrol",
-      "programme_title": null,
-      "short_billing": "Am ryw reswm, ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'. ",
-      "thumbnail_url": "Pen_Petrol_2024S4C_C3_P6.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Am ryw reswm, ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'. ",
-      "clic_aired": "11 Rhagfyr 2024",
-      "fav_id": "847578970",
-      "id": "891670538",
-      "series_id": "891670409",
-      "title": "Pen Petrol",
-      "date_broadcast": "2024-12-24 00:00:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "22",
       "series_title": "Pen Petrol",
@@ -1746,6 +1727,25 @@
       "series_id": "841305222",
       "title": "Pen Petrol",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "109",
+      "series_title": "Pen Petrol",
+      "programme_title": null,
+      "short_billing": "Am ryw reswm, ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'. ",
+      "thumbnail_url": "Pen_Petrol_2024S4C_C3_P6.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Am ryw reswm, ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'. ",
+      "clic_aired": "11 Rhagfyr 2024",
+      "fav_id": "847578970",
+      "id": "891670538",
+      "series_id": "891670409",
+      "title": "Pen Petrol",
+      "date_broadcast": "2024-12-24 00:00:00",
       "vs": "0"
     },
     {
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": null,
       "programme_title": "Y Flwyddyn a Fu: Y Byd yn ei Le",
       "short_billing": "Mewn rhifyn arbennig, bydd Catrin Haf Jones a'r Athro Richard Wyn Jones yn dadansoddi'r flwyddyn o newid ym myd gwleidyddiaeth, ac yn rhoi'r Byd yn ei Le wrth y bar gyda chwis ar ddigwyddiadau dramatig 2024. ",
