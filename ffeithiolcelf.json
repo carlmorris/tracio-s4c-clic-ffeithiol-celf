@@ -305,25 +305,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "91",
-      "series_title": "Cais Quinnell",
-      "programme_title": "Rhaglen 6",
-      "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
-      "thumbnail_url": "Cais_Quinnell_2023S4C_P6-7.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
-      "clic_aired": "27 Tachwedd 2024",
-      "fav_id": "891152307",
-      "id": "873338952",
-      "series_id": "873338808",
-      "title": "Cais Quinnell",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "96",
       "series_title": "Cais Quinnell",
@@ -340,6 +321,25 @@
       "series_id": "886769106",
       "title": "Cais Quinnell",
       "date_broadcast": "2024-12-22 14:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "91",
+      "series_title": "Cais Quinnell",
+      "programme_title": "Rhaglen 6",
+      "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
+      "thumbnail_url": "Cais_Quinnell_2023S4C_P6-7.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
+      "clic_aired": "27 Tachwedd 2024",
+      "fav_id": "891152307",
+      "id": "873338952",
+      "series_id": "873338808",
+      "title": "Cais Quinnell",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": null,
       "programme_title": "Rhagflas: Cyfrinachau'r Llyfrgell ",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru",
