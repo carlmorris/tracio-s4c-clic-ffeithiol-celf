@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "3 Lle - Cyfres 4",
       "programme_title": "Erin Richards",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Bywyd y Fet - Cyfres 1",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn milfeddygon yn y Gogledd Ddwyrain wrth iddynt fynd o gwmpas eu gwaith bob dydd yn trin anifeiliaid bach a mawr.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "23",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Heno - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Mae'r actor Jacob Ifan yn ymuno gyda ni ar y soffa, a chawn gwrdd â'r pobydd Benjamin Conde.",
@@ -1359,13 +1359,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'r actor Jacob Ifan yn ymuno gyda ni ar y soffa, a chawn gwrdd â'r pobydd Benjamin Conde.",
-      "clic_aired": "31 Ionawr 2025",
+      "full_billing": "Ry ni'n dathlu'r flwyddyn newydd Tseiniaidd; yn edrych ymlaen at ymgyrch Chwe Gwlad D20 Cymru; ac mae'r comediwraig, Mel Owen, yn westai ar y soffa.",
+      "clic_aired": "30 Ionawr 2025",
       "fav_id": "520950912",
-      "id": "889382401",
+      "id": "889382380",
       "series_id": "889377992",
       "title": "Heno - Cyfres 2024",
-      "date_broadcast": "2025-02-03 12:30:00",
+      "date_broadcast": "2025-01-31 12:30:00",
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": null,
       "programme_title": "Y Flwyddyn a Fu: Y Byd yn ei Le",
       "short_billing": "Mewn rhifyn arbennig, bydd Catrin Haf Jones a'r Athro Richard Wyn Jones yn dadansoddi'r flwyddyn o newid ym myd gwleidyddiaeth, ac yn rhoi'r Byd yn ei Le wrth y bar gyda chwis ar ddigwyddiadau dramatig 2024. ",
