@@ -1674,7 +1674,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Pobol y Rhondda - Cyfres 1",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
@@ -1955,6 +1955,25 @@
       "series_id": "883911902",
       "title": "Tanwen ac Ollie",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Teulu Dad a Fi",
+      "programme_title": "Cymru",
+      "short_billing": "Ail-ddangosiad i nodi Mis Hanes Pobl Ddu. Cyfres dwymgalon yn olrhain hanes teulu Wayne a Connagh Howard yng Nghymru, Iwerddon a Jamaica. Mae'r pâr yn cychwyn ar eu taith yn Southampton a Chaerdydd.",
+      "thumbnail_url": "Teulu_Dad_a_Fi_2023S4C_P1_099-Edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ail-ddangosiad i nodi Mis Hanes Pobl Ddu. Cyfres dwymgalon yn olrhain hanes teulu Wayne a Connagh Howard yng Nghymru, Iwerddon a Jamaica. Mae'r pâr yn cychwyn ar eu taith yn Southampton a Chaerdydd.",
+      "clic_aired": "18 Chwefror 2025",
+      "fav_id": "856622741",
+      "id": "856622752",
+      "series_id": "856622741",
+      "title": "Teulu Dad a Fi",
+      "date_broadcast": "2025-02-18 22:30:00",
       "vs": "0"
     },
     {
