@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Bryn Williams yn teithio dros y dwr i Ffrainc yn y gyfres hon i ail-ddarganfod ei wreiddiau coginio.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Keri Pritchard-Mclean",
       "short_billing": "Teithiodd y comedïwr, Kiri Pritchard-Mclean a'r artist portreadau, Corrie Chiswell i Gaeredin i dreulio'r diwrnod yn sgwrsio a chwerthin a dod i adnabod ei gilydd. Mae Caeredin yn chwarae rhan fawr ym mywydau'r ddwy gan taw dyna yw man cychwyn gyrfa comedi Kiri ac ardal enedigol Corrie. Ond daw'r daith i ben yn fuan a phan mae'r ddwy yn cyfarfod nesa, gwaith Corrie sy'n mynnu'r sylw a'r ddwy'n siwr na fydd chwerthin o gwbwl pan fydd Corrie'n dadorchuddio'i phortread o Kiri.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Efaciwîs",
       "programme_title": "Plant y Rhyfel",
       "short_billing": "Ar ôl ymgartrefi yn Llanuwchlyn a gwneud ffrindiau da gyda'r plant lleol, mae'r rhyfel yn dod i ben ac mae'n bryd i'n wyth efaciwi fynd adre. Ond cyn hynny mae mabolgampau a pharti steil diwrnod VE i'w fwynhau.",
@@ -928,7 +928,7 @@
       "id": "831841823",
       "series_id": "831841753",
       "title": "Efaciwîs",
-      "date_broadcast": "2025-03-02 14:55:00",
+      "date_broadcast": "2025-03-02 14:25:00",
       "vs": "0"
     },
     {
@@ -1061,7 +1061,7 @@
       "id": "890671043",
       "series_id": "890670561",
       "title": "Ffermio",
-      "date_broadcast": "2025-02-23 15:55:00",
+      "date_broadcast": "2025-02-23 15:25:00",
       "vs": "0"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
       "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
@@ -1112,10 +1112,10 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
+      "full_billing": "Y tro hwn bydd Aled Samuel yn edrych ar erddi Amgueddfa Werin Cymru Sain Ffagan. Mae Aled yn gyfarwydd iawn ag adeiladau Sain Ffagan, ac wedi gwneud rhaglenni am nifer ohonynt, ond mae dysgu am y gerddi'n agoriad llygad. Wrth glywed am hanes y gerddi, mae e hefyd yn dysgu mwy am hanes y bobl gan weld sut mae gerddi crand y castell yn wahanol i erddi symlach y bythynnod. Boed yn uchelwr neu'n berson cyffredin, mae'r ardd wedi chwarae rhan bwysig ym mywydau'r Cymry dros y canrifoedd.",
       "clic_aired": "13 Hydref 2024",
       "fav_id": "537401297",
-      "id": "533848500",
+      "id": "533848480",
       "series_id": "533848392",
       "title": "Gerddi Cymru - Cyfres 2",
       "date_broadcast": null,
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Cricieth",
       "short_billing": "Yn y bennod hon mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref yng Nghricieth. Ni fydd gan y teulu syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu - a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Jason Mohammad yn teithio o amgylch rhai o stadiymau chwaraeon mwyaf eiconig y byd. Yn y rhaglen gyntaf, mae Jason yn edrych ar stadiymau sy'n enghreifftiau o ddylunio a thechnoleg flaengar, gan gynnwys Stadiwm Tottenham Hotspur, Estadio Municipal de Braga, Canolfan Llithro Genedlaethol Yanqing, Stand Aga Khan, a'r Sapporo Dome.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
       "programme_title": "Y Leming: Cawr Bach y Gogledd",
       "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
