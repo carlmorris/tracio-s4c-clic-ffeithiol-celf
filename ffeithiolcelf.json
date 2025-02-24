@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": null,
       "programme_title": "Ken Owens: Y Sheriff",
       "short_billing": "Stori bersonol bachwr Cymru a'r Scarlets, Ken Owens, dros y 18 mis diwethaf. Cewch ddilyn hynt a helynt ei gyfnod fel capten cenedlaethol, bygythiad o streic gan y chwaraewyr, delio ag anafiadau, a golwg ecsgliwsif ar realiti bywyd chwaraewr proffesiynol.",
@@ -1708,6 +1708,25 @@
       "series_id": "893067960",
       "title": "Pride Cymru 2024",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "140",
+      "series_title": "Priodas Pum Mil - Cyfres 7",
+      "programme_title": "Enfys & Jamie",
+      "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn cynnig help llaw i griw o deulu a ffrindiau Enfys a Jamie yn y bennod hon. Mae'r darpar bâr priod yn byw ym Methel ger Caernarfon ac ar ôl dyweddio ar Gondola yn Fenis, maen't yn awyddus dod â blas o'r Eidal i ogledd Cymru.",
+      "thumbnail_url": "Priodas_Pum_Mil_2023S4C_P2_Enfys_a_Jamie-3.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn cynnig help llaw i griw o deulu a ffrindiau Enfys a Jamie yn y bennod hon. Mae'r darpar bâr priod yn byw ym Methel ger Caernarfon ac ar ôl dyweddio ar Gondola yn Fenis, maen't yn awyddus dod â blas o'r Eidal i ogledd Cymru.",
+      "clic_aired": "15 Chwefror 2025",
+      "fav_id": "537527992",
+      "id": "871178298",
+      "series_id": "871178255",
+      "title": "Priodas Pum Mil - Cyfres 7",
+      "date_broadcast": "2025-02-15 10:00:00",
       "vs": "0"
     },
     {
