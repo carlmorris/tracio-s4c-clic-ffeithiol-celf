@@ -1883,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Mae Sain Ffagan yn datgelu mwy o'i thrysorau a'i straeon.  Mae'r garddwyr yn dysgu sut i ddefnyddio'r planhigion maen nhw wedi'u tyfu i liwio gwlân. Cawn gip olwg tu fewn i un o adeiladau prysuraf yr Amgueddfa, y siop losin ac mae'r gwaith adeiladu ar du allan Gwesty'r Vulcan yn dod i ben.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Wil ac Aeron: Taith yr Alban",
       "programme_title": null,
       "short_billing": "Cyfres yn dilyn y ffermwyr ifanc Wil Hendreseifion ac Aeron Pughe ar daith i'r Alban. ",
@@ -2430,6 +2430,25 @@
       "series_id": "877605032",
       "title": "Y Ty Gwyrdd",
       "date_broadcast": "2025-02-13 23:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Y Tywydd",
+      "programme_title": null,
+      "short_billing": "Rhagolygon y tywydd.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gaeaf_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon y tywydd.",
+      "clic_aired": "24 Chwefror 2025",
+      "fav_id": "796684047",
+      "id": "889305807",
+      "series_id": "889275610",
+      "title": "Y Tywydd",
+      "date_broadcast": "2025-02-24 21:28:00",
       "vs": "0"
     },
     {
