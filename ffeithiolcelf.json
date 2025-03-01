@@ -268,7 +268,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "O fannau enwog i berlau cudd, bydd y cogyddion tanbaid Chris 'Flamebaster' Roberts a Tomos Parry yn coginio a chiniawa o amgylch Efrog Newydd¿ a thanio angerdd gwladgarol gyda gwledd Gymreig arbennig yn Brooklyn!",
@@ -477,7 +477,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Bydd John Pierce Jones a Dilwyn Morgan yn teithio i dreflan Utica, Efrog Newydd yn ail bennod y gyfres, gan gymryd rhan yn nathliadau Annibyniaeth America ar y 4ydd o Orffennaf, gan i'r dreflan ar un oes fod yn ganolfan bywyd Cymreig yr UDA. Caiff Dilwyn yr anrhydedd o daflu'r bêl gyntaf allan ar y 'pitch' i gêm pêl-fâs yng nghyngrair ieuenctid lleol sy'n pery diaddanwch mawr i John. Ym mynwent anferth Utica, mae John yn darganfod bedd dyn o Niwbwrch, ac mae'r ddau yn mynd i gymanfa ganu yng ngh",
@@ -514,8 +514,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "21",
+      "count": "3",
+      "days_to_expire": "20",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen gyntaf hon, bydd y ddau'n mynd ar daith o'u cartref yng Nghaerdydd, i ynys fwya' Cymru, Ynys Môn - gan ymweld â 'Love Island' Cymru, sef Ynys Llanddwyn! ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Jason Mohammad",
       "short_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Sioned",
       "short_billing": "Mae Cadi Matthews ac Owain Williams nol yn y stiwdio steilio i helpu unigolion haeddiannol ffeindio gwisgoedd perffaith ar gyfer achlysuron arbennig. Sioned sy'n cael ei steilio heddi, athrawes ysgol uwchradd sydd hefyd yn fam i'r hyfryd Idris, bachgen dwy flwydd oed.",
@@ -1074,10 +1074,10 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn bydd Aled Samuel yn edrych ar erddi Amgueddfa Werin Cymru Sain Ffagan. Mae Aled yn gyfarwydd iawn ag adeiladau Sain Ffagan, ac wedi gwneud rhaglenni am nifer ohonynt, ond mae dysgu am y gerddi'n agoriad llygad. Wrth glywed am hanes y gerddi, mae e hefyd yn dysgu mwy am hanes y bobl gan weld sut mae gerddi crand y castell yn wahanol i erddi symlach y bythynnod. Boed yn uchelwr neu'n berson cyffredin, mae'r ardd wedi chwarae rhan bwysig ym mywydau'r Cymry dros y canrifoedd.",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
       "clic_aired": "13 Hydref 2024",
       "fav_id": "537401297",
-      "id": "533848480",
+      "id": "533848500",
       "series_id": "533848392",
       "title": "Gerddi Cymru - Cyfres 2",
       "date_broadcast": null,
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan. Mae Ysgol Maestir o oes Fictoria yn cael ei wagio'n llwyr yn barod am waith adnewyddu a chadwraeth ar yr adeilad a'r eitemau y tu mewn.  Mae casgliad newydd, a hollol unigryw, yn cyrraedd y ganolfan gasgliadau anferthol yn Nantgarw.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Y Fets - Cyfres 5",
       "programme_title": null,
       "short_billing": "\r\nY tro yma ar Y Fets mae Macs y ci defaid wedi cael damwain ar y fferm ac angen triniaeth ar frys.\r\nMae yna benderfyniad mawr o flaen teulu Nel y labrador ac mae Phil y Fet yn ceisio trwsio coes oen bach sydd wedi ei dorri.",
