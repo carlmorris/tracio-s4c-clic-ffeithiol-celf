@@ -439,7 +439,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Cefn Gwlad - 2024-25",
       "programme_title": "Loti Innes-Parry",
       "short_billing": "Loti Innes-Parry, merch o Gaerdydd sydd bellach yn gof uchel iawn ei pharch yn Swydd Rhydychen. Ceffylau yw ei bywyd o fore gwyn tan nos - yn marchogaeth a chystadlu gyda'i cheffyl ei hun, gan gyrraedd ffeinal Sioe Ceffyl y Flwyddyn eleni",
@@ -762,7 +762,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol 2024",
       "programme_title": "EDEN",
       "short_billing": "Ymunwch ag Elin Fflur o faes ein prifwyl eleni, Parc Ynys Angharad, i ail-fyw perfformiadau o lwyfannau'r Eisteddfod. Ar Lwyfan y Maes cawn fwynhau gwledd o ganu gan neb llai nag Eden wrth iddynt gloi'r Eisteddfod eleni. O'r hen i'r newydd, mae yna rywbeth yma at ddant pawb.",
@@ -1046,8 +1046,8 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "147",
+      "count": "11",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Alun fydd yn holi am y diweddaraf gyda'r ffliw adar; bydd Meinir yn ymweld â fferm sydd wedi gwneud cynnydd sylweddol o ran lleihau eu hol troed carbon; a Melanie fydd yn ymweld â CFFI Llangwyryfon, sydd wedi ennill gwobr arbennig.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "Mae nifer yr asesiadau ADHD yng Nghymru a'r DU wedi cynyddu'n aruthrol yn ystod y blynyddoedd diwethaf, yn enwedig ymhlith menywod. Mae Jess Davies yn ymchwilio, gyda'r nod o ddarganfod pam na chafodd cymaint o fenywod ddiagnosis fel plant, ac yn gofyn y cwestiwn: beth mae'n ei olygu i gael diagnosis o ADHD'",
@@ -2449,25 +2449,6 @@
       "series_id": "877605032",
       "title": "Y Ty Gwyrdd",
       "date_broadcast": "2025-02-13 23:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd",
-      "programme_title": null,
-      "short_billing": "Rhagolygon y tywydd.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gaeaf_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon y tywydd.",
-      "clic_aired": "3 Mawrth 2025",
-      "fav_id": "796684047",
-      "id": "889306447",
-      "series_id": "889275610",
-      "title": "Y Tywydd",
-      "date_broadcast": "2025-03-03 21:28:00",
       "vs": "0"
     },
     {
