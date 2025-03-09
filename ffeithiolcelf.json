@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "141",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "145",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-03-07 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "140",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Adam Price a Streic y Glowyr",
       "programme_title": "Pennod 1",
       "short_billing": "Adam Price sy'n teithio yn ôl mewn hanes i ddarganfod mwy am ddigwyddiadau dramatig Streic y Glowyr 1984-85.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": null,
       "programme_title": "Cranogwen gyda Ffion Hague",
       "short_billing": "Yr hanesydd a'r ddarlledwraig Ffion Hague sy'n olrhain stori yr arwres arloesol Cranogwen, wrth i gerflun arbennig ohoni gael ei ddadorchuddio yn Llangrannog.  ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "841",
+      "days_to_expire": "840",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Arwyddion Angau",
       "short_billing": "Yr hanesydd a'r YouTuber, Jimmy Johnson, sy'n ymchwilio i stori canibal erchyll yn ardal Lanberis.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Cysgu efo Ysbrydion",
       "programme_title": "Pennod 3",
       "short_billing": "Nei di gysgu yn llefydd mwya' 'haunted' Cymru'  Iwan Steffan sy'n trio perswadio Aimee Fox fod ysbrydion yn wir.  Fydd na ddagrau yn y carchar yn Rhuthun'",
@@ -895,7 +895,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Dom a Lloyd: Torri'r Tawelwch",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Dom a Lloyd yn mynd ar daith o gwmpas Cymru i ddeall mwy am iechyd meddwl dynion. Dros y gyfres mae'r ddau am ymweld â phobl anhygoel mewn llefydd arbennig, i geisio dysgu mwy am fywyd ac iechyd meddwl dynion yng Nghymru a gobeithio dysgu ychydig mwy amdanyn nhw ei hunain hefyd. Yn y bennod yma mae Dom a Lloyd yn ymweld â dynion o fewn y byd myfyrwyr. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "663",
+      "days_to_expire": "662",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": null,
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Hansh",
       "programme_title": "Hanes Hoyw",
       "short_billing": "Ydych chi'n ymwybodol o hanes y gymuned LHDTC+ yng Nghymru' Dyma Fflur Pierce yn trafod rhai o gerrig filltir y gymuned dros y degawdau. ",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Llofruddiaeth y Bwa Croes",
       "programme_title": "Pennod 1",
       "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'n ddwfn i jyngl Indonesia i gyfarfod pobol sy'n byw gyda'r meirw am flynyddoedd ac arferiad llwyth sy'n ail-godi cyrff anwyliaid. ",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "803",
+      "days_to_expire": "802",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Be sy'n mynd mlaen mewn un o'r 'car meets' drwg-enwog sy'n denu miloedd ar filoedd o bobl ifanc ar draws Prydain bob wythnos' Dyna mae criw ceir Unit Thirteen isio ffeindio allan yn y bennod olaf o'r gyfres, cyn neidio o un eithaf i'r llall a theithio ar draws y môr Gwyddelig at LZ Festival i weld ffordd llawer gwell - a saffach - o fwynhau ceir. \r\n ",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Pen Petrol - Cyfres 3",
       "programme_title": null,
       "short_billing": "Am ryw reswm, ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'. ",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "749",
+      "days_to_expire": "748",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cipolwg ar uchafbwyntiau Pride Cymru 2024.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "703",
+      "days_to_expire": "702",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Y Ty Gwyrdd",
       "programme_title": "Pennod 6",
       "short_billing": "Diwrnod olaf y criw yn y Ty Gwyrdd wrth i rai fyfyrio ar eu hamser yn y gwersyll, ma eraill yn paratoi ar gyfer y sialens olaf. Ond mae tro munud olaf yn taflu'r tawelwch i anhrefn cyn i Sian Eleri goroni enillydd y wobr o £5000.",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
