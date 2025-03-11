@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Ennill",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Richard yn dechrau drwy olrhain y newid sy'n dod yn sgil buddugoliaeth. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P6_Parys_Richard_Parks_010_Edit.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Richard yn dechrau drwy olrhain y newid sy'n dod yn sgil buddugoliaeth. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "4 Mawrth 2025",
-      "fav_id": "883263612",
-      "id": "883275080",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-03-07 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "139",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Ennill",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Richard yn dechrau drwy olrhain y newid sy'n dod yn sgil buddugoliaeth. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P6_Parys_Richard_Parks_010_Edit.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Richard yn dechrau drwy olrhain y newid sy'n dod yn sgil buddugoliaeth. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "4 Mawrth 2025",
+      "fav_id": "883263612",
+      "id": "883275080",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-03-07 15:05:00",
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": null,
       "programme_title": "Dai ar y Piste",
       "short_billing": "O'r archif. Cyfle arall i weld y diweddar Dai Jones yn mentro am y tro cyntaf i ddysgu sgio gyda gyda'r ffermwr o Fro Hiraethog, Wil Williams, neu Wil Yr Hafod ar lethrau Courmayeur, Gogledd yr Eidal.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Wrth i'r gymuned Gymraeg yn Dubai gynyddu mae Ellen Aiad a'i mab hefyd yn benderfynol o gadw'r iaith i fynd. Mae Mike yn cwrdd â Gareth i weld rhai o geir drytaf y byd. A sut siap sydd ar gwmni cynnyrch gwallt cyrliog Elinor Davies Farn'",
