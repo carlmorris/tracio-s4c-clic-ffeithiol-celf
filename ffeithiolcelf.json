@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "2",
-      "days_to_expire": "149",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Colli",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
-      "clic_aired": "11 Mawrth 2025",
-      "fav_id": "883263612",
-      "id": "883275102",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-03-14 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "137",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Colli",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
+      "clic_aired": "11 Mawrth 2025",
+      "fav_id": "883263612",
+      "id": "883275102",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-03-14 15:05:00",
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "O fannau enwog i berlau cudd, bydd y cogyddion tanbaid Chris 'Flamebaster' Roberts a Tomos Parry yn coginio a chiniawa o amgylch Efrog Newydd¿ a thanio angerdd gwladgarol gyda gwledd Gymreig arbennig yn Brooklyn!",
@@ -495,22 +495,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
-      "short_billing": "Rhaeadr enfawr Niagara sy'n denu John Pierce Jones a Dilwyn Morgan nesaf ar eu taith ar draws America; rhyfeddod naturiol mae'r ddau wedi breuddwyio am ei weld ers yn blant. Ar ôl y rhyfeddu ar y rhaeadr fyrlymus, maent yn cyfnewid eu camperfan am cwch camlas a threulio ychydig ddyddiau ar gamlas enwog Erie. Bydd John yn wynebu ei ofnau trwy fentro mewn ceiac ar dd¿r gwyn ac yn docio cwch camlas ar ei ben ei hun am y tro cyntaf, ond tydi'r broses honno ddim yn mynd mor llyfn a byddai Dilwyn wedi",
-      "thumbnail_url": "Codi_Hwyl_2019S4C_America_P3_2581-Edit.jpg",
+      "short_billing": "Yn y bedwaredd bennod byddwn yn dilyn y diddanwr Dilwyn Morgan a'r actor John Pierce Jones wrth iddynt gael y fraint o fod yn rhan o ¿yl flynyddol cenedl y Tuscaroriaid, un o genhedloedd brodorol America. Maent yn dathlu eu diwylliant gyda cherddoriaeth, dawns a gêm o Bêl-dân, gêm eithaf tebyg i rygbi heb y rheolau... ond bod y pyst a'r bêl ar dân! Ac o'r diwedd, mae'r ddau yn ôl yn eu helfen ac ar drafnidiaeth cartrefol wrth iddynt logi cwch hwylio i fynd i Ynys Kelly ar Lyn Erie. Yn annisgwyl ",
+      "thumbnail_url": "Codi_Hwyl_2019S4C_America_P4_2699.jpg",
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Rhaeadr enfawr Niagara sy'n denu John Pierce Jones a Dilwyn Morgan nesaf ar eu taith ar draws America; rhyfeddod naturiol mae'r ddau wedi breuddwyio am ei weld ers yn blant. Ar ôl y rhyfeddu ar y rhaeadr fyrlymus, maent yn cyfnewid eu camperfan am cwch camlas a threulio ychydig ddyddiau ar gamlas enwog Erie. Bydd John yn wynebu ei ofnau trwy fentro mewn ceiac ar dd¿r gwyn ac yn docio cwch camlas ar ei ben ei hun am y tro cyntaf, ond tydi'r broses honno ddim yn mynd mor llyfn a byddai Dilwyn wedi",
-      "clic_aired": "5 Mawrth 2025",
+      "full_billing": "Yn y bedwaredd bennod byddwn yn dilyn y diddanwr Dilwyn Morgan a'r actor John Pierce Jones wrth iddynt gael y fraint o fod yn rhan o ¿yl flynyddol cenedl y Tuscaroriaid, un o genhedloedd brodorol America. Maent yn dathlu eu diwylliant gyda cherddoriaeth, dawns a gêm o Bêl-dân, gêm eithaf tebyg i rygbi heb y rheolau... ond bod y pyst a'r bêl ar dân! Ac o'r diwedd, mae'r ddau yn ôl yn eu helfen ac ar drafnidiaeth cartrefol wrth iddynt logi cwch hwylio i fynd i Ynys Kelly ar Lyn Erie. Yn annisgwyl ",
+      "clic_aired": "12 Mawrth 2025",
       "fav_id": "533276078",
-      "id": "802404571",
+      "id": "802404593",
       "series_id": "802404518",
       "title": "Codi Hwyl America",
-      "date_broadcast": "2025-03-10 23:05:00",
+      "date_broadcast": "2025-03-17 23:05:00",
       "vs": "0"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen gyntaf hon, bydd y ddau'n mynd ar daith o'u cartref yng Nghaerdydd, i ynys fwya' Cymru, Ynys Môn - gan ymweld â 'Love Island' Cymru, sef Ynys Llanddwyn! ",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -876,7 +876,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Elin ac Olive",
       "short_billing": "Olive ac Elin, mam-gu ac wyres sy'n cael help Cadi ac Owain yn y stiwdio steilio heddi. Mae'r ddeuawd ddynamig o Rydaman yn chwilio am wisgoedd sydd yn wahanol i'r hyn ma' nhw fel arfer yn gwisgo, a rhai sydd gyda'r 'waw ffactor' ar gyfer mynd i briodas deuluol.",
@@ -1141,7 +1141,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "0",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
@@ -1150,10 +1150,10 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn bydd Aled Samuel yn edrych ar erddi Amgueddfa Werin Cymru Sain Ffagan. Mae Aled yn gyfarwydd iawn ag adeiladau Sain Ffagan, ac wedi gwneud rhaglenni am nifer ohonynt, ond mae dysgu am y gerddi'n agoriad llygad. Wrth glywed am hanes y gerddi, mae e hefyd yn dysgu mwy am hanes y bobl gan weld sut mae gerddi crand y castell yn wahanol i erddi symlach y bythynnod. Boed yn uchelwr neu'n berson cyffredin, mae'r ardd wedi chwarae rhan bwysig ym mywydau'r Cymry dros y canrifoedd.",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
       "clic_aired": "13 Hydref 2024",
       "fav_id": "537401297",
-      "id": "533848480",
+      "id": "533848500",
       "series_id": "533848392",
       "title": "Gerddi Cymru - Cyfres 2",
       "date_broadcast": null,
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Wedi 35 mlynedd o waith yn yr Amgueddfa, mae'n bryd i'r peintiwr Clive Litchfield ymddeol.  Ond mae Ysgol Maestir ar ei newydd wedd wedi gwaith manwl yn atgyweirio a thrwsio'r stafell ddosbarth.  ",
