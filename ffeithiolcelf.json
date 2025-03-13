@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "148",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Colli",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "35",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
-      "clic_aired": "11 Mawrth 2025",
-      "fav_id": "883263612",
-      "id": "883275102",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-03-14 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "136",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -55,6 +36,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "148",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Colli",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "35",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Y tro 'ma, mae Richard yn olrhain y newid sy'n gallu dod hyd yn oed ar ôl colled chwerw. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mw",
+      "clic_aired": "11 Mawrth 2025",
+      "fav_id": "883263612",
+      "id": "883275102",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-03-14 15:05:00",
       "vs": "0"
     },
     {
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
@@ -439,7 +439,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale, Arizona ar antur siopa i brynu Ceffylau i rai o'u cleientiaid cyfoethog o fewn Sioe mwyaf ceffylau Arabaidd yn y byd.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Seren Morgan Jones a Kizzy",
       "short_billing": "Yn y rhaglen hon bydd yr artist Seren Morgan Jones sy'n enwog am ei phortreadau cryf o fenywod yn mynd ati i geisio peintio portread fydd yn plesio y cerddor a'r gantores Kizzy Crawford. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Natur a Ni - Cyfres 1",
       "programme_title": null,
       "short_billing": "Ar Natur a Ni yr wythnos hon bydd Morgan Jones yn dod i adnabod bywyd gwyllt Cymru yn well yng nghwmni naturiaethwyr brwdfrydig. Bydd cyfle hefyd i adnabod can aderyn yr wythnos a gweld dyddiadur bywyd gwyllt mis Mehefin Angharad Jones.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Erddig",
       "short_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol. Ond yn ystod y cyfnod clo mae'r llefydd anhygoel yma wedi gorfod cau eu drysau i ymwelwyr, tan rwan, gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau i ddarganfod eu cyfrinachau. Yn y rhaglen olaf, mae Tudur ac Elinor yn ymweld a thy godidog Erddig.  Ty a hanes cadwraeth arbennig gan yr Y",
