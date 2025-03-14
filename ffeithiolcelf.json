@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "3 Lle - Cyfres 4",
       "programme_title": "Erin Richards",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw.",
@@ -324,22 +324,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "4",
       "days_to_expire": "34",
       "series_title": "Bwyd Epic Chris",
-      "programme_title": "Pancos Budr",
+      "programme_title": "Cacen Gaws Basgaidd",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Pancos Budr.",
-      "thumbnail_url": "Pancos-Budr-BEC.jpg",
-      "duration": "6",
+      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P3_Cacen_Gaws_001-Edit.jpg",
+      "duration": "4",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Pancos Budr.",
+      "full_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Cacen Gaws Basgaidd.",
       "clic_aired": "14 Mawrth 2025",
       "fav_id": "801175552",
-      "id": "833319825",
+      "id": "833319685",
       "series_id": "833319637",
       "title": "Bwyd Epic Chris",
-      "date_broadcast": "2025-03-14 15:50:00",
+      "date_broadcast": "2025-03-14 18:30:00",
       "vs": "0"
     },
     {
@@ -1369,7 +1369,7 @@
       "vs": "0"
     },
     {
-      "count": "25",
+      "count": "24",
       "days_to_expire": "34",
       "series_title": "Heno - Cyfres 2024",
       "programme_title": null,
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": null,
       "programme_title": "Pampro Cwn Cymru",
       "short_billing": "Saith ci arbennig iawn yn cael pamper Nadolig wrth i ni ddarganfod faint maen nhw wedi helpu eu teuluoedd yn ystod y flwyddyn. ",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": null,
       "programme_title": "Y Flwyddyn a Fu: Y Byd yn ei Le",
       "short_billing": "Mewn rhifyn arbennig, bydd Catrin Haf Jones a'r Athro Richard Wyn Jones yn dadansoddi'r flwyddyn o newid ym myd gwleidyddiaeth, ac yn rhoi'r Byd yn ei Le wrth y bar gyda chwis ar ddigwyddiadau dramatig 2024. ",
