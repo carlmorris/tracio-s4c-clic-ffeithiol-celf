@@ -116,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -605,7 +605,7 @@
       "id": "892227485",
       "series_id": "892227382",
       "title": "Colleen Ramsey: Bywyd a Bwyd - 3",
-      "date_broadcast": null,
+      "date_broadcast": "2025-03-29 13:55:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -833,12 +833,12 @@
       "id": "866824917",
       "series_id": "866824809",
       "title": "Cysgu o Gwmpas",
-      "date_broadcast": null,
+      "date_broadcast": "2025-03-29 11:30:00",
       "vs": "0"
     },
     {
       "count": "1",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": null,
       "programme_title": "Dai ar y Piste",
       "short_billing": "O'r archif. Cyfle arall i weld y diweddar Dai Jones yn mentro am y tro cyntaf i ddysgu sgio gyda gyda'r ffermwr o Fro Hiraethog, Wil Williams, neu Wil Yr Hafod ar lethrau Courmayeur, Gogledd yr Eidal.",
@@ -1009,18 +1009,18 @@
     },
     {
       "count": "2",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2024",
       "programme_title": null,
       "short_billing": "Ifan Jones Evans, Eleri Siôn, a Terwyn Davies fydd yn dod â holl gyffro Steddfod y Ffermwyr Ifanc i'r sgrîn fach. Bydd Heledd Roberts yn dod â hwyl y diwrnod ar ddigidol a'r cyfryngau cymdeithasol. Ffederasiwn Sir Gâr sy'n noddi'r digwyddiad unigryw hwn eleni. ",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_13865_ii.jpg",
-      "duration": "246",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Ifan Jones Evans, Eleri Siôn, a Terwyn Davies fydd yn dod â holl gyffro Steddfod y Ffermwyr Ifanc i'r sgrîn fach. Bydd Heledd Roberts yn dod â hwyl y diwrnod ar ddigidol a'r cyfryngau cymdeithasol. Ffederasiwn Sir Gâr sy'n noddi'r digwyddiad unigryw hwn eleni. ",
-      "clic_aired": "3 Tachwedd 2024",
+      "clic_aired": "2 Tachwedd 2024",
       "fav_id": "537583011",
-      "id": "904055190",
+      "id": "904055168",
       "series_id": "904055159",
       "title": "Eisteddfod Ffermwyr Ifanc 2024",
       "date_broadcast": null,
@@ -1042,7 +1042,7 @@
       "id": "822120826",
       "series_id": "809157497",
       "title": "Eryri: Pobol y Parc",
-      "date_broadcast": "2025-02-08 10:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "420",
+      "days_to_expire": "419",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "732",
+      "days_to_expire": "731",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -2087,7 +2087,7 @@
       "id": "821380959",
       "series_id": "821380840",
       "title": "Teulu'r Castell",
-      "date_broadcast": "2025-02-08 12:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
