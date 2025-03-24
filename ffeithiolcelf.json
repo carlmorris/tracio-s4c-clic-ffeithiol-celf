@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "125",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "144",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -55,6 +36,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-03-21 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "125",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": null,
       "programme_title": "Ken Owens: Y Sheriff",
       "short_billing": "Stori bersonol bachwr Cymru a'r Scarlets, Ken Owens, dros y 18 mis diwethaf. Cewch ddilyn hynt a helynt ei gyfnod fel capten cenedlaethol, bygythiad o streic gan y chwaraewyr, delio ag anafiadau, a golwg ecsgliwsif ar realiti bywyd chwaraewr proffesiynol.",
@@ -2164,6 +2164,25 @@
       "series_id": "889984562",
       "title": "Y Ci Perffaith",
       "date_broadcast": "2025-03-09 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Y Cosmos",
+      "programme_title": "Yr Haul",
+      "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
+      "thumbnail_url": "Y_Cosmos_2014S4C_P1_Yr_Haul_02.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen sy'n dilyn taith anhygoel y golau o'r haul. Rydym yn dilyn darn bychan o olau - o'i greu ynghanol yr haul i'r eiliad mae'n dianc ar ei ffordd i'r ddaear - ac yn datgelu sut a pham mae popeth ar y ddaear yn dibynnu arno. ",
+      "clic_aired": "23 Mawrth 2025",
+      "fav_id": "800323651",
+      "id": "514919564",
+      "series_id": "514919555",
+      "title": "Y Cosmos",
+      "date_broadcast": "2025-03-23 09:00:00",
       "vs": "0"
     },
     {
