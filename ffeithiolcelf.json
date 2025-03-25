@@ -325,7 +325,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
@@ -439,7 +439,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale, Arizona ar antur siopa i brynu Ceffylau i rai o'u cleientiaid cyfoethog o fewn Sioe mwyaf ceffylau Arabaidd yn y byd.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -2392,6 +2392,25 @@
       "series_id": null,
       "title": "Yr Actor A'r Eicon",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "4",
+      "series_title": "Yr Afon",
+      "programme_title": "Bethan ac Afon Yangtse",
+      "short_billing": "Golwg ar rai o afonydd mawr y byd yng nghwmni pobl adnabyddus o Gymru.",
+      "thumbnail_url": "Yr_Afon_2008_P1_Bethan_Yangtse_100740.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bethan Gwanas sy'n teithio i Tsieina ar hyd Afon Yangtse i ymweld â'r rhyfeddod o argae sydd wedi dofi'r llif ac wedi trawsnewid bywydau'r bobl sy'n byw ar lannau'r afon. Dangoswyd y rhaglen gyntaf yn 2008.",
+      "clic_aired": "23 Chwefror 2025",
+      "fav_id": "760741036",
+      "id": "283452067",
+      "series_id": "283452061",
+      "title": "Yr Afon",
+      "date_broadcast": "2025-02-27 15:05:00",
       "vs": "0"
     },
     {
