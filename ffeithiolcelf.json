@@ -116,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ar Brawf",
       "programme_title": "Kim a Carrog",
       "short_billing": "Mae Kim a Carrog wedi torri'r gyfraith ac yn gorfod cwblhau eu cyfnod ar brawf heb dorri unrhyw amodau o'u dedfryd. Os ydy nhw, mi fydd eu Swyddogion Prawf, sy'n eu rheoli yn y gymuned, yn eu gyrru yn ol i'r llys neu i'r carchar. Eu cyfrifoldeb nhw ydy ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -762,7 +762,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "400",
+      "days_to_expire": "399",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "712",
+      "days_to_expire": "711",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -2391,7 +2391,7 @@
       "id": "846526538",
       "series_id": "846526475",
       "title": "Yn y Fan a'r Lle",
-      "date_broadcast": "2025-02-28 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
