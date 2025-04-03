@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "148",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-04-04 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "115",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -55,6 +36,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "148",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-04-04 15:05:00",
       "vs": "0"
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n mynd i bysgota, Sglefrio Iâ ac yn cael gwers Bîtbocsio",
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale, Arizona ar antur siopa i brynu Ceffylau i rai o'u cleientiaid cyfoethog o fewn Sioe mwyaf ceffylau Arabaidd yn y byd.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Llandudno sy'n serennu yr wythnos hon.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1008,22 +1008,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Ffasiwn Drefn - Cyfres 2",
       "programme_title": null,
-      "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Dylan Jenkins o Gaerdydd sy'n cael ei drawsnewid.",
-      "thumbnail_url": "Ffasiwn_Drefn_2023S4C_P3_10810.jpg",
+      "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Delyth Vaughan Rowlands o ardal Dolgellau sy'n cael ei drawsnewid.",
+      "thumbnail_url": "Ffasiwn_Drefn_2023S4C_P4-578.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Dylan Jenkins o Gaerdydd sy'n cael ei drawsnewid.",
-      "clic_aired": "27 Mawrth 2025",
+      "full_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Delyth Vaughan Rowlands o ardal Dolgellau sy'n cael ei drawsnewid.",
+      "clic_aired": "3 Ebrill 2025",
       "fav_id": "866404985",
-      "id": "873318828",
+      "id": "873318858",
       "series_id": "873318756",
       "title": "Ffasiwn Drefn - Cyfres 2",
-      "date_broadcast": "2025-03-27 12:05:00",
+      "date_broadcast": "2025-04-03 12:05:00",
       "vs": "0"
     },
     {
