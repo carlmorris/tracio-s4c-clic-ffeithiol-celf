@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "146",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-04-04 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "113",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -55,6 +36,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "146",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-04-04 15:05:00",
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": null,
       "short_billing": "Mae mil o bunnoedd yn y fantol a phedwar yn brwydro i'w hennill drwy arwain teithiau cerdded i arddangos eu hardaloedd ar eu gorau. Byddwn yn ymweld â Ffostrasol, Llanfairpwll, Merthyr Mawr ac Abermaw yng nghwmni Cerys, Llew, Gwilym a Sian.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -2186,22 +2186,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
-      "short_billing": "Yn y bennod hon bydd mam o Gaerdydd yn derbyn gosodiad o flodau anhygoel er cof am ei merch. ",
-      "thumbnail_url": "Y_Sgubor_Flodau_2023S4C_03168_P2_Ser_Aeron.jpg",
+      "short_billing": " Yn y bennod hon bydd ffoaduriaid o'r Wcrain yn diolch i staff Gwersyll yr Urdd Llangrannog am eu holl gymorth wrth iddynt ymgartrefu yng Nghymru dros dro.",
+      "thumbnail_url": "Y_Sgubor_Flodau_2023S4C_03346_P3_Pel_Droed_Porthmadog.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Yn y bennod hon bydd mam o Gaerdydd yn derbyn gosodiad o flodau anhygoel er cof am ei merch. ",
-      "clic_aired": "29 Mawrth 2025",
+      "full_billing": " Yn y bennod hon bydd ffoaduriaid o'r Wcrain yn diolch i staff Gwersyll yr Urdd Llangrannog am eu holl gymorth wrth iddynt ymgartrefu yng Nghymru dros dro.",
+      "clic_aired": "5 Ebrill 2025",
       "fav_id": "860462020",
-      "id": "860462051",
+      "id": "860462073",
       "series_id": "860462020",
       "title": "Y 'Sgubor Flodau",
-      "date_broadcast": "2025-03-29 10:00:00",
+      "date_broadcast": "2025-04-05 10:00:00",
       "vs": "0"
     },
     {
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Yr Afon",
       "programme_title": "Aled ac Afon Nil",
       "short_billing": "Golwg ar rai o afonydd mawr y byd yng nghwmni pobl adnabyddus o Gymru.",
