@@ -439,7 +439,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cefn Gwlad - 2024-25",
       "programme_title": "Defaidty",
       "short_billing": "Tair cenhedlaeth sy'n troi'r tir ar fferm fynydd Defaidty yng Nghwmtirmynach, Bala. Taid Gwyn a'i fab Alan, wedi cynrychioli Cymru mewn Treialon Cwn Defaid. ",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": null,
       "programme_title": "Cofio Dafydd Elis-Thomas",
       "short_billing": "Rhaglen ddogfen sy'n talu teyrnged i'r diweddar Dafydd Elis-Thomas, un o ffigyrau mawr gwleidyddiaeth a diwylliant Cymru.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol 2024",
       "programme_title": "EDEN",
       "short_billing": "Ymunwch ag Elin Fflur o faes ein prifwyl eleni, Parc Ynys Angharad, i ail-fyw perfformiadau o lwyfannau'r Eisteddfod. Ar Lwyfan y Maes cawn fwynhau gwledd o ganu gan neb llai nag Eden wrth iddynt gloi'r Eisteddfod eleni. O'r hen i'r newydd, mae yna rywbeth yma at ddant pawb.",
@@ -951,8 +951,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "126",
+      "count": "9",
+      "days_to_expire": "125",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": null,
       "programme_title": "Geraint Jarman",
       "short_billing": "Cyfle arall i wylio'r rhaglen ddogfen arbennig hon, yn dilyn marwolaeth Geraint yn ddiweddar. Yma, mae'r canwr a'r cyfansoddwr amryddawn yn siarad o'r galon am ei fywyd personol dros y blynyddoedd. Mae'r rhaglen yn ei ddilyn dros gyfnod o fisoedd wrth iddo baratoi CD. Mae'r rhaglen yn cynnwys perfformiadau diweddar gan Geraint a nifer o berfformiadau pan oedd dipyn yn iau.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "Mae nifer yr asesiadau ADHD yng Nghymru a'r DU wedi cynyddu'n aruthrol yn ystod y blynyddoedd diwethaf, yn enwedig ymhlith menywod. Mae Jess Davies yn ymchwilio, gyda'r nod o ddarganfod pam na chafodd cymaint o fenywod ddiagnosis fel plant, ac yn gofyn y cwestiwn: beth mae'n ei olygu i gael diagnosis o ADHD'",
@@ -2259,25 +2259,6 @@
       "series_id": "886784249",
       "title": "Y Sîn",
       "date_broadcast": "2025-04-17 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "7 Ebrill 2025",
-      "fav_id": "944195105",
-      "id": "944195121",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2025-04-07 21:28:00",
       "vs": "0"
     },
     {
