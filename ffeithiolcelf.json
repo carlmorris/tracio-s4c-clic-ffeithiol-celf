@@ -78,7 +78,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ar Brawf",
       "programme_title": "Martin a Gabriel",
       "short_billing": "Wrth gamu allan o carchar Y Berwyn am yr eildro, mae Martin yn gwneud addewid iddo ei hun na fydd yn mynd yno eto. Ond does gan Gabriel ddim yr un awydd ac agwedd tuag at newid. Steve ac Elin ydy'r Swyddogion Prawf sydd yn rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
@@ -643,7 +643,7 @@
       "id": "837099492",
       "series_id": "837099434",
       "title": "Cymry ar Gynfas - Cyfres 3",
-      "date_broadcast": "2025-03-08 14:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -966,7 +966,7 @@
       "id": "794829091",
       "series_id": null,
       "title": "Ffion Dafis: Bras, Botox a'r Bleidlais",
-      "date_broadcast": "2025-03-08 22:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "392",
+      "days_to_expire": "391",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "704",
+      "days_to_expire": "703",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Pennod 2",
       "short_billing": "Mae Bryan Jones, neu Bryan yr Organ fel mae rhai yn ei adnabod, eisiau datrys dirgelwch, a darganfod pwy yw ei dad unwaith ac am byth. Mae yna ddirgelwch yn nheulu Ian Thomas hefyd, sydd wedi bod yn chwilio am ei frawd neu chwaer ers dros 10 mlynedd. Ac mae yna ddarn o gelf sydd yn cadw cyfrinach yn cyrraedd y gwesty.",
@@ -1365,7 +1365,7 @@
       "id": "861186341",
       "series_id": "861186210",
       "title": "Jason Mohammad: Stadiymau'r Byd",
-      "date_broadcast": "2025-03-08 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1403,7 +1403,7 @@
       "id": "797141764",
       "series_id": null,
       "title": "Lle aeth Pawb? Merched Pop 65-75",
-      "date_broadcast": "2025-03-08 20:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2372,7 +2372,7 @@
       "id": "887949822",
       "series_id": "887949816",
       "title": "Ysbyty",
-      "date_broadcast": "2025-04-11 15:05:00",
+      "date_broadcast": "2025-04-26 15:30:00",
       "vs": "0"
     }
   ]
