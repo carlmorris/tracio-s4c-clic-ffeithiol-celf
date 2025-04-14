@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "4",
-      "days_to_expire": "137",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-04-04 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "104",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "137",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-04-04 15:05:00",
       "vs": "0"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Adre - Cyfres 2",
       "programme_title": "Lowri Evans",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yn y gyfres 'Adre'.  Byddwn yn ymweld â chartrefi amrywiol ar hyd a lled Cymru gan ddod i adnabod y cymeriadau difyr sy'n byw ynddyn nhw.  Y tro hwn, bydd Nia yn ymweld â chartref y gantores Lowri Evans. ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Bryn Williams yn teithio dros y dwr i Ffrainc yn y gyfres hon i ail-ddarganfod ei wreiddiau coginio.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Efaciwîs",
       "programme_title": "Plant y Rhyfel",
       "short_billing": "Ar ôl ymgartrefi yn Llanuwchlyn a gwneud ffrindiau da gyda'r plant lleol, mae'r rhyfel yn dod i ben ac mae'n bryd i'n wyth efaciwi fynd adre. Ond cyn hynny mae mabolgampau a pharti steil diwrnod VE i'w fwynhau.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
@@ -2034,22 +2034,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Ty Am Ddim - Cyfres 3",
-      "programme_title": "Rhosybol",
-      "short_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis. Unrhyw elw mae'n nhw'n ei wneud, mae'n nhw'n cael ei gadw! ",
-      "thumbnail_url": "Ty_am_Ddim_2023S4C_P2_003.jpg",
-      "duration": "47",
+      "programme_title": "Aberoer",
+      "short_billing": "I ardal Wrecsam yr awn ni heno i chwilio am d&#375; i gael ei adnewyddu. Fydd na ddigon o elw i'r ddau brynu eu cartrefi eu hunain'",
+      "thumbnail_url": "Ty_am_Ddim_2023S4C_P3_Aberoer_004.jpg",
+      "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis. Unrhyw elw mae'n nhw'n ei wneud, mae'n nhw'n cael ei gadw! ",
-      "clic_aired": "7 Ebrill 2025",
+      "full_billing": "I ardal Wrecsam yr awn ni heno i chwilio am d&#375; i gael ei adnewyddu. Fydd na ddigon o elw i'r ddau brynu eu cartrefi eu hunain'",
+      "clic_aired": "14 Ebrill 2025",
       "fav_id": "848681892",
-      "id": "837156675",
+      "id": "837156699",
       "series_id": "837156641",
       "title": "Ty Am Ddim - Cyfres 3",
-      "date_broadcast": "2025-04-07 13:00:00",
+      "date_broadcast": "2025-04-14 13:00:00",
       "vs": "0"
     },
     {
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": null,
       "programme_title": "Yn ôl i Midffild",
       "short_billing": "Noson o hel atgofion a mwynhau clipiau bythgofiadwy o'r gyfres C'mon Midffîld yng nghwmni John Pierce Jones, Bryn Fôn, Sian Wheldon a Llion Williams. Recordiwyd y digwyddiad o flaen cynulleidfa fyw yng Nghaernarfon, gyda Dylan Ebenezer yn reff swyddogol ar y noson i gadw trefn ar y criw.",
