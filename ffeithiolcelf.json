@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "104",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "137",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "104",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "Selebs!",
       "short_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey yn edrych ar gartrefi Cymru drwy'r oesoedd. O oes y Tuduriaid hyd heddiw, byddwn ni'n agor y drws ar hanes ein cenedl drwy bensaernïaeth.\r\nYn y rhaglen hon byddwn yn edrych ar dai cyfoes.  ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yma bydd hi'n dangos ryseitiau i greu prydau ffansi yn y cartref. Y tro hwn, mae ei brawd Scott yn dod i'r gegin i helpu creu pryd i'w rhieni. Ryseitiau y gyfres ar s4c.cymru/cegin.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cynefin",
       "programme_title": "Bro Dysynni",
       "short_billing": "Bydd Heledd Cynwal, Iestyn Jones a Ffion Dafis  yn cyrraedd Bro Dysynni; ardal sy'n cuddio tu ôl i lethrau mynydd Cadair Idris rhwng Machynlleth a Dolgellau.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": null,
       "programme_title": "Dathlu Dewrder 2024",
       "short_billing": "Dyma raglen awr o hyd fydd yn dathlu dewrder ac yn dweud diolch wrth arwyr tawel ein cymunedau, yr unigolion hynny sydd, er gwaetha heriau annheg bywyd, wedi bod drwy'r felin, ond wedi dangos dewrder mawr ",
@@ -1009,6 +1009,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Garddio a Mwy - Cyfres 2025",
+      "programme_title": null,
+      "short_billing": "Yn rhaglen gyntaf y gyfres bydd Meinir a Sioned yng Ngorslas yn ymweld â gardd Adam Jones, sy'n ymuno â thîm cyflwyno'r gyfres eleni. Byddwn hefyd yng Ng¿yl Degeiriannau Gerddi Kew yn Llundain, a chawn flas o'r Gwanwyn mewn coedwig yn ardal Conwy lle mae Cennin Pedr gwyllt yn drwch.",
+      "thumbnail_url": "Garddio_a_Mwy_2025S4C_Adam_Sioned_Meinir_1526-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen gyntaf y gyfres bydd Meinir a Sioned yng Ngorslas yn ymweld â gardd Adam Jones, sy'n ymuno â thîm cyflwyno'r gyfres eleni. Byddwn hefyd yng Ng¿yl Degeiriannau Gerddi Kew yn Llundain, a chawn flas o'r Gwanwyn mewn coedwig yn ardal Conwy lle mae Cennin Pedr gwyllt yn drwch.",
+      "clic_aired": "14 Ebrill 2025",
+      "fav_id": "541543795",
+      "id": "887032315",
+      "series_id": "887032296",
+      "title": "Garddio a Mwy - Cyfres 2025",
+      "date_broadcast": "2025-04-26 16:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "114",
       "series_title": null,
       "programme_title": "Geraint Jarman",
@@ -1180,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1522,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1712,7 +1731,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "John & Becky",
       "short_billing": "Yn y bennod hon mae'r cyflwynwyr Trystan Ellis-Morris ac Emma Walford yn mynd ati i drefnu priodas John Becky. Mae'r ddau'n byw yn Hwlffordd efo'u tri o blant, ac wedi dyweddïo ers deunaw mlynedd!   ",
@@ -1883,7 +1902,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 6",
       "programme_title": "Noel Thomas",
       "short_billing": "Elin Fflur bydd yn Sgwrsio dan olau'r lloer gyda'r cyn is-bostfeistr, Noel Thomas, fe aeth i'r carchar, a fe gollodd bopeth.",
@@ -1939,8 +1958,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams fydd yn mynd a'r cyn aelod seneddol, Sian James ar daith bywyd. Byddwn yn clywed hanes Streic y Glowyr pan ddarganfyddodd Sian ei llais, a sud deimlad oedd cael ei stori wedi ei adrodd yn y film lwyddiannus, Pride.",
@@ -2187,7 +2206,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Cyfres wedi'i gyflwyno gan Heledd Cynwal. Mae 'na 13.5 miliwn o gwn ym Mhrydain. Ond sut ma dod o hyd i'r Ci Perffaith' Dan arweiniad yr arbenigwr c¿n Dylan Davies a chadwyn o arbenigwyr a llochesi cwn, byddwn ni'n helpu 4 teulu sy'n ysu am gi. Bydd y teulu yn cael treulio amser gyda phob ci dan olwg ein camerau cudd o fewn y ty. Ar ôl wythnos o bendroni a thrafod, bydd y teulu'n cael dewis pa gi ma nhw am gadw fel eu¿ Ci Perffaith!",
@@ -2301,7 +2320,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Yn ail gyfres Y Sîn mae Francesca Sciarrillo a Joe Healy yn bwrw golwg dros y sin creadigol ifanc yng Nghymru. Yn y bennod yma byddwn yn mynd tu ôl i'r llen yn un o syrcasau cyfoes mwyaf Ewrop gyda Trystan Chambers, dilyn ffrwyth llafur yr argraffwr Elin Crowley, mynd gydag Amy Warrington i brofi gwyl gerddorol, a gweld gwaith gwydr gwych yng ngholeg Celf Abertawe.",
