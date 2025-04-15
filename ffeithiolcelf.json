@@ -97,7 +97,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ar Brawf",
       "programme_title": "Martin a Gabriel",
       "short_billing": "Wrth gamu allan o carchar Y Berwyn am yr eildro, mae Martin yn gwneud addewid iddo ei hun na fydd yn mynd yno eto. Ond does gan Gabriel ddim yr un awydd ac agwedd tuag at newid. Steve ac Elin ydy'r Swyddogion Prawf sydd yn rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -1080,7 +1080,7 @@
       "id": "842998698",
       "series_id": "842998691",
       "title": "Greenham",
-      "date_broadcast": "2025-03-12 22:45:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "388",
+      "days_to_expire": "387",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "700",
+      "days_to_expire": "699",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -2220,7 +2220,7 @@
       "id": "514919630",
       "series_id": "514919555",
       "title": "Y Cosmos",
-      "date_broadcast": "2025-04-13 09:00:00",
+      "date_broadcast": "2025-04-30 15:05:00",
       "vs": "0"
     },
     {
