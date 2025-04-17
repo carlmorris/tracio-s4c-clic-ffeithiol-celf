@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "101",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "134",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "101",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Am Dro! Ar Lan y Mor",
       "short_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
@@ -215,14 +215,14 @@
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres:Amour & Mynydd 4",
       "short_billing": "Fodlediad yn trafod bob dim yn ymwneud ag Amour & Mynydd.",
-      "thumbnail_url": "Amour_a_Mynydd_2025S4C_P4_099.jpg",
-      "duration": "47",
+      "thumbnail_url": "Apres_Amour_a_Mynydd_2025S4C_001.jpg",
+      "duration": "29",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae cyfnod y criw yn Chalet Amour a Mynydd yn dod i ben, ac mae Sion a Nicola, y ddau aelod newydd, yn trefnu det yn y twba twym. Mae pawb yn gwynebu her bersonol drwy ddringo twr ia ucha' Ffrainc. Mae Gerallt a Catrin yn gorfod gwneud penderfyniad ar le i fynd a'u perthyans ar ol mynd gartref.",
+      "full_billing": "Fodlediad yn trafod bob dim yn ymwneud ag Amour & Mynydd.",
       "clic_aired": "22 Ionawr 2025",
       "fav_id": "884734211",
-      "id": "884740749",
+      "id": "918763598",
       "series_id": "884740681",
       "title": "Amour & Mynydd",
       "date_broadcast": null,
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2024",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2024 - ac mae un ymgais uchelgeisiol yn cynnwys lori anferth, monster truck a'r rhaff tynnu'r gelyn hiraf yn y byd! Yna, mae Bois y Pizza ac Ysgol y Strade yn anelu at dorri record y llun cerdyn fflip fwyaf - a bydd ymgais hefyd i dorri record y 20 metr cyflymaf ar Space Hopper ac adeiladu'r t¿r uchaf wedi ei neud o bicau ar y maen! Alun Williams a Rhianna Loren sydd yn ôl i dorri mwy o recordiau Guinness World Records!",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Mi fyddwn yn agor y clwb llyfrau gyda Sioned Roberts, ac fe fydd Gwawr yn y gegin.",
@@ -1749,8 +1749,8 @@
       "vs": "0"
     },
     {
-      "count": "13",
-      "days_to_expire": "18",
+      "count": "12",
+      "days_to_expire": "17",
       "series_title": "Prynhawn Da - Cyfres 2024",
       "programme_title": null,
       "short_billing": "Mae Carys a Dyfed yng nghornel y colofnwyr ac mae Michelle yn coginio'r swper perffaith yn y gegin.",
