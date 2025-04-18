@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "100",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "132",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "100",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Carwyn Jones",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -149,7 +149,7 @@
       "id": "873317741",
       "series_id": "873317668",
       "title": "Alun, Chris a Kiri yn Seland Newydd",
-      "date_broadcast": null,
+      "date_broadcast": "2025-05-03 20:00:00",
       "vs": "0"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ar Brawf",
       "programme_title": "Gwenan a Tom",
       "short_billing": "Mae Gwenan yn benderfynol o gadw i ffwrdd o alcohol a chyffuriau er mwyn lleihau'r tebygolrwydd o droseddu eto. Mae Tom mewn perygl o gael ei yrru yn ôl i'r llys am fethu ei apwyntiadau gwaith di-dâl. Elin a Danielle ydy'r Swyddogion Prawf sy'n rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -510,7 +510,7 @@
       "id": "817962117",
       "series_id": "817961976",
       "title": "Codi Pac - Cyfres 4",
-      "date_broadcast": null,
+      "date_broadcast": "2025-05-03 11:30:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -890,7 +890,7 @@
       "id": "840743212",
       "series_id": "840743082",
       "title": "Dim Byd i'w Wisgo - Cyfres 2",
-      "date_broadcast": "2025-04-04 18:00:00",
+      "date_broadcast": "2025-05-03 11:05:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "385",
+      "days_to_expire": "384",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "697",
+      "days_to_expire": "696",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1878,7 +1878,7 @@
       "id": "858216989",
       "series_id": "858216837",
       "title": "Richard Holt: Yr Academi Felys -2",
-      "date_broadcast": null,
+      "date_broadcast": "2025-05-03 12:00:00",
       "vs": "0"
     },
     {
@@ -2524,7 +2524,7 @@
       "id": "887949838",
       "series_id": "887949816",
       "title": "Ysbyty",
-      "date_broadcast": "2025-04-18 15:05:00",
+      "date_broadcast": "2025-05-03 15:30:00",
       "vs": "0"
     }
   ]
