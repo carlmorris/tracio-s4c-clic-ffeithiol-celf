@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "98",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "131",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "98",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2243,22 +2243,22 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
+      "count": "5",
+      "days_to_expire": "149",
       "series_title": "Y Cosmos",
-      "programme_title": "Y Blaned Iau",
+      "programme_title": "Y Blaned Sadwrn",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
-      "thumbnail_url": "Y_Cosmos_2014S4C_P4_Y_Blaned_Iau.jpg",
+      "thumbnail_url": "Y_Cosmos_2014S4C_P5_Y_Blaned_Sadwrn_02.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Rhaglen sy'n datgelu rhai o gyfrinachau'r blaned fwyaf yn ein system solar - Y Blaned Iau.  Drwy ddefnyddio animeiddio cyfrifiadurol rhyfeddol, byddwn yn mynd ar daith drwy'r Cosmos i ddarganfod sut mae bywyd ar y ddaear yn cael ei warchod gan y Blaned Iau. A pham fod rhai yn credu mai yma y bydd pobl yn dod i fyw a gweithio yn y dyfodol'",
-      "clic_aired": "13 Ebrill 2025",
+      "full_billing": "Mae'r daith drwy'r Cosmos yn parhau, wrth i ni gyrraedd y Blaned Sadwrn. Bydd y rhaglen yn darganfod pam mae'r blaned gyda'i chylchoedd enwog yn cael ei hystyried yn gartref posib i bobl yn y dyfodol agos. Hefyd, byddwn yn datgelu prawf gwyddonol sydd o bosib yn dangos fod yna fywyd estron i'w gael ar un o leuadau'r blaned.",
+      "clic_aired": "20 Ebrill 2025",
       "fav_id": "800323651",
-      "id": "514919630",
+      "id": "514919652",
       "series_id": "514919555",
       "title": "Y Cosmos",
-      "date_broadcast": "2025-04-30 15:05:00",
+      "date_broadcast": "2025-04-20 09:00:00",
       "vs": "0"
     },
     {
