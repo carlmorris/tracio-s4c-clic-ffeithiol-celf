@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "95",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "127",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "95",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Pobol y Rhondda - Cyfres 1",
       "programme_title": null,
       "short_billing": "Portread o'r Rhondda a'i phobl yng nghwmni un o fois yr ardal, Siôn Tomos Owen.",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Cymru",
       "short_billing": "Ail-ddangosiad i nodi Mis Hanes Pobl Ddu. Cyfres dwymgalon yn olrhain hanes teulu Wayne a Connagh Howard yng Nghymru, Iwerddon a Jamaica. Mae'r pâr yn cychwyn ar eu taith yn Southampton a Chaerdydd.",
