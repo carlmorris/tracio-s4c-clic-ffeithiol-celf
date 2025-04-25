@@ -187,7 +187,7 @@
       "id": "887386664",
       "series_id": "887386535",
       "title": "Am Dro! - Cyfres 8",
-      "date_broadcast": "2025-03-22 12:55:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ar Brawf",
       "programme_title": "Darren a Chloe",
       "short_billing": "Rhaid i Darren gydymffurfio â thag cyrffyw rhwng 7pm a 7am a phrofion cyffuriau ar hap er mwyn osgoi cael ei anfon yn ôl i'r carchar. Mae gan Chloe hanes gwael o ddod i'w hapwyntiadau ac mae hi mewn perygl o gael ei gyrru'r llys eto. Nerys a Jo ydy'r Swyddogion Gwasanaeth Prawf sy'n gorfod rheoli ymddygiad y ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "378",
+      "days_to_expire": "377",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "690",
+      "days_to_expire": "689",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Pennod 4",
       "short_billing": "Mae'r Gwesty yn aduno dau frawd oedd wedi eu magu yng nghartef plant Bontnewydd ar ol dros 30 mlynedd arwahan. Mae na aduniad i Ben a Cadi hefyd, oedd wedi treulio amser efo'i gilydd mewn uned gofal arbennig i fabis, ac mae gan Gillian Hobbs neges emosiynol o ddiolch i weithwraig gymdeithasol y Gwesty, Theresa Ryan.",
@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "117",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-03-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "148",
       "series_title": "Pawb a'i Farn",
@@ -1689,6 +1670,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "117",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-03-24 21:00:00",
       "vs": "0"
     },
     {
@@ -1973,7 +1973,7 @@
       "id": "837080314",
       "series_id": "837080163",
       "title": "Sgwrs dan y Lloer - Cyfres 3",
-      "date_broadcast": "2025-03-22 12:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
