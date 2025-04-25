@@ -591,7 +591,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Mae'r byd yn cynhesu ac mae lefelau'r moroedd yn codi, yn y rhaglen hon bydd Steffan Powell yn darganfod sut mae natur yn medru bod yn gymorth wrth i ni ddysgu sut i addasu i'r newidiadau hyn, a bydd Steffan Griffiths yn yr Iseldiroedd i gyfarfod peirianwyr arloesol. ",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Grid - Cyfres 4",
       "programme_title": "O'r Wyddfa i Everest",
       "short_billing": "Yn 18 oed, mae Ioan Jones o Lanfairpwll yn wynebu her enfawr: cyrraedd Base Camp Everest.  Dilynwn ei siwrne feddyliol a chorfforol a'i fwriad o ysbrydoli eraill bod gobaith wedi galar. Rhybudd: trafod hunanladdiad. ",
@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "117",
       "series_title": "Pawb a'i Farn",
@@ -1689,6 +1670,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-03-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
