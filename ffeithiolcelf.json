@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "89",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "121",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "89",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ar Brawf",
       "programme_title": "Darren a Chloe",
       "short_billing": "Rhaid i Darren gydymffurfio â thag cyrffyw rhwng 7pm a 7am a phrofion cyffuriau ar hap er mwyn osgoi cael ei anfon yn ôl i'r carchar. Mae gan Chloe hanes gwael o ddod i'w hapwyntiadau ac mae hi mewn perygl o gael ei gyrru'r llys eto. Nerys a Jo ydy'r Swyddogion Gwasanaeth Prawf sy'n gorfod rheoli ymddygiad y ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
@@ -263,7 +263,7 @@
       "id": "842327254",
       "series_id": "842326971",
       "title": "Bwrdd i Dri - Cyfres 3",
-      "date_broadcast": "2025-05-12 21:30:00",
+      "date_broadcast": "2025-05-14 13:00:00",
       "vs": "0"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "374",
+      "days_to_expire": "373",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "686",
+      "days_to_expire": "685",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -1916,7 +1916,7 @@
       "id": "860978295",
       "series_id": "860978166",
       "title": "Sain Ffagan Cyfres 2",
-      "date_broadcast": "2025-03-26 12:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2296,7 +2296,7 @@
       "id": "514919674",
       "series_id": "514919555",
       "title": "Y Cosmos",
-      "date_broadcast": "2025-04-27 09:00:00",
+      "date_broadcast": "2025-05-14 15:05:00",
       "vs": "0"
     },
     {
