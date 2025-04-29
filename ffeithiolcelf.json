@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "3 Lle - Cyfres 5",
       "programme_title": "Ffion Dafis",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -78,7 +78,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Anni Llyn",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -249,7 +249,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Mae 3 seleb yn paratoi pryd o fwyd 3 chwrs i'w fwynhau gyda'i gilydd. Fe fydd pob un o'r tri yn gyfrifol am ddewis un cwrs yr un. OND nid nhw fydd yn paratoi na choginio'r rysáit maen nhw wedi'i dewis. Sut siâp fydd arnyn nhw yn y gegin tybed'  Ar ôl y coginio mae'n amser blasu a chyfarfod â'r gweddill. Beth maen nhw i gyd yn ei feddwl o ryseitiau ei gilydd' A fydd y bwyd yn plesio' Heddiw fydd 'na dri o'r byd newyddion a thywydd o gwmpas y Bwrdd i Dri.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
-      "series_title": "Dan Do",
-      "programme_title": "Ty David ac Anthony- Talog",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "clic_aired": "22 Ebrill 2025",
-      "fav_id": "802081093",
-      "id": "832478843",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-04-22 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "84",
       "series_title": "Dan Do",
@@ -834,6 +815,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "142",
+      "series_title": "Dan Do",
+      "programme_title": "Ty David ac Anthony- Talog",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "clic_aired": "22 Ebrill 2025",
+      "fav_id": "802081093",
+      "id": "832478843",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-04-22 13:15:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau'r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Bethan Ellis Owen",
       "short_billing": "Ar Sgwrs dan y Lloer gynta'r gyfres fe fyddwn ni'n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
