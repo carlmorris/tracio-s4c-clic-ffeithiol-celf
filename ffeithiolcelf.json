@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "87",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "119",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "87",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -77,7 +77,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "3",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Anni Llyn",
@@ -211,7 +211,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -339,7 +339,7 @@
       "id": "859705941",
       "series_id": null,
       "title": "Camau Tua'r Ser",
-      "date_broadcast": "2025-03-28 15:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Yn y rhaglen arbennig hon o Geredigion bydd Heledd Cynwal, Iestyn Jones a Sion Tomos Owen yn darganfod beth sydd gan Aberaeron i'w gynnig. Bydd Heledd yn profi peth o gyffro tu ôl i'r llenni pantomeim Theatr Felinfach, bydd Iestyn yn cael tro yn chwarae coets, a bydd Sion ar drywydd cymeriadau lleol lliwgar, Dafydd Gwallt Hir a Mari Berllan Bitar. ",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "140",
-      "series_title": "Dan Do",
-      "programme_title": "Ty David ac Anthony- Talog",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
-      "clic_aired": "22 Ebrill 2025",
-      "fav_id": "802081093",
-      "id": "832478843",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-04-22 13:15:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "81",
       "series_title": "Dan Do",
@@ -891,6 +872,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "140",
+      "series_title": "Dan Do",
+      "programme_title": "Ty David ac Anthony- Talog",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "clic_aired": "22 Ebrill 2025",
+      "fav_id": "802081093",
+      "id": "832478843",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-04-22 13:15:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "372",
+      "days_to_expire": "371",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "684",
+      "days_to_expire": "683",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
