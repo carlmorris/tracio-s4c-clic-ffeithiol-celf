@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "87",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "120",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -39,8 +20,27 @@
       "vs": "0"
     },
     {
+      "count": "25",
+      "days_to_expire": "87",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "3 Lle - Cyfres 5",
       "programme_title": "Ffion Dafis",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -78,7 +78,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Anni Llyn",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -439,7 +439,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -514,22 +514,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "116",
+      "count": "3",
+      "days_to_expire": "130",
       "series_title": "Codi Pac - Cyfres 4",
-      "programme_title": "Rhuthun",
-      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Rhuthun sy'n serennu yr wythnos hon.",
-      "thumbnail_url": "Codi_Pac_2021S4C_P1_Rhuthun_2605.jpg",
+      "programme_title": "Caerdydd",
+      "short_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru. Y brifddinas, Caerdydd sy'n serennu yr wythnos hon.",
+      "thumbnail_url": "Codi_Pac_2021S4C_P3_Caerdydd_0250.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru, a thref Rhuthun sy'n serennu yr wythnos hon.",
-      "clic_aired": "29 Mawrth 2025",
+      "full_billing": "Geraint Hardy sydd yn 'Codi Pac' ac yn ymlwybro o gwmpas Cymru. Y brifddinas, Caerdydd sy'n serennu yr wythnos hon.",
+      "clic_aired": "12 Ebrill 2025",
       "fav_id": "793406854",
-      "id": "817961987",
+      "id": "817962039",
       "series_id": "817961976",
       "title": "Codi Pac - Cyfres 4",
-      "date_broadcast": "2025-04-02 12:05:00",
+      "date_broadcast": "2025-04-16 12:05:00",
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae'r artist Steve 'Pablo' Jones o Gaernarfon yn pacio bag ac yn mynd i Covent Garden yn Llundain, i Eglwys Sant Paul ble mae'n cwrdd â'r canwr Aled Jones er mwyn gwneud portread ohonno. Er bod Aled a Steve yn edrych fel y cwpwl od, fe wnaethon nhw dynnu mlaen yn syth ac yn sgwrsio fel cwpl o hen ffrindiau. Mae Aled yn teimlo y gall fod yn agored am yr amser pan gollodd y cariad at ganu ond a fydd Steve yn gallu dal y bregusrwydd hwnnw pan ddaw i'r portread'",
@@ -895,7 +895,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1711,25 +1711,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "112",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "143",
       "series_title": "Pawb a'i Farn",
@@ -1749,6 +1730,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "112",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "139",
       "series_title": "Pen Llyn Harri Parri",
@@ -1758,13 +1758,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd Harri Parri'n ailfyw ei deithiau mewn hen 'Ostyn Sefn', yn prynu tocyn ar hen Fysus Bach y Wlad ac yn clywed rhai o hanesion lliwgar Cariwrs y penrhyn wrth fynd ar grwydr i ddarganfod rhai o straeon trafnidiaeth Pen Llyn.",
+      "full_billing": "Mae hanes crefydd Pen Llyn yn llawn straeon lliwgar am bobl sydd wedi torri cwys eu hunain.  Bydd Harri'n mynd ar grwydr i ail-ddarganfod yr hanes y tu ôl i rai o'r bobl mentrus yma sydd wedi ei ddylanwadu a dysgu cymaint iddo.",
       "clic_aired": "20 Ebrill 2025",
       "fav_id": "796255272",
-      "id": "377106615",
+      "id": "377106637",
       "series_id": "377106562",
       "title": "Pen Llyn Harri Parri",
-      "date_broadcast": "2025-04-25 18:00:00",
+      "date_broadcast": "2025-05-02 18:00:00",
       "vs": "0"
     },
     {
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau'r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Bethan Ellis Owen",
       "short_billing": "Ar Sgwrs dan y Lloer gynta'r gyfres fe fyddwn ni'n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
