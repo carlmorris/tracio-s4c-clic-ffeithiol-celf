@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "3 Lle - Cyfres 5",
       "programme_title": "Ffion Dafis",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Adre - Cyfres 5",
       "programme_title": "Anni Llyn",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yn nhai rhai o enwogion Cymru yng nghyfres 5 o 'Adre'.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Newyddion a Tywydd",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -419,8 +419,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
+      "count": "5",
+      "days_to_expire": "149",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -428,13 +428,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Nia Marshalsay-Thomas yn ymweld â Gr¿p Marchogaeth Arbennig Meirionnydd, sy'n gysylltiedig ag elusen yr RDA (Riding for The Disabled Association). Mae'r elusen hon yn darparu cymorth a phrofiad i unigolion sydd ag anghenion ychwanegol trwy gyfrwng gwersi marchogaeth, ac yn cynnal gwersi wythnosol. Bydd Nia yn ymweld â thri unigolyn sy'n mynychu'r gwersi ac yn elwa o'r ddarpariaeth hon, gan weld y gwahanol dechnegau a chyfarpar sy'n cael eu defnyddio at wahanol anghenion.",
-      "clic_aired": "25 Ebrill 2025",
+      "full_billing": "Mae Bridfa Derwen yn un o'r cewri ym myd y cobiau Cymreig, a bydd David Oliver yn ymweld ag Ifor a Myfanwy Lloyd yng Ngheredigion lle maen nhw wedi bod yn magu cobiau ers degawdau. Mae gwaed a llinach yn hollbwysig yn hanes y fridfa hon, sydd wedi arwain at lwyddiant mawr iddyn nhw yn y cylch dangos ar hyd y blynyddoedd, gan gynnwys Cwpan y Frenhines yn Sioe Frenhinol 1983. Bydd David hefyd yn cael cyfle i wylio archif deuluol werthfawr nas welwyd ar deledu erioed o'r blaen.",
+      "clic_aired": "2 Mai 2025",
       "fav_id": "535205524",
-      "id": "535206890",
+      "id": "535206914",
       "series_id": "535206809",
       "title": "Ceffylau Cymru",
-      "date_broadcast": "2025-04-29 18:00:00",
+      "date_broadcast": "2025-05-06 18:00:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres wrth i Dilwyn a John ddirwyn tuag at ddiwedd eu taith, maent yn ymweld â Wales yn nhalaith Wisconsin. O faneri'r ddraig goch i enwau strydoedd, maent yn rhyfeddu at yr holl arwyddion adawodd y sefydlwyr o Gymru ym mhob man. Caiff Dilwyn ei urddo i frawdoliaeth enwog beicwyr Harley Davidson yn nhref Milwaukee gerllaw, tra bod John yn darganfod mai Cymry o Fôn, ac nid Almaenwyr ddechreuodd fragu yn y ddinas enwog a gaiff ei galw'n brifddinas fragu'r byd. Daw'n amser wedyn i",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -914,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio heddiw. Cyn brifathro, sy'n caru popeth rygbi ac sy'n byw mewn shorts a dillad chwaraeon. Mae'n ysu cael trio steil newydd a ffeindio gwisg fydd yn addas ar gyfer mynd a'i wraig Diane allan am bryd o fwyd sbesial.",
@@ -1758,13 +1758,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd Harri Parri'n ailfyw ei deithiau mewn hen 'Ostyn Sefn', yn prynu tocyn ar hen Fysus Bach y Wlad ac yn clywed rhai o hanesion lliwgar Cariwrs y penrhyn wrth fynd ar grwydr i ddarganfod rhai o straeon trafnidiaeth Pen Llyn.",
+      "full_billing": "Mae hanes crefydd Pen Llyn yn llawn straeon lliwgar am bobl sydd wedi torri cwys eu hunain.  Bydd Harri'n mynd ar grwydr i ail-ddarganfod yr hanes y tu ôl i rai o'r bobl mentrus yma sydd wedi ei ddylanwadu a dysgu cymaint iddo.",
       "clic_aired": "20 Ebrill 2025",
       "fav_id": "796255272",
-      "id": "377106615",
+      "id": "377106637",
       "series_id": "377106562",
       "title": "Pen Llyn Harri Parri",
-      "date_broadcast": "2025-04-25 18:00:00",
+      "date_broadcast": "2025-05-02 18:00:00",
       "vs": "0"
     },
     {
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Dyma olwg unigryw tu ôl i ddrysau Sain Ffagan.  Ar ôl 6 mis o waith adnewyddu, mae'n bryd i'r sgaffald ddod i lawr oddi ar Dwr y Cloc. Yn Fferm Kennixton, mae Ceri'r garddwraig yn cael hwyl yn glanhau'r lloriau wrth stampio perlysiau o'r gerddi i mewn i'r pren.",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Bethan Ellis Owen",
       "short_billing": "Ar Sgwrs dan y Lloer gynta'r gyfres fe fyddwn ni'n ymweld â gardd a chartref yr actores, Bethan Ellis Owen.",
@@ -2091,25 +2091,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Gyda'r noson strip 'pop-up' yng Nghaernarfon ar y gorwel, mae Rhiannon a Katya yn ymweld a'r dre i hysbysebu'r digwyddiad.  Mae Rhiannon yn datgelu ffaith personol annisgwyl. Ar noson 'pop-up' Caernarfon, mae rhaid i Rhiannon feddwl ar ei thraed pan nad yw pethau'n mynd fel oedd hi wedi disgwyl, ac mae Jinxx yn cael noson i'w hanghofio. ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": "2025-05-03 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "144",
       "series_title": null,
@@ -2126,6 +2107,25 @@
       "series_id": null,
       "title": "Strip",
       "date_broadcast": "2025-04-26 21:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Gyda'r noson strip 'pop-up' yng Nghaernarfon ar y gorwel, mae Rhiannon a Katya yn ymweld a'r dre i hysbysebu'r digwyddiad.  Mae Rhiannon yn datgelu ffaith personol annisgwyl. Ar noson 'pop-up' Caernarfon, mae rhaid i Rhiannon feddwl ar ei thraed pan nad yw pethau'n mynd fel oedd hi wedi disgwyl, ac mae Jinxx yn cael noson i'w hanghofio. ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": "2025-05-03 23:00:00",
       "vs": "0"
     },
     {
