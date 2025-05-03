@@ -458,7 +458,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cefn Gwlad - 2024-25",
       "programme_title": "Arwel Simdde Lan",
       "short_billing": "Arwel Williams, Porthmadog sydd wrth ei fodd yn crwydro cefn gwlad Dwyfor Meirionnydd yn llnau simneiau a sgwrsio da'r cwsmeriaid, ac wedyn beicio ar benwythnosau. ",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": null,
       "programme_title": "Cofio Dafydd Elis-Thomas",
       "short_billing": "Rhaglen ddogfen sy'n talu teyrnged i'r diweddar Dafydd Elis-Thomas, un o ffigyrau mawr gwleidyddiaeth a diwylliant Cymru.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol 2024",
       "programme_title": "EDEN",
       "short_billing": "Ymunwch ag Elin Fflur o faes ein prifwyl eleni, Parc Ynys Angharad, i ail-fyw perfformiadau o lwyfannau'r Eisteddfod. Ar Lwyfan y Maes cawn fwynhau gwledd o ganu gan neb llai nag Eden wrth iddynt gloi'r Eisteddfod eleni. O'r hen i'r newydd, mae yna rywbeth yma at ddant pawb.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": null,
       "programme_title": "Geraint Jarman",
       "short_billing": "Cyfle arall i wylio'r rhaglen ddogfen arbennig hon, yn dilyn marwolaeth Geraint yn ddiweddar. Yma, mae'r canwr a'r cyfansoddwr amryddawn yn siarad o'r galon am ei fywyd personol dros y blynyddoedd. Mae'r rhaglen yn ei ddilyn dros gyfnod o fisoedd wrth iddo baratoi CD. Mae'r rhaglen yn cynnwys perfformiadau diweddar gan Geraint a nifer o berfformiadau pan oedd dipyn yn iau.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "Mae nifer yr asesiadau ADHD yng Nghymru a'r DU wedi cynyddu'n aruthrol yn ystod y blynyddoedd diwethaf, yn enwedig ymhlith menywod. Mae Jess Davies yn ymchwilio, gyda'r nod o ddarganfod pam na chafodd cymaint o fenywod ddiagnosis fel plant, ac yn gofyn y cwestiwn: beth mae'n ei olygu i gael diagnosis o ADHD'",
@@ -1730,25 +1730,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "141",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "110",
       "series_title": "Pawb a'i Farn",
@@ -1765,6 +1746,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "141",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
