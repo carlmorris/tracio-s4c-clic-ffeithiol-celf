@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "4",
-      "days_to_expire": "117",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-04-04 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "84",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "117",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-04-04 15:05:00",
       "vs": "0"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Brett Johns",
       "short_billing": "Series 6 of Adre, with Nia Parry showing us around some of the home of Wales' famous faces.",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Cebab Cig Oen",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Cebab Cig Oen.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma, llais Cymru yn America, y newyddiadurwr Maxine Hughes.\n ",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": null,
       "programme_title": "DRYCH: Byw Heb Freichiau",
       "short_billing": "Ail-ddarllediad mewn teyrnged i Frank, a farwodd Ebrill 8fed.  Dyma stori bywyd unigryw Frank Letch wrth iddo ystyried pa effaith mae cael ei eni heb freichiau wedi ei gael ar ei fywyd. Cyfle yw hyn i gamu i mewn i fyd Frank yn ystod blwyddyn dyngedfennol yn ei fywyd, gydag archif sylweddol o fywyd Frank o'r 1970au a'r 1990au a mynediad i bob agwedd o'i fywyd a'i deulu. Yma, cawn ddarganfod sut mae agweddau tuag at anabledd wedi newid, a syfrdanu ar beth gall yr ysbryd dynol gyflawni yng ngwyneb",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Igancio Lopez a Tudur Owen",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -1711,25 +1711,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "140",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "109",
       "series_title": "Pawb a'i Farn",
@@ -1746,6 +1727,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "140",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
@@ -2163,25 +2163,6 @@
       "id": "856622752",
       "series_id": "856622741",
       "title": "Teulu Dad a Fi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Teulu'r Castell",
-      "programme_title": "Pennod 6",
-      "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
-      "thumbnail_url": "Teulur_Castell_2022S4C_006.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
-      "clic_aired": "5 Rhagfyr 2024",
-      "fav_id": "821380840",
-      "id": "821380959",
-      "series_id": "821380840",
-      "title": "Teulu'r Castell",
       "date_broadcast": null,
       "vs": "0"
     },
