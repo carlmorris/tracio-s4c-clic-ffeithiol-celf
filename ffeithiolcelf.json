@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 2",
       "programme_title": "Traddodiadau Newydd",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma bydd rhai ryseitiau traddodiadol yn creu traddodiadau newydd yn y gegin. ",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Ffasiwn Drefn - Cyfres 2",
       "programme_title": null,
       "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'n trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.  'Lle i bopeth a phopeth yn ei le' yw'r nod.\r\nYr wythnos hon cwpwrdd dillad Marred Jones o Fangor sy'n cael ei drawsnewid.",
@@ -1730,25 +1730,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "109",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "140",
       "series_title": "Pawb a'i Farn",
@@ -1765,6 +1746,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "109",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs dan y lloer ¿ Bydd Elin Fflur  gyda'r actores Sera Cracroft ¿ sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
