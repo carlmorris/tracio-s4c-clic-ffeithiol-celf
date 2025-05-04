@@ -173,7 +173,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": null,
       "short_billing": "Mae mil o bunnoedd yn y fantol a phedwar yn brwydro i'w hennill drwy arwain teithiau cerdded i arddangos eu hardaloedd ar eu gorau. Byddwn yn ymweld â Ffostrasol, Llanfairpwll, Merthyr Mawr ac Abermaw yng nghwmni Cerys, Llew, Gwilym a Sian.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 3",
       "programme_title": "Huw Chiswell",
       "short_billing": "Rhys Meirion sy'n uno pobl gyda'u harwyr cerddorol. ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial o Bwllheli yw'r pâr hyfryd sy'n cael priodas am bum mil o bunnoedd tro 'ma! \r\nYn lwcus iddyn nhw, mae ganddyn' nhw lond trol o deulu a  ffrinidau sydd am wneud yn siwr eu bod nhw'n cael y diwrnod gorau un! ",
@@ -2110,25 +2110,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "142",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_Teitlau-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": "2025-04-26 21:05:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "147",
       "series_title": "Strip",
@@ -2145,6 +2126,25 @@
       "series_id": "911821090",
       "title": "Strip",
       "date_broadcast": "2025-05-03 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "142",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_Teitlau-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
+      "title": "Strip",
+      "date_broadcast": "2025-04-26 21:05:00",
       "vs": "0"
     },
     {
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Y 'Sgubor Flodau",
       "programme_title": null,
       "short_billing": "Yn y bennod olaf o'r gyfres bydd y tîm yn creu trefniant i ddathlu 20 mlynedd o elusen Prostate Cymru. ",
@@ -2563,25 +2563,6 @@
       "series_id": null,
       "title": "Yr Actor A'r Eicon",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Yr Afon",
-      "programme_title": "Aled ac Afon Nil",
-      "short_billing": "Golwg ar rai o afonydd mawr y byd yng nghwmni pobl adnabyddus o Gymru.",
-      "thumbnail_url": "Yr_Afon_2008_P6_Aled_Nil_6.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i ddilyn taith Aled Samuel o Gairo hyd at darddiad Afon Nil lle mae Ethiopia yn adeiladu argae. Beth fydd effaith yr argae ar ddyfodol yr afon'",
-      "clic_aired": "30 Mawrth 2025",
-      "fav_id": "760741036",
-      "id": "283452155",
-      "series_id": "283452061",
-      "title": "Yr Afon",
-      "date_broadcast": "2025-04-03 15:05:00",
       "vs": "0"
     },
     {
