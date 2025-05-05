@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "83",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "116",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "83",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -514,22 +514,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio gyda'r cogydd, Colleen Ramsey.",
-      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2022S4C_P3_041-Edit2.jpg",
+      "thumbnail_url": "Colleen_Ramsey_Bywyd_a_Bwyd_2023S4C_P4_099.jpg",
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma mae'n dangos i ni sut gallwch chi greu prydiau sy'n apelio i bobol ffyslyd. Mae Aaron a'r plant yn dod draw i fwyta eu hoff basta gyda saws Nana.  ",
-      "clic_aired": "28 Ebrill 2025",
+      "full_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y rhaglen yma byddwn yn gweld dylanwad yr Eidal ar ei ryseitiau. Mae'r teulu oll yn dod draw am bitsa mae Colleen wedi creu.",
+      "clic_aired": "5 Mai 2025",
       "fav_id": "890520484",
-      "id": "858730026",
+      "id": "858730052",
       "series_id": "858729963",
       "title": "Colleen Ramsey: Bywyd a Bwyd - 1",
-      "date_broadcast": "2025-05-01 13:00:00",
+      "date_broadcast": "2025-05-08 13:00:00",
       "vs": "0"
     },
     {
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "139",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "108",
       "series_title": "Pawb a'i Farn",
@@ -1708,6 +1689,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "139",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Y Byd ar Bedwar - Cyfres 2024-25",
       "programme_title": "Elw Gwyrdd?",
       "short_billing": "Ymchwiliad i gwmni Consumer Energy Solutions o Abertawe. Clywn gan gwsmeriaid a chyn-weithwyr anhapus sy'n dweud bod y cwmni, sy'n derbyn grantiau eco Llywodraeth y DU, yn difetha cartrefi ac yn cymryd mantais o'r system. Gyda'r seren rygbi, Jonathan Davies, yn wyneb i'r cwmni, ry'n ni'n gofyn pwy sy'n talu'r pris wrth inni geisio bod yn wyrdd'",
