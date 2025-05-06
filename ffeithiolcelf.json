@@ -344,7 +344,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Ian 'H' Watkins",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw 'H' o'r gr&#373;p poblogaidd o'r 90au - Steps.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cefn Gwlad - 2024-25",
       "programme_title": "Brian Castell Howell",
       "short_billing": "Cyfres am ffordd o fyw a chymeriadau cefn gwlad a byd ffermio Cymru.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "179",
+      "days_to_expire": "178",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "299",
+      "days_to_expire": "298",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Y Trysorau",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Pawb a'i Farn",
       "programme_title": "Argyfwng Rygbi Cymru",
       "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
@@ -2053,25 +2053,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "145",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": "2025-05-03 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "139",
       "series_title": null,
@@ -2088,6 +2069,25 @@
       "series_id": null,
       "title": "Strip",
       "date_broadcast": "2025-04-26 21:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "145",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": "2025-05-03 23:00:00",
       "vs": "0"
     },
     {
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Welsh TV broadcaster and journalist Sian Lloyd takes viewers on a powerful journey through some of Wales' dark history of crime.",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Rhaglen arbennig yn dathlu taith trawsnewid Dylan, Sharon, Arwel, Gwawr a Becky wrth i ni edrych yn ôl dros ddeufis o ddilyn cynllun iach Ty Ffit.  Bydd Lisa Gwilym yn holi, eu mentoriaid yn rhoi eu cyngor olaf a Dr Sherif - meddyg y gyfres yn rhannu canlyniadau meddygol ¿ beth fydd effaith dilyn cynllun iach Ty Ffit dros ddeufis ar iechyd y pump'",
@@ -2414,6 +2414,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Y Llinell Las",
+      "programme_title": "Dilyn Dy Drwyn",
+      "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
+      "thumbnail_url": "Y_Llinell_Las_2025S4C_Cyfres_Vinny-1.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Y Llinell Las yn ôl. Y tro hwn, mae Arwel ar ras ar hyd lonydd Ynys Môn, mae Iwan a'r Tîm Cefn Gwlad yn ymateb i gwyn gan y cyhoedd, ac mae Gethin a'i gi yn wynebu penbleth.¿",
+      "clic_aired": "6 Mai 2025",
+      "fav_id": "925072130",
+      "id": "874242668",
+      "series_id": "874242658",
+      "title": "Y Llinell Las",
+      "date_broadcast": "2025-05-09 21:35:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "129",
       "series_title": "Y Sîn",
@@ -2434,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": null,
       "short_billing": "Rhagolygon tywydd yr wythnos.",
@@ -2529,7 +2548,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
