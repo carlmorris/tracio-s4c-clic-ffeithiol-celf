@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "82",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "115",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "82",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Brett Johns",
       "short_billing": "Series 6 of Adre, with Nia Parry showing us around some of the home of Wales' famous faces.",
@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Cebab Cig Oen",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Cebab Cig Oen.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma, llais Cymru yn America, y newyddiadurwr Maxine Hughes.\n ",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "DRYCH: Byw Heb Freichiau",
       "short_billing": "Ail-ddarllediad mewn teyrnged i Frank, a farwodd Ebrill 8fed.  Dyma stori bywyd unigryw Frank Letch wrth iddo ystyried pa effaith mae cael ei eni heb freichiau wedi ei gael ar ei fywyd. Cyfle yw hyn i gamu i mewn i fyd Frank yn ystod blwyddyn dyngedfennol yn ei fywyd, gydag archif sylweddol o fywyd Frank o'r 1970au a'r 1990au a mynediad i bob agwedd o'i fywyd a'i deulu. Yma, cawn ddarganfod sut mae agweddau tuag at anabledd wedi newid, a syfrdanu ar beth gall yr ysbryd dynol gyflawni yng ngwyneb",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Ian H Watkins a Bronwen Lewis",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
