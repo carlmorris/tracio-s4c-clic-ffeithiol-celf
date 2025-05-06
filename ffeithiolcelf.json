@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "3 Lle - Cyfres 5",
       "programme_title": "Ffion Dafis",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Mae'r ddau yn anelu am yr Unol Daleithiau!",
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -1673,25 +1673,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "138",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "107",
       "series_title": "Pawb a'i Farn",
@@ -1711,6 +1692,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "138",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "134",
       "series_title": "Pen Llyn Harri Parri",
@@ -1720,13 +1720,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd Harri Parri'n ailfyw ei deithiau mewn hen 'Ostyn Sefn', yn prynu tocyn ar hen Fysus Bach y Wlad ac yn clywed rhai o hanesion lliwgar Cariwrs y penrhyn wrth fynd ar grwydr i ddarganfod rhai o straeon trafnidiaeth Pen Llyn.",
+      "full_billing": "Mae hanes crefydd Pen Llyn yn llawn straeon lliwgar am bobl sydd wedi torri cwys eu hunain.  Bydd Harri'n mynd ar grwydr i ail-ddarganfod yr hanes y tu ôl i rai o'r bobl mentrus yma sydd wedi ei ddylanwadu a dysgu cymaint iddo.",
       "clic_aired": "20 Ebrill 2025",
       "fav_id": "796255272",
-      "id": "377106615",
+      "id": "377106637",
       "series_id": "377106562",
       "title": "Pen Llyn Harri Parri",
-      "date_broadcast": "2025-04-25 18:00:00",
+      "date_broadcast": "2025-05-02 18:00:00",
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Brett Johns",
       "short_billing": "Elin Fflur sy'n sgwrsio gyda enwogion Cymru yn yr ardd am eu bywydau.",
@@ -2053,25 +2053,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "140",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": "2025-04-26 21:05:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "145",
       "series_title": "Strip",
@@ -2088,6 +2069,25 @@
       "series_id": "911821090",
       "title": "Strip",
       "date_broadcast": "2025-05-03 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "140",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
+      "title": "Strip",
+      "date_broadcast": "2025-04-26 21:05:00",
       "vs": "0"
     },
     {
