@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "81",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "114",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-04-04 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "81",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -424,7 +424,7 @@
       "series_title": "Cefn Gwlad - 2024-25",
       "programme_title": "Brian Castell Howell",
       "short_billing": "Cyfres am ffordd o fyw a chymeriadau cefn gwlad a byd ffermio Cymru.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P15_Brian_Castell_Howell-826.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Cosmos",
       "programme_title": "Yr Eiliad Gyntaf Erioed",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
