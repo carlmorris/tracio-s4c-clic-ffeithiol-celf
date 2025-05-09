@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Adre - Cyfres 2",
       "programme_title": "Lowri Evans",
       "short_billing": "Nia Parry sy'n cael y pleser o fusnesa yng nhartrefi rhai o enwogion Cymru. ",
@@ -439,7 +439,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Cegin Bryn: Yn Ffrainc",
       "programme_title": null,
       "short_billing": "Mae'r cogydd Bryn Williams yn teithio dros y dwr i Ffrainc yn y gyfres hon i ail-ddarganfod ei wreiddiau coginio.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Efaciwîs",
       "programme_title": "Plant y Rhyfel",
       "short_billing": "Ar ôl ymgartrefi yn Llanuwchlyn a gwneud ffrindiau da gyda'r plant lleol, mae'r rhyfel yn dod i ben ac mae'n bryd i'n wyth efaciwi fynd adre. Ond cyn hynny mae mabolgampau a pharti steil diwrnod VE i'w fwynhau.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
@@ -1692,25 +1692,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "135",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "104",
       "series_title": "Pawb a'i Farn",
@@ -1730,8 +1711,27 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "135",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Pen Llyn Harri Parri",
       "programme_title": "Llyn a Chrefydd",
       "short_billing": "Cyfle i grwydro Pen Llyn yng nghwmni'r awdur a'r gweinidog Harri Parri wrth iddo deithio drwy fro ei febyd",
@@ -1739,13 +1739,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae hanes crefydd Pen Llyn yn llawn straeon lliwgar am bobl sydd wedi torri cwys eu hunain.  Bydd Harri'n mynd ar grwydr i ail-ddarganfod yr hanes y tu ôl i rai o'r bobl mentrus yma sydd wedi ei ddylanwadu a dysgu cymaint iddo.",
+      "full_billing": "Bydd Harri Parri'n ailfyw ei deithiau mewn hen 'Ostyn Sefn', yn prynu tocyn ar hen Fysus Bach y Wlad ac yn clywed rhai o hanesion lliwgar Cariwrs y penrhyn wrth fynd ar grwydr i ddarganfod rhai o straeon trafnidiaeth Pen Llyn.",
       "clic_aired": "20 Ebrill 2025",
       "fav_id": "796255272",
-      "id": "377106637",
+      "id": "377106615",
       "series_id": "377106562",
       "title": "Pen Llyn Harri Parri",
-      "date_broadcast": "2025-05-02 18:00:00",
+      "date_broadcast": "2025-04-25 18:00:00",
       "vs": "0"
     },
     {
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Ty Am Ddim - Cyfres 3",
       "programme_title": "Pennant",
       "short_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis.",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": null,
       "programme_title": "Yn ôl i Midffild",
       "short_billing": "Noson o hel atgofion a mwynhau clipiau bythgofiadwy o'r gyfres C'mon Midffîld yng nghwmni John Pierce Jones, Bryn Fôn, Sian Wheldon a Llion Williams. Recordiwyd y digwyddiad o flaen cynulleidfa fyw yng Nghaernarfon, gyda Dylan Ebenezer yn reff swyddogol ar y noson i gadw trefn ar y criw.",
