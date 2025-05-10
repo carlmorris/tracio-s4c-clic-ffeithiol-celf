@@ -230,7 +230,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Abergwaun i Abercastell",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "72",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "145",
       "series_title": "Dan Do",
@@ -853,6 +834,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-05-06 12:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "72",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonathan Davies",
       "short_billing": "Yn y gyfres yma y cyn-beldroediwr proffesiynol Owain Tudur Jones fydd yn cwrdd â rhai o wynebau mwyaf amlwg y byd chwaraeon yng Nghymru a thu hwnt.",
