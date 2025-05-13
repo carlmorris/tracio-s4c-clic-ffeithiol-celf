@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "131",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "100",
       "series_title": "Pawb a'i Farn",
@@ -1689,6 +1670,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "131",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
@@ -2486,7 +2486,7 @@
       "id": "944195361",
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2025-05-12 21:30:00",
+      "date_broadcast": "2025-05-12 21:32:00",
       "vs": "0"
     },
     {
