@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "71",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "103",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883275146",
       "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "71",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -54,7 +54,7 @@
       "id": "536773628",
       "series_id": "536773621",
       "title": "3 Lle - Cyfres 5",
-      "date_broadcast": "2025-04-13 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -244,7 +244,7 @@
       "id": "897351062",
       "series_id": null,
       "title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
-      "date_broadcast": "2025-04-13 14:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "138",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "6 Mai 2025",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-05-06 12:50:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "65",
       "series_title": "Dan Do",
@@ -796,6 +777,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "138",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "6 Mai 2025",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-05-06 12:50:00",
       "vs": "0"
     },
     {
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "88",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "144",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-05-18 16:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "88",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1099,7 +1099,7 @@
       "id": "891074325",
       "series_id": "891074115",
       "title": "Gogglebocs Cymru",
-      "date_broadcast": "2025-04-13 21:45:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "356",
+      "days_to_expire": "355",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "668",
+      "days_to_expire": "667",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1612,7 +1612,7 @@
       "id": "895483636",
       "series_id": null,
       "title": "Molly Palmer: Endo a Fi",
-      "date_broadcast": "2025-04-13 22:50:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1996,25 +1996,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "128",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": "2025-04-26 21:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "134",
       "series_title": "Strip",
@@ -2031,6 +2012,25 @@
       "series_id": "911821090",
       "title": "Strip",
       "date_broadcast": "2025-05-03 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "128",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
+      "title": "Strip",
+      "date_broadcast": "2025-04-26 21:05:00",
       "vs": "0"
     },
     {
