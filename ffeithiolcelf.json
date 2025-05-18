@@ -838,7 +838,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Efaciwîs",
       "programme_title": "Plant y Rhyfel",
       "short_billing": "Cyfres newydd yn edrych ar brofiad efaciwîs yng Nghymru, a'n hanes fel gwlad sydd wedi cynnig lloches i bobl sy'n ddigartref achos rhyfel. ",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "88",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "144",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-05-18 16:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "88",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Gerddi Cymru - Cyfres 1",
       "programme_title": "Gerddi Castell Powis a Gardd Goedwig Penllergare",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ty Am Ddim - Cyfres 3",
       "programme_title": "Pontarddulais",
       "short_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": null,
       "programme_title": "Yn ôl i Midffild",
       "short_billing": "Noson o hel atgofion a mwynhau clipiau bythgofiadwy o'r gyfres C'mon Midffîld yng nghwmni John Pierce Jones, Bryn Fôn, Sian Wheldon a Llion Williams. Recordiwyd y digwyddiad o flaen cynulleidfa fyw yng Nghaernarfon, gyda Dylan Ebenezer yn reff swyddogol ar y noson i gadw trefn ar y criw.",
