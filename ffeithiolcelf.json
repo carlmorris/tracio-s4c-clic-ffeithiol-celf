@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "25",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Tu ôl i'r Llen",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": null,
       "programme_title": "Colli Dy Dafod",
       "short_billing": "Katie Owen a Molly Palmer sy'n neidio yn eu fan hufen iâ i weld os yw'r iaith Gymraeg yn fyw ar strydoedd y Cymoedd. Beth yw barn y bobol' Yw'r iaith yn gaeth i'r 'stafell ddosbarth' Un peth yn sicr, mae'r ddwy yn ymfalchïo yn yr iaith ac yn barod i floeddio'u Cymreictod drwy ffenestri'r fan hufen iâ!",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Cranogwen gyda Ffion Hague",
       "short_billing": "Yr hanesydd a'r ddarlledwraig Ffion Hague sy'n olrhain stori yr arwres arloesol Cranogwen, wrth i gerflun arbennig ohoni gael ei ddadorchuddio yn Llangrannog.  ",
@@ -629,7 +629,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "976",
+      "days_to_expire": "975",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Cyfres o ffilmiau byrion am straeon bwganod yng Nghymru.",
@@ -742,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "64",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "137",
       "series_title": "Dan Do",
@@ -777,6 +758,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-05-06 12:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "64",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Dom a Lloyd: Torri'r Tawelwch",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Dom a Lloyd yn mynd ar daith o gwmpas Cymru i ddeall mwy am iechyd meddwl dynion. ",
@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a bydd Alun yn ymweld â mart Caerfyrddin lle mae'r elusen 'The DPJ Foundation' yn cynorthwyo ffermwyr a'u hiechyd mewn stafell cludol, sef trelar. Bydd Meinir yn ymweld â thaith tractors Dyffryn Aeron, sy'n codi arian i elusennau sy'n agos iawn at galon y gymuned.",
-      "clic_aired": "12 Mai 2025",
-      "fav_id": "533250950",
-      "id": "946348612",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-05-18 16:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "87",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a bydd Alun yn ymweld â mart Caerfyrddin lle mae'r elusen 'The DPJ Foundation' yn cynorthwyo ffermwyr a'u hiechyd mewn stafell cludol, sef trelar. Bydd Meinir yn ymweld â thaith tractors Dyffryn Aeron, sy'n codi arian i elusennau sy'n agos iawn at galon y gymuned.",
+      "clic_aired": "12 Mai 2025",
+      "fav_id": "533250950",
+      "id": "946348612",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-05-18 16:35:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "592",
+      "days_to_expire": "591",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Cyfres deithio lle mae criw o bedair yn darganfod be' sy' angen neud, gweld, a bwyta mewn amryw lefydd ar draws Ewrop.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "1275",
+      "days_to_expire": "1274",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Rhaglenni amrywiol dan ymbarel Hansh.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Llofruddiaeth y Bwa Croes",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": null,
       "programme_title": "Molly Palmer: Endo a Fi",
       "short_billing": "Chi erioed wedi clywed am Endometriosis, neu fel y'i gelwir fwyfwy heddiw - 'Endo'' Yn y rhaglen hon, mae'r DJ a'r cyflwynydd Molly Palmer, sy'n dioddef o endo ei hun, yn darganfod mwy am y salwch hwn sy'n effeithio ar tua un o bob deg o fenywod - yr un fath â diabetes - gydag o bosib cymaint â 160,000 o bobl yng Nghymru yn unig yn byw gydag ef. Mae hi'n cwestiynu'r hyn y mae'r cyhoedd a meddygon yn ei wybod yn union amdano, ac yn trafod yr hyn sy'n cael ei wneud, y diagnosis hirfaith, y driniae",
@@ -1597,25 +1597,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "125",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-04-24 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "94",
       "series_title": "Pawb a'i Farn",
@@ -1632,6 +1613,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "125",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-04-24 21:00:00",
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "732",
+      "days_to_expire": "731",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Cyfres am be sy'n gwneud 'scene' foduro Cymru mor gyfoethog. ",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "678",
+      "days_to_expire": "677",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cyfres o raglenni byr i gyd-fynd â Pride Cymru 2024.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Sian Phillips yn 90",
       "short_billing": "Ffilm ddogfen arbennig yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eiconig wrth iddi droi'n 90.  Yn ogystal â chlywed gan enwau mawr y byd actio, teulu a ffrindiau, bydd Siân yn siarad yn agored am gyfnodau mwyaf tywyll ei bywyd, ynghyd ag uchafbwyntiau ei gyrfa ddisglair hyd yma.  ",
@@ -1958,6 +1958,25 @@
       "vs": "0"
     },
     {
+      "count": "6",
+      "days_to_expire": "132",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": "2025-05-03 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "127",
       "series_title": null,
@@ -1977,27 +1996,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "133",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": "2025-05-03 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
-      "days_to_expire": "632",
+      "days_to_expire": "631",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae bywyd ar fîn newid yn llwyr i'r cwpl ifanc Tanwen ac Ollie - wynebau cyfarwydd i wylwyr S4C a chefnogwyr Pel droed Abertawe - wrth iddynt groesawu eu babi cyntaf i'r byd. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Tudur Owen Ar y Map",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Mae Tudur Owen ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru a thu hwnt.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Yr Argyfwng Iechyd Meddwl Mewn Ffermio ",
       "short_billing": "Rhaglen ddogfen lle mae'r ffarmwr, Gareth Wyn Jones, yn siarad yn agored am ei iechyd meddwl ef, a hefyd yn clywed gan ffrindiau yn y byd ffermio sy'n brwydro gyda'u hiechyd meddwl nhw.",
