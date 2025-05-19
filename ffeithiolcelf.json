@@ -439,7 +439,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 2",
       "programme_title": "Stwnsh-tastic",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Tro yma,  mae stwnsh tatws yn creu llu o ryseitiau 'superblasus'.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Ffasiwn Drefn - Cyfres 2",
       "programme_title": null,
       "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'r trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.",
@@ -948,25 +948,6 @@
       "series_id": "873318756",
       "title": "Ffasiwn Drefn - Cyfres 2",
       "date_broadcast": "2025-04-17 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a bydd Alun yn ymweld â mart Caerfyrddin lle mae'r elusen 'The DPJ Foundation' yn cynorthwyo ffermwyr a'u hiechyd mewn stafell cludol, sef trelar. Bydd Meinir yn ymweld â thaith tractors Dyffryn Aeron, sy'n codi arian i elusennau sy'n agos iawn at galon y gymuned.",
-      "clic_aired": "12 Mai 2025",
-      "fav_id": "533250950",
-      "id": "946348612",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-05-18 16:35:00",
       "vs": "0"
     },
     {
@@ -986,6 +967,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a bydd Alun yn ymweld â mart Caerfyrddin lle mae'r elusen 'The DPJ Foundation' yn cynorthwyo ffermwyr a'u hiechyd mewn stafell cludol, sef trelar. Bydd Meinir yn ymweld â thaith tractors Dyffryn Aeron, sy'n codi arian i elusennau sy'n agos iawn at galon y gymuned.",
+      "clic_aired": "12 Mai 2025",
+      "fav_id": "533250950",
+      "id": "946348612",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-05-18 16:35:00",
       "vs": "0"
     },
     {
@@ -1754,7 +1754,7 @@
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Cae Stanley, Bontnewydd",
       "short_billing": "Cyfres lle bydd timoedd o gymunedau yn ymgymryd â phrosiect adeiladu ac adnewyddu bydd yn fuddiol i'w cymuned neu eu hardal.",
-      "thumbnail_url": "Prosiect_Pum_Mil_2025S4C_P3_0223.jpg",
+      "thumbnail_url": "Prosiect_Pum_Mil_2025S4C_P3_02385-Edit.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
