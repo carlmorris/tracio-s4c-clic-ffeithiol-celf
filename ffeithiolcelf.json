@@ -553,7 +553,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd. Dot Davies sy'n mynd â sêr adnabyddus ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru. ",
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": null,
       "programme_title": "DRYCH: Byw Heb Freichiau",
       "short_billing": "Ail-ddarllediad mewn teyrnged i Frank, a farwodd Ebrill 8fed.  Dyma stori bywyd unigryw Frank Letch wrth iddo ystyried pa effaith mae cael ei eni heb freichiau wedi ei gael ar ei fywyd. Cyfle yw hyn i gamu i mewn i fyd Frank yn ystod blwyddyn dyngedfennol yn ei fywyd, gydag archif sylweddol o fywyd Frank o'r 1970au a'r 1990au a mynediad i bob agwedd o'i fywyd a'i deulu. Yma, cawn ddarganfod sut mae agweddau tuag at anabledd wedi newid, a syfrdanu ar beth gall yr ysbryd dynol gyflawni yng ngwyneb",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -1616,25 +1616,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "92",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "123",
       "series_title": "Pawb a'i Farn",
@@ -1651,6 +1632,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "92",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
