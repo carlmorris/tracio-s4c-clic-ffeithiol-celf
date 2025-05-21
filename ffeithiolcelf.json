@@ -154,7 +154,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -244,7 +244,7 @@
       "id": "886769238",
       "series_id": "886769106",
       "title": "Cais Quinnell - Cyfres 2",
-      "date_broadcast": "2025-04-17 23:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -548,7 +548,7 @@
       "id": "875472391",
       "series_id": null,
       "title": "Cowbois Tecsas",
-      "date_broadcast": "2025-04-17 21:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -624,7 +624,7 @@
       "id": "862359533",
       "series_id": "862359414",
       "title": "Cymry ar Gynfas - Cyfres 4",
-      "date_broadcast": null,
+      "date_broadcast": "2025-06-05 12:05:00",
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Barcelona",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -966,7 +966,7 @@
       "id": "873318918",
       "series_id": "873318756",
       "title": "Ffasiwn Drefn - Cyfres 2",
-      "date_broadcast": "2025-04-17 12:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "352",
+      "days_to_expire": "351",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "664",
+      "days_to_expire": "663",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed. ",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1977,25 +1977,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "130",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": "2025-05-03 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "124",
       "series_title": null,
@@ -2012,6 +1993,25 @@
       "series_id": null,
       "title": "Strip",
       "date_broadcast": "2025-04-26 21:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "130",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": "2025-05-03 23:00:00",
       "vs": "0"
     },
     {
@@ -2129,22 +2129,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
-      "thumbnail_url": "Wrecsam_Clwb_Ni_2024S4C_P2-651-Edit.jpg",
-      "duration": "47",
+      "thumbnail_url": "Wrescam_Clwb_Ni_2024S4C_P3-337-Edit.jpg",
+      "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Byddwn ni'n dilyn ffans Wrecsam wrth i'r tymor newydd gychwyn yn Awst 2023 gyda'r tîm nawr mewn cynghrair uwch, yr English League 2. Mae'r ddinas a'r clwb yn parhau i fod ar ben y byd, ond, d'yw newid ddim wastad yn hawdd, mae na densiynau rhwng y cefnogwyr newydd a'r rhai mwy hir-dymor. Daw Santa yn gynnar i ffans Wrecsam wrth iddynt guro Newport County ddeuddydd cyn y Nadolig. ",
-      "clic_aired": "15 Mai 2025",
+      "full_billing": "Mae Waynne Phillips yn gyn chwaraewr ac un o sêr Wrecsam yn y nawdegau. Yn y raglen yma byddwn ni'n ymuno a Waynne wrth iddo rannu ei ddefod lwc dda a'i deimladau am y clwb yn ystod y cyfnod cyffrous yma. Mae tîm y merched hefyd yn mynd o nerth i nerth ar y Cae Ras ac oddi cartref. Hefyd, byddwn ni'n cyfarfod Liam Stokes-Massey, artist sydd yn dathlu'r clwb a'i llwyddiant gyda'i furluniau anhygoel. ",
+      "clic_aired": "21 Mai 2025",
       "fav_id": "892004623",
-      "id": "876402453",
+      "id": "876402474",
       "series_id": "876402423",
       "title": "Wrecsam...Clwb Ni! - Cyfres 2",
-      "date_broadcast": "2025-05-14 23:20:00",
+      "date_broadcast": "2025-05-21 22:35:00",
       "vs": "0"
     },
     {
