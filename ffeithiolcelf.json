@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "4",
-      "days_to_expire": "100",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "67",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883265171",
       "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "100",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -439,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio gyda'r cogydd, Colleen Ramsey.",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "85",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -1024,6 +1005,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-05-25 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "85",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Y Byd ar Bedwar - Cyfres 2024-25",
       "programme_title": "Elw Gwyrdd?",
       "short_billing": "Ymchwiliad i gwmni Consumer Energy Solutions o Abertawe. Clywn gan gwsmeriaid a chyn-weithwyr anhapus sy'n dweud bod y cwmni, sy'n derbyn grantiau eco Llywodraeth y DU, yn difetha cartrefi ac yn cymryd mantais o'r system. Gyda'r seren rygbi, Jonathan Davies, yn wyneb i'r cwmni, ry'n ni'n gofyn pwy sy'n talu'r pris wrth inni geisio bod yn wyrdd'",
