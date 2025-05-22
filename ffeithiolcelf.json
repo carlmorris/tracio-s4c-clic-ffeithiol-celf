@@ -876,7 +876,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Efaciwîs",
       "programme_title": "Plant y Rhyfel",
       "short_billing": "Cyfres newydd yn edrych ar brofiad efaciwîs yng Nghymru, a'n hanes fel gwlad sydd wedi cynnig lloches i bobl sy'n ddigartref achos rhyfel. ",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn: Bydd Meinir yn ymweld â rali CFFI Sir Gaerfyrddin, mae gan Nia'r diweddaraf ynglyn a'r cytundeb tollau rhwng America a'r Deyrnas Unedig, ac Alun fydd yn blasu rum go wahanol i'r arfer.",
-      "clic_aired": "19 Mai 2025",
-      "fav_id": "533250950",
-      "id": "946348619",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-05-25 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "84",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn: Bydd Meinir yn ymweld â rali CFFI Sir Gaerfyrddin, mae gan Nia'r diweddaraf ynglyn a'r cytundeb tollau rhwng America a'r Deyrnas Unedig, ac Alun fydd yn blasu rum go wahanol i'r arfer.",
+      "clic_aired": "19 Mai 2025",
+      "fav_id": "533250950",
+      "id": "946348619",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-05-25 17:35:00",
       "vs": "0"
     },
     {
@@ -1065,22 +1065,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Gerddi Cymru - Cyfres 1",
-      "programme_title": "Gerddi Castell Powis a Gardd Goedwig Penllergare",
+      "programme_title": "Erddig",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
-      "thumbnail_url": "Gerddi_Cymru_2015S4C_P2_Powis_005.jpg",
+      "thumbnail_url": "Gerddi_Cymru_2015S4C_P3_Erddig_003.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfle arall i ymuno ag Aled Samuel wrth iddo ymweld â Chastell Powis a gardd goedwig Penllergare.",
-      "clic_aired": "15 Mai 2025",
+      "full_billing": "Cyfle arall i ymuno ag Aled Samuel wrth iddo ymweld ag Erddig.",
+      "clic_aired": "22 Mai 2025",
       "fav_id": "537401297",
-      "id": "527532270",
+      "id": "527532288",
       "series_id": "527532245",
       "title": "Gerddi Cymru - Cyfres 1",
-      "date_broadcast": "2025-05-15 13:30:00",
+      "date_broadcast": "2025-05-22 13:30:00",
       "vs": "0"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 3",
       "short_billing": "I orffen y gyfres, mae Jason yn profi awyrgylch unigryw diwrnod gêm mewn stadiymau sy'n amrywio o'r hanesyddol i'r gwirioneddol eiconig, gan gynnwys Cae Ras Wrecsam, Stadiwm Brandywell yn Derry, Arena Hangzhou yn Tsieina a Stadiwm Azteca yn Ninas Mecsico.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ty Am Ddim - Cyfres 3",
       "programme_title": "Abertawe",
       "short_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": null,
       "programme_title": "Yn ôl i Midffild",
       "short_billing": "Noson o hel atgofion a mwynhau clipiau bythgofiadwy o'r gyfres C'mon Midffîld yng nghwmni John Pierce Jones, Bryn Fôn, Sian Wheldon a Llion Williams. Recordiwyd y digwyddiad o flaen cynulleidfa fyw yng Nghaernarfon, gyda Dylan Ebenezer yn reff swyddogol ar y noson i gadw trefn ar y criw.",
