@@ -154,7 +154,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -818,22 +818,22 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
+      "count": "2",
+      "days_to_expire": "149",
       "series_title": "Der' Dramor 'Da Fi!",
-      "programme_title": "Barcelona",
+      "programme_title": "Gwlad Belg",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
-      "thumbnail_url": "Der_Dramor_Da_Fi_2023S4C_Barca_00714-2.jpg",
+      "thumbnail_url": "Der_Dramor_Da_Fi_2023S4C_Gwlad_Belg_00880-2.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i Barcelona. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. ",
-      "clic_aired": "16 Mai 2025",
+      "full_billing": "Ma' pedwar person sydd erioed wedi cwrdd yn teithio dramor i Wlad Belg. Pob un wedi trefnu eu diwrnod delfrydol nhw ar y gwyliau, o weithgaredd, i fwyd, hyd yn oed llety. Bydd pob dewis yn cael i'w sgorio, gyda'r enillydd yn cipio gwobr o £1000. \r\n \r\n ",
+      "clic_aired": "23 Mai 2025",
       "fav_id": "860366074",
-      "id": "860366095",
+      "id": "860366169",
       "series_id": "860366074",
       "title": "Der' Dramor 'Da Fi!",
-      "date_broadcast": "2025-05-16 22:40:00",
+      "date_broadcast": "2025-05-23 22:35:00",
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "350",
+      "days_to_expire": "349",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "662",
+      "days_to_expire": "661",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1764,7 +1764,7 @@
       "id": "871178418",
       "series_id": "871178255",
       "title": "Priodas Pum Mil - Cyfres 7",
-      "date_broadcast": "2025-04-19 22:15:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
