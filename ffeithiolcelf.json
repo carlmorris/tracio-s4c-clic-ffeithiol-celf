@@ -192,7 +192,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Traeth Niwgwl i Rhoscrowther",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Grove Arberth",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -957,16 +957,16 @@
       "programme_title": "Bore Mawrth o'r Urdd",
       "short_billing": "Cystadlaethau plant hyn yr ysgolion cynradd o'r pafiliynau coch, gwyn a gwyrdd, ynghyd a'r canlyniadau diweddaraf o Lwyfan y Cyfrwy gyda Mari Lovgreen. ",
       "thumbnail_url": "Eisteddfod_yr_Urdd_2025S4C_Brand_logo_099.jpg",
-      "duration": "199",
+      "duration": "76",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Gweddill cystadlaethau plant iau'r ysgolion cynradd, yng nghwmni Trystan Ellis Morris ac Heledd Cynwal. Heb anghofio Alun Williams yn crwydro'r maes ar barc gwledig Margam.",
+      "full_billing": "Uchafbwyntiau Dydd Llun Eisteddfod yr Urdd Dur a Môr 2025, a Lily Beau sy'n crwydro'r maes. ",
       "clic_aired": "26 Mai 2025",
       "fav_id": "534519556",
-      "id": "946660306",
+      "id": "946660313",
       "series_id": "946660273",
       "title": "Eisteddfod yr Urdd 2025",
-      "date_broadcast": "2025-05-26 14:30:00",
+      "date_broadcast": "2025-05-26 23:30:00",
       "vs": "0"
     },
     {
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "79",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Ffermio",
@@ -1024,6 +1005,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-06-07 11:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "79",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Pen Llyn Harri Parri",
       "programme_title": "Pwllheli",
       "short_billing": "Cyfle i grwydro Pen Llyn yng nghwmni'r awdur a'r gweinidog Harri Parri wrth iddo deithio drwy fro ei febyd",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonathan Davies",
       "short_billing": "Yn y gyfres yma y cyn-beldroediwr proffesiynol Owain Tudur Jones fydd yn cwrdd â rhai o wynebau mwyaf amlwg y byd chwaraeon yng Nghymru a thu hwnt.",
