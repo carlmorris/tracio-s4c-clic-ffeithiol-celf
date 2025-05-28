@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "Selebs!",
       "short_billing": "Yn y rhifyn arbennig yma, fe fydd y newyddiadurwr Guto Harri, y rapiwr a'r cyflwynydd Dom James, y cyflwynwraig Sian Thomas a'r perfformwraig Tara Bethan yn arwain teithiau personnol er mwyn ceisio ennill mil o bunnoedd i elusen o'u dewis. ",
@@ -230,7 +230,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Eco-gyfeillgar",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar wahanol fathau o gartrefi yng Nghymru.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey - mae bywyd a bwyd yn dod law yn llaw i Colleen. ",
@@ -648,7 +648,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Cyfres am arddio a'r awyr iach yng nghwmni'r arbenigwyr. ",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "85",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "116",
       "series_title": "Pawb a'i Farn",
@@ -1613,6 +1594,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "85",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "John & Becky",
       "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn helpu cyplau Cymreig i briodi ar gyllideb y sioe o £5,000.",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Derwen Newydd",
       "short_billing": "Cyfres lle bydd timoedd o gymunedau yn ymgymryd â phrosiect adeiladu ac adnewyddu bydd yn fuddiol i'w cymuned neu eu hardal.",
@@ -1844,25 +1844,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Sgwrs Dan y Lloer - Cyfres 6",
-      "programme_title": "Noel Thomas",
-      "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2024S4C_P5_Noel_Thomas_00014.jpg",
-      "duration": "46",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Elin Fflur bydd yn Sgwrsio dan olau'r lloer gyda'r cyn is-bostfeistr, Noel Thomas, fe aeth i'r carchar, a fe gollodd bopeth.",
-      "clic_aired": "29 Rhagfyr 2024",
-      "fav_id": "819088838",
-      "id": "897361115",
-      "series_id": "895902884",
-      "title": "Sgwrs Dan y Lloer - Cyfres 6",
-      "date_broadcast": "2025-05-20 22:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "82",
       "series_title": "Sgwrs dan y Lloer - Cyfres 3",
@@ -1939,25 +1920,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "118",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": "2025-04-26 21:05:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "123",
       "series_title": "Strip",
@@ -1974,6 +1936,25 @@
       "series_id": "911821090",
       "title": "Strip",
       "date_broadcast": "2025-05-03 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "118",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
+      "title": "Strip",
+      "date_broadcast": "2025-04-26 21:05:00",
       "vs": "0"
     },
     {
@@ -2187,7 +2168,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
@@ -2225,7 +2206,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Y Fets - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae'r camerâu nôl unwaith eto yn Ystwyth Fets, Aberystwyth. Ers canrif a mwy, mae'r milfeddygon wedi bod yn trin anifeiliaid Ceredigion. ",
@@ -2301,7 +2282,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
