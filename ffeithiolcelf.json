@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "60",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "93",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883275146",
       "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "60",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -249,7 +249,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": null,
       "short_billing": "Scott Quinnell sy'n mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
@@ -477,7 +477,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 2",
       "programme_title": "Creu Atgofion",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn y gyfres yma mae'n edrych ar sut mae bwyd yn medru ail-ddeffro hen atgofion. Yma mae Colleen yn creu ryseitiau i greu atgofion newydd i'r teulu.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "2. Wicklow- Sir Benfro",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -952,7 +952,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Ffasiwn Drefn - Cyfres 2",
       "programme_title": null,
       "short_billing": "Yn y gyfres hon bydd y cyflwynydd Lara Catrin a'r trefnydd proffesiynol Gwenan Rosser yn rhoi trefn ar gypyrddau dillad a llofftydd ar hyd a lled Cymru.",
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "85",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "116",
       "series_title": "Pawb a'i Farn",
@@ -1613,6 +1594,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-04-24 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "85",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -1939,25 +1939,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "123",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": "2025-05-03 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "118",
       "series_title": null,
@@ -1974,6 +1955,25 @@
       "series_id": null,
       "title": "Strip",
       "date_broadcast": "2025-04-26 21:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "123",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": "2025-05-03 23:00:00",
       "vs": "0"
     },
     {
@@ -2243,7 +2243,7 @@
       "vs": "0"
     },
     {
-      "count": "9",
+      "count": "8",
       "days_to_expire": "63",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
