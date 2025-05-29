@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio gyda'r cogydd, Colleen Ramsey.",
@@ -932,7 +932,7 @@
       "vs": "0"
     },
     {
-      "count": "19",
+      "count": "20",
       "days_to_expire": "149",
       "series_title": "Eisteddfod yr Urdd 2025",
       "programme_title": "Bore Iau o'r Urdd",
@@ -1559,25 +1559,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "115",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
-      "clic_aired": "24 Ebrill 2025",
-      "fav_id": "525516112",
-      "id": "946446633",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "84",
       "series_title": "Pawb a'i Farn",
@@ -1592,6 +1573,25 @@
       "fav_id": "525516112",
       "id": "946267701",
       "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "115",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, rydym yng Ngwersyll yr Urdd, Glan-llyn, yn y Bala. Ar y panel, bydd Mabon ap Gwynfor, Plaid Cymru; Joanna Stallard ar ran Llafur Cymru; yr Economegydd Dr Edward Jones; ac Is-gadeirydd yr Urdd, Mari Emlyn. Ar yr agenda, mae tariffau, ail-gartrefi, treth y cyngor, a diffyg cyfleon i bobl ifanc. ",
+      "clic_aired": "24 Ebrill 2025",
+      "fav_id": "525516112",
+      "id": "946446633",
+      "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
       "vs": "0"
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Y Byd ar Bedwar - Cyfres 2024-25",
       "programme_title": "Elw Gwyrdd?",
       "short_billing": "Ymchwiliad i gwmni Consumer Energy Solutions o Abertawe. Clywn gan gwsmeriaid a chyn-weithwyr anhapus sy'n dweud bod y cwmni, sy'n derbyn grantiau eco Llywodraeth y DU, yn difetha cartrefi ac yn cymryd mantais o'r system. Gyda'r seren rygbi, Jonathan Davies, yn wyneb i'r cwmni, ry'n ni'n gofyn pwy sy'n talu'r pris wrth inni geisio bod yn wyrdd'",
