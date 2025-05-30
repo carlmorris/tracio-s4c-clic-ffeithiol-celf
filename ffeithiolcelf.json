@@ -211,7 +211,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Lloegr",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -724,7 +724,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": null,
       "programme_title": "DRYCH: Meddwl yn Wahanol",
       "short_billing": "Mae'r seiciatrydd Dr Olwen Payne yn gofyn os yw iaith a diwylliant yn llywio ein profiad o iechyd meddwl yng Nghymru. Taith bersonol a chraffus i ymchwilio'r nodweddion Cymreig unigryw a all fod yn ddylanwad ar salwch meddwl yn ein cymdeithas ni.",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar Ffermio nos Lun bydd Meinir yn Digwyddiad Defaid NSA Cymru, bydd Alun yn dod i wybod mwy am gynllun 'Ffermio Bro' a bydd Megan yn gweld pwysigrwydd arbrofi gyda choed.",
-      "clic_aired": "26 Mai 2025",
-      "fav_id": "533250950",
-      "id": "946348626",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-07 11:45:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "76",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar Ffermio nos Lun bydd Meinir yn Digwyddiad Defaid NSA Cymru, bydd Alun yn dod i wybod mwy am gynllun 'Ffermio Bro' a bydd Megan yn gweld pwysigrwydd arbrofi gyda choed.",
+      "clic_aired": "26 Mai 2025",
+      "fav_id": "533250950",
+      "id": "946348626",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-07 11:45:00",
       "vs": "0"
     },
     {
