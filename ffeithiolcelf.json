@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Agor y Clo",
       "programme_title": "Glenys Evans- Offer Meddygol",
       "short_billing": "Rhaglenni byr am eitemau sy'n golygu llawr i amryw bobl.",
@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Am Dro! Ar Lan y Mor",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -158,17 +158,17 @@
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres:Amour & Mynydd 4",
       "short_billing": "Ym mhennod un o'r gyfres garu newydd, Elin Fflur sy'n croesawu 8 unigolyn sengl i Ffrainc i ffeindio cariad. ",
-      "thumbnail_url": "Amour_a_Mynydd_2025S4C_P4_099.jpg",
-      "duration": "47",
+      "thumbnail_url": "Apres_Amour_a_Mynydd_2025S4C_001.jpg",
+      "duration": "29",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae cyfnod y criw yn Chalet Amour a Mynydd yn dod i ben, ac mae Sion a Nicola, y ddau aelod newydd, yn trefnu det yn y twba twym. Mae pawb yn gwynebu her bersonol drwy ddringo twr ia ucha' Ffrainc. Mae Gerallt a Catrin yn gorfod gwneud penderfyniad ar le i fynd a'u perthyans ar ol mynd gartref.",
+      "full_billing": "Fodlediad yn trafod bob dim yn ymwneud ag Amour & Mynydd.",
       "clic_aired": "22 Ionawr 2025",
       "fav_id": "884734211",
-      "id": "884740749",
+      "id": "918763598",
       "series_id": "884740681",
       "title": "Amour & Mynydd",
-      "date_broadcast": "2025-05-29 22:40:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": null,
       "programme_title": "Efengylwyr...Oes Atgyfodiad?",
       "short_billing": "Ar drothwy'r etholiad yn America, mae'r newyddiadurwr Maxine Hughes yn edrych ar efengyliaeth yng Nghymru ac America. Wrth iddi gymharu'r sefyllfa ar y ddwy ochr i Fôr yr Iwerydd, mae'n edrych ar beth mae'r newid yma'n ei olygu i hunaniaeth ysbrydol ein cenedl.",
@@ -932,11 +932,11 @@
       "vs": "0"
     },
     {
-      "count": "27",
+      "count": "29",
       "days_to_expire": "149",
       "series_title": "Eisteddfod yr Urdd 2025",
       "programme_title": "Bore Sadwrn o'r Urdd",
-      "short_billing": "Gweddill cystadlaethau disgyblion hyn yr ysgolion uwchradd yng nghwmni Trystan Ellis Morris ac Heledd Cynwal. Heb anghofio Alun Williams yn crwydro'r maes ar barc gwledig Margam. ",
+      "short_billing": "Cystadlaethau'r adrannau a'r aelwydydd o'r pafiliynau coch, gwyn a gwyrdd o'r maes ar barc gwledig Margam ynghyd a'r canlyniadau diweddaraf o Lwyfan y Cyfrwy gyda Mari Lovgreen. ",
       "thumbnail_url": "Eisteddfod_yr_Urdd_2025S4C_Brand_logo_099.jpg",
       "duration": "194",
       "genre": "Ffeithiol a'r Celfyddydau",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "19",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da.",
