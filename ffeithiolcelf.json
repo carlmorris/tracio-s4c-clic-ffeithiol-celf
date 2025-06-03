@@ -723,25 +723,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "49",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "122",
       "series_title": "Dan Do",
@@ -758,6 +739,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-05-06 12:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "49",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "3. Y 70au",
       "short_billing": "Mae'r pebyll a'r cabanau pren yn dal i ddisgwyl ymwelwyr sy'n cael eu saethu'n ôl i'r 70au. Beth fydd eu hatgofion' Pwy fydd y 'swogs'' A pha lys fydd yn fuddugol' ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Mae Chris 'Flamebaster' Roberts ar siwrna Scandi, yn profi ac yn coginio'r gorau o fwydydd y rhanbarth.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Y Cosmos",
       "programme_title": "Llwybr Llaethog",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
