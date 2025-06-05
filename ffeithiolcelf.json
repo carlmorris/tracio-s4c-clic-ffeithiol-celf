@@ -742,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "47",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "120",
       "series_title": "Dan Do",
@@ -777,6 +758,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-05-06 12:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "47",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
-      "clic_aired": "2 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348633",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-08 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "70",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
+      "clic_aired": "2 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348633",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-08 17:35:00",
       "vs": "0"
     },
     {
