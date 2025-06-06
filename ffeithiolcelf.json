@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "4",
-      "days_to_expire": "84",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": null,
-      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "25",
       "days_to_expire": "51",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883265171",
       "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "84",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": null,
+      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "119",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
-      "clic_aired": "6 Mai 2025",
-      "fav_id": "802081093",
-      "id": "832478819",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-05-06 12:50:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "46",
       "series_title": "Dan Do",
@@ -796,6 +777,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "119",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref teulu sydd â dylanwad Americanaidd yn Llanblethian.",
+      "clic_aired": "6 Mai 2025",
+      "fav_id": "802081093",
+      "id": "832478819",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-05-06 12:50:00",
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Ffion Dafis: Bras, Botox a'r Bleidlais",
       "short_billing": "Ganrif wedi i rai merched ennill y bleidlais am y tro cyntaf, yr actores a'r awdures Ffion Dafis sy'n mynd ar daith bersonol i weld faint sydd wedi newid i fenywod erbyn heddiw. Yn ogystal â siarad â'r menywod dylanwadol yn ei bywyd ei hun, bydd Ffion yn sgwrsio â merched ysbrydoledig o bob cwr o'r wlad er mwyn gweld faint mae cymdeithas wedi symud ymlaen.  Wrth fwrw golwg yn ôl dros rai o frwydrau mawr y mudiad hawliau merched, bydd Ffion yn myfyrio ar y brwydrau sydd dal angen eu hennill.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": null,
       "programme_title": "Ie Ie Ie",
       "short_billing": "Ar ôl taith genedlaethol lwyddiannus, dyma gyfle i wylio clipiau fideo a oedd yn rhan o gynhyrchiad Theatr Cymru o'r ddrama Ie Ie Ie gan Eleanor Bishop a Karin McCracken, addasiad gan Lily Beau ar y sgrin fach. Mae Ie Ie Ie yn ddarn pwysig o theatr sy'n cynnwys profiadau bywyd go iawn pobl ifanc heddiw drwy ffurf dogfennol. Mae'n cynnwys cyfweliadau gonest gan bobl ifanc Cymru sy'n ceisio newid y naratif o gwmpas cydsynio. Dyma archwiliad o berthnasau iach, chwant a chaniatad mewn ffordd feddylg",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Lle aeth Pawb? Merched Pop 65-75",
       "short_billing": "Rhaglen arbennig o Lle Aeth Pawb' sy'n dathlu cyfraniad merched i fyd cerddoriaeth boblogaidd Cymru'r '60au a'r '70au. Gyda chwmni recordiau Sain wedi rhyddhau casgliad o ganeuon gan artistiaid benywaidd y cyfnod, mae'r rhaglen hon yn olrhain hanes rhai o'r merched oedd yn hawlio llwyfanau ar hyd a lled Cymru a thu hwnt hanner canrif yn ôl. Am y tro cyntaf roedd merched yn darganfod eu llais a'u lle o fewn y byd adloniant poblogaidd, ond beth yw eu hanes erbyn hyn, a phwy sy'n dal i ganu' ",
@@ -1597,25 +1597,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "142",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
-      "clic_aired": "29 Mai 2025",
-      "fav_id": "525516112",
-      "id": "946446640",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-05-29 21:35:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "76",
       "series_title": "Pawb a'i Farn",
@@ -1632,6 +1613,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "142",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
+      "clic_aired": "29 Mai 2025",
+      "fav_id": "525516112",
+      "id": "946446640",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-05-29 21:35:00",
       "vs": "0"
     },
     {
