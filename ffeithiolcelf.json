@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
-      "clic_aired": "2 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348633",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-08 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "67",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
+      "clic_aired": "2 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348633",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-08 17:35:00",
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "Gwladfa: Gwilym Bowen Rhys",
       "short_billing": "Cyfres deithio newydd lle bydd y cerddor Gwilym Bowen Rhys yn ymweld â'r Wladfa ym Mhatagonia er mwyn darganfod mwy am hanes y Cymry ymfudodd yno yn 1865.",
