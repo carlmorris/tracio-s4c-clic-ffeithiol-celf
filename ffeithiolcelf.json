@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -800,7 +800,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "66",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "143",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-06-08 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "66",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "334",
+      "days_to_expire": "333",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
