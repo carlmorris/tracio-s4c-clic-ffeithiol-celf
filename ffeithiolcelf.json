@@ -970,25 +970,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
-      "clic_aired": "2 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348633",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-08 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "66",
       "series_title": "Ffermio",
@@ -1005,6 +986,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Alun fydd yn darganfod sut mae'r sychder diweddaraf wedi cael effaith ar gynlluniau un fferm yng nghanolbarth Cymru; Meinir sy'n clywed hanes un beiciwr rhyngwladol sydd wedi dilyn llwybr i fyd amaeth; a gydag Undeb Amaethwyr Cymru yn dathlu'r 70 eleni, Nia sy'n ymweld â'r cyn-lywydd, Bob Parry.",
+      "clic_aired": "2 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348633",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-08 17:35:00",
       "vs": "0"
     },
     {
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": null,
       "programme_title": "Ie Ie Ie",
       "short_billing": "Ar ôl taith genedlaethol lwyddiannus, dyma gyfle i wylio clipiau fideo a oedd yn rhan o gynhyrchiad Theatr Cymru o'r ddrama Ie Ie Ie gan Eleanor Bishop a Karin McCracken, addasiad gan Lily Beau ar y sgrin fach. Mae Ie Ie Ie yn ddarn pwysig o theatr sy'n cynnwys profiadau bywyd go iawn pobl ifanc heddiw drwy ffurf dogfennol. Mae'n cynnwys cyfweliadau gonest gan bobl ifanc Cymru sy'n ceisio newid y naratif o gwmpas cydsynio. Dyma archwiliad o berthnasau iach, chwant a chaniatad mewn ffordd feddylg",
@@ -1578,25 +1578,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "139",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
-      "clic_aired": "29 Mai 2025",
-      "fav_id": "525516112",
-      "id": "946446640",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-05-29 21:35:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "73",
       "series_title": "Pawb a'i Farn",
@@ -1613,6 +1594,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "139",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
+      "clic_aired": "29 Mai 2025",
+      "fav_id": "525516112",
+      "id": "946446640",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-05-29 21:35:00",
       "vs": "0"
     },
     {
