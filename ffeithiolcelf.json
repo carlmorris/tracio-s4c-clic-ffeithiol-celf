@@ -951,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Meinir yn ymweld â ffermwyr sydd wedi dioddef o droseddau cefn gwlad, Nia fydd yn darganfod effaith y feirws tafod glas ar sioeau amaethyddol Cymru, ac fe fydd Alun yng nghanol y gwartheg Salers.",
-      "clic_aired": "9 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348640",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-15 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "64",
       "series_title": "Ffermio",
@@ -986,6 +967,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Meinir yn ymweld â ffermwyr sydd wedi dioddef o droseddau cefn gwlad, Nia fydd yn darganfod effaith y feirws tafod glas ar sioeau amaethyddol Cymru, ac fe fydd Alun yng nghanol y gwartheg Salers.",
+      "clic_aired": "9 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348640",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-15 17:35:00",
       "vs": "0"
     },
     {
@@ -2202,6 +2202,25 @@
       "series_id": "879178476",
       "title": "Y Fets - Cyfres 6",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Y Gêm - Cyfres 2",
+      "programme_title": "Jonny Clayton",
+      "short_billing": "Yn y gyfres yma y cyn-beldroediwr proffesiynol Owain Tudur Jones fydd yn cwrdd â rhai o wynebau mwyaf amlwg y byd chwaraeon yng Nghymru a thu hwnt.",
+      "thumbnail_url": "Y_Gem_2023S4C_P3_Jonny_Clayton_008.jpg",
+      "duration": "20",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
+      "clic_aired": "10 Mehefin 2025",
+      "fav_id": "879256468",
+      "id": "876140542",
+      "series_id": "876140485",
+      "title": "Y Gêm - Cyfres 2",
+      "date_broadcast": "2025-06-12 13:00:00",
       "vs": "0"
     },
     {
