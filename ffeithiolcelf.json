@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "146",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Fe fydd Meinir yn ymweld â ffermwyr sydd wedi dioddef o droseddau cefn gwlad, Nia fydd yn darganfod effaith y feirws tafod glas ar sioeau amaethyddol Cymru, ac fe fydd Alun yng nghanol y gwartheg Salers.",
-      "clic_aired": "9 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348640",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-15 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "62",
       "series_title": "Ffermio",
@@ -1024,6 +1005,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "146",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Fe fydd Meinir yn ymweld â ffermwyr sydd wedi dioddef o droseddau cefn gwlad, Nia fydd yn darganfod effaith y feirws tafod glas ar sioeau amaethyddol Cymru, ac fe fydd Alun yng nghanol y gwartheg Salers.",
+      "clic_aired": "9 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348640",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-15 17:35:00",
       "vs": "0"
     },
     {
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Bydd y criw yn aros ym mloc Penhelyg am eu penwythnos yn yr 80au. Pa weithgareddau fydd wedi'u drefnu i'r gwersyllwyr brwd' Pa lys fydd fwyaf cystadleuol, a beth fydd eu hoff bryd bwyd o'r cyfnod'  ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Mae Chris 'Flamebaster' Roberts ar siwrna Scandi, yn profi ac yn coginio'r gorau o fwydydd y rhanbarth.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Y Cosmos",
       "programme_title": "Llwybr Llaethog",
       "short_billing": "Dewch gyda ni ar daith i'r cosmos i geisio darganfod sut mae'r bydysawd yn gweithio. ",
