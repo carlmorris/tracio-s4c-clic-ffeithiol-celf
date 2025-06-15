@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "42",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "75",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883275146",
       "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "42",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -154,7 +154,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Dwyryd i'r Bermo",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Pen Llyn Harri Parri",
       "programme_title": "Pwllheli",
       "short_billing": "Cyfle i grwydro Pen Llyn yng nghwmni'r awdur a'r gweinidog Harri Parri wrth iddo deithio drwy fro ei febyd",
