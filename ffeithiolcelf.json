@@ -363,7 +363,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Codi Hwyl America",
       "programme_title": null,
       "short_billing": "Mae'r ddau yn anelu am yr Unol Daleithiau!",
@@ -629,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -1635,25 +1635,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "132",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
-      "clic_aired": "29 Mai 2025",
-      "fav_id": "525516112",
-      "id": "946446640",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-05-29 21:35:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "66",
       "series_title": "Pawb a'i Farn",
@@ -1670,6 +1651,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "132",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
+      "clic_aired": "29 Mai 2025",
+      "fav_id": "525516112",
+      "id": "946446640",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-05-29 21:35:00",
       "vs": "0"
     },
     {
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
