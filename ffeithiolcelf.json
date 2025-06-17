@@ -230,7 +230,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Eco-gyfeillgar",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar wahanol fathau o gartrefi yng Nghymru.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey - mae bywyd a bwyd yn dod law yn llaw i Colleen. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -1027,25 +1027,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "16 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348647",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-22 17:00:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "58",
       "series_title": "Ffermio",
@@ -1062,6 +1043,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "16 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348647",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-22 17:00:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Cyfres am arddio a'r awyr iach yng nghwmni'r arbenigwyr. ",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "131",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
-      "clic_aired": "29 Mai 2025",
-      "fav_id": "525516112",
-      "id": "946446640",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-05-29 21:35:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "65",
       "series_title": "Pawb a'i Farn",
@@ -1689,6 +1670,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "131",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Pawb a'i Farn yr wythnos hon yn dod o faes Eisteddfod yr Urdd Dur a Mor ym Mharc Margam. Yn ateb cwestiynau'r gynulleidfa fydd Sioned Williams AS Plaid Cymru, Callum Higgins ar ran Llafur Cymru a'r gomediwraig Mel Owen. Sion Jenkins fydd yn llywio'r drafodaeth.    ",
+      "clic_aired": "29 Mai 2025",
+      "fav_id": "525516112",
+      "id": "946446640",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-05-29 21:35:00",
       "vs": "0"
     },
     {
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "John & Becky",
       "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn helpu cyplau Cymreig i briodi ar gyllideb y sioe o £5,000.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Cyfres lle bydd timoedd o gymunedau yn ymgymryd â phrosiect adeiladu ac adnewyddu bydd yn fuddiol i'w cymuned neu eu hardal.",
@@ -2040,16 +2040,16 @@
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd - Tafwyl.",
       "thumbnail_url": "Tafwyl_2025S4C_P10_Fleur_de_Lys_98.jpg",
-      "duration": "47",
+      "duration": "68",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol ail diwrnod Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru. Bydd perfformiadau byw o'r prif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.\n ",
+      "full_billing": "Ymunwch â Huw Stephens, Tara Bethan a Lloyd Lewis yn Tafwyl ym Mharc Bute i fwynhau set fyw Fleur de Lys.\n ",
       "clic_aired": "15 Mehefin 2025",
       "fav_id": "827646495",
-      "id": "946787807",
+      "id": "946787814",
       "series_id": "946787746",
       "title": "Tafwyl 2025",
-      "date_broadcast": "2025-06-22 16:00:00",
+      "date_broadcast": "2025-06-15 21:00:00",
       "vs": "0"
     },
     {
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Fets - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae'r camerâu nôl unwaith eto yn Ystwyth Fets, Aberystwyth. Ers canrif a mwy, mae'r milfeddygon wedi bod yn trin anifeiliaid Ceredigion. ",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
