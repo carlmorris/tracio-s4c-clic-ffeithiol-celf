@@ -1027,25 +1027,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "143",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "clic_aired": "16 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348647",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-06-22 17:30:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "52",
       "series_title": "Ffermio",
@@ -1062,6 +1043,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "143",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "clic_aired": "16 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348647",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-06-22 17:30:00",
       "vs": "0"
     },
     {
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonny Clayton",
       "short_billing": "Yn y gyfres yma y cyn-beldroediwr proffesiynol Owain Tudur Jones fydd yn cwrdd â rhai o wynebau mwyaf amlwg y byd chwaraeon yng Nghymru a thu hwnt.",
