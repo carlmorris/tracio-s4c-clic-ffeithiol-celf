@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "33",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "66",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883275146",
       "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "33",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -629,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Dan Do",
       "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
@@ -1093,7 +1093,7 @@
       "duration": "24",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfres am arddio a'r awyr iach yng nghwmni'r arbenigwyr. ",
+      "full_billing": "Draw ym Mhant y Wennol mae Meinir yn brysur yn hau er mwyn dod a lliw i'r ardd y flwyddyn nesaf, tra bod Adam yn ymuno â phlant mewn ysgol goginio yng Nghaerfyrddin i greu prydau maethlon o'r ardd. Sioned sy'n ymweld â chanolfan arddio i roi cyngor ar sut i gynllunio borderi.",
       "clic_aired": "23 Mehefin 2025",
       "fav_id": "541543795",
       "id": "887032518",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Sgwrs dan y Lloer - Cyfres 3",
       "programme_title": "Gareth Glyn",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Jason Mohammad",
       "short_billing": "Jason Mohammad fydd yn ymuno gyda Owain tro yma. Bydd digon o sypreisys ar y daith emosiynol hon wrth i Owain fynd a Jason i gyfarfod y bobl sydd wedi chwarae rhan allweddol yn ei siapio fo fel person, a helpu iddo gyrraedd ble mae o heddiw.",
