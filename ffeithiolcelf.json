@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "25",
-      "days_to_expire": "30",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Tu ôl i'r Llen",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
-      "clic_aired": "28 Chwefror 2025",
-      "fav_id": "883263612",
-      "id": "883265171",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "63",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -34,6 +15,25 @@
       "fav_id": "883263612",
       "id": "883275146",
       "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "30",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Tu ôl i'r Llen",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_Richard_Parks_Teitlau_099.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Golwg tu ôl i'r llen ar y gyfres.",
+      "clic_aired": "28 Chwefror 2025",
+      "fav_id": "883263612",
+      "id": "883265171",
+      "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
       "vs": "0"
@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -325,7 +325,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Eco-gyfeillgar",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar wahanol fathau o gartrefi yng Nghymru.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey - mae bywyd a bwyd yn dod law yn llaw i Colleen. ",
@@ -648,7 +648,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "24",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "97",
       "series_title": "Dan Do",
@@ -794,6 +775,25 @@
       "fav_id": "802081093",
       "id": "832478819",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "24",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Cyfres am arddio a'r awyr iach yng nghwmni'r arbenigwyr. ",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "John & Becky",
       "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn helpu cyplau Cymreig i briodi ar gyllideb y sioe o £5,000.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Cyfres lle bydd timoedd o gymunedau yn ymgymryd â phrosiect adeiladu ac adnewyddu bydd yn fuddiol i'w cymuned neu eu hardal.",
@@ -2097,16 +2097,16 @@
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd - Tafwyl.",
       "thumbnail_url": "Tafwyl_2025S4C_P10_Fleur_de_Lys_98.jpg",
-      "duration": "47",
+      "duration": "68",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol ail diwrnod Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru. Bydd perfformiadau byw o'r prif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.\n ",
+      "full_billing": "Ymunwch â Huw Stephens, Tara Bethan a Lloyd Lewis yn Tafwyl ym Mharc Bute i fwynhau set fyw Fleur de Lys.\n ",
       "clic_aired": "15 Mehefin 2025",
       "fav_id": "827646495",
-      "id": "946787807",
+      "id": "946787814",
       "series_id": "946787746",
       "title": "Tafwyl 2025",
-      "date_broadcast": "2025-06-22 16:00:00",
+      "date_broadcast": "2025-06-15 21:00:00",
       "vs": "0"
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Y Fets - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae'r camerâu nôl unwaith eto yn Ystwyth Fets, Aberystwyth. Ers canrif a mwy, mae'r milfeddygon wedi bod yn trin anifeiliaid Ceredigion. ",
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
