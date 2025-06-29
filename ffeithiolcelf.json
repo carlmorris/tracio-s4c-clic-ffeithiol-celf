@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "4",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
@@ -192,7 +192,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Ian 'H' Watkins",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw 'H' o'r gr&#373;p poblogaidd o'r 90au - Steps.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "245",
+      "days_to_expire": "244",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": null,
       "programme_title": "Joe Allen: Y Chwiban Olaf",
       "short_billing": "Gyda mynediad digynsail, mae'r rhaglen ddogfen ddadlennol hon yn dilyn Joe Allen drwy dymor heb ei ail - ymgyrch o rwystrau, syrpreisys, ac amser i ystyried bywyd, wrth iddo wynebu penderfyniad caletaf ei yrfa: dal ati i chwarae neu cerdded i ffwrdd. Gyda chyfweliadau pwerus ac un gêm olaf yn Abertawe, dyma chwiban olaf Joe.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Pawb a'i Farn",
       "programme_title": "Argyfwng Rygbi Cymru",
       "short_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
@@ -1844,22 +1844,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "129",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Radio Fa'ma - Cyfres 2",
-      "programme_title": "Dyffryn Aman",
-      "short_billing": "Pobol Dyffryn Aman sy'n rhannu eu straeon, ac yn agor eu calonnau wrth i Tara Bethan a Kris Hughes yrru carafan 'Radio Fa'ma' i Waun-Cae-Gurwen ar gyfer y rhaglen radio sydd hefyd yn rhaglen deledu.  ",
-      "thumbnail_url": "Radio_Fama_2024S4C_P2_Dyffryn_Aman_Katie_Yeandle_14533.jpg",
+      "programme_title": "Penrhyndeudraeth",
+      "short_billing": "Y tro hwn, mae'r ddau yn mynd i Benrhyndeudraeth i holi'r bobl leol am brofiadau sydd wedi effeithio ar eu bywydau. Tiwniwch i mewn i'r rhaglen sy'n dod o galon y gymuned. ",
+      "thumbnail_url": "Radio_Fama_2024S4C_P3_Penrhyndeudraeth_001.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Pobol Dyffryn Aman sy'n rhannu eu straeon, ac yn agor eu calonnau wrth i Tara Bethan a Kris Hughes yrru carafan 'Radio Fa'ma' i Waun-Cae-Gurwen ar gyfer y rhaglen radio sydd hefyd yn rhaglen deledu.  ",
-      "clic_aired": "8 Mehefin 2025",
+      "full_billing": "Y tro hwn, mae'r ddau yn mynd i Benrhyndeudraeth i holi'r bobl leol am brofiadau sydd wedi effeithio ar eu bywydau. Tiwniwch i mewn i'r rhaglen sy'n dod o galon y gymuned. ",
+      "clic_aired": "29 Mehefin 2025",
       "fav_id": "928556190",
-      "id": "874988427",
+      "id": "874988451",
       "series_id": "874988394",
       "title": "Radio Fa'ma - Cyfres 2",
-      "date_broadcast": "2025-06-26 18:00:00",
+      "date_broadcast": "2025-06-29 21:00:00",
       "vs": "0"
     },
     {
@@ -2034,25 +2034,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "86",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "91",
       "series_title": "Strip",
@@ -2067,6 +2048,25 @@
       "fav_id": "935463603",
       "id": "911821098",
       "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "85",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
       "title": "Strip",
       "date_broadcast": null,
       "vs": "0"
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Welsh TV broadcaster and journalist Sian Lloyd takes viewers on a powerful journey through some of Wales' dark history of crime.",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Byd yn ei Le",
       "programme_title": null,
       "short_billing": "Yn rhaglen ola'r gyfres yn fyw o'r Senedd ym Mae Caerdydd, bydd Catrin Haf Jones a'i phanel o westeion yn trafod y prif straeon o'r byd gwleidyddol a'r diweddara ar y sefyllfa yn y Dwyrain Canol. Arweinydd gr¿p y Ceidwadwyr yn y Senedd sy'n cael ei holi gyda'r Athro Richard Wyn Jones yn dadansoddi'r cyfan.",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Y Byd yn ei Le - Cyfres 2024-25",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol.",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Y Llinell Las",
       "programme_title": "Bugeilio",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
