@@ -59,7 +59,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Am Dro! - Cyfres 3",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Am Dro! Ar Lan y Mor",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "17",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "89",
       "series_title": "Dan Do",
@@ -794,6 +775,25 @@
       "fav_id": "802081093",
       "id": "832478819",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "17",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": null,
       "programme_title": "Efengylwyr...Oes Atgyfodiad?",
       "short_billing": "Ar drothwy'r etholiad yn America, mae'r newyddiadurwr Maxine Hughes yn edrych ar efengyliaeth yng Nghymru ac America. Wrth iddi gymharu'r sefyllfa ar y ddwy ochr i Fôr yr Iwerydd, mae'n edrych ar beth mae'r newid yma'n ei olygu i hunaniaeth ysbrydol ein cenedl.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "25",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da.",
