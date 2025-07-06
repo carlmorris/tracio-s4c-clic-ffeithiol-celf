@@ -591,7 +591,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Dan Do",
       "programme_title": "Ty Sara a'r Teulu-Llanfleiddan",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
@@ -989,25 +989,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "144",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar y rhaglen, fe fydd Meinir yn nigwyddiad cneifio arbennig yn Ystâd Cnewr sy'n dod â 6 cneifwr profiadol dros 60 oed ynghyd, a fydd yn cneifio yn eu tro am 8 awr i godi arian ar gyfer elusennau. Yna, fe fydd Nia yn gweld sut mae rheolau newydd Llywodraeth Cymru ar y tafod glas yn effeithio ar ffermwyr a martiau, a bydd Alun yn cwrdd ag un sy'n cofnodi bywyd cefn gwlad.",
-      "clic_aired": "30 Mehefin 2025",
-      "fav_id": "533250950",
-      "id": "946348661",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-07-06 13:30:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "39",
       "series_title": "Ffermio",
@@ -1024,6 +1005,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "144",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar y rhaglen, fe fydd Meinir yn nigwyddiad cneifio arbennig yn Ystâd Cnewr sy'n dod â 6 cneifwr profiadol dros 60 oed ynghyd, a fydd yn cneifio yn eu tro am 8 awr i godi arian ar gyfer elusennau. Yna, fe fydd Nia yn gweld sut mae rheolau newydd Llywodraeth Cymru ar y tafod glas yn effeithio ar ffermwyr a martiau, a bydd Alun yn cwrdd ag un sy'n cofnodi bywyd cefn gwlad.",
+      "clic_aired": "30 Mehefin 2025",
+      "fav_id": "533250950",
+      "id": "946348661",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-07-06 13:30:00",
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Sgwrs dan y Lloer - Cyfres 3",
       "programme_title": "Gareth Glyn",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
