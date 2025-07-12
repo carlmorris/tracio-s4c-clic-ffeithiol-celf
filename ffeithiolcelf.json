@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "4",
-      "days_to_expire": "48",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Creu",
-      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-07-24 22:35:00",
-      "vs": "0"
-    },
-    {
       "count": "16",
       "days_to_expire": "15",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "48",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Creu",
+      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-07-24 22:35:00",
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Lloegr",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": null,
       "programme_title": "DRYCH: Meddwl yn Wahanol",
       "short_billing": "Mae'r seiciatrydd Dr Olwen Payne yn gofyn os yw iaith a diwylliant yn llywio ein profiad o iechyd meddwl yng Nghymru. Taith bersonol a chraffus i ymchwilio'r nodweddion Cymreig unigryw a all fod yn ddylanwad ar salwch meddwl yn ein cymdeithas ni.",
@@ -2145,6 +2145,25 @@
       "series_id": "873597678",
       "title": "Troseddau Cymru Gyda Sian Lloyd",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
+      "programme_title": "Castell Penrhyn",
+      "short_billing": "Cyfres am y straeon sy'n cuddio o fewn ein tai hynafol, a chyfle i gwestiynu eu gorffennol - y da a'r drwg. ",
+      "thumbnail_url": "Trysorau_Cymru_Tir_Tai_Cyfrinachau_2020S4C_Penrhyn.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tai crand a chestyll mawreddog, sy'n llawn hanes a thrysorau. Adeiladau sy'n dal i sefyll - diolch i'r Ymddiriedolaeth Genedlaethol. Ond yn ystod y cyfnod clo mae'r llefydd anhygoel yma wedi gorfod cau eu drysau i ymwelwyr, tan rwan, gan fod yr Ymddiriedolaeth wedi rhoi caniatad arbennig i Tudur Owen a'r pensaer Elinor Gray-Williams mynd i fewn i'r adeiladau i ddarganfod eu cyfrinachau. Yn y rhaglen gyntaf, Castell Penrhyn sy'n cael eu sylw - adeilad dadleuol sy'n creu argraff mewn sawl ffordd.",
+      "clic_aired": "12 Gorffennaf 2025",
+      "fav_id": "810588880",
+      "id": "810188695",
+      "series_id": "810188688",
+      "title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
+      "date_broadcast": "2025-07-12 10:55:00",
       "vs": "0"
     },
     {
