@@ -97,7 +97,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -662,7 +662,7 @@
       "id": "891691176",
       "series_id": "891691098",
       "title": "Cynefin",
-      "date_broadcast": "2025-06-08 10:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -761,25 +761,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
-      "clic_aired": "11 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478891",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-07-11 15:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "9",
       "series_title": "Dan Do",
@@ -796,6 +777,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
+      "clic_aired": "11 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478891",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-07-11 15:40:00",
       "vs": "0"
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "300",
+      "days_to_expire": "299",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1536,7 +1536,7 @@
       "id": "894805158",
       "series_id": null,
       "title": "Joe Allen: Y Chwiban Olaf",
-      "date_broadcast": "2025-06-08 20:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1669,7 +1669,7 @@
       "id": "846120966",
       "series_id": "846120847",
       "title": "Nôl i'r Gwersyll",
-      "date_broadcast": "2025-06-08 09:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1863,22 +1863,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "135",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
-      "short_billing": "Mae triawd o'r pobyddion yn mynd ar helfa drysor cyn mynd ati i greu cacen newydd yng nghegin yr Academi.",
+      "short_billing": "Mae tri pobydd yn chwilio am gynhwysion ar dir Melin Llynon cyn creu cacennau yng nghegin yr Academi.",
       "thumbnail_url": "Rich_Holt_Academi_Felys_2021S4C_8988-Edit.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae triawd o'r pobyddion yn mynd ar helfa drysor cyn mynd ati i greu cacen newydd yng nghegin yr Academi.",
-      "clic_aired": "28 Mehefin 2025",
+      "full_billing": "Mae tri pobydd yn chwilio am gynhwysion ar dir Melin Llynon cyn creu cacennau yng nghegin yr Academi.",
+      "clic_aired": "12 Gorffennaf 2025",
       "fav_id": "843448574",
-      "id": "824628983",
+      "id": "824629005",
       "series_id": "824628952",
       "title": "Richard Holt: Yr Academi Felys -1",
-      "date_broadcast": "2025-07-01 13:00:00",
+      "date_broadcast": "2025-07-15 13:00:00",
       "vs": "0"
     },
     {
