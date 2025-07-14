@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Am Dro! - Cyfres 3",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Am Dro! Ar Lan y Mor",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "146",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
-      "clic_aired": "11 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478891",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-07-11 15:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "8",
       "series_title": "Dan Do",
@@ -853,6 +834,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "146",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
+      "clic_aired": "11 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478891",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-07-11 15:40:00",
       "vs": "0"
     },
     {
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": null,
       "programme_title": "Efengylwyr...Oes Atgyfodiad?",
       "short_billing": "Ar drothwy'r etholiad yn America, mae'r newyddiadurwr Maxine Hughes yn edrych ar efengyliaeth yng Nghymru ac America. Wrth iddi gymharu'r sefyllfa ar y ddwy ochr i Fôr yr Iwerydd, mae'n edrych ar beth mae'r newid yma'n ei olygu i hunaniaeth ysbrydol ein cenedl.",
@@ -1901,13 +1901,13 @@
       "vs": "0"
     },
     {
-      "count": "26",
+      "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cartref i ddewis llyfr da.",
       "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "0",
+      "duration": "42",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Heddiw, byddwn ni'n pori drwy'r papurau a straeon y dydd. Mae Elwen yma'n y gegin yn paratoi salad gyda chig oen, ac fe gewn ni fwy o hanes Eisteddfod Ryngwladol Llangollen. ",
