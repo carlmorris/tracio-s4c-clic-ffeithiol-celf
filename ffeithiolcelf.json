@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Am Dro! - Cyfres 3",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -131,25 +131,6 @@
       "series_id": "810075019",
       "title": "Am Dro! - Cyfres 3",
       "date_broadcast": "2025-06-29 14:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Am Dro! - Cyfres 4",
-      "programme_title": "Am Dro! Ar Lan y Mor",
-      "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
-      "thumbnail_url": "Am_Dro_2021S4C_P1_Ar_Lan_y_Mor_2100.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o'r gyfres fel rhan o Wythnos Traethau S4C, lle cawn ein tywys ar hyd pedair taith arfordirol ddifyr. Pwy o'r gr¿p fydd â'r wibdaith fwyaf cofiadwy, y picnic mwyaf blasus a'r ffeithiau mwyaf diddorol' Diane Roberts o Borthaethwy, Larissa Armitt o Abersoch, Paul Davies o Bognor Regis (ond o'r Rhondda'n wreiddiol), a Dewi Edwards o Lanilltud Fawr yw'r pedwar bydd yn mynd benben am y cyfle i ennill £1,000.",
-      "clic_aired": "15 Chwefror 2025",
-      "fav_id": "809997292",
-      "id": "833368972",
-      "series_id": "833368956",
-      "title": "Am Dro! - Cyfres 4",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -837,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "7",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "145",
       "series_title": "Dan Do",
@@ -872,6 +834,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-07-11 15:40:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "7",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -971,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": null,
       "programme_title": "Efengylwyr...Oes Atgyfodiad?",
       "short_billing": "Ar drothwy'r etholiad yn America, mae'r newyddiadurwr Maxine Hughes yn edrych ar efengyliaeth yng Nghymru ac America. Wrth iddi gymharu'r sefyllfa ar y ddwy ochr i Fôr yr Iwerydd, mae'n edrych ar beth mae'r newid yma'n ei olygu i hunaniaeth ysbrydol ein cenedl.",
@@ -1920,7 +1901,7 @@
       "vs": "0"
     },
     {
-      "count": "25",
+      "count": "24",
       "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": null,
