@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -776,7 +776,7 @@
       "id": "866824917",
       "series_id": "866824809",
       "title": "Cysgu o Gwmpas",
-      "date_broadcast": "2025-06-14 22:10:00",
+      "date_broadcast": "2025-07-31 12:05:00",
       "vs": "0"
     },
     {
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "5",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
-      "clic_aired": "22 Chwefror 2025",
-      "fav_id": "802081093",
-      "id": "832477762",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "144",
       "series_title": "Dan Do",
@@ -853,6 +834,25 @@
       "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": "2025-07-11 15:40:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Awen, Rhian a'r Teulu, Trefdraeth",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_Byrion_2021S4C_P3_002.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn Nhrefdraeth yn ymweld â bwthyn carreg traddodiadol Rhian Rees a'i theulu, sydd wedi cael ei adnewyddu. ",
+      "clic_aired": "22 Chwefror 2025",
+      "fav_id": "802081093",
+      "id": "832477762",
+      "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -876,7 +876,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -909,7 +909,7 @@
       "id": "533285891",
       "series_id": "533285783",
       "title": "Deuawdau Rhys Meirion",
-      "date_broadcast": "2025-07-27 13:00:00",
+      "date_broadcast": "2025-07-31 22:00:00",
       "vs": "0"
     },
     {
@@ -1175,7 +1175,7 @@
       "id": "527532342",
       "series_id": "527532245",
       "title": "Gerddi Cymru - Cyfres 1",
-      "date_broadcast": "2025-06-12 13:25:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "296",
+      "days_to_expire": "295",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1897,7 +1897,7 @@
       "id": "887530860",
       "series_id": "887530746",
       "title": "Prosiect Pum Mil - Cyfres 5",
-      "date_broadcast": "2025-06-12 15:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Aberdar",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
@@ -1935,7 +1935,7 @@
       "id": "874988499",
       "series_id": "874988394",
       "title": "Radio Fa'ma - Cyfres 2",
-      "date_broadcast": "2025-07-13 22:55:00",
+      "date_broadcast": "2025-07-31 18:00:00",
       "vs": "0"
     },
     {
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
@@ -2524,7 +2524,7 @@
       "id": "876140542",
       "series_id": "876140485",
       "title": "Y Gêm - Cyfres 2",
-      "date_broadcast": "2025-06-12 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
