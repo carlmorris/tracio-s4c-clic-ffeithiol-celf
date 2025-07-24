@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "61",
-      "series_title": "Cynefin",
-      "programme_title": "Rhosllanerchrugog",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
-      "clic_aired": "27 Ebrill 2025",
-      "fav_id": "796376120",
-      "id": "891691176",
-      "series_id": "891691098",
-      "title": "Cynefin",
-      "date_broadcast": "2025-08-07 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "29",
       "series_title": "Cynefin",
@@ -682,6 +663,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2025-07-19 16:20:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "61",
+      "series_title": "Cynefin",
+      "programme_title": "Rhosllanerchrugog",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
+      "clic_aired": "27 Ebrill 2025",
+      "fav_id": "796376120",
+      "id": "891691176",
+      "series_id": "891691098",
+      "title": "Cynefin",
+      "date_broadcast": "2025-08-07 22:30:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Dylan ar Daith",
       "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
       "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Llanberis",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Jalisa Andrews",
       "short_billing": "Elin Fflur sy'n sgwrsio gyda enwogion Cymru yn yr ardd am eu bywydau.",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Fali ar Ynys Môn yw'r alwad gynta i'r arbenigwyr John a Sïan i gwrdd â Robyn - sy'n rhedeg maes carafannau - a'i ferch Helen. Mae nhw'n awyddus i gael mwy o hanes plât i goffau llong yr Eleth, llong Taid Robyn, hen gloch oddi ar long a chasgliad eang o hen gardiau. Dyw'r gweinidog Beti Wyn o Abergwili ddim yn hoffi chwythu'i thrwmped 'i hun - yn enwedig gan nad ydi hi'n si¿r a'i trwmped a'i peidio sydd yn ei thy! Hoffai hefyd ddarganfod hanes a gwerth lamp glowyr nath hi 'i hetifeddu gan ei thad",
