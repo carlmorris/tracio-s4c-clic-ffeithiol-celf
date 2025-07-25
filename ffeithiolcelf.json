@@ -1027,25 +1027,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "132",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
-      "clic_aired": "7 Gorffennaf 2025",
-      "fav_id": "533250950",
-      "id": "946348668",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-07-13 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "20",
       "series_title": "Ffermio",
@@ -1062,6 +1043,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "132",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
+      "clic_aired": "7 Gorffennaf 2025",
+      "fav_id": "533250950",
+      "id": "946348668",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-07-13 16:50:00",
       "vs": "0"
     },
     {
