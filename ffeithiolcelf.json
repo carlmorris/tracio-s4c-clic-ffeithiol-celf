@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "27",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "19 Gorffennaf 2025",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2025-07-19 16:20:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "59",
       "series_title": "Cynefin",
@@ -701,6 +682,25 @@
       "series_id": "891691098",
       "title": "Cynefin",
       "date_broadcast": "2025-08-07 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "27",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "19 Gorffennaf 2025",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2025-07-19 16:20:00",
       "vs": "0"
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonny Clayton",
       "short_billing": "Yn y gyfres yma y cyn-beldroediwr proffesiynol Owain Tudur Jones fydd yn cwrdd â rhai o wynebau mwyaf amlwg y byd chwaraeon yng Nghymru a thu hwnt.",
