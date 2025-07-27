@@ -116,7 +116,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Am Dro! - Cyfres 3",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -420,25 +420,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "109",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Awstralia",
-      "short_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P10_Awstralia-6.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
-      "clic_aired": "16 Mehefin 2025",
-      "fav_id": "520950902",
-      "id": "875483945",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "137",
       "series_title": "Cefn Gwlad",
       "programme_title": "Rhys Griffith",
@@ -454,6 +435,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-07-27 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "109",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Awstralia",
+      "short_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P10_Awstralia-6.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
+      "clic_aired": "16 Mehefin 2025",
+      "fav_id": "520950902",
+      "id": "875483945",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "59",
-      "series_title": "Cynefin",
-      "programme_title": "Rhosllanerchrugog",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
-      "clic_aired": "27 Ebrill 2025",
-      "fav_id": "796376120",
-      "id": "891691176",
-      "series_id": "891691098",
-      "title": "Cynefin",
-      "date_broadcast": "2025-08-07 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "26",
       "series_title": "Cynefin",
@@ -701,6 +682,25 @@
       "series_id": "832949196",
       "title": "Cynefin",
       "date_broadcast": "2025-07-19 16:20:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "59",
+      "series_title": "Cynefin",
+      "programme_title": "Rhosllanerchrugog",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
+      "clic_aired": "27 Ebrill 2025",
+      "fav_id": "796376120",
+      "id": "891691176",
+      "series_id": "891691098",
+      "title": "Cynefin",
+      "date_broadcast": "2025-08-07 22:30:00",
       "vs": "0"
     },
     {
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": null,
       "programme_title": "Efengylwyr...Oes Atgyfodiad?",
       "short_billing": "Ar drothwy'r etholiad yn America, mae'r newyddiadurwr Maxine Hughes yn edrych ar efengyliaeth yng Nghymru ac America. Wrth iddi gymharu'r sefyllfa ar y ddwy ochr i Fôr yr Iwerydd, mae'n edrych ar beth mae'r newid yma'n ei olygu i hunaniaeth ysbrydol ein cenedl.",
@@ -1046,25 +1046,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "18",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "130",
       "series_title": "Ffermio",
@@ -1081,6 +1062,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-07-13 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "18",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2623,7 +2623,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "7",
       "series_title": "Yr Ynys",
       "programme_title": "Zanzibar",
