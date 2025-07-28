@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Owain, Tywysog Cymru",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P2_0005.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 2 yn adrodd stori datgan Owain Glyndwr fel Tywysog Cymru.",
-      "clic_aired": "23 Gorffennaf 2025",
-      "fav_id": "883263612",
-      "id": "883264558",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-07-23 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "32",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -74,6 +55,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-07-24 22:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Owain, Tywysog Cymru",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P2_0005.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 2 yn adrodd stori datgan Owain Glyndwr fel Tywysog Cymru.",
+      "clic_aired": "23 Gorffennaf 2025",
+      "fav_id": "883263612",
+      "id": "883264558",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-07-23 18:00:00",
       "vs": "0"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -382,7 +382,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Eco-gyfeillgar",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar wahanol fathau o gartrefi yng Nghymru.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "132",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
-      "clic_aired": "11 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478891",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-07-11 15:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "141",
       "series_title": "Dan Do",
@@ -853,6 +834,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": "2025-07-20 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "132",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
+      "clic_aired": "11 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478891",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-07-11 15:40:00",
       "vs": "0"
     },
     {
@@ -1065,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "17",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
-      "clic_aired": "17 Mawrth 2025",
-      "fav_id": "533250950",
-      "id": "890671127",
-      "series_id": "890670561",
-      "title": "Ffermio",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "129",
       "series_title": "Ffermio",
@@ -1100,6 +1081,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2025-07-13 16:50:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "17",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn cwrdd â llywydd y Sioe Frenhinol eleni ac hefyd yn edrych ar weledigaeth yr Ymddiriedolaeth Genedlaethol am y ddeng mlynedd nesaf - sy'n cynnwys dyfodol ei ffermydd. Ac fe fydd Megan yn clywed mwy am brosiect i amddiffyn ein hafonydd.",
+      "clic_aired": "17 Mawrth 2025",
+      "fav_id": "533250950",
+      "id": "890671127",
+      "series_id": "890670561",
+      "title": "Ffermio",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Mae Adam yn rhannu ei gyngor ar sut i ofalu am blanhigion yn yr ardd dros gyfnod gwyliau. Cawn glywed hanes Umar; garddwr ifanc dawnus o Abertawe, bydd Meinir yn rhoi sylw i jobsys pwysig yr wythnos, a Sioned ar grwydr wrth ddarganfod fod yr awdur Mike Parker hefyd yn arddwr brwd!",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Rhaglen drafod materion cyfoes. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Gyda chyllid o ddim ond pum mil o bunnau, mae Trystan Ellis-Morris ac Emma Walford yn derbyn her i drawsnewid Neuadd Santes Helen, Penisarwaun gyda help y dylunydd Gwyn Eiddior.",
@@ -2173,16 +2173,16 @@
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd - Tafwyl.",
       "thumbnail_url": "Tafwyl_2025S4C_P10_Fleur_de_Lys_98.jpg",
-      "duration": "48",
+      "duration": "68",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol ail diwrnod Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru. Bydd perfformiadau byw o'r prif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.\n ",
+      "full_billing": "Ymunwch â Huw Stephens, Tara Bethan a Lloyd Lewis yn Tafwyl ym Mharc Bute i fwynhau set fyw Fleur de Lys.\n ",
       "clic_aired": "15 Mehefin 2025",
       "fav_id": "827646495",
-      "id": "946787807",
+      "id": "946787814",
       "series_id": "946787746",
       "title": "Tafwyl 2025",
-      "date_broadcast": "2025-07-25 21:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Y Fets - Cyfres 2",
       "programme_title": null,
       "short_billing": "Mae'r camerâu nôl unwaith eto yn Ystwyth Fets, Aberystwyth. Ers canrif a mwy, mae'r milfeddygon wedi bod yn trin anifeiliaid Ceredigion. ",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
