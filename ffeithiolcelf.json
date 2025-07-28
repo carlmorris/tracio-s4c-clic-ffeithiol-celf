@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "145",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Owain, Tywysog Cymru",
-      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P2_0005.jpg",
-      "duration": "5",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 2 yn adrodd stori datgan Owain Glyndwr fel Tywysog Cymru.",
-      "clic_aired": "23 Gorffennaf 2025",
-      "fav_id": "883263612",
-      "id": "883264558",
-      "series_id": "883264521",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-07-23 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "32",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -74,6 +55,25 @@
       "series_id": "883275071",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-07-24 22:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "145",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Owain, Tywysog Cymru",
+      "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio dyddiau allweddol yn hanes Cymru.",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P2_0005.jpg",
+      "duration": "5",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 2 yn adrodd stori datgan Owain Glyndwr fel Tywysog Cymru.",
+      "clic_aired": "23 Gorffennaf 2025",
+      "fav_id": "883263612",
+      "id": "883264558",
+      "series_id": "883264521",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-07-23 18:00:00",
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Wystrys a Chig Eidion",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Wystrys a Chig Eidion.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno drwy edrych nol ar rai o straeon y 90au. ",
@@ -1787,25 +1787,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "24",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "146",
       "series_title": "Pawb a'i Farn",
@@ -1822,6 +1803,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-07-24 20:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "24",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Sgwrs dan y Lloer - Cyfres 3",
       "programme_title": "Gareth Glyn",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -2544,25 +2544,6 @@
       "series_id": "946864008",
       "title": "Y Sioe 2025",
       "date_broadcast": "2025-07-30 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "139",
-      "series_title": null,
-      "programme_title": "Y Sioe 2025: Sut i Wylio ",
-      "short_billing": "Dyma sut i wylio holl arlwy Y Sioe 2025.",
-      "thumbnail_url": "Y_Sioe_2025S4C_Cyfres_099.jpg",
-      "duration": "0",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dyma sut i wylio holl arlwy Y Sioe 2025.",
-      "clic_aired": "18 Gorffennaf 2025",
-      "fav_id": "947200273",
-      "id": "947200273",
-      "series_id": null,
-      "title": "Y Sioe 2025: Sut i Wylio ",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
