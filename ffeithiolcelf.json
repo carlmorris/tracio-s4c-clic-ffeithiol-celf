@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "21",
-      "series_title": "Cynefin",
-      "programme_title": "Tyddewi - Ynys Dewi",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
-      "duration": "7",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
-      "clic_aired": "19 Gorffennaf 2025",
-      "fav_id": "796376120",
-      "id": "832949244",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2025-07-19 16:20:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "54",
       "series_title": "Cynefin",
@@ -682,6 +663,25 @@
       "series_id": "891691098",
       "title": "Cynefin",
       "date_broadcast": "2025-08-07 22:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "21",
+      "series_title": "Cynefin",
+      "programme_title": "Tyddewi - Ynys Dewi",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2019-20S4C_Tyddewi_002.jpg",
+      "duration": "7",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Iestyn Jones sy'n adrodd hanes Ynys Dewi mewn Cynefin Byr.",
+      "clic_aired": "19 Gorffennaf 2025",
+      "fav_id": "796376120",
+      "id": "832949244",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2025-07-19 16:20:00",
       "vs": "0"
     },
     {
@@ -1046,25 +1046,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "125",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
-      "clic_aired": "7 Gorffennaf 2025",
-      "fav_id": "533250950",
-      "id": "946348668",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-07-13 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "13",
       "series_title": "Ffermio",
@@ -1081,6 +1062,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "125",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
+      "clic_aired": "7 Gorffennaf 2025",
+      "fav_id": "533250950",
+      "id": "946348668",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-07-13 16:50:00",
       "vs": "0"
     },
     {
@@ -1445,8 +1445,8 @@
       "vs": "0"
     },
     {
-      "count": "22",
-      "days_to_expire": "33",
+      "count": "23",
+      "days_to_expire": "34",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. ",
@@ -1454,13 +1454,13 @@
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Heno, cawn olwg ar arddangosfa newydd yr artist Angharad Pearce Jones gyda'i thad a'i mab yn Y Bala! A bydd Daf Wyn yn ymweld â Sinema hyfryd Brynaman, sydd wedi bod ar agor ers 90 mlynedd.",
-      "clic_aired": "31 Gorffennaf 2025",
+      "full_billing": "Bydd Caryl Bryn yn fyw o Wrecsam, yn barod i'n croeaswu ni i ardal y Steddfod, ac mi gewn ni flas o'r digwyddiadau sy' mlaen oddi ar y maes hefyd.",
+      "clic_aired": "1 Awst 2025",
       "fav_id": "520950912",
-      "id": "946221867",
+      "id": "946221874",
       "series_id": "946221253",
       "title": "Heno",
-      "date_broadcast": "2025-08-01 12:30:00",
+      "date_broadcast": "2025-08-01 19:00:00",
       "vs": "0"
     },
     {
