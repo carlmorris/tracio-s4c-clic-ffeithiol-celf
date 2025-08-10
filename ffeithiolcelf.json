@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "119",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
-      "clic_aired": "11 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478891",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-07-11 15:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "128",
       "series_title": "Dan Do",
@@ -891,6 +872,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": "2025-07-20 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "119",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
+      "clic_aired": "11 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478891",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2025-07-11 15:40:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1065,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "115",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
-      "clic_aired": "7 Gorffennaf 2025",
-      "fav_id": "533250950",
-      "id": "946348668",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2025-07-13 16:50:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "3",
       "series_title": "Ffermio",
@@ -1100,6 +1081,25 @@
       "series_id": "890670561",
       "title": "Ffermio",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "115",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tro hwn, fe fydd Nia yn cyfweld gyda Phrif Weithredwr newydd Hybu Cig Cymru, fe fydd Meinir ar fferm odro i glywed am lwyddiant cwmni llaeth cydweithredol sy'n mynd o nerth i nerth, ac Alun fydd yn cwrdd gyda theulu sydd wedi cael eu gwobrwyo am ffermio mewn ffordd cynaliadwy.",
+      "clic_aired": "7 Gorffennaf 2025",
+      "fav_id": "533250950",
+      "id": "946348668",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2025-07-13 16:50:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "271",
+      "days_to_expire": "270",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1460,7 +1460,7 @@
       "id": "834036241",
       "series_id": "834036078",
       "title": "Heno Aur - Cyfres 2",
-      "date_broadcast": "2025-07-07 12:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
