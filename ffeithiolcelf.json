@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "      Chwedloni",
       "programme_title": "Stori Brychan",
       "short_billing": "Straeon unigryw sy'n adlewyrchu bywyd.",
@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "24 Awr",
       "programme_title": "Gwyneth Longworth",
       "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, byddwn yn cwrdd â Gwyneth Longworth sydd yn gobeithio cael ei hyder yn ôl yn dilyn cyfres o ddigwyddiadau anodd a heriol yn ei bywyd.",
@@ -419,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "94",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Awstralia",
-      "short_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
-      "thumbnail_url": "Cefn_Gwlad_2023S4C_P10_Awstralia-6.jpg",
-      "duration": "52",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
-      "clic_aired": "16 Mehefin 2025",
-      "fav_id": "520950902",
-      "id": "875483945",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "136",
       "series_title": "Cefn Gwlad",
@@ -454,6 +435,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-08-24 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "94",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Awstralia",
+      "short_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
+      "thumbnail_url": "Cefn_Gwlad_2023S4C_P10_Awstralia-6.jpg",
+      "duration": "52",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig lle mae criw Cefn Gwlad yn teithio i Orllewin Awstralia i gwrdd â Dafydd Jones gadawodd Dwyran, Ynys Mon, 15 mlynedd yn ôl gyda dim ond £150 yn ei boced, \nOnd sydd erbyn hyn yn Rheolwr Ffarm cnydau cynaladawy enfawr dros 20,000 o erwau. Yng nghanol prysurdeb y tymor cynaeafu mae Ifan Jones Evans yn dala lan 'da Dafydd , ei bartner Sereen a'r 4 plentyn, i gael blas ar ffordd o fyw un o 'hogie ni' ym mhendraw'r byd.",
+      "clic_aired": "16 Mehefin 2025",
+      "fav_id": "520950902",
+      "id": "875483945",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Bydd Steffan Powell yn teithio rownd arfordir Cymru i ddarganfod pam fod lefelau'r môr yn codi, a bydd Steffan Griffiths yn teithio i'r Ynys Las, i weld sut mae nhw'n byw gyda newidiadau yn yr hinsawdd a chynnydd yn lefel y môr.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Cynefin",
       "programme_title": "Yr Wyddgrug - Theatr Clwyd",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -1030,16 +1030,16 @@
       "count": "31",
       "days_to_expire": "78",
       "series_title": "Eisteddfod yr Urdd 2025",
-      "programme_title": "Dros Ginio Sadwrn o'r Urdd",
+      "programme_title": "Nos Sadwrn o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2025.",
       "thumbnail_url": "Eisteddfod_yr_Urdd_2025S4C_Brand_logo_099.jpg",
-      "duration": "99",
+      "duration": "33",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cystadlaethau'r adrannau a'r aelwydydd o'r pafiliynau coch, gwyn a gwyrdd o'r maes ar barc gwledig Margam ynghyd a'r canlyniadau diweddaraf o Lwyfan y Cyfrwy gyda Mari Lovgreen. ",
+      "full_billing": "Uchafbwynt y Dydd ar faes Eisteddfod yr Urdd Dur a Môr 2025 - darllediad byw o brif Seremoni'r dydd, Y Prif Gerddor.",
       "clic_aired": "31 Mai 2025",
       "fav_id": "534519556",
-      "id": "946660467",
+      "id": "946660474",
       "series_id": "946660273",
       "title": "Eisteddfod yr Urdd 2025",
       "date_broadcast": null,
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Ffion Dafis a Gwion Hallam",
       "short_billing": "Gwyliau a gwersylla sydd wedi denu sylw Ffion Dafis a'i gwestai Gwion Hallam wrth iddyn nhw edrych ar ffilmiau o Archif Sgrin a Sain y Llyfrgell Genedlaethol. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Gerddi Cymru - Cyfres 1",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -1673,6 +1673,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Mynyddoedd y Byd",
+      "programme_title": "Yr Himalaia: Ffion Dafis",
+      "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
+      "thumbnail_url": "Mynyddoedd_y_Byd_P1_Ffion_Dafis_Himalaia_KT7C7428.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sut beth yw byw ymhlith mynyddoedd uchaf y blaned' Yr actores amryddawn Ffion Dafis sy'n teithio ar hyd lôn newydd sy'n treiddio i galon yr Himalaia. Mae cewri o fynyddoedd ar bob llaw - ond eto ydyn nhw'n ddigon mawr i wrthsefyll holl bwysau'r byd modern'",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "535000152",
+      "id": "535000160",
+      "series_id": "535000152",
+      "title": "Mynyddoedd y Byd",
+      "date_broadcast": "2025-08-11 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "85",
       "series_title": "Nôl i'r Gwersyll",
@@ -1711,25 +1730,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "144",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": null,
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
-      "duration": "51",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen drafod materion cyfoes.",
-      "clic_aired": "5 Awst 2025",
-      "fav_id": "525516112",
-      "id": "946446654",
-      "series_id": "946446628",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": "2025-08-05 21:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "10",
       "series_title": "Pawb a'i Farn",
@@ -1746,6 +1746,25 @@
       "series_id": "892228499",
       "title": "Pawb a'i Farn",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "144",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": null,
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2023S4C_teitlau_001.jpg",
+      "duration": "51",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen drafod materion cyfoes.",
+      "clic_aired": "5 Awst 2025",
+      "fav_id": "525516112",
+      "id": "946446654",
+      "series_id": "946446628",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": "2025-08-05 21:30:00",
       "vs": "0"
     },
     {
@@ -1844,7 +1863,7 @@
       "vs": "0"
     },
     {
-      "count": "16",
+      "count": "15",
       "days_to_expire": "25",
       "series_title": "Prynhawn Da",
       "programme_title": null,
@@ -2168,7 +2187,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Ty Am Ddim - Cyfres 3",
       "programme_title": "Abertawe",
       "short_billing": "Cyfres sy'n rhoi ty am ddim i ddau berson i'w adnewyddu am 6 mis.",
@@ -2472,7 +2491,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": null,
       "programme_title": "Yn ol i Midffild",
       "short_billing": "Noson o hel atgofion a mwynhau clipiau bythgofiadwy o'r gyfres C'mon Midffîld yng nghwmni John Pierce Jones, Bryn Fôn, Sian Wheldon a Llion Williams. Recordiwyd y digwyddiad o flaen cynulleidfa fyw yng Nghaernarfon, gyda Dylan Ebenezer yn reff swyddogol ar y noson i gadw trefn ar y criw.",
