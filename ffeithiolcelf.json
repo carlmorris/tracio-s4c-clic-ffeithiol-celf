@@ -39,8 +39,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "14",
+      "count": "1",
+      "days_to_expire": "13",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Am Dro!",
       "programme_title": "Am Dro Steddfod!",
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Ian 'H' Watkins",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw 'H' o'r gr&#373;p poblogaidd o'r 90au - Steps.",
@@ -420,26 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "132",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Patagonia 2025",
-      "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
-      "clic_aired": "28 Gorffennaf 2025",
-      "fav_id": "520950902",
-      "id": "942179220",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-08-24 17:35:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -454,6 +435,25 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-08-12 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "131",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Patagonia 2025",
+      "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
+      "clic_aired": "28 Gorffennaf 2025",
+      "fav_id": "520950902",
+      "id": "942179220",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-08-24 17:35:00",
       "vs": "0"
     },
     {
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Iris Williams",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "198",
+      "days_to_expire": "197",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": null,
       "programme_title": "Joe Allen: Y Chwiban Olaf",
       "short_billing": "Gyda mynediad digynsail, mae'r rhaglen ddogfen ddadlennol hon yn dilyn Joe Allen drwy dymor heb ei ail - ymgyrch o rwystrau, syrpreisys, ac amser i ystyried bywyd, wrth iddo wynebu penderfyniad caletaf ei yrfa: dal ati i chwarae neu cerdded i ffwrdd. Gyda chyfweliadau pwerus ac un gêm olaf yn Abertawe, dyma chwiban olaf Joe.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Llofruddiaeth y Bwa Croes",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Galicia",
       "short_billing": "Mae Chris 'Flamebaster' Roberts ar daith yn coginio a bwyta'i ffordd o amgylch Sbaen.",
@@ -1768,25 +1768,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "6",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "140",
       "series_title": "Pawb a'i Farn",
@@ -1803,6 +1784,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2025-08-05 21:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "5",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1940,6 +1940,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
+      "programme_title": null,
+      "short_billing": "Daw mawrion a chefnogwyr rygbi Cymru ynghyd i adrodd hanes tanllyd y gêm o 1875 hyd heddi gyda Syr Gareth Edwards, Ieuan Evans, Shane Williams, Beti George, Sioned Harries a Huw Llywelyn Davies yn rhannu straeon personol am ddylanwad y gamp ar eu bywydau.  Bydd sylw i oes aur cyntaf rygbi Cymru gyda buddugoliaeth yn erbyn y Crysau Duon yn 1905 a'r dorf yn canu Mae Hen Wlad fy Nhadau cyn y gêm am y tro cyntaf erioed.  ",
+      "thumbnail_url": "Rygbi_Cymru_Y_Gem_Yn_Y_Gwaed_2023S4C_04_edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Daw mawrion a chefnogwyr rygbi Cymru ynghyd i adrodd hanes tanllyd y gêm o 1875 hyd heddi gyda Syr Gareth Edwards, Ieuan Evans, Shane Williams, Beti George, Sioned Harries a Huw Llywelyn Davies yn rhannu straeon personol am ddylanwad y gamp ar eu bywydau.  Bydd sylw i oes aur cyntaf rygbi Cymru gyda buddugoliaeth yn erbyn y Crysau Duon yn 1905 a'r dorf yn canu Mae Hen Wlad fy Nhadau cyn y gêm am y tro cyntaf erioed.  ",
+      "clic_aired": "15 Awst 2025",
+      "fav_id": "808633285",
+      "id": "808663897",
+      "series_id": "808663884",
+      "title": "Rygbi Cymru: Y Gêm yn y Gwaed",
+      "date_broadcast": "2025-08-15 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "19",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
@@ -2035,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": null,
       "programme_title": "Strip",
       "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
@@ -2282,7 +2301,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Y Byd yn ei Le - Cyfres 2024-25",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol.",
@@ -2377,7 +2396,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Y Llinell Las",
       "programme_title": "Bugeilio",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -2396,7 +2415,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Y Sioe 2025",
       "programme_title": "Uchafbwyntiau'r Wythnos",
       "short_billing": "Cyfle i edrych nôl dros uchafbwyntiau'r wythnos o'r Sioe Fawr 2025.",
@@ -2491,7 +2510,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
