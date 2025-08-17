@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": null,
       "programme_title": "AI - Help Llaw, neu Codi Braw?",
       "short_billing": "AI - Help llaw neu Codi Braw' Yn y rhaglen hon, mae Dom yn ildio pob penderfyniad i'r robotiaid am 24 awr ¿ o'r funud mae'n codi, i dasgau creadigol¿ a hyd yn oed ei fywyd caru.\r\nA fydd Dom yn dod i weld AI fel help llaw defnyddiol' Neu a fydd y profiad yn ei wneud yn fwy amheus nag erioed'",
@@ -154,7 +154,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Ar Led",
       "programme_title": "'Kinks' & Profion STI",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -420,25 +420,6 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-08-12 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
       "days_to_expire": "130",
       "series_title": "Cefn Gwlad",
       "programme_title": "Patagonia 2025",
@@ -454,6 +435,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-08-24 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "144",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-08-12 15:05:00",
       "vs": "0"
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": null,
       "programme_title": "Colli Dy Dafod",
       "short_billing": "Katie Owen a Molly Palmer sy'n neidio yn eu fan hufen iâ i weld os yw'r iaith Gymraeg yn fyw ar strydoedd y Cymoedd. Beth yw barn y bobol' Yw'r iaith yn gaeth i'r 'stafell ddosbarth' Un peth yn sicr, mae'r ddwy yn ymfalchïo yn yr iaith ac yn barod i floeddio'u Cymreictod drwy ffenestri'r fan hufen iâ!",
@@ -685,25 +685,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "38",
-      "series_title": "Cynefin",
-      "programme_title": "Rhosllanerchrugog",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
-      "clic_aired": "27 Ebrill 2025",
-      "fav_id": "796376120",
-      "id": "891691176",
-      "series_id": "891691098",
-      "title": "Cynefin",
-      "date_broadcast": "2025-08-07 23:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "20",
       "series_title": "Cynefin",
@@ -723,8 +704,27 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "38",
+      "series_title": "Cynefin",
+      "programme_title": "Rhosllanerchrugog",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2025S4C_P4_Rhosllanerchrugog-004.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y Gogledd Ddwyrain mae Heledd Cynwal, Iestyn Jones a Ffion Dafis y tro hwn yn dod i adnabod ardal Rhosllanerchrugog ¿ cymuned gyda llawer o hanes, diwylliant a diwydiant ar y ffin rhwng Cymru a Lloegr. ",
+      "clic_aired": "27 Ebrill 2025",
+      "fav_id": "796376120",
+      "id": "891691176",
+      "series_id": "891691098",
+      "title": "Cynefin",
+      "date_broadcast": "2025-08-07 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Cynefin - Cyfres 2",
       "programme_title": "Wrecsam",
       "short_billing": "Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen sy'n mynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -762,7 +762,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "886",
+      "days_to_expire": "885",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Cyfres o ffilmiau byrion am straeon bwganod yng Nghymru.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Cyfres newydd yn edrych ar brofiad efaciwîs yng Nghymru, a'n hanes fel gwlad sydd wedi cynnig lloches i bobl sy'n ddigartref achos rhyfel. ",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "502",
+      "days_to_expire": "501",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Cyfres deithio lle mae criw o bedair yn darganfod be' sy' angen neud, gweld, a bwyta mewn amryw lefydd ar draws Ewrop.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1185",
+      "days_to_expire": "1184",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Rhaglenni amrywiol dan ymbarel Hansh.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "It's My Shout",
       "programme_title": "Teulu, Actio ac ADHD",
       "short_billing": "Dilynwn Hannah Bianchi a'i theulu wrth iddynt ddilyn eu gweithgareddau creadigol ochr yn ochr â heriau eu niwroamrywiaeth.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": null,
       "programme_title": "Molly Palmer: Endo a Fi",
       "short_billing": "Chi erioed wedi clywed am Endometriosis, neu fel y'i gelwir fwyfwy heddiw - 'Endo'' Yn y rhaglen hon, mae'r DJ a'r cyflwynydd Molly Palmer, sy'n dioddef o endo ei hun, yn darganfod mwy am y salwch hwn sy'n effeithio ar tua un o bob deg o fenywod - yr un fath â diabetes - gydag o bosib cymaint â 160,000 o bobl yng Nghymru yn unig yn byw gydag ef. Mae hi'n cwestiynu'r hyn y mae'r cyhoedd a meddygon yn ei wybod yn union amdano, ac yn trafod yr hyn sy'n cael ei wneud, y diagnosis hirfaith, y driniae",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -1764,25 +1764,6 @@
       "id": "881701242",
       "series_id": null,
       "title": "Paid a Dweud Hoyw ",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "4",
-      "series_title": "Pawb a'i Farn",
-      "programme_title": "Argyfwng Rygbi Cymru",
-      "short_billing": "Rhaglen drafod materion cyfoes. ",
-      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
-      "duration": "50",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
-      "clic_aired": "24 Mawrth 2025",
-      "fav_id": "525516112",
-      "id": "946267701",
-      "series_id": "892228499",
-      "title": "Pawb a'i Farn",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1806,6 +1787,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "4",
+      "series_title": "Pawb a'i Farn",
+      "programme_title": "Argyfwng Rygbi Cymru",
+      "short_billing": "Rhaglen drafod materion cyfoes. ",
+      "thumbnail_url": "Pawb_ai_Farn_2024-25S4C_P9_Argyfwng_Rygbi_Cymru_099.jpg",
+      "duration": "50",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gydag 17 colled o'r bron i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Mewn rhaglen arbennig o flaen cynulleidfa yn Llanelli, fe fydd Lauren Jenkins - gyda phanel yn cynnwys Shane Williams, Dr Gwyn Jones a Huw Jones, cyn-bennaeth Chwaraeon Cymru - yn holi beth yw'r ffordd ymlaen i'r gem yng Nghymru. ",
+      "clic_aired": "24 Mawrth 2025",
+      "fav_id": "525516112",
+      "id": "946267701",
+      "series_id": "892228499",
+      "title": "Pawb a'i Farn",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "57",
       "series_title": "Pen Llyn Harri Parri",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "642",
+      "days_to_expire": "641",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Cyfres am be sy'n gwneud 'scene' foduro Cymru mor gyfoethog. ",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "588",
+      "days_to_expire": "587",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cyfres o raglenni byr i gyd-fynd â Pride Cymru 2024.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Strip",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "542",
+      "days_to_expire": "541",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": null,
       "programme_title": "Y Sioe 2025: Sut i Wylio ",
       "short_billing": "Dyma sut i wylio holl arlwy Y Sioe 2025.",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": null,
       "programme_title": "Yr Argyfwng Iechyd Meddwl Mewn",
       "short_billing": "Rhaglen ddogfen lle mae'r ffarmwr, Gareth Wyn Jones, yn siarad yn agored am ei iechyd meddwl ef, a hefyd yn clywed gan ffrindiau yn y byd ffermio sy'n brwydro gyda'u hiechyd meddwl nhw.",
