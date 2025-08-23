@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "6",
-      "series_title": "24 Awr Newidiodd Gymru",
-      "programme_title": "Creu",
-      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
-      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
-      "duration": "36",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
-      "clic_aired": "1 Ebrill 2025",
-      "fav_id": "883263612",
-      "id": "883275146",
-      "series_id": "883275071",
-      "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-07-24 22:35:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "119",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -36,6 +17,25 @@
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
       "date_broadcast": "2025-07-23 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "6",
+      "series_title": "24 Awr Newidiodd Gymru",
+      "programme_title": "Creu",
+      "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
+      "thumbnail_url": "24_Awr_Newidiodd_Gymru_2025S4C_P4_Creu_0005.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
+      "clic_aired": "1 Ebrill 2025",
+      "fav_id": "883263612",
+      "id": "883275146",
+      "series_id": "883275071",
+      "title": "24 Awr Newidiodd Gymru",
+      "date_broadcast": "2025-07-24 22:35:00",
       "vs": "0"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "AI - Help Llaw, neu Codi Braw?",
       "short_billing": "AI - Help llaw neu Codi Braw' Yn y rhaglen hon, mae Dom yn ildio pob penderfyniad i'r robotiaid am 24 awr ¿ o'r funud mae'n codi, i dasgau creadigol¿ a hyd yn oed ei fywyd caru.\r\nA fydd Dom yn dod i weld AI fel help llaw defnyddiol' Neu a fydd y profiad yn ei wneud yn fwy amheus nag erioed'",
@@ -135,7 +135,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Ar Led",
       "programme_title": "'Kinks' & Profion STI",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": null,
       "programme_title": "Colli Dy Dafod",
       "short_billing": "Katie Owen a Molly Palmer sy'n neidio yn eu fan hufen iâ i weld os yw'r iaith Gymraeg yn fyw ar strydoedd y Cymoedd. Beth yw barn y bobol' Yw'r iaith yn gaeth i'r 'stafell ddosbarth' Un peth yn sicr, mae'r ddwy yn ymfalchïo yn yr iaith ac yn barod i floeddio'u Cymreictod drwy ffenestri'r fan hufen iâ!",
@@ -724,7 +724,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Cynefin - Cyfres 2",
       "programme_title": "Wrecsam",
       "short_billing": "Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen sy'n mynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -762,7 +762,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "880",
+      "days_to_expire": "879",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Cyfres o ffilmiau byrion am straeon bwganod yng Nghymru.",
@@ -856,25 +856,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "107",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
-      "clic_aired": "11 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478891",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "116",
       "series_title": "Dan Do",
@@ -891,6 +872,25 @@
       "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": "2025-07-20 11:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "107",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eiluned a Dafydd- Llandeilo",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â hen gartref Twm o'r Nant yn Llandeilo, sydd bellach yn berchen i Eiluned a Dafydd. ",
+      "clic_aired": "11 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478891",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Cyfres newydd yn edrych ar brofiad efaciwîs yng Nghymru, a'n hanes fel gwlad sydd wedi cynnig lloches i bobl sy'n ddigartref achos rhyfel. ",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "496",
+      "days_to_expire": "495",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Cyfres deithio lle mae criw o bedair yn darganfod be' sy' angen neud, gweld, a bwyta mewn amryw lefydd ar draws Ewrop.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1179",
+      "days_to_expire": "1178",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Rhaglenni amrywiol dan ymbarel Hansh.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "It's My Shout",
       "programme_title": "Teulu, Actio ac ADHD",
       "short_billing": "Dilynwn Hannah Bianchi a'i theulu wrth iddynt ddilyn eu gweithgareddau creadigol ochr yn ochr â heriau eu niwroamrywiaeth.",
@@ -1654,25 +1654,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": null,
-      "programme_title": "Molly Palmer: Endo a Fi",
-      "short_billing": "Chi erioed wedi clywed am Endometriosis, neu fel y'i gelwir fwyfwy heddiw - 'Endo'' Yn y rhaglen hon, mae'r DJ a'r cyflwynydd Molly Palmer, sy'n dioddef o endo ei hun, yn darganfod mwy am y salwch hwn sy'n effeithio ar tua un o bob deg o fenywod - yr un fath â diabetes - gydag o bosib cymaint â 160,000 o bobl yng Nghymru yn unig yn byw gydag ef. Mae hi'n cwestiynu'r hyn y mae'r cyhoedd a meddygon yn ei wybod yn union amdano, ac yn trafod yr hyn sy'n cael ei wneud, y diagnosis hirfaith, y driniae",
-      "thumbnail_url": "Molly_Palmer_Endo_a_Fi_2025S4C_05-Edit2.jpg",
-      "duration": "22",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Chi erioed wedi clywed am Endometriosis, neu fel y'i gelwir fwyfwy heddiw - 'Endo'' Yn y rhaglen hon, mae'r DJ a'r cyflwynydd Molly Palmer, sy'n dioddef o endo ei hun, yn darganfod mwy am y salwch hwn sy'n effeithio ar tua un o bob deg o fenywod - yr un fath â diabetes - gydag o bosib cymaint â 160,000 o bobl yng Nghymru yn unig yn byw gydag ef. Mae hi'n cwestiynu'r hyn y mae'r cyhoedd a meddygon yn ei wybod yn union amdano, ac yn trafod yr hyn sy'n cael ei wneud, y diagnosis hirfaith, y driniae",
-      "clic_aired": "26 Mawrth 2025",
-      "fav_id": "542242914",
-      "id": "895483636",
-      "series_id": null,
-      "title": "Molly Palmer: Endo a Fi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "145",
       "series_title": "Mynyddoedd y Byd",
@@ -1712,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -1769,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "636",
+      "days_to_expire": "635",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Cyfres am be sy'n gwneud 'scene' foduro Cymru mor gyfoethog. ",
@@ -1788,7 +1769,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "582",
+      "days_to_expire": "581",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cyfres o raglenni byr i gyd-fynd â Pride Cymru 2024.",
@@ -1997,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "Strip",
       "programme_title": "Pennod 1",
       "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
@@ -2054,7 +2035,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "536",
+      "days_to_expire": "535",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2358,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": null,
       "programme_title": "Y Sioe 2025: Sut i Wylio ",
       "short_billing": "Dyma sut i wylio holl arlwy Y Sioe 2025.",
@@ -2434,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": null,
       "programme_title": "Yr Argyfwng Iechyd Meddwl Mewn",
       "short_billing": "Rhaglen ddogfen lle mae'r ffarmwr, Gareth Wyn Jones, yn siarad yn agored am ei iechyd meddwl ef, a hefyd yn clywed gan ffrindiau yn y byd ffermio sy'n brwydro gyda'u hiechyd meddwl nhw.",
