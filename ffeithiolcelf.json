@@ -21,7 +21,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Yr anturiaethwr Richard Parks sydd ar daith gyffrous i archwilio'r dyddiadau a newidiodd gwrs hanes Cymru. ",
@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Am Dro!",
       "programme_title": "Am Dro Steddfod!",
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -211,7 +211,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Ian 'H' Watkins",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw 'H' o'r gr&#373;p poblogaidd o'r 90au - Steps.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cefn Gwlad",
       "programme_title": "Y Gogarth ",
       "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Cefn Gwlad",
       "programme_title": "Patagonia 2025",
       "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -666,25 +666,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "12",
-      "series_title": "Cynefin",
-      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
-      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
-      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
-      "clic_aired": "2 Awst 2025",
-      "fav_id": "796376120",
-      "id": "832949204",
-      "series_id": "832949196",
-      "title": "Cynefin",
-      "date_broadcast": "2025-08-02 18:50:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "30",
       "series_title": "Cynefin",
@@ -701,6 +682,25 @@
       "series_id": "891691098",
       "title": "Cynefin",
       "date_broadcast": "2025-08-07 23:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "12",
+      "series_title": "Cynefin",
+      "programme_title": "Yr Wyddgrug - Theatr Clwyd",
+      "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
+      "thumbnail_url": "Cynefin_2019-20S4C_P4_Y_Wyddgrud_002.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn byr o Cynefin, ac rydym yn Yr Wyddgrug gyda Theatr Clwyd.",
+      "clic_aired": "2 Awst 2025",
+      "fav_id": "796376120",
+      "id": "832949204",
+      "series_id": "832949196",
+      "title": "Cynefin",
+      "date_broadcast": "2025-08-02 18:50:00",
       "vs": "0"
     },
     {
@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "114",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "clic_aired": "20 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832477810",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "105",
       "series_title": "Dan Do",
@@ -870,6 +851,25 @@
       "fav_id": "802081093",
       "id": "832478891",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "114",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "clic_aired": "20 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832477810",
+      "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Iris Williams",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": null,
       "short_billing": "Cyfres sy'n uno unigolion gyda phobl o'u gorffennol.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "189",
+      "days_to_expire": "188",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": null,
       "programme_title": "Joe Allen: Y Chwiban Olaf",
       "short_billing": "Gyda mynediad digynsail, mae'r rhaglen ddogfen ddadlennol hon yn dilyn Joe Allen drwy dymor heb ei ail - ymgyrch o rwystrau, syrpreisys, ac amser i ystyried bywyd, wrth iddo wynebu penderfyniad caletaf ei yrfa: dal ati i chwarae neu cerdded i ffwrdd. Gyda chyfweliadau pwerus ac un gêm olaf yn Abertawe, dyma chwiban olaf Joe.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Llofruddiaeth y Bwa Croes",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
@@ -1578,22 +1578,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Llond Bol o Sbaen",
-      "programme_title": "Chris yn Mallorca",
+      "programme_title": "Chris yn Barcelona",
       "short_billing": "Mae Chris 'Flamebaster' Roberts ar daith yn coginio a bwyta'i ffordd o amgylch Sbaen.",
-      "thumbnail_url": "Llond_Bol_o_Sbaen_2024S4C_P2_Mallorca.jpg",
+      "thumbnail_url": "Llond_Bol_o_Sbaen_2024S4C_P3_Barcelona.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae antur fwyd Sbaenaidd Chris 'Flamebaster' Roberts yn parhau ar Ynys Mallorca, lle bydd yn cael cwmni'r Chef seren Michelin o Sir Fôn, Tomos Parry, a'r actor Elen Rhys. O fwytai traddodiadol rhad i rai ecsglwsif, bydd Chris yn coginio a blasu'r gorau o fwyd yr ynys.",
-      "clic_aired": "17 Awst 2025",
+      "full_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
+      "clic_aired": "24 Awst 2025",
       "fav_id": "888863761",
-      "id": "888864135",
+      "id": "888864171",
       "series_id": "888864083",
       "title": "Llond Bol o Sbaen",
-      "date_broadcast": "2025-08-18 15:05:00",
+      "date_broadcast": "2025-08-25 15:05:00",
       "vs": "0"
     },
     {
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "programme_title": null,
       "short_billing": "Mewn cyfres newydd sbon daw mawrion a chefnogwyr rygbi Cymru ynghyd i adrodd hanes tanllyd y gêm o 1875 hyd heddi gyda Syr Gareth Edwards, Ieuan Evans, Shane Williams, Beti George, Sioned Harries a Huw Llywelyn Davies yn rhannu straeon personol am ddylanwad y gamp ar eu bywydau.  Yn y bennod hon, bydd sylw i ail oes aur rygbi Cymru gyda buddugoliaethau cofiadwy y 1970au yn hoelio enwau'r chwaraewyr ar gof a chadw.   \n ",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": null,
       "programme_title": "Strip",
       "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
@@ -2167,8 +2167,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Y Byd yn ei Le - Cyfres 2024-25",
       "programme_title": null,
       "short_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Y Llinell Las",
       "programme_title": "Bugeilio",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Y Sioe 2025",
       "programme_title": "Uchafbwyntiau'r Wythnos",
       "short_billing": "Cyfle i edrych nôl dros uchafbwyntiau'r wythnos o'r Sioe Fawr 2025.",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
