@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -248,22 +248,22 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "142",
+      "count": "3",
+      "days_to_expire": "149",
       "series_title": "Bwyd Bach Shumana a Catrin",
-      "programme_title": "Dinbych",
-      "short_billing": "Mae'r ddwy entrepreneur bwyd Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio prydau o fwydydd bach yn defnyddio'r cynnyrch lleol gorau. Yn y rhaglen hon fe fyddan nhw yn Dinbych yn coginio i Julie Howatson-Broster a'i theulu. ",
-      "thumbnail_url": "Bwyd_Bach_Sumara_Catrin_2019S4C_P2_6443.jpg",
+      "programme_title": "Ynys Mon",
+      "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio a thrwy hynny geisio plesio teuluoedd a ffrindiau ledled Cymru gyda'u math nhw o blatiau o fwydydd bach yn defnyddio cynnyrch Cymraeg. Yn y rhaglen hon yr her fydd ceisio plesio criw ar Ynys Môn sy'n hoff o noson mewn 'da'r merched. ",
+      "thumbnail_url": "Bwyd_Bach_Sumara_Catrin_2019S4C_P3_6674.jpg",
       "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'r ddwy entrepreneur bwyd Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio prydau o fwydydd bach yn defnyddio'r cynnyrch lleol gorau. Yn y rhaglen hon fe fyddan nhw yn Dinbych yn coginio i Julie Howatson-Broster a'i theulu. ",
-      "clic_aired": "3 Medi 2025",
+      "full_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio a thrwy hynny geisio plesio teuluoedd a ffrindiau ledled Cymru gyda'u math nhw o blatiau o fwydydd bach yn defnyddio cynnyrch Cymraeg. Yn y rhaglen hon yr her fydd ceisio plesio criw ar Ynys Môn sy'n hoff o noson mewn 'da'r merched. ",
+      "clic_aired": "11 Medi 2025",
       "fav_id": "801148598",
-      "id": "801154109",
+      "id": "801154131",
       "series_id": "801154078",
       "title": "Bwyd Bach Shumana a Catrin",
-      "date_broadcast": "2025-09-03 23:00:00",
+      "date_broadcast": "2025-09-10 23:30:00",
       "vs": "0"
     },
     {
@@ -362,6 +362,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "126",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Y Gogarth ",
+      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "clic_aired": "18 Awst 2025",
+      "fav_id": "520950902",
+      "id": "856935823",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-08-19 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "105",
       "series_title": "Cefn Gwlad",
@@ -397,25 +416,6 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-08-12 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "126",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Y Gogarth ",
-      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "clic_aired": "18 Awst 2025",
-      "fav_id": "520950902",
-      "id": "856935823",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-08-19 15:05:00",
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -700,7 +700,7 @@
       "id": "891691176",
       "series_id": "891691098",
       "title": "Cynefin",
-      "date_broadcast": "2025-08-07 23:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -895,7 +895,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "240",
+      "days_to_expire": "239",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Mae'n Ddiwrnod Cenedlaethol yn Dubai ac wrth i'r athrawes Mari Jones-Evans ddathlu'r gwyliau, mae Mike Phillips yn gwisgo ei esgidiau rygbi unwaith eto i gystadlu yn y twrnament saith bob ochr. Mae Hanna Morgan sy'n dywysoges parti, yn paratoi am ddathliad hollol wahanol!",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1977,25 +1977,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "18",
-      "series_title": "Strip",
-      "programme_title": "Pennod 1",
-      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
-      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
-      "duration": "14",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
-      "clic_aired": "2 Mai 2025",
-      "fav_id": "935463603",
-      "id": "911821098",
-      "series_id": "911821090",
-      "title": "Strip",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "12",
       "series_title": null,
@@ -2010,6 +1991,25 @@
       "fav_id": "935463603",
       "id": "883396189",
       "series_id": null,
+      "title": "Strip",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "18",
+      "series_title": "Strip",
+      "programme_title": "Pennod 1",
+      "short_billing": "Mae Clwb Strip Nancy's Girls yn ôl!  Dewch i mewn i fywydau gwyllt Rhiannon, Jess a Jinxx wrth iddynt weithio i dyfu'r clwb strip\n ",
+      "thumbnail_url": "Strip_2025S4C_P1_097.jpg",
+      "duration": "14",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw stripio Nancy's Girls yn ôl! Mae Rhiannon eisiau tyfu y clwb a mae gan y Crëwr Cynnwys Cara lwyth o syniadau cyffrous am sut i hyrwyddo a tyfu'r busnes. Mae Rhiannon a Jess yn recriwtio aelod newydd i'r tim a chawn gipolwg ar fywyd Jess pan nad yw hi'n gweithio gyda'r genod eraill - byddwch yn barod i gyfarfod a Lucifer!\n \n ",
+      "clic_aired": "2 Mai 2025",
+      "fav_id": "935463603",
+      "id": "911821098",
+      "series_id": "911821090",
       "title": "Strip",
       "date_broadcast": null,
       "vs": "0"
@@ -2125,12 +2125,12 @@
       "id": "810188785",
       "series_id": "810188688",
       "title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
-      "date_broadcast": "2025-09-22 12:05:00",
+      "date_broadcast": "2025-09-25 13:00:00",
       "vs": "0"
     },
     {
       "count": "6",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
