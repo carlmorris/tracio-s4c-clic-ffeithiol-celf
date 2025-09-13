@@ -115,8 +115,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
@@ -249,7 +249,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio a thrwy hynny geisio plesio teuluoedd a ffrindiau ledled Cymru gyda'u math nhw o blatiau o fwydydd bach yn defnyddio cynnyrch Cymraeg. Yn y rhaglen hon yr her fydd ceisio plesio criw ar Ynys Môn sy'n hoff o noson mewn 'da'r merched. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -837,25 +837,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "94",
-      "series_title": "Dan Do",
-      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
-      "clic_aired": "20 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832477810",
-      "series_id": "832477685",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "85",
       "series_title": "Dan Do",
@@ -870,6 +851,25 @@
       "fav_id": "802081093",
       "id": "832478891",
       "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "94",
+      "series_title": "Dan Do",
+      "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
+      "clic_aired": "20 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832477810",
+      "series_id": "832477685",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -895,7 +895,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "237",
+      "days_to_expire": "236",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1389,25 +1389,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 3",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P3_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "10 Medi 2025",
-      "fav_id": "810255618",
-      "id": "809467487",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-09-10 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "116",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 2",
@@ -1423,6 +1404,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-08-11 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "146",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 3",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P3_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "10 Medi 2025",
+      "fav_id": "810255618",
+      "id": "809467487",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-09-10 12:30:00",
       "vs": "0"
     },
     {
@@ -1479,7 +1479,7 @@
       "id": "880980221",
       "series_id": "880980161",
       "title": "Iolo: Natur Bregus Cymru",
-      "date_broadcast": "2025-08-10 09:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Mae'n Ddiwrnod Cenedlaethol yn Dubai ac wrth i'r athrawes Mari Jones-Evans ddathlu'r gwyliau, mae Mike Phillips yn gwisgo ei esgidiau rygbi unwaith eto i gystadlu yn y twrnament saith bob ochr. Mae Hanna Morgan sy'n dywysoges parti, yn paratoi am ddathliad hollol wahanol!",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1878,7 +1878,7 @@
       "id": "808663987",
       "series_id": "808663884",
       "title": "Rygbi Cymru: Y Gêm yn y Gwaed",
-      "date_broadcast": "2025-09-05 21:00:00",
+      "date_broadcast": "2025-09-28 12:30:00",
       "vs": "0"
     },
     {
@@ -1977,25 +1977,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "9",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "15",
       "series_title": "Strip",
@@ -2010,6 +1991,25 @@
       "fav_id": "935463603",
       "id": "911821098",
       "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "9",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
       "title": "Strip",
       "date_broadcast": null,
       "vs": "0"
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
