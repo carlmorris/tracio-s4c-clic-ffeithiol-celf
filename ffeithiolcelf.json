@@ -211,7 +211,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -362,27 +362,8 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "120",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Y Gogarth ",
-      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "clic_aired": "18 Awst 2025",
-      "fav_id": "520950902",
-      "id": "856935823",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-08-19 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -401,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Cefn Gwlad",
       "programme_title": "Patagonia 2025",
       "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
@@ -416,6 +397,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-08-24 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "119",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Y Gogarth ",
+      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "clic_aired": "18 Awst 2025",
+      "fav_id": "520950902",
+      "id": "856935823",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-08-19 15:05:00",
       "vs": "0"
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Mark Drakeford",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, Co'r Genedl, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae Prif Weinidog Cymru yn ystod y pandemig, Mark Drakeford.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Deuawdau Rhys Meirion",
       "programme_title": "Iris Williams",
       "short_billing": "Rhys Meirion sy'n cydweithio ag artistiaid cerddorol i recordio deuawdau unigryw ac yn ymweld â lleoliadau amrywiol sydd ag arwyddocâd arbennig i'w westeion.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": null,
       "programme_title": "Ein Hail Lais",
       "short_billing": "Jess Davies, Gav Murphy, Lily Beau, a Nick Yeo sy'n trafod eu perthynas â siarad Cymraeg fel ail iaith.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": null,
       "short_billing": "Cyfres sy'n uno unigolion gyda phobl o'u gorffennol.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "165",
+      "days_to_expire": "164",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
@@ -1369,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "147",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 4",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P4_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "15 Medi 2025",
-      "fav_id": "810255618",
-      "id": "809467505",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-09-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "112",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1404,6 +1385,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 4",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P4_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "15 Medi 2025",
+      "fav_id": "810255618",
+      "id": "809467505",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-09-15 12:30:00",
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": null,
       "programme_title": "Joe Allen: Y Chwiban Olaf",
       "short_billing": "Gyda mynediad digynsail, mae'r rhaglen ddogfen ddadlennol hon yn dilyn Joe Allen drwy dymor heb ei ail - ymgyrch o rwystrau, syrpreisys, ac amser i ystyried bywyd, wrth iddo wynebu penderfyniad caletaf ei yrfa: dal ati i chwarae neu cerdded i ffwrdd. Gyda chyfweliadau pwerus ac un gêm olaf yn Abertawe, dyma chwiban olaf Joe.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Llofruddiaeth y Bwa Croes",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Mae Chris 'Flamebaster' Roberts ar daith yn coginio a bwyta'i ffordd o amgylch Sbaen.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Rhaglen drafod materion cyfoes. ",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Rygbi Cymru: Y Gêm yn y Gwaed",
       "programme_title": null,
       "short_billing": "Yn y bennod olaf, bydd trydydd oes aur yn hanes rygbi Cymru yn cael sylw gyda charfan cenedlaethol y dynion yn mwynhau llwyddiannau bythgofiadwy ar y cae o dan hyfforddiant Warren Gatland. Daw chwaraewyr a chefnogwyr ynghyd i rannu eu hatgofion a'u straeon personol am y campau llawn yn 2005, 2008 a 2012.   \n ",
@@ -1958,25 +1958,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "6",
-      "series_title": null,
-      "programme_title": "Strip",
-      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
-      "duration": "37",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
-      "clic_aired": "26 Ebrill 2025",
-      "fav_id": "935463603",
-      "id": "883396189",
-      "series_id": null,
-      "title": "Strip",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "11",
       "series_title": "Strip",
@@ -1991,6 +1972,25 @@
       "fav_id": "935463603",
       "id": "911821098",
       "series_id": "911821090",
+      "title": "Strip",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "5",
+      "series_title": null,
+      "programme_title": "Strip",
+      "short_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "thumbnail_url": "Strip_2024S4C_4340093-Edit.jpg",
+      "duration": "37",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae criw o stripwyr yn anelu at roi Rhyl yn ôl ar y map gyda'u clybiau strip unigryw.",
+      "clic_aired": "26 Ebrill 2025",
+      "fav_id": "935463603",
+      "id": "883396189",
+      "series_id": null,
       "title": "Strip",
       "date_broadcast": null,
       "vs": "0"
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Y Llinell Las",
       "programme_title": "Bugeilio",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Y Sioe 2025",
       "programme_title": "Uchafbwyntiau'r Wythnos",
       "short_billing": "Cyfle i edrych nôl dros uchafbwyntiau'r wythnos o'r Sioe Fawr 2025.",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
