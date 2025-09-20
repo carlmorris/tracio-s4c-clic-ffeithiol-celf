@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Cledrau Coll",
       "programme_title": "Caerfyrddin i Gastell Newydd E",
       "short_billing": "Arfon Haines Davies sy'n edrych ar hanes rhai o reilffyrdd Cymru mewn cyfres o'r archif. ",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "94",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "87",
       "series_title": "Dan Do",
@@ -851,6 +832,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "94",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Ffilmiau Ddoe",
       "programme_title": "Ffilmiau Ddoe Byr- Emma Walford a Caryl Parry Jones",
       "short_billing": "Dewis Emma Walford o ffilmiau o'r Archif Sgrin a Sain Genedlaethol. Caryl Parry Jones sy'n cadw cwmni i Emma i drafod ffilimiau o bobl yn dathlu ar draws y degawdau. Nadolig, carnifal a'r Rhyl yw'r pynciau pwysig ynghyd ag ambell hanesyn doniol.",
