@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Caerdydd ",
       "short_billing": "Mae'r entrepreneurs bwyd Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio a cheisio plesio teuluoedd a ffrindiau ar draws Cymru gyda'u math nhw o blatiau o fwydydd bach i'w rhannu. Yn y rhaglen hon yr her fydd plesio criw o fyfyrwyr yng Nghaerdydd sy'n mwynhau bwyd ond yn methu fforddio'r oll sydd gan y Prifddinas i'w gynnig. ",
@@ -818,25 +818,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "90",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "84",
       "series_title": "Dan Do",
@@ -851,6 +832,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "90",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Dylan ar Daith",
       "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
       "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": null,
       "programme_title": "Ffa Coffi Pawb!",
       "short_billing": "Ffa Coffi Pawb - 30 mlynedd ers chwalu, dilynwn hynt a helynt y band o'r gogledd trwy sin gerddoriaeth danddaearol Cymru'r 80au a'r 90au hyd at lwyddiant diweddarach y Super Furry Animals. ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Llanberis",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Jalisa Andrews",
       "short_billing": "Elin Fflur sy'n sgwrsio gyda enwogion Cymru yn yr ardd am eu bywydau.",
