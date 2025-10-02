@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -363,6 +363,25 @@
     },
     {
       "count": "2",
+      "days_to_expire": "83",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Patagonia 2025",
+      "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
+      "clic_aired": "28 Gorffennaf 2025",
+      "fav_id": "520950902",
+      "id": "942179220",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
       "days_to_expire": "97",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
@@ -395,25 +414,6 @@
       "fav_id": "520950902",
       "id": "856935823",
       "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "83",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Patagonia 2025",
-      "short_billing": "Crwydro cefn gwlad Cymru gydag amryw gyflwynwyr a chymeriadau. ",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
-      "clic_aired": "28 Gorffennaf 2025",
-      "fav_id": "520950902",
-      "id": "942179220",
-      "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -491,7 +491,7 @@
       "id": "505751663",
       "series_id": "505751656",
       "title": "Codi Hwyl - Cyfres 1",
-      "date_broadcast": "2025-08-29 13:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "218",
+      "days_to_expire": "217",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "97",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 2",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950912",
-      "id": "809467469",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "132",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1366,6 +1347,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-09-15 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "97",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 2",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950912",
+      "id": "809467469",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Tra bod Jude Cisse yn byw bywyd i'r eitha yn Dubai, mae Rhiana Courlander a'i theulu yn benderfynol o gadw eu cefndir Cymreig yn fyw yma. Mae hen ffrind i Mike Phillips, artist Julian Castaldi yn cofio'r hen ddyddiau gyda'r cyn chwaraewr.  Ac Mike yn wynebu un o'i ofnau mwyaf. ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2201,12 +2201,12 @@
       "id": "875797365",
       "series_id": null,
       "title": "Windrush: Rhwng Dau Fyd",
-      "date_broadcast": "2025-10-07 22:30:00",
+      "date_broadcast": "2025-10-17 15:05:00",
       "vs": "0"
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
