@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "92",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "99",
       "series_title": "Cefn Gwlad",
@@ -414,6 +395,25 @@
       "fav_id": "520950902",
       "id": "942179220",
       "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "92",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -833,12 +833,12 @@
       "id": "510882926",
       "series_id": "510882763",
       "title": "Darn Bach o Hanes - Cyfres 2",
-      "date_broadcast": "2025-09-03 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "213",
+      "days_to_expire": "212",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "127",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 4",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P4_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "15 Medi 2025",
-      "fav_id": "810255618",
-      "id": "809467505",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-09-15 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "92",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1347,6 +1328,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "127",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 4",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P4_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "15 Medi 2025",
+      "fav_id": "810255618",
+      "id": "809467505",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-09-15 12:30:00",
       "vs": "0"
     },
     {
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
@@ -2429,7 +2429,7 @@
       "id": "886233501",
       "series_id": null,
       "title": "Yr Actor A'r Eicon",
-      "date_broadcast": "2025-10-19 11:00:00",
+      "date_broadcast": "2025-10-22 15:05:00",
       "vs": "0"
     },
     {
