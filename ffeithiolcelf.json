@@ -268,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Byd o Liw",
       "programme_title": "Dinefwr",
       "short_billing": "Cyfres sy'n dathlu cestyll Cymru drwy ddarluniau yng nghwmni'r cyflwynydd Osi Rhys Osmond ac artistiaid amrywiol.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Ceffylau Cymru",
       "programme_title": null,
       "short_billing": "Ail gyfres o'r rhaglen sy'n canolbwyntio ar fyd y ceffyl gan ddilyn gwahanol gyfranwyr ac amryw o fridiau.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Cledrau Coll",
       "programme_title": "Afon Wen i Fangor",
       "short_billing": "Arfon Haines Davies sy'n edrych ar hanes rhai o reilffyrdd Cymru mewn cyfres o'r archif. ",
@@ -1122,22 +1122,22 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "145",
+      "count": "4",
+      "days_to_expire": "149",
       "series_title": "Gerddi Cymru - Cyfres 2",
-      "programme_title": "Castell Picton a Wyndcliffe",
+      "programme_title": "Veddw a Neuadd Bodysgallen",
       "short_billing": "Aled Samuel sy'n ymweld â rhai o gerddi hyfrytaf Cymru.",
       "thumbnail_url": "gerddi_cymru_cyfres_2_2016.jpg",
-      "duration": "24",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Heddiw, bydd Aled Samuel yn ymweld â gardd Castell Picton yn Sir Benfro a Gardd Wyndcliffe yn Sir Fynwy. ",
-      "clic_aired": "5 Hydref 2025",
+      "full_billing": "Yn y rhaglen hon bydd Aled Samuel yn ymweld â gardd Veddw yn Sir Fynwy a gerddi Neuadd Bodysgallen ar gyrion Llandudno. ",
+      "clic_aired": "9 Hydref 2025",
       "fav_id": "537401297",
-      "id": "533848400",
+      "id": "533848460",
       "series_id": "533848392",
       "title": "Gerddi Cymru - Cyfres 2",
-      "date_broadcast": "2025-10-05 11:00:00",
+      "date_broadcast": "2025-10-15 18:00:00",
       "vs": "0"
     },
     {
