@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -320,7 +320,7 @@
       "id": "856611760",
       "series_id": "856611693",
       "title": "Canu Gyda Fy Arwr - Cyfres 3",
-      "date_broadcast": "2025-09-06 21:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -605,7 +605,7 @@
       "id": "892227485",
       "series_id": "892227382",
       "title": "Colleen Ramsey: Bywyd a Bwyd - 3",
-      "date_broadcast": "2025-09-06 15:45:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "73",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "67",
       "series_title": "Dan Do",
@@ -832,6 +813,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "73",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -857,7 +857,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "210",
+      "days_to_expire": "209",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cyfres o ddogfennau materion cyfoes i gynulleidfa ifanc rhwng 16-34 oed.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "Iolo & Jennifer",
       "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn helpu cyplau Cymreig i briodi ar gyllideb y sioe o £5,000.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
       "programme_title": null,
       "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
