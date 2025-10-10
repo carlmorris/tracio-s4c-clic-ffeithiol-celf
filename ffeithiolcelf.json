@@ -40,7 +40,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "3 Lle - Cyfres 5",
       "programme_title": "Georgia Ruth Williams",
       "short_billing": "Ymhob rhaglen mae wyneb adnabyddus yn ein tywys i dri lle sy'n bwysig iddyn nhw. Cyfres 2017.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Darn Bach o Hanes - Cyfres 2",
       "programme_title": "Hanes Recordio Cerddoriaeth",
       "short_billing": "Yr awdur a'r hanesydd Dewi Prysor sy'n cynnig golwg ffres ar hanes Cymru, trwy ddewis un stori neu bwnc, a'i ymchwilio o sawl cyfeiriad. ",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 5",
-      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
-      "clic_aired": "10 Hydref 2025",
-      "fav_id": "810255618",
-      "id": "809467523",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-10-10 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "89",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1385,6 +1366,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 5",
+      "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P5_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1992, pan roedd Cymru yn le hollol wahanol!  ",
+      "clic_aired": "10 Hydref 2025",
+      "fav_id": "810255618",
+      "id": "809467523",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-10-10 12:30:00",
       "vs": "0"
     },
     {
