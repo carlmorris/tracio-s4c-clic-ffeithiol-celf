@@ -2,7 +2,7 @@
   "progs": [
     {
       "count": "6",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Capel Celyn",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 15 yn adrodd stori boddi Capel Celyn.",
@@ -59,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": null,
       "programme_title": "AI - Help Llaw, neu Codi Braw?",
       "short_billing": "AI - Help llaw neu Codi Braw' Yn y rhaglen hon, mae Dom yn ildio pob penderfyniad i'r robotiaid am 24 awr ¿ o'r funud mae'n codi, i dasgau creadigol¿ a hyd yn oed ei fywyd caru.\r\nA fydd Dom yn dod i weld AI fel help llaw defnyddiol' Neu a fydd y profiad yn ei wneud yn fwy amheus nag erioed'",
@@ -116,7 +116,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Ar Led",
       "programme_title": "'Kinks' & Profion STI",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -192,7 +192,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Aur Du",
       "programme_title": "Aleighcia Scott",
       "short_billing": "Yr actores Mali Ann Rees sy'n dathlu 'Mis Hanes Pobl Ddu' drwy gymryd golwg ar y berthynas rhwng hil, hunaniaeth a'r iaith Gymraeg gyda rhai sy'n arloeswyr yn eu maes. Yn y bennod yma mae Mali Ann Rees yn cwrdd a'r academydd a'r gweithredydd, Emily Pemberton, i drafod treftadaeth a hunaniaeth fel dwy sydd wedi eu magu yng Nghaerdydd.",
@@ -381,6 +381,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "97",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Y Gogarth ",
+      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "clic_aired": "18 Awst 2025",
+      "fav_id": "520950902",
+      "id": "856935823",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "76",
       "series_title": "Cefn Gwlad",
@@ -419,25 +438,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "97",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Y Gogarth ",
-      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "clic_aired": "18 Awst 2025",
-      "fav_id": "520950902",
-      "id": "856935823",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "48",
       "series_title": "Cefn Gwlad - 2024-25",
@@ -458,7 +458,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Chwedloni: Mis Hanes Pobl Ddu",
       "programme_title": "Gerallt Jones",
       "short_billing": "Straeon Chwedloni i nodi Mis Hanes Pobl Ddu.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Cynefin - Cyfres 2",
       "programme_title": "Wrecsam",
       "short_billing": "Bydd Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen yn crwydro o amgylch Wrecsam ar drywydd straeon difyr a chudd tref ac ardal prif dref y gogledd. Mae'n amhosib ymweld â Wrecsam heb drafod ei chwrw a'i thîm pêl-droed ond mae llawer mwy i'r ardal na hynny. Tra bod cewri rhyngwladol wedi gadael eu marc yma a phenderfyniadau wedi eu gwneud yma sydd wedi ysgwyd seiliau ein diwylliant a'n diwydiant, mae un darganfyddiad anhygoel yn mynd yn ôl yn llawer, llawer pellach na'r hyn all bron unrhyw un ei ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "832",
+      "days_to_expire": "831",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Cyfres o ffilmiau byrion am straeon bwganod yng Nghymru.",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "74",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "68",
       "series_title": "Dan Do",
@@ -832,6 +813,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "74",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n teithio ledled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Efaciwîs",
       "programme_title": "DRYCH: Lloches",
       "short_billing": "Cyfres newydd yn edrych ar brofiad efaciwîs yng Nghymru, a'n hanes fel gwlad sydd wedi cynnig lloches i bobl sy'n ddigartref achos rhyfel. ",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "GISDA: Drws i'r Digartre",
       "programme_title": "Pennod 1",
       "short_billing": "Cawn ddilyn hanes dau berson ifanc - Gethyn a Mercedez - sy' newydd symud mewn i hostel i bobl ifanc bregus a digartref yng Nghaernarfon, a redir gan yr elusen GISDA . Mae Gethyn yn 19 ac wedi bod yn byw mewn pabell mewn cae, ac mewn gwesty dros dro; ac mae Mercedez yn 16 ac yn un o naw o blant wedi symud yno am bod yna ddim lle iddi adre. Mae'n brofiad gwbl newydd i'r ddau a tydy setlo yno ar eu pennau eu hunain ddim yn hawdd. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "448",
+      "days_to_expire": "447",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Cyfres deithio lle mae criw o bedair yn darganfod be' sy' angen neud, gweld, a bwyta mewn amryw lefydd ar draws Ewrop.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1131",
+      "days_to_expire": "1130",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Rhaglenni amrywiol dan ymbarel Hansh.",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "90",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 2",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950912",
-      "id": "809467469",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "125",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1385,6 +1366,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-09-15 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "90",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 2",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950912",
+      "id": "809467469",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "It's My Shout",
       "programme_title": "Teulu, Actio ac ADHD",
       "short_billing": "Dilynwn Hannah Bianchi a'i theulu wrth iddynt ddilyn eu gweithgareddau creadigol ochr yn ochr â heriau eu niwroamrywiaeth.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": null,
       "programme_title": "Nathan Brew: Caethwasiaeth a Fi",
       "short_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "588",
+      "days_to_expire": "587",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Cyfres am be sy'n gwneud 'scene' foduro Cymru mor gyfoethog. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "534",
+      "days_to_expire": "533",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cyfres o raglenni byr i gyd-fynd â Pride Cymru 2024.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Rhys Patchell: Japan a'r Gic Olaf",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn gyrfa lwyddiannus yn chwarae i Gymru, y Scarlets a Chaerdydd mae'r maswr Rhys Patchell yn cymryd y cam mawr i chwarae rygbi proffesiynnol yn Japan. Sut fydd o'n dygymod a gyrfa a bywyd pob dydd ben draw'r byd' Wedi iddynt briodi llynedd mi fydd yn gyfnod anarferol hefyd i'w wraig, y gyflwynwraig Heledd Anna. Mae'n camerau yn dilyn pob agwedd o'u bywyd yn ystod tymor cynta' Rhys yn Japan.",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": null,
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "488",
+      "days_to_expire": "487",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": null,
       "programme_title": "Y Sioe 2025: Sut i Wylio ",
       "short_billing": "Dyma sut i wylio holl arlwy Y Sioe 2025.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
