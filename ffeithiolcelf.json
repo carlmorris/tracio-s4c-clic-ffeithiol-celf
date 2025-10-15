@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": null,
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio gyda'r cogydd, Colleen Ramsey.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey - mae bywyd a bwyd yn dod law yn llaw i Colleen. ",
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 7",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "14 Hydref 2025",
-      "fav_id": "810255618",
-      "id": "809467559",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-10-14 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "84",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1366,6 +1347,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 7",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "14 Hydref 2025",
+      "fav_id": "810255618",
+      "id": "809467559",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-10-14 12:30:00",
       "vs": "0"
     },
     {
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Etta:Merch fach, methiant mawr",
       "short_billing": "Bu farw Etta Lili yn bedwar diwrnod oed yn dilyn methiannau gan Fwrdd Iechyd Betsi Cadwaladr. Gydag asesiad cenedlaethol i wasanaethau mamolaeth yng Nghymru newydd ei gyhoeddi, Siôn Jenkins sy'n ymchwilio i bryderon rhieni yng ngogledd Cymru. ",
