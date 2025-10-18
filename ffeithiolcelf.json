@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -343,20 +343,20 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "88",
+      "count": "2",
+      "days_to_expire": "81",
       "series_title": "Cefn Gwlad",
-      "programme_title": "Y Gogarth ",
-      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "clic_aired": "18 Awst 2025",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Awst 2025",
       "fav_id": "520950902",
-      "id": "856935823",
-      "series_id": "856935638",
+      "id": "875484083",
+      "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -381,20 +381,20 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "81",
+      "count": "1",
+      "days_to_expire": "88",
       "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "programme_title": "Y Gogarth ",
+      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Awst 2025",
+      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "clic_aired": "18 Awst 2025",
       "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
+      "id": "856935823",
+      "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -567,7 +567,7 @@
       "id": "866087199",
       "series_id": null,
       "title": "Cranogwen gyda Ffion Hague",
-      "date_broadcast": "2025-09-14 17:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "202",
+      "days_to_expire": "201",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2107,25 +2107,6 @@
       "series_id": null,
       "title": "Windrush: Rhwng Dau Fyd",
       "date_broadcast": "2025-10-17 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Wrecsam...Clwb Ni! - Cyfres 2",
-      "programme_title": null,
-      "short_billing": "Dilynwn gefnogwyr ffyddlon Wrecsam ar eu taith gorwynt.",
-      "thumbnail_url": "Wrescam_Clwb_Ni_2024S4C_P3-337-Edit.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Waynne Phillips yn gyn chwaraewr ac un o sêr Wrecsam yn y nawdegau. Yn y raglen yma byddwn ni'n ymuno a Waynne wrth iddo rannu ei ddefod lwc dda a'i deimladau am y clwb yn ystod y cyfnod cyffrous yma. Mae tîm y merched hefyd yn mynd o nerth i nerth ar y Cae Ras ac oddi cartref. Hefyd, byddwn ni'n cyfarfod Liam Stokes-Massey, artist sydd yn dathlu'r clwb a'i llwyddiant gyda'i furluniau anhygoel. ",
-      "clic_aired": "21 Mai 2025",
-      "fav_id": "892004623",
-      "id": "876402474",
-      "series_id": "876402423",
-      "title": "Wrecsam...Clwb Ni! - Cyfres 2",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2315,7 +2296,7 @@
       "id": "814949359",
       "series_id": "814949311",
       "title": "Y Stiwdio Grefftau",
-      "date_broadcast": "2025-09-14 22:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
