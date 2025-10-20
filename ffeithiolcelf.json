@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "144",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 7",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "14 Hydref 2025",
-      "fav_id": "810255618",
-      "id": "809467559",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-10-14 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "80",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1366,6 +1347,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "144",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 7",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1993, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "14 Hydref 2025",
+      "fav_id": "810255618",
+      "id": "809467559",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-10-14 12:30:00",
       "vs": "0"
     },
     {
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": null,
       "programme_title": "Terfysg yn y Bae",
       "short_billing": "Ailddarllediad i nodi Mis Hanes Pobl Ddu. Bydd Sean Fletcher yn cyflwyno rhaglen ddogfen a fydd yn hoelio sylw ar Derfysgoedd Hil Caerdydd 1919. Dyma ddarn o hanes Cymru sydd wedi ei guddio, er iddo hawlio penawdau papurau newydd ar draws Prydain ar y pryd ac wedi ysgwyd y ddinas i'w seiliau am genedlaethau. Bydd Sean yn cyfarfod a bobl ifanc y ddinas heddiw i glywed am ei profiadau a'u barn dros gan mlynedd yn ddiweddarach. ",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": null,
       "programme_title": "Windrush: Rhwng Dau Fyd",
       "short_billing": "Rhaglen newydd yn ystod Mis Hanes Pobl Ddu. Beth yw bod yn Gymry' Sut mae siaradwyr Cymraeg yn edrych ' Beth am yr iaith ni'n ei defnyddio' 75 mlynedd ers I fenwnfudwyr o'r Caribi gyrraedd Prydain ar long y Windrush, Emily Pemberton sy'n holi'r cwestiynau, gan dynnu ar brofiadau ei theulu, ffrindiau a chymuned ddoe a heddiw yng Nghaerdydd. ",
