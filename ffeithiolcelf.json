@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "63",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "57",
       "series_title": "Dan Do",
@@ -832,6 +813,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "63",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Dylan ar Daith",
       "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
       "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": null,
       "programme_title": "Ffa Coffi Pawb!",
       "short_billing": "Ffa Coffi Pawb - 30 mlynedd ers chwalu, dilynwn hynt a helynt y band o'r gogledd trwy sin gerddoriaeth danddaearol Cymru'r 80au a'r 90au hyd at lwyddiant diweddarach y Super Furry Animals. ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Wrth i'r gymuned Gymraeg yn Dubai gynyddu mae Ellen Aiad a'i mab hefyd yn benderfynol o gadw'r iaith i fynd. Mae Mike yn cwrdd â Gareth i weld rhai o geir drytaf y byd. A sut siap sydd ar gwmni cynnyrch gwallt cyrliog Elinor Davies Farn'",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Llanberis",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
