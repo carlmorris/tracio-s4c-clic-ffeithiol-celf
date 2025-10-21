@@ -648,7 +648,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -799,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "63",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Eifion ac Amanda- Wdig",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "8",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
-      "clic_aired": "26 Gorffennaf 2025",
-      "fav_id": "802081093",
-      "id": "832478867",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "56",
       "series_title": "Dan Do",
@@ -832,6 +813,25 @@
       "fav_id": "802081093",
       "id": "832477810",
       "series_id": "832477685",
+      "title": "Dan Do",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "63",
+      "series_title": "Dan Do",
+      "programme_title": "Ty Eifion ac Amanda- Wdig",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "8",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â thy Edwardaidd gydag estyniad modern yn Wdig.  ",
+      "clic_aired": "26 Gorffennaf 2025",
+      "fav_id": "802081093",
+      "id": "832478867",
+      "series_id": "832478761",
       "title": "Dan Do",
       "date_broadcast": null,
       "vs": "0"
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 8",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "O FLAEN DY LYGAID",
       "programme_title": "Y Byd Yn Fflam",
       "short_billing": " Heno, cawn hanes rhai o'r Cymry frwydrodd yn erbyn y Natsïaid yn yr Ail Ryfel Byd. // Trwy ddeunydd archif a chyfweliadau, cawn glywed atgofion personol aelodau o'r fyddin, y llynges a'r llu awyr a darganfod sut y gwnaeth y profiadau hyn newid eu bywydau.",
