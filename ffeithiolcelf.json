@@ -211,7 +211,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": null,
       "programme_title": "Brwydr Llangyndeyrn",
       "short_billing": "Rhaglen arbennig a ddangoswyd gyntaf, ym mis Hydref 2013, i nodi 50 mlynedd ers ymgyrch lwyddiannus i atal Cyngor Abertawe rhag boddi Cwm Gwendraeth Fach a'r ffermydd cyfagos. Yr actores Sharon Morgan fu'n teithio yn ôl i fro ei mebyd i ddarganfod mwy am hanes cudd Brwydr Llangyndeyrn. Brwydr gan y gymuned oedd hon a chawn gyfweliadau â'r ffermwyr a chwaraeodd rôl bwysig, yn ogystal ag aelodau o'r gymuned ehangach. ",
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "62",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Patagonia 2025",
-      "short_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
-      "clic_aired": "28 Gorffennaf 2025",
-      "fav_id": "520950902",
-      "id": "942179220",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "83",
       "series_title": "Cefn Gwlad",
@@ -414,6 +395,25 @@
       "fav_id": "520950902",
       "id": "856935823",
       "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "62",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Patagonia 2025",
+      "short_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P2_Patagonia-2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "25 mlynedd ers i Dai Jones, Llanilar fynd i Patagonia i gwrdd â'r Cymry mae Cefn Gwlad nôl 'na. Tro yma, Ifan Jones Evans sy'n ymuno â Dan Jones o'r Gogarth, uwchlaw Llandudno, wrth iddo ymchwilio i ddulliau ffermio defaid ar draws y byd fel rhan o'i Ysgoloriaeth Nuffield, er mwyn canfod sut gall ffermydd yr ucheldir gael cydwbysedd rhwng cynhyrchu, byd natur ac effaith newid hinsawdd. ",
+      "clic_aired": "28 Gorffennaf 2025",
+      "fav_id": "520950902",
+      "id": "942179220",
+      "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "John & Becky",
       "short_billing": "Mae Trystan Ellis-Morris ac Emma Walford yn helpu cyplau Cymreig i briodi ar gyllideb y sioe o £5,000.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": null,
       "programme_title": "Tri Tryweryn",
       "short_billing": "Cyfle arall i weld y rhaglen hon yn dilyn digwyddiadau diweddar yn ymwneud â chofeb Cofiwch Dryweryn. Yn hwyr ar y 9fed Chwefror 1963, ynghanol eira mawr, teithiodd tri Chymro i ardal y Bala - Emyr Llewelyn, myfyriwr prifysgol o Sir Aberteifi, Owain Williams, mab ffarm a pherchennog caffi ym Mhwllheli, a John Albert Jones o Ben Llyn, cyn aelod o'r RAF. Y nod oedd gosod bom ar safle adeiladu cronfa dd¿r Tryweryn a chreu difrod er mwyn tynnu sylw at foddi pentref a chymuned Gymraeg Capel Celyn ger",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
