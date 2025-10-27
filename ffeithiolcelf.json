@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -325,7 +325,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Der' Dramor 'Da Fi!",
       "programme_title": "Yr Algarve",
       "short_billing": "Pedwar person sy'n ddieithr i'w gilydd sy'n cystadlu wrth geisio trefnu'r daith ddiwrnod orau dramor.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "194",
+      "days_to_expire": "193",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "143",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 8",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "810255618",
-      "id": "809467577",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-10-20 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "73",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1423,6 +1404,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "143",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 8",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "810255618",
+      "id": "809467577",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-10-20 12:30:00",
       "vs": "0"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caban Heli, Pwllheli",
       "short_billing": "Cyfres lle bydd timoedd o gymunedau yn ymgymryd â phrosiect adeiladu ac adnewyddu bydd yn fuddiol i'w cymuned neu eu hardal. ",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
