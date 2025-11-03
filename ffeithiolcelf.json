@@ -287,7 +287,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Byd o Liw",
       "programme_title": "Caernarfon",
       "short_billing": "Cyfres sy'n dathlu cestyll Cymru drwy ddarluniau yng nghwmni'r cyflwynydd Osi Rhys Osmond ac artistiaid amrywiol.",
@@ -363,25 +363,6 @@
     },
     {
       "count": "2",
-      "days_to_expire": "66",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
       "days_to_expire": "52",
       "series_title": "Cefn Gwlad",
       "programme_title": "Patagonia 2025",
@@ -395,6 +376,25 @@
       "fav_id": "520950902",
       "id": "942179220",
       "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "66",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
       "vs": "0"
@@ -439,7 +439,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Cledrau Coll",
       "programme_title": "Afon Wen i Fangor",
       "short_billing": "Arfon Haines Davies sy'n edrych ar hanes rhai o reilffyrdd Cymru mewn cyfres o'r archif. ",
@@ -2338,7 +2338,7 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "22",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
