@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -325,7 +325,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -362,25 +362,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "149",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Colomennod Cefni",
-      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "clic_aired": "3 Tachwedd 2025",
-      "fav_id": "520950902",
-      "id": "942179242",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-11-09 17:45:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "72",
       "series_title": "Cefn Gwlad",
@@ -397,6 +378,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Colomennod Cefni",
+      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "clic_aired": "3 Tachwedd 2025",
+      "fav_id": "520950902",
+      "id": "942179242",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-11-09 17:45:00",
       "vs": "0"
     },
     {
@@ -453,7 +453,7 @@
       "id": "36723751",
       "series_id": "36723660",
       "title": "Cledrau Coll",
-      "date_broadcast": "2025-09-30 13:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "186",
+      "days_to_expire": "185",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1992,7 +1992,7 @@
       "id": "860978295",
       "series_id": "860978166",
       "title": "Sain Ffagan Cyfres 2",
-      "date_broadcast": "2025-09-30 12:05:00",
+      "date_broadcast": "2025-11-18 13:00:00",
       "vs": "0"
     },
     {
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
