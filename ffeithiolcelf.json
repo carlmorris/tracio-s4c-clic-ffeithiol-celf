@@ -381,6 +381,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Colomennod Cefni",
+      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "clic_aired": "3 Tachwedd 2025",
+      "fav_id": "520950902",
+      "id": "942179242",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-11-09 17:45:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "70",
       "series_title": "Cefn Gwlad",
@@ -416,25 +435,6 @@
       "series_id": "875483738",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Colomennod Cefni",
-      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "clic_aired": "3 Tachwedd 2025",
-      "fav_id": "520950902",
-      "id": "942179242",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-11-09 17:45:00",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "132",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 8",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "810255618",
-      "id": "809467577",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2025-10-20 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "62",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1385,6 +1366,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "132",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 8",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "810255618",
+      "id": "809467577",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2025-10-20 12:30:00",
       "vs": "0"
     },
     {
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Teulu Shadog:Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Wrth i dymor yr wyna ddod i ben --  Meinir sy'n cael y cyfle i ddianc o glos y fferm gyda Sioned a Dafydd wrth iddynt gystadlu yn yr eisteddfod fach leol --  gan gynnwys syrpreis fach hyfryd i Ann y famgu. Ac mae un heffer a llo yn curo crocbris o dan y morthwyl ym mart y Trallwng. ",
@@ -2506,25 +2506,6 @@
       "series_id": "886784249",
       "title": "Y Sîn",
       "date_broadcast": "2025-10-31 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "3 Tachwedd 2025",
-      "fav_id": "944195105",
-      "id": "944196503",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2025-11-03 21:33:00",
       "vs": "0"
     },
     {
