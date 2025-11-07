@@ -268,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "146",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Colomennod Cefni",
-      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "clic_aired": "3 Tachwedd 2025",
-      "fav_id": "520950902",
-      "id": "942179242",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-11-09 17:45:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "69",
       "series_title": "Cefn Gwlad",
@@ -416,6 +397,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "146",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Colomennod Cefni",
+      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "clic_aired": "3 Tachwedd 2025",
+      "fav_id": "520950902",
+      "id": "942179242",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-11-09 17:45:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "183",
+      "days_to_expire": "182",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
@@ -1350,25 +1350,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "62",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 2",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950912",
-      "id": "809467469",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "132",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1385,6 +1366,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-10-20 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "62",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 2",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950912",
+      "id": "809467469",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Y Frwydr: Stori Anabledd",
       "programme_title": "Pennod 1",
       "short_billing": "Mae'r actor Mared Jarman yn mynd ar daith i ddysgu am hanes anabledd yng Nghymru. Yn y bennod hon, bydd yn edrych ar y 40au a'r 50au; cyfnod ar ol yr ail ryfel byd pan ddaeth anabledd yn rhywbeth nad oedd posib i gymdeithas anwybyddu.  ",
