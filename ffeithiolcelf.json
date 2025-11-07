@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "68",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Y Gogarth ",
-      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
-      "clic_aired": "18 Awst 2025",
-      "fav_id": "520950902",
-      "id": "856935823",
-      "series_id": "856935638",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
@@ -435,6 +416,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-11-09 17:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "68",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Y Gogarth ",
+      "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "thumbnail_url": "Cefn_Gwlad_2022S4C_P9_06.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
+      "clic_aired": "18 Awst 2025",
+      "fav_id": "520950902",
+      "id": "856935823",
+      "series_id": "856935638",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Cyngherddau Eisteddfod Genedlaethol 2024",
       "programme_title": "EDEN",
       "short_billing": "Ymunwch ag Elin Fflur o faes ein prifwyl eleni, Parc Ynys Angharad, i ail-fyw perfformiadau o lwyfannau'r Eisteddfod. Ar Lwyfan y Maes cawn fwynhau gwledd o ganu gan neb llai nag Eden wrth iddynt gloi'r Eisteddfod eleni. O'r hen i'r newydd, mae yna rywbeth yma at ddant pawb.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
@@ -2354,25 +2354,6 @@
       "series_id": "866040767",
       "title": "Y Frwydr: Stori Anabledd",
       "date_broadcast": "2025-11-04 22:35:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Gêm - Cyfres 2",
-      "programme_title": "Jonny Clayton",
-      "short_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
-      "thumbnail_url": "Y_Gem_2023S4C_P3_Jonny_Clayton_008.jpg",
-      "duration": "20",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
-      "clic_aired": "10 Mehefin 2025",
-      "fav_id": "879256468",
-      "id": "876140542",
-      "series_id": "876140485",
-      "title": "Y Gêm - Cyfres 2",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
