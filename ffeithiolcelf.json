@@ -381,6 +381,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "60",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sion Williams, Stad Buccleuch",
+      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950902",
+      "id": "875484083",
+      "series_id": "875483738",
+      "title": "Cefn Gwlad",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "67",
       "series_title": "Cefn Gwlad",
@@ -416,25 +435,6 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-11-09 17:45:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "60",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sion Williams, Stad Buccleuch",
-      "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "thumbnail_url": "Cefn_Gwlad_2024S4C_P16_Sion_Williams-4.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950902",
-      "id": "875484083",
-      "series_id": "875483738",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Mae'r byd yn cynhesu ac mae lefelau'r moroedd yn codi, yn y rhaglen hon bydd Steffan Powell yn darganfod sut mae natur yn medru bod yn gymorth wrth i ni ddysgu sut i addasu i'r newidiadau hyn, a bydd Steffan Griffiths yn yr Iseldiroedd i gyfarfod peirianwyr arloesol. ",
@@ -1084,27 +1084,8 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Gerddi Cymru - Cyfres 1",
-      "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
-      "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
-      "thumbnail_url": "Gerddi_Cymru_2015S4C_P6_005.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn rhaglen ola'r gyfres o 2015, mae Aled Samuel yn ymweld â gardd Plas Brondanw oedd yn gartref i'r pensaer Clough Williams-Ellis, a Gardd Dewstow, un o enghreifftiau gorau'r byd o ardd Pulhamite.",
-      "clic_aired": "12 Mehefin 2025",
-      "fav_id": "537401297",
-      "id": "527532342",
-      "series_id": "527532245",
-      "title": "Gerddi Cymru - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
       "short_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
@@ -1350,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "59",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 2",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
-      "clic_aired": "11 Awst 2025",
-      "fav_id": "520950912",
-      "id": "809467469",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "129",
       "series_title": "Heno Aur - Cyfres 1",
@@ -1385,6 +1347,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-10-20 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "59",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 2",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P2_017.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
+      "clic_aired": "11 Awst 2025",
+      "fav_id": "520950912",
+      "id": "809467469",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1598,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1636,7 +1617,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Mynyddoedd y Byd",
       "programme_title": "Yr Andes: Lowri Morgan",
       "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
@@ -2548,7 +2529,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
       "short_billing": "Cyfres yn edrych ar fywyd mewn rhai o anialdiroedd y byd.",
