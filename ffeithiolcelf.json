@@ -400,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Colomennod Cefni",
-      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
-      "clic_aired": "3 Tachwedd 2025",
-      "fav_id": "520950902",
-      "id": "942179242",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-11-09 17:45:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "66",
       "series_title": "Cefn Gwlad",
@@ -435,6 +416,25 @@
       "series_id": "856935638",
       "title": "Cefn Gwlad",
       "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "143",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Colomennod Cefni",
+      "short_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P3-613.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dau hen ffrind ysgol o Langefni , Ynys Môn sy'n rhannu'r un diddordeb - cadw, hyfforddi a rasio colomennod. Ifan Jones Evans sy'n cwrdd â'r postmon Gerallt Jones a'r syrfëwr Emyr Hughes - ffrindiau bore oes sy'n rhannu'r un dileit ac yn gystadleuol dros ben!",
+      "clic_aired": "3 Tachwedd 2025",
+      "fav_id": "520950902",
+      "id": "942179242",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-11-09 17:45:00",
       "vs": "0"
     },
     {
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
