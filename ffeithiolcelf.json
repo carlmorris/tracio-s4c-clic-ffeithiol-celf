@@ -230,7 +230,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Ceiswyr lloches - oes croeso?",
       "short_billing": "Mae'r ddadl ynghylch mewnfudo wedi troi'n ffyrnig eleni, â phrotestwyr yn targedu gwestai a fflatiau sy'n cael eu defnyddio gan geiswyr lloches - yng Nghymru a thu hwnt. Mae'r tensiynau wedi cyrraedd yr Wyddgrug. Siôn Jenkins sy'n treulio amser yn yr ardal i ddeall pam fod y gymuned wedi ei rhannu dros y posibilrwydd o groesawu ceiswyr lloches.",
@@ -819,25 +819,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
-      "series_title": null,
-      "programme_title": "Peter Moore: Dyn Mewn Du",
-      "short_billing": "Pedwar corff, un llofrudd, un cyfreithiwr. Stori Dylan Jones, y dyn oedd yn gorfod amddiffyn llofrudd cyfresol Peter Moore yng Ngogledd Cymru yn y nawdegau.",
-      "thumbnail_url": "Peter_Moore_Dyn_Mewn_Du_2021S4C_Dylan_Jones_002-Edit.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Pedwar corff, un llofrudd, un cyfreithiwr. Stori Dylan Jones, y dyn oedd yn gorfod amddiffyn llofrudd cyfresol Peter Moore yng Ngogledd Cymru yn y nawdegau.",
-      "clic_aired": "17 Hydref 2025",
-      "fav_id": "807950944",
-      "id": "807950944",
-      "series_id": null,
-      "title": "Peter Moore: Dyn Mewn Du",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "121",
       "series_title": "Cynefin - Cyfres 1",
       "programme_title": "Y Bala",
@@ -852,6 +833,25 @@
       "id": "542144541",
       "series_id": "542144423",
       "title": "Cynefin - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "6",
+      "series_title": null,
+      "programme_title": "Peter Moore: Dyn Mewn Du",
+      "short_billing": "Pedwar corff, un llofrudd, un cyfreithiwr. Stori Dylan Jones, y dyn oedd yn gorfod amddiffyn llofrudd cyfresol Peter Moore yng Ngogledd Cymru yn y nawdegau.",
+      "thumbnail_url": "Peter_Moore_Dyn_Mewn_Du_2021S4C_Dylan_Jones_002-Edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pedwar corff, un llofrudd, un cyfreithiwr. Stori Dylan Jones, y dyn oedd yn gorfod amddiffyn llofrudd cyfresol Peter Moore yng Ngogledd Cymru yn y nawdegau.",
+      "clic_aired": "17 Hydref 2025",
+      "fav_id": "807950944",
+      "id": "807950944",
+      "series_id": null,
+      "title": "Peter Moore: Dyn Mewn Du",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -951,7 +951,7 @@
       "vs": "0"
     },
     {
-      "count": "25",
+      "count": "26",
       "days_to_expire": "118",
       "series_title": "Heno",
       "programme_title": null,
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": null,
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yma bydd hi'n dangos ryseitiau i greu prydau ffansi yn y cartref. Y tro hwn, mae ei brawd Scott yn dod i'r gegin i helpu creu pryd i'w rhieni. Ryseitiau y gyfres ar s4c.cymru/cegin.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonny Clayton",
       "short_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
