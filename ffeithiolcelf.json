@@ -268,7 +268,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Mae Chris Roberts, Kiri Pritchard McLean ac Alun Williams ar daith drwy Seland Newydd. ",
@@ -344,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd. Dot Davies sy'n mynd â sêr adnabyddus ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru. ",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 8",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1994, pan roedd Cymru yn le hollol wahanol!   ",
@@ -720,6 +720,25 @@
       "series_id": "809467444",
       "title": "Heno Aur - Cyfres 1",
       "date_broadcast": "2025-10-20 12:30:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "124",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
+      "date_broadcast": "2025-10-23 21:00:00",
       "vs": "0"
     },
     {
@@ -758,25 +777,6 @@
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "124",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": "2025-10-23 21:00:00",
       "vs": "0"
     },
     {
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "O FLAEN DY LYGAID",
       "programme_title": "Y Byd Yn Fflam",
       "short_billing": " Heno, cawn hanes rhai o'r Cymry frwydrodd yn erbyn y Natsïaid yn yr Ail Ryfel Byd. // Trwy ddeunydd archif a chyfweliadau, cawn glywed atgofion personol aelodau o'r fyddin, y llynges a'r llu awyr a darganfod sut y gwnaeth y profiadau hyn newid eu bywydau.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 2",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1991, pan roedd Cymru yn le hollol wahanol! ",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": null,
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon mawr ddiwedd y 90au. Yn rhaglen ola'r gyfres, bandiau 'Cool' y cyfnod, Cwpan Rygbi'r Byd yng Nghymru, dathlu'r mileniwm a sgwrs gyda'r cyflwynydd Aled Jones.",
