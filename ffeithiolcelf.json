@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Dim Cwsg i Quinnell",
+      "programme_title": null,
+      "short_billing": "Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell. Yn y bennod olaf, mae Scott yn Amazon yn Abertawe ac yng ngwesty mawreddog Portmeirion.",
+      "thumbnail_url": "Dim_Cwsg_i_Quinnell_2025S4C_Teitlau-1.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell. Yn y bennod olaf, mae Scott yn Amazon yn Abertawe ac yng ngwesty mawreddog Portmeirion.",
+      "clic_aired": "17 Tachwedd 2025",
+      "fav_id": "936265277",
+      "id": "936265410",
+      "series_id": "936265277",
+      "title": "Dim Cwsg i Quinnell",
+      "date_broadcast": "2025-11-28 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "10",
       "days_to_expire": "149",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
@@ -192,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Un Llawr",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey yn edrych ar wahanol fathau o gartrefi yng Nghymru ¿ o ffermdai i dai newydd, tai teras i dai anarferol.  Byddwn yn agor y drws ar hanes pensaernïol Cymru.  Yn y rhaglen hon byddwn yn edrych ar dai un llawr.  ",
@@ -305,27 +324,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Dim Cwsg i Quinnell",
-      "programme_title": null,
-      "short_billing": " Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell.  Y tro yma, mae Scott yn godro ar fferm ger Pen-y-bont ac yn creu wisgi yn Nistyllfa Aber Falls yn Abergwyngregyn. ",
-      "thumbnail_url": "Dim_Cwsg_i_Quinnell_2025S4C_Teitlau-1.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": " Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell.  Y tro yma, mae Scott yn godro ar fferm ger Pen-y-bont ac yn creu wisgi yn Nistyllfa Aber Falls yn Abergwyngregyn. ",
-      "clic_aired": "10 Tachwedd 2025",
-      "fav_id": "936265277",
-      "id": "936265380",
-      "series_id": "936265277",
-      "title": "Dim Cwsg i Quinnell",
-      "date_broadcast": "2025-11-21 18:30:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": null,
       "short_billing": "Mae mab a merch yn dilyn ôl traed eu tad, carcharor rhyfel yn yr Ail Ryfel Byd, ac yn datgelu gwybodaeth newydd am y cynllun mentrus a ysbrydolodd ffilm enwog 'The Great Escape'. ",
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -610,7 +610,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Iaith ar Daith",
       "programme_title": "Melanie Walters",
       "short_billing": "Yr actores Melanie Walters sydd yn mynd a'r Iaith Ar Daith y tro hwn. Yn cadw cwmni iddi ar hyd ei thaith i ail-gysylltu gyda'i gwreiddiau teuluol a'r Gymraeg mae ei ffrind hir oes a chyd actores Donna Edwards.",
@@ -761,6 +761,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "121",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "121",
       "series_title": null,
@@ -796,25 +815,6 @@
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": "2025-10-23 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "121",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Mewn rhaglen arbennig awr o hyd i nodi diwedd y gyfres bresennol, mae Meinir, Sioned ac Adam ynghanol bwrlwm Ffair Haf Aberglasne yn Sir Gaerfyrddin, yn mwynhau crwydro'r stondinau a chael cyfarfod ag ymwelwyr, gwirfoddolwyr a garddwyr.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Cyfres deithio newydd lle bydd y cerddor Gwilym Bowen Rhys yn ymweld â'r Wladfa ym Mhatagonia er mwyn darganfod mwy am hanes y Cymry ymfudodd yno yn 1865. Bydd Gwilym yn cwrdd â nifer o bobl leol ar hyd a lled y Wladfa wrth iddo ddysgu am yr hanes, yr iaith, y gerddoriaeth a'r diwylliant. Yn y bennod hon, daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed mynyddoedd yr Andes.",
