@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "148",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Castle Garage",
-      "short_billing": "Eleni mae Castle Garage, Llanymddyfri yn dathlu canmlwyddiant busnes teuluol y Jonesiaid. Ian, y drydedd genhedlaeth sydd bellach wrth y llyw a hynny ar ôl iddo ddychwelyd adref ar ôl gyrfa yn teithio'r byd fel mecanic Formula 1. Ifan Jones Evans sy'n ymweld â'r garej bach yng nghanol tre'r porthmyn er mwyn dysgu cyfrinach ei hirhoedledd ---  staff a chwsmeriaid hapus a ffyddlon.   ",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P4_Clwcwyr_Norfolk-269.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Eleni mae Castle Garage, Llanymddyfri yn dathlu canmlwyddiant busnes teuluol y Jonesiaid. Ian, y drydedd genhedlaeth sydd bellach wrth y llyw a hynny ar ôl iddo ddychwelyd adref ar ôl gyrfa yn teithio'r byd fel mecanic Formula 1. Ifan Jones Evans sy'n ymweld â'r garej bach yng nghanol tre'r porthmyn er mwyn dysgu cyfrinach ei hirhoedledd ---  staff a chwsmeriaid hapus a ffyddlon.   ",
-      "clic_aired": "17 Tachwedd 2025",
-      "fav_id": "520950902",
-      "id": "942179286",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-11-23 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -112,6 +93,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2025-11-17 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "148",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Castle Garage",
+      "short_billing": "Eleni mae Castle Garage, Llanymddyfri yn dathlu canmlwyddiant busnes teuluol y Jonesiaid. Ian, y drydedd genhedlaeth sydd bellach wrth y llyw a hynny ar ôl iddo ddychwelyd adref ar ôl gyrfa yn teithio'r byd fel mecanic Formula 1. Ifan Jones Evans sy'n ymweld â'r garej bach yng nghanol tre'r porthmyn er mwyn dysgu cyfrinach ei hirhoedledd ---  staff a chwsmeriaid hapus a ffyddlon.   ",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P4_Clwcwyr_Norfolk-269.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Eleni mae Castle Garage, Llanymddyfri yn dathlu canmlwyddiant busnes teuluol y Jonesiaid. Ian, y drydedd genhedlaeth sydd bellach wrth y llyw a hynny ar ôl iddo ddychwelyd adref ar ôl gyrfa yn teithio'r byd fel mecanic Formula 1. Ifan Jones Evans sy'n ymweld â'r garej bach yng nghanol tre'r porthmyn er mwyn dysgu cyfrinach ei hirhoedledd ---  staff a chwsmeriaid hapus a ffyddlon.   ",
+      "clic_aired": "17 Tachwedd 2025",
+      "fav_id": "520950902",
+      "id": "942179286",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-11-23 18:00:00",
       "vs": "0"
     },
     {
@@ -762,7 +762,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Aberfan",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 1 yn adrodd stori Trychineb Aberfan.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sy'n 'Codi Pac' ac yn ymlwybro o gwmpas Cymru.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Erddig",
       "short_billing": "Cyfres am y straeon sy'n cuddio o fewn ein tai hynafol, a chyfle i gwestiynu eu gorffennol - y da a'r drwg. ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
