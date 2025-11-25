@@ -192,7 +192,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Frwydr: Stori Anabledd",
       "programme_title": "Pennod 3",
       "short_billing": "Mae'r actor Mared Jarman yn parhau ei thaith i ddysgu am hanes anabledd yng Nghymru gan edrych ar y 90au hyd at heddiw. Dyma gyfnod o frwydro'r ol, ymladd tros hawliau a dechrau dathlu anabledd mewn ffordd na welwyd o'r blaen.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn taith Wayne a Connagh Howard (Love Island) o gwmpas ynysoedd Cymru. ",
@@ -840,25 +840,6 @@
       "count": "1",
       "days_to_expire": "113",
       "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "113",
-      "series_title": null,
       "programme_title": "Y Parchedig Emyr Ddrwg",
       "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
       "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
@@ -872,6 +853,25 @@
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": "2025-10-23 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "113",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Mike Phillips: Croeso i Dubai",
       "programme_title": null,
       "short_billing": "Wrth i'r gymuned Gymraeg yn Dubai gynyddu mae Ellen Aiad a'i mab hefyd yn benderfynol o gadw'r iaith i fynd. Mae Mike yn cwrdd â Gareth i weld rhai o geir drytaf y byd. A sut siap sydd ar gwmni cynnyrch gwallt cyrliog Elinor Davies Farn'",
@@ -1901,7 +1901,7 @@
       "vs": "0"
     },
     {
-      "count": "5",
+      "count": "4",
       "days_to_expire": "42",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": null,
       "programme_title": "Ffa Coffi Pawb!",
       "short_billing": "Ffa Coffi Pawb - 30 mlynedd ers chwalu, dilynwn hynt a helynt y band o'r gogledd trwy sin gerddoriaeth danddaearol Cymru'r 80au a'r 90au hyd at lwyddiant diweddarach y Super Furry Animals. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Llanberis",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Dylan ar Daith",
       "programme_title": "Dylan ar Daith - O Lundain i'r Rockies: Dafydd ap Tomos",
       "short_billing": "Teithiau i wahanol lefydd o gwmpas y byd gyda'r newyddiadurwr Dylan Iorwerth wrth iddo dilyn ôl troed rhywun gwahanol o Gymru bob tro.",
