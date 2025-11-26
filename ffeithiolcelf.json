@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Y Ci Perffaith",
+      "programme_title": null,
+      "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
+      "thumbnail_url": "Y_Ci_Perffaith_2025S4C_040.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wedi'i gyflwyno gan Heledd Cynwal. Mae 'na 13.5 miliwn o gwn ym Mhrydain. Ond sut ma dod o hyd i'r Ci Perffaith' Dan arweiniad yr arbenigwr c¿n Dylan Davies a chadwyn o arbenigwyr a llochesi c¿n, byddwn ni'n helpu 4 teulu sy'n ysu am gi. Bydd y teulu yn cael treulio amser gyda phob ci dan olwg ein camerau cudd o fewn y ty. Ar ôl wythnos o bendroni a thrafod, bydd y teulu'n cael dewis pa gi ma nhw am gadw fel eu¿ Ci Perffaith!",
+      "clic_aired": "26 Tachwedd 2025",
+      "fav_id": "889984562",
+      "id": "889984570",
+      "series_id": "889984562",
+      "title": "Y Ci Perffaith",
+      "date_broadcast": "2025-11-27 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "23",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -78,7 +97,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Caeau Cymru",
       "programme_title": "Tremarchog Sir Benfro",
       "short_billing": "Brychan Llyr sy'n datgloi hanes a chyfrinachau ein cymunedau gwledig, drwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein caeau a thiroedd. ",
@@ -1674,7 +1693,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": null,
       "short_billing": "Scott Quinnell sy'n mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
@@ -2187,7 +2206,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Golwg ar draethau a phentrefi ar hyd arfordir Bae Ceredigion.",
