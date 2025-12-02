@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Marw gyda Kris",
+      "programme_title": "India",
+      "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
+      "thumbnail_url": "Marw_Gyda_Kris_2024S4C_P2_India-21.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd. Y tro hwn, mae Kris yn teithio i ddinas fwyaf cysegredig India, Varanasi i brofi amlosgi awyr agored, gwestai marwolaeth, a ffigwr eithafol yr Aghori Baba ar lannau'r afon Ganges. ",
+      "clic_aired": "1 Rhagfyr 2025",
+      "fav_id": "878657005",
+      "id": "878657036",
+      "series_id": "878657005",
+      "title": "Marw gyda Kris",
+      "date_broadcast": "2025-12-01 22:35:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -248,25 +267,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "142",
-      "series_title": "Marw gyda Kris",
-      "programme_title": "Mecsico",
-      "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
-      "thumbnail_url": "Marw_Gyda_Kris_2024S4C_Cyfres_099.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Wedi gweithio gyda chyrff am flynyddoedd mae Kris Hughes am adael marwdai Cymru a mentro i bellafoedd y byd i weld sut mae eraill yn delio â marwolaeth. O'r teuluoedd sy'n cadw'r corff yn y ty am flynyddoedd i'r rhai sy'n cynnal parti ysbrydion. O'r hen arfer o losgi'r corff yn yr awr agored i'r symudiad newydd o gompostio cyrff a defnyddio'r compost wrth dyfu bwyd..Y tro hwn: ymweliad â G¿yl y Meirw, santes marwolaeth Santa Muerte, a theulu sy'n glanhau esgyrn eu hanwyliaid ym Mecsico. ",
-      "clic_aired": "24 Tachwedd 2025",
-      "fav_id": "878657005",
-      "id": "878657014",
-      "series_id": "878657005",
-      "title": "Marw gyda Kris",
-      "date_broadcast": "2025-11-24 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "142",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
@@ -344,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -552,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "12",
-      "series_title": "Gwyl Cerdd Dant 2025",
-      "programme_title": null,
-      "short_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
-      "thumbnail_url": "Gwyl_Cerdd_Dant_2025S4C_P2-197.jpg",
-      "duration": "225",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
-      "clic_aired": "9 Tachwedd 2025",
-      "fav_id": "537528161",
-      "id": "947939171",
-      "series_id": "947939159",
-      "title": "Gwyl Cerdd Dant 2025",
-      "date_broadcast": "2025-11-08 19:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "126",
       "series_title": "Ysbyty",
@@ -587,6 +568,25 @@
       "series_id": "887949816",
       "title": "Ysbyty",
       "date_broadcast": "2025-11-26 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "11",
+      "series_title": "Gwyl Cerdd Dant 2025",
+      "programme_title": null,
+      "short_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
+      "thumbnail_url": "Gwyl_Cerdd_Dant_2025S4C_P1-940.jpg",
+      "duration": "135",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
+      "clic_aired": "8 Tachwedd 2025",
+      "fav_id": "537528161",
+      "id": "947939164",
+      "series_id": "947939159",
+      "title": "Gwyl Cerdd Dant 2025",
+      "date_broadcast": "2025-11-08 15:00:00",
       "vs": "0"
     },
     {
@@ -819,7 +819,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -932,6 +932,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "107",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "107",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -966,25 +985,6 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "107",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2182,7 +2182,7 @@
       "id": "874988523",
       "series_id": "874988394",
       "title": "Radio Fa'ma - Cyfres 2",
-      "date_broadcast": "2025-11-22 22:55:00",
+      "date_broadcast": "2025-12-16 15:05:00",
       "vs": "0"
     },
     {
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "158",
+      "days_to_expire": "157",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
