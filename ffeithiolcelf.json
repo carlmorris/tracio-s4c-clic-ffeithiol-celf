@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Richard Holt: Yr Academi Felys -2",
+      "programme_title": null,
+      "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
+      "thumbnail_url": "Richard_Holt_Academi_Felys_2022S4C_P6_01.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Am y tro olaf, mae'r pobyddion yn cystadlu am y brif wobr gyda 'theganau' retro yn yr Ystafell De!",
+      "clic_aired": "5 Rhagfyr 2025",
+      "fav_id": "843448574",
+      "id": "858216989",
+      "series_id": "858216837",
+      "title": "Richard Holt: Yr Academi Felys -2",
+      "date_broadcast": "2025-12-05 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": null,
@@ -264,25 +283,6 @@
       "series_id": "886784249",
       "title": "Y Sîn",
       "date_broadcast": "2025-11-28 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Richard Holt: Yr Academi Felys -2",
-      "programme_title": null,
-      "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
-      "thumbnail_url": "Richard_Holt_Academi_Felys_2022S4C_P5_03.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r pobyddion sy'n weddill yn creu cacennau arallfydol fel rhan o'u hymdrech i aros yn yr Academi¿",
-      "clic_aired": "28 Tachwedd 2025",
-      "fav_id": "843448574",
-      "id": "858216961",
-      "series_id": "858216837",
-      "title": "Richard Holt: Yr Academi Felys -2",
-      "date_broadcast": "2025-11-28 12:05:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "31",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Edrychwn ymlaen at ddathlu Wythnos Dysgu Cymraeg a chawn gwmni enillydd Dysgwr y Flwyddyn Eisteddfod Genedlaethol Wrecsam 2025, Lucy Cowley. Hefyd heno, rydym yn fyw o Wyl Ffilm Iris yng Nghaerdydd. ",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
