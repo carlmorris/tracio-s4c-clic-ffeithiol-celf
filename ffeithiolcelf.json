@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Mike Bubbins - Un Mewn Miliwn",
+      "programme_title": "Yr Addewid",
+      "short_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
+      "thumbnail_url": "Mike_Bubbins_2025S4C_P1-25-Edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
+      "clic_aired": "7 Rhagfyr 2025",
+      "fav_id": "898790192",
+      "id": "898790203",
+      "series_id": "898790192",
+      "title": "Mike Bubbins - Un Mewn Miliwn",
+      "date_broadcast": "2025-12-12 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -268,7 +287,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Uchafbwyntiau'r Ffair Aeaf",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2025. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. Isdeitlau Saesneg ar gael. ",
@@ -420,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "\r\nCyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey yn edrych ar wahanol fathau o gartrefi yng Nghymru ¿ o ffermdai i dai newydd, tai teras i dai anarferol.  Byddwn yn agor y drws ar hanes pensaernïol Cymru.  Yn y rhaglen hon byddwn yn edrych ar dai newydd.  ",
@@ -496,7 +515,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": null,
       "short_billing": "Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell. Yn y bennod olaf, mae Scott yn Amazon yn Abertawe ac yng ngwesty mawreddog Portmeirion.",
@@ -629,7 +648,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": null,
       "short_billing": "Mae mab a merch yn dilyn ôl traed eu tad, carcharor rhyfel yn yr Ail Ryfel Byd, ac yn datgelu gwybodaeth newydd am y cynllun mentrus a ysbrydolodd ffilm enwog 'The Great Escape'. ",
@@ -781,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
@@ -895,7 +914,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Iaith ar Daith",
       "programme_title": "Melanie Walters",
       "short_billing": "Yr actores Melanie Walters sydd yn mynd a'r Iaith Ar Daith y tro hwn. Yn cadw cwmni iddi ar hyd ei thaith i ail-gysylltu gyda'i gwreiddiau teuluol a'r Gymraeg mae ei ffrind hir oes a chyd actores Donna Edwards.",
@@ -1256,7 +1275,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -1353,25 +1372,6 @@
       "count": "1",
       "days_to_expire": "81",
       "series_title": null,
-      "programme_title": "Nathan Brew: Caethwasiaeth a Fi",
-      "short_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
-      "thumbnail_url": "Nathan_Brew_Caethwasiaeth_a_Fi_2024S4C_02690.jpg",
-      "duration": "59",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
-      "clic_aired": "30 Medi 2025",
-      "fav_id": "893503821",
-      "id": "893504057",
-      "series_id": null,
-      "title": "Nathan Brew: Caethwasiaeth a Fi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "81",
-      "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
       "thumbnail_url": "Yr_Actor_ar_Eicon_2024S4C-6-Edit.jpg",
@@ -1388,8 +1388,27 @@
       "vs": "0"
     },
     {
-      "count": "11",
+      "count": "1",
       "days_to_expire": "81",
+      "series_title": null,
+      "programme_title": "Nathan Brew: Caethwasiaeth a Fi",
+      "short_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
+      "thumbnail_url": "Nathan_Brew_Caethwasiaeth_a_Fi_2024S4C_02690.jpg",
+      "duration": "59",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
+      "clic_aired": "30 Medi 2025",
+      "fav_id": "893503821",
+      "id": "893504057",
+      "series_id": null,
+      "title": "Nathan Brew: Caethwasiaeth a Fi",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "11",
+      "days_to_expire": "80",
       "series_title": "Garddio a Mwy - Cyfres 2025",
       "programme_title": null,
       "short_billing": "Mewn rhaglen arbennig awr o hyd i nodi diwedd y gyfres bresennol, mae Meinir, Sioned ac Adam ynghanol bwrlwm Ffair Haf Aberglasne yn Sir Gaerfyrddin, yn mwynhau crwydro'r stondinau a chael cyfarfod ag ymwelwyr, gwirfoddolwyr a garddwyr.",
@@ -1655,7 +1674,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Cyfres deithio newydd lle bydd y cerddor Gwilym Bowen Rhys yn ymweld â'r Wladfa ym Mhatagonia er mwyn darganfod mwy am hanes y Cymry ymfudodd yno yn 1865. Bydd Gwilym yn cwrdd â nifer o bobl leol ar hyd a lled y Wladfa wrth iddo ddysgu am yr hanes, yr iaith, y gerddoriaeth a'r diwylliant. Yn y bennod hon, daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed mynyddoedd yr Andes.",
