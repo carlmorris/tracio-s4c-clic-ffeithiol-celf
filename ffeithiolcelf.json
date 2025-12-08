@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "149",
-      "series_title": "Mike Bubbins - Un Mewn Miliwn",
-      "programme_title": "Yr Addewid",
-      "short_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
-      "thumbnail_url": "Mike_Bubbins_2025S4C_P1-25-Edit.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
-      "clic_aired": "7 Rhagfyr 2025",
-      "fav_id": "898790192",
-      "id": "898790203",
-      "series_id": "898790192",
-      "title": "Mike Bubbins - Un Mewn Miliwn",
-      "date_broadcast": "2025-12-12 21:00:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -1065,25 +1046,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "100",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "100",
       "series_title": null,
@@ -1099,6 +1061,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "100",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2358,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "3 Lle - Cyfres 3",
       "programme_title": "Hywel Gwynfryn",
       "short_billing": "Wyneb adnabyddus yn ymweld â thri lle o bwysigrwydd personol.",
