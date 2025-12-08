@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Mike Bubbins - Un Mewn Miliwn",
+      "programme_title": "Yr Addewid",
+      "short_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
+      "thumbnail_url": "Mike_Bubbins_2025S4C_P1-25-Edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r comedïwr Mike Bubbins wedi addo i'w ferch y bydd yn dysgu Cymraeg mewn blwyddyn. Bydd y gyfres yn dilyn Mike fis wrth fis wrth iddo, mynd i'r afael â defnyddio'r Gymraeg o ddydd i ddydd. Un o'r heriau mwyaf y rhaglen hon fydd cyfweld â Syr Gareth Edwards yn Gymraeg. ",
+      "clic_aired": "7 Rhagfyr 2025",
+      "fav_id": "898790192",
+      "id": "898790203",
+      "series_id": "898790192",
+      "title": "Mike Bubbins - Un Mewn Miliwn",
+      "date_broadcast": "2025-12-12 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -1046,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "100",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "100",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -1099,6 +1099,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "100",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1313,7 +1332,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sy'n 'Codi Pac' ac yn ymlwybro o gwmpas Cymru.",
@@ -1826,7 +1845,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Erddig",
       "short_billing": "Cyfres am y straeon sy'n cuddio o fewn ein tai hynafol, a chyfle i gwestiynu eu gorffennol - y da a'r drwg. ",
@@ -2244,7 +2263,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
