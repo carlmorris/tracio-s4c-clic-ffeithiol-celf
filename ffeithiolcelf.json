@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "8 Rhagfyr 2025",
-      "fav_id": "944195105",
-      "id": "944196753",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2025-12-08 21:28:00",
-      "vs": "0"
-    },
-    {
       "count": "7",
       "days_to_expire": "147",
       "series_title": "Cefn Gwlad",
@@ -150,6 +131,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-12-14 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "8 Rhagfyr 2025",
+      "fav_id": "944195105",
+      "id": "944196753",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2025-12-08 21:28:00",
       "vs": "0"
     },
     {
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": null,
       "programme_title": "Pethau Bychain",
       "short_billing": "Ffilm fer a'i chomisiynnwyd gan Celfyddydau Rhyngwladol Cymru i nodi deng mlynedd o Ddeddf Llesiant Cenedlaethau'r Dyfodol drwy berspectif artistiaid Cymreig. Y bardd a cherddor Iestyn Tyne sy'n curadu 7 o'm hartisitiaid gweledol, cerddorion a dawnswyr mwyaf blaengar, i drafod eu gwaith.",
