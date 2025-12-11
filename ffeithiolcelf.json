@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Oswyn a Gwynant",
-      "short_billing": "Mari Lovgreen sy'n ymweld â'r brodyr Oswyn a Gwynant Roberts o'r Parc, Y Bala sy'n dilyn ôl troed eu Tad gyda'u busnesau contractio. O ddydd i ddydd mae'r ddau yn gweithio o un pen o'r gogledd i'r llall, ond gyda'r nos yn dod ynghyd i rannu diléit teuluol arall - canu  - a hynny gyda pharti sianti'r Wabambas.  ",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mari Lovgreen sy'n ymweld â'r brodyr Oswyn a Gwynant Roberts o'r Parc, Y Bala sy'n dilyn ôl troed eu Tad gyda'u busnesau contractio. O ddydd i ddydd mae'r ddau yn gweithio o un pen o'r gogledd i'r llall, ond gyda'r nos yn dod ynghyd i rannu diléit teuluol arall - canu  - a hynny gyda pharti sianti'r Wabambas.  ",
-      "clic_aired": "8 Rhagfyr 2025",
-      "fav_id": "520950902",
-      "id": "942179330",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-12-14 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -150,6 +131,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2025-12-08 21:28:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "147",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Oswyn a Gwynant",
+      "short_billing": "Mari Lovgreen sy'n ymweld â'r brodyr Oswyn a Gwynant Roberts o'r Parc, Y Bala sy'n dilyn ôl troed eu Tad gyda'u busnesau contractio. O ddydd i ddydd mae'r ddau yn gweithio o un pen o'r gogledd i'r llall, ond gyda'r nos yn dod ynghyd i rannu diléit teuluol arall - canu  - a hynny gyda pharti sianti'r Wabambas.  ",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mari Lovgreen sy'n ymweld â'r brodyr Oswyn a Gwynant Roberts o'r Parc, Y Bala sy'n dilyn ôl troed eu Tad gyda'u busnesau contractio. O ddydd i ddydd mae'r ddau yn gweithio o un pen o'r gogledd i'r llall, ond gyda'r nos yn dod ynghyd i rannu diléit teuluol arall - canu  - a hynny gyda pharti sianti'r Wabambas.  ",
+      "clic_aired": "8 Rhagfyr 2025",
+      "fav_id": "520950902",
+      "id": "942179330",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-12-14 17:35:00",
       "vs": "0"
     },
     {
@@ -381,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "80",
-      "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
-      "programme_title": "Y Leming: Cawr Bach y Gogledd",
-      "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
-      "thumbnail_url": "Tylluan_Eira_Ysglyfaeth_2019S4C_P2_Leming_003.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
-      "clic_aired": "1 Rhagfyr 2025",
-      "fav_id": "805931199",
-      "id": "805931236",
-      "series_id": "805931199",
-      "title": "Tylluan yr Eira a'i Ysglyfaeth",
-      "date_broadcast": "2025-12-07 09:00:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "139",
       "series_title": "Y Ffair Aeaf",
@@ -416,6 +397,25 @@
       "series_id": "947996540",
       "title": "Y Ffair Aeaf",
       "date_broadcast": "2025-12-14 16:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "79",
+      "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
+      "programme_title": "Taith Tylluan Yr Eira",
+      "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
+      "thumbnail_url": "Tylluan_Eira_Ysglyfaeth_2019S4C_P1_Taith_004.jpg",
+      "duration": "44",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
+      "clic_aired": "30 Tachwedd 2025",
+      "fav_id": "805931199",
+      "id": "805931210",
+      "series_id": "805931199",
+      "title": "Tylluan yr Eira a'i Ysglyfaeth",
+      "date_broadcast": "2025-11-30 09:00:00",
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "3",
-      "series_title": "Gwyl Cerdd Dant 2025",
-      "programme_title": null,
-      "short_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
-      "thumbnail_url": "Gwyl_Cerdd_Dant_2025S4C_P2-197.jpg",
-      "duration": "225",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
-      "clic_aired": "9 Tachwedd 2025",
-      "fav_id": "537528161",
-      "id": "947939171",
-      "series_id": "947939159",
-      "title": "Gwyl Cerdd Dant 2025",
-      "date_broadcast": "2025-11-08 19:30:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "117",
       "series_title": "Ysbyty",
@@ -815,6 +796,25 @@
       "series_id": "887949816",
       "title": "Ysbyty",
       "date_broadcast": "2025-11-26 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "2",
+      "series_title": "Gwyl Cerdd Dant 2025",
+      "programme_title": null,
+      "short_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
+      "thumbnail_url": "Gwyl_Cerdd_Dant_2025S4C_P1-940.jpg",
+      "duration": "135",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch gyda Nia Roberts, Heledd Cynwal ac Elin Llwyd am holl hwyl Gwyl Cerdd Dant Aberystwyth a'r Fro eleni - yr unawdau, partion, deuawdau, telynorion, dawnswyr, llefarwyr, cystadleuwyr gwerin ac wrth gwrs cerdd dantwyr o bob oedran. Mae'r digwyddiad eleni yn cael ei gynnal yng Nghanolfan Hamdden Plascrug gyda'r rhagbrofion yn cael eu cynnal yn Ysgol Gyfun Gymunedol Penweddig.",
+      "clic_aired": "8 Tachwedd 2025",
+      "fav_id": "537528161",
+      "id": "947939164",
+      "series_id": "947939159",
+      "title": "Gwyl Cerdd Dant 2025",
+      "date_broadcast": "2025-11-08 15:00:00",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Trysorau'r Teulu",
       "programme_title": null,
       "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Gogglebocs Cymru",
       "programme_title": null,
       "short_billing": "Mae Gogglebocs Cymru 'nôl. Ymunwch â Tudur Owen a'i ffrindiau - hen a newydd - i sbio ar deledu'r wythnos o Gymru a thu hwnt. ",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
