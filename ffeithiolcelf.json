@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "149",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Moyra Blakeman",
-      "short_billing": "Eleni mae Pantri Blakeman, Caerfyrddin yn dathlu 25 mlynedd ers agor eu drysau gyntaf, a'r un teulu sy'n rhedeg y New Cross Inn, Dryslwyn -  o weini cinio Dydd Sul i wneud gwin allan o bwmpen, yn y bennod yma ma e Mari Lovgreen yn treulio tridiau yng nghwmni gwyneb y busnes, yr haden Moyra Blakeman.  ",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Eleni mae Pantri Blakeman, Caerfyrddin yn dathlu 25 mlynedd ers agor eu drysau gyntaf, a'r un teulu sy'n rhedeg y New Cross Inn, Dryslwyn -  o weini cinio Dydd Sul i wneud gwin allan o bwmpen, yn y bennod yma ma e Mari Lovgreen yn treulio tridiau yng nghwmni gwyneb y busnes, yr haden Moyra Blakeman.  ",
-      "clic_aired": "15 Rhagfyr 2025",
-      "fav_id": "520950902",
-      "id": "942179352",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-12-21 13:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -74,6 +55,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2025-12-15 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "149",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Moyra Blakeman",
+      "short_billing": "Eleni mae Pantri Blakeman, Caerfyrddin yn dathlu 25 mlynedd ers agor eu drysau gyntaf, a'r un teulu sy'n rhedeg y New Cross Inn, Dryslwyn -  o weini cinio Dydd Sul i wneud gwin allan o bwmpen, yn y bennod yma ma e Mari Lovgreen yn treulio tridiau yng nghwmni gwyneb y busnes, yr haden Moyra Blakeman.  ",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Eleni mae Pantri Blakeman, Caerfyrddin yn dathlu 25 mlynedd ers agor eu drysau gyntaf, a'r un teulu sy'n rhedeg y New Cross Inn, Dryslwyn -  o weini cinio Dydd Sul i wneud gwin allan o bwmpen, yn y bennod yma ma e Mari Lovgreen yn treulio tridiau yng nghwmni gwyneb y busnes, yr haden Moyra Blakeman.  ",
+      "clic_aired": "15 Rhagfyr 2025",
+      "fav_id": "520950902",
+      "id": "942179352",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-12-21 13:55:00",
       "vs": "0"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
       "short_billing": "Cyfres yn edrych ar fywyd mewn rhai o anialdiroedd y byd.",
@@ -1293,6 +1293,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "92",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "92",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -1327,25 +1346,6 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "92",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
       "short_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Mynyddoedd y Byd",
       "programme_title": "Yr Andes: Lowri Morgan",
       "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Mae'r byd yn cynhesu ac mae lefelau'r moroedd yn codi, yn y rhaglen hon bydd Steffan Powell yn darganfod sut mae natur yn medru bod yn gymorth wrth i ni ddysgu sut i addasu i'r newidiadau hyn, a bydd Steffan Griffiths yn yr Iseldiroedd i gyfarfod peirianwyr arloesol. ",
