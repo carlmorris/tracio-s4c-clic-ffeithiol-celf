@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Tywysogion",
+      "programme_title": "Gruffudd ap Cynan",
+      "short_billing": "Cyfres sy'n gosod Tywysogion Cymru yn rhan o hanes gwledydd Prydain a gorllewin Ewrop yn yr Oesoedd Canol. ",
+      "thumbnail_url": "Tywysogion_2007.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pan oedd y Normaniaid yn ceisio goresgyn Cymru roedd 'na ddraenen gyson yn eu hystlys, Tywysog o dras Gymreig, Wyddelig a Llychlynnaidd: Gruffudd ap Cynan. Am gyfnod bu Gruffudd yn fôr-leidr yn rheibio arfordiroedd Cymru ac Iwerddon. Ond fel Tywysog gosododd y sylfeini ar gyfer llinach Tywysogion Gwynedd, ddaeth i ben ym 1282 pan laddwyd Llywelyn ein Llyw Olaf. Darlledwyd y rhaglen gyntaf yn 2007.",
+      "clic_aired": "21 Rhagfyr 2025",
+      "fav_id": "795681520",
+      "id": "59741146",
+      "series_id": "59741130",
+      "title": "Tywysogion",
+      "date_broadcast": "2025-12-21 09:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
@@ -283,25 +302,6 @@
       "series_id": "809962035",
       "title": "Hydref Gwyllt Iolo",
       "date_broadcast": "2025-12-17 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "28",
-      "series_title": "Tywysogion",
-      "programme_title": "Hywel Dda",
-      "short_billing": "Cyfres sy'n gosod Tywysogion Cymru yn rhan o hanes gwledydd Prydain a gorllewin Ewrop yn yr Oesoedd Canol. ",
-      "thumbnail_url": "Tywysogion_2007.jpg",
-      "duration": "49",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Roedd Hywel Dda yn dod o linach hir o Dywysogion Cymreig ac yn cael ei gofio fel y Tywysog a roddodd drefn ar gyfreithiau Cymru.  Daeth Hywel Dda yn nes na'r un Tywysog o'i flaen i ddod â Chymru gyfan dan ei awdurdod, ond mae'r rhaglen yn dadlau bod Cymru'n rhan o fyd Cristnogol ehangach yn yr Oesoedd Canol.  Mae'r rhaglen gyntaf yma yn y gyfres yn gosod y Tywysogion yn rhan o hanes gwledydd Prydain a gorllewin Ewrop yn yr Oesoedd Canol. Dangoswyd y gyfres gyntaf yn 2007.",
-      "clic_aired": "14 Rhagfyr 2025",
-      "fav_id": "795681520",
-      "id": "59741134",
-      "series_id": "59741130",
-      "title": "Tywysogion",
-      "date_broadcast": "2025-12-14 09:00:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "87",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "87",
       "series_title": null,
@@ -1365,6 +1346,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "87",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Yn y Gwaed",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres, Bedwyr Parri a Georgia Lewis fydd yn ceisio darganfod os yw swydd eu breuddwydion yn cuddio yn y gwaed. ",
