@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "22 Rhagfyr 2025",
-      "fav_id": "944195105",
-      "id": "944196853",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2025-12-22 22:03:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -36,6 +17,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2025-12-28 17:10:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "22 Rhagfyr 2025",
+      "fav_id": "944195105",
+      "id": "944196853",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2025-12-22 22:03:00",
       "vs": "0"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Tywysogion",
       "programme_title": "Gruffudd ap Cynan",
       "short_billing": "Cyfres sy'n gosod Tywysogion Cymru yn rhan o hanes gwledydd Prydain a gorllewin Ewrop yn yr Oesoedd Canol. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Yn y Gwaed",
       "programme_title": null,
       "short_billing": "Ym mhennod ola'r gyfres, Bedwyr Parri a Georgia Lewis fydd yn ceisio darganfod os yw swydd eu breuddwydion yn cuddio yn y gwaed. ",
