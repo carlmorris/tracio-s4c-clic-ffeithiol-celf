@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Noson Lawen - Cyfres 2025",
+      "programme_title": "'Dolig Hywel Pitts",
+      "short_billing": "Ymunwch â Hywel Pitts ar gyfer hwyl y Nadolig yng nghwmni Cabarela, Rose Datta, Elen Wyn, Côr Lleisiau Mignedd, Taran ac Ysgol Hafod Lon. Noson Lawen i godi'r galon!",
+      "thumbnail_url": "Noson_Lawen_2025S4C_P1_Hywel_Pitts-510.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ymunwch â Hywel Pitts ar gyfer hwyl y Nadolig yng nghwmni Cabarela, Rose Datta, Elen Wyn, Côr Lleisiau Mignedd, Taran ac Ysgol Hafod Lon. Noson Lawen i godi'r galon!",
+      "clic_aired": "24 Rhagfyr 2025",
+      "fav_id": "533515113",
+      "id": "924857604",
+      "series_id": "924857596",
+      "title": "Noson Lawen - Cyfres 2025",
+      "date_broadcast": "2025-12-28 21:30:00",
+      "vs": "0"
+    },
+    {
       "count": "23",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -77,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Clwb Rygbi Nant Conwy",
-      "short_billing": "Clwb Rygbi Nant Conwy, clwb cymunedol ar gyrion tref farchnad Llanrwst sy'n llawer mwy na mond lle i chwarae rygbi - mae'n guriad calon i'r gymuned gyfan.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Clwb Rygbi Nant Conwy, clwb cymunedol ar gyrion tref farchnad Llanrwst sy'n llawer mwy na mond lle i chwarae rygbi - mae'n guriad calon i'r gymuned gyfan.",
-      "clic_aired": "22 Rhagfyr 2025",
-      "fav_id": "520950902",
-      "id": "942179396",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2025-12-28 17:10:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -112,6 +112,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2025-12-22 22:03:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "147",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Clwb Rygbi Nant Conwy",
+      "short_billing": "Clwb Rygbi Nant Conwy, clwb cymunedol ar gyrion tref farchnad Llanrwst sy'n llawer mwy na mond lle i chwarae rygbi - mae'n guriad calon i'r gymuned gyfan.",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Clwb Rygbi Nant Conwy, clwb cymunedol ar gyrion tref farchnad Llanrwst sy'n llawer mwy na mond lle i chwarae rygbi - mae'n guriad calon i'r gymuned gyfan.",
+      "clic_aired": "22 Rhagfyr 2025",
+      "fav_id": "520950902",
+      "id": "942179396",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-12-28 17:10:00",
       "vs": "0"
     },
     {
@@ -1407,25 +1426,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "84",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "84",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -1441,6 +1441,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "84",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2035,7 +2054,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Jess Davies",
       "programme_title": "Jess Davies : Byw Mewn Ofn?",
       "short_billing": "Mae Jess Davies wedi cael profiadau ofnadwy o aflonyddu rhywiol, a hefyd wedi dioddef ymosodiad rhywiol.   Mae hi eisiau siarad â merched eraill sydd wedi cael eu heffeithio a darganfod a oes digon yn cael ei wneud i gadw merched yn ddiogel ac i ddod â'r broblem ofnadwy yma i ben. ",
