@@ -40,7 +40,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -249,7 +249,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
       "short_billing": "Cyfres yn edrych ar fywyd mewn rhai o anialdiroedd y byd.",
@@ -1426,6 +1426,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "83",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "83",
       "series_title": null,
@@ -1460,25 +1479,6 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "83",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
       "short_billing": "Yn rhaglen ola'r gyfres bydd Aled Samuel yn ymweld â dwy ardd wrthgyferbyniol iawn. Bydd yn teithio i'r man pellaf yng ngogledd ddwyrain Cymru i ymweld â Chastell y Waun ac i bendraw Penrhyn Llyn i ardd Plas yn Rhiw. Yn ystod ei ymweliad, bydd Aled yn gweld rhai o'r rhyfeddodau sydd gan y gerddi hyfryd yma i'w cynnig. ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": null,
       "programme_title": "Marw Isio Byw",
       "short_billing": "Yn pwyso 45 stôn a'i aren yn methu, doedd Ioan Pollard ddim yn gwybod a fyddai'n gweld y bore. Nawr yn 35 oed ac yn hanner y dyn yr oedd o, mae her arall o'i flaen wrth wynebu trawsblaniad gan ei fam.  ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Mynyddoedd y Byd",
       "programme_title": "Yr Andes: Lowri Morgan",
       "short_billing": "Cyfres yn edrych ar rai o fynyddoedd ac ardaloedd mynyddig hynota'r byd.",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": null,
       "short_billing": "Mae'r byd yn cynhesu ac mae lefelau'r moroedd yn codi, yn y rhaglen hon bydd Steffan Powell yn darganfod sut mae natur yn medru bod yn gymorth wrth i ni ddysgu sut i addasu i'r newidiadau hyn, a bydd Steffan Griffiths yn yr Iseldiroedd i gyfarfod peirianwyr arloesol. ",
