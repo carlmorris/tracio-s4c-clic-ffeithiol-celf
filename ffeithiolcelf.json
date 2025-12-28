@@ -2,6 +2,25 @@
   "progs": [
     {
       "count": "1",
+      "days_to_expire": "34",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Dai Ar Y Teifi",
+      "short_billing": "Cyfres o 1989-90 yn dilyn Dai Jones, Llanilar wrth iddo ymweld â rhai o gymeriadau'r Gymru wledig.",
+      "thumbnail_url": "cefn-gwlad.jpg",
+      "duration": "25",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle i fwynhau rhai o glasuron y gyfres dros y blynyddoedd. Yn y rhaglen hon byddwn yn ail fyw anturiaethau trwstan Dai Jones ar Afon Teifi.",
+      "clic_aired": "28 Rhagfyr 2025",
+      "fav_id": "520950902",
+      "id": "21602328",
+      "series_id": "21299992",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2025-12-28 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "149",
       "series_title": null,
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
@@ -1370,7 +1389,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1959,7 +1978,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Teulu Shadog:Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Wrth i dymor yr wyna ddod i ben --  Meinir sy'n cael y cyfle i ddianc o glos y fferm gyda Sioned a Dafydd wrth iddynt gystadlu yn yr eisteddfod fach leol --  gan gynnwys syrpreis fach hyfryd i Ann y famgu. Ac mae un heffer a llo yn curo crocbris o dan y morthwyl ym mart y Trallwng. ",
