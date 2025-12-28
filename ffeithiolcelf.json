@@ -192,7 +192,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Dolig",
       "short_billing": "Mae Dwynwen a Lee o Dregarth wedi dyweddïo ers 13 mlynedd, ac mae eu teulu a'u ffrindiau eisiau cymorth Trystan Ellis-Morris ac Emma Walford i wireddu'r breuddwyd o briodi. Gobeithio bydd ysbryd y Nadolig yn ddigon cryf i wneud i'r pum mil o bunnoedd i fynd yn bell!",
@@ -306,7 +306,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cefn Gwlad",
       "programme_title": "Clwb Rygbi Nant Conwy",
       "short_billing": "Clwb Rygbi Nant Conwy, clwb cymunedol ar gyrion tref farchnad Llanrwst sy'n llawer mwy na mond lle i chwarae rygbi - mae'n guriad calon i'r gymuned gyfan.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Elidyr Glyn",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw'r cyfansoddwr a phrif leisydd Bwncath, Elidyr Glyn.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": null,
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
@@ -838,7 +838,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Sion Jenkins sy'n cyflwyno rhifyn ola'r flwyddyn. Da ni yn Nyffryn Nantlle a'n trafod costau byw, diogelu plant a dyfodol i gymunedau gwledig.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": null,
       "programme_title": "Curo Tu ôl i'r Drws",
       "short_billing": "Trwy lygaid rhai o'r heddweision sy'n gweithio ym maes cam drin domestig Heddlu Dyfed-Powys, bydd y rhaglen ddogfen ddadlennol hon yn adrodd straeon dioddefwyr cam-drin domestig a'r gwaith sy'n cael ei wneud gan yr heddlu i ymchwilio i bob trosedd.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": null,
       "programme_title": "Mari Grug: Un Dydd Ar Y Tro",
       "short_billing": "Ers derbyn diagnosis o gancer yn 2023 mae bywyd Mari Grug a'i theulu wedi newid yn syfrdanol. Dilynwn siwrnai Mari wrth iddi ddysgu dygymod a thriniaethau a jyglo bywyd fel mam a chyflwynydd, tra'n ceisio 'neud y mwyaf o bob dydd.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "297",
+      "days_to_expire": "296",
       "series_title": null,
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
@@ -1536,6 +1536,25 @@
       "id": "915981680",
       "series_id": null,
       "title": "Ruth Ellis: Y Cariad a'r Crogi",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "80",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1574,25 +1593,6 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "80",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Caryl Lewis",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma, un o'n hawduron mwya toreithiog a llwyddianus Caryl Lewis.\n ",
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cefn Gwlad",
       "programme_title": "Y Gogarth ",
       "short_billing": "Rhifyn arbennig o Cefn Gwlad ble fydd camerau S4C yn gweld sut mae ffarmio ar Y Gogarth, uwchlaw Llandudno. Mari Lovgreen sy'n cwrdd â'r cwpl ifanc Dan a Ceri Jones, gafodd eu dewis gan yr Ymddiriedolaeth Genedlaethol o blith dwy fil o ymgeiswyr i fod yn denantiaid ar ffarm y Parc. Cawn flas ar heriau a dileit ffarmio darn o dir nodedig ac unigryw.",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Williams, Stad Buccleuch",
       "short_billing": "Hanes Siôn Williams, o'r Foel, Dyffryn Banw yn wreiddiol, sydd nawr yn Rheolwr Fferm ar stad Buccleuch, yn yr Alban, yn ffarmio 18,000 o erwau mewn ffordd sy'n agoriad llygaid go iawn.",
@@ -2586,7 +2586,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
