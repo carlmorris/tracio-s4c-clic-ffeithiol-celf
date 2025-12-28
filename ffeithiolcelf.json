@@ -192,7 +192,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
@@ -244,12 +244,12 @@
       "id": "808666881",
       "series_id": "808666856",
       "title": "Sain Ffagan - Cyfres 1",
-      "date_broadcast": "2025-12-22 12:05:00",
+      "date_broadcast": "2026-01-11 11:00:00",
       "vs": "0"
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Jess Davies",
       "programme_title": "Sberm ar y We",
       "short_billing": "A series of compelling, powerful and contemporary films, as Jess Davies looks into some of today's issues.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
       "programme_title": "Y Leming: Cawr Bach y Gogledd",
       "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -1023,7 +1023,7 @@
       "id": "871200292",
       "series_id": "871200168",
       "title": "Prosiect Pum Mil - Cyfres 4",
-      "date_broadcast": "2025-11-23 09:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1085,18 +1085,18 @@
     },
     {
       "count": "3",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadlu'r hwyr",
-      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
+      "programme_title": "Cystadleuthau hwyr y prynhawn",
+      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
-      "duration": "203",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
-      "clic_aired": "16 Tachwedd 2025",
+      "clic_aired": "15 Tachwedd 2025",
       "fav_id": "537583011",
-      "id": "947927314",
+      "id": "947927307",
       "series_id": "947927302",
       "title": "Eisteddfod Ffermwyr Ifanc 2025",
       "date_broadcast": null,
@@ -1251,7 +1251,7 @@
       "id": "893028175",
       "series_id": "893028167",
       "title": "Ymgyrch Seal Bay",
-      "date_broadcast": "2025-11-23 22:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -2296,7 +2296,7 @@
       "id": "887548397",
       "series_id": "887548246",
       "title": "Cartrefi Cymru - Cyfres 1",
-      "date_broadcast": null,
+      "date_broadcast": "2026-01-11 12:35:00",
       "vs": "0"
     },
     {
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2524,25 +2524,6 @@
       "id": "798832389",
       "series_id": "798832346",
       "title": "Cynefin - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Trysorau'r Teulu",
-      "programme_title": null,
-      "short_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
-      "thumbnail_url": "Trysorau_Teulu_2019S4C_P1_John_a_Sian_002.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae John Rees a Sïan Astley yn chwilota am fwy o drysorau mewn tai ar draws Cymru. Yng Nghapel Garmon ger Llanrwst mae gan Elliw gasgliad o emwaith mae am ddarganfod mwy amdanynt. A dyfal donc fydd hi i'r arbenigwyr pan mae Ann ac Idwal o Langernyw yn gofyn iddyn nhw archwilio hanes carreg o'r oes a fu.",
-      "clic_aired": "31 Gorffennaf 2025",
-      "fav_id": "800436598",
-      "id": "802518467",
-      "series_id": "802518337",
-      "title": "Trysorau'r Teulu",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2624,7 +2605,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "910",
+      "days_to_expire": "909",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2700,7 +2681,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
