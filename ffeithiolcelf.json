@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cymru ar Gyffuriau",
+      "programme_title": "Canabis",
+      "short_billing": "Mae Zahra Errami'n ffilmio'n gudd ac yn ymchwilio i gynnydd yn y defnydd o gocên yng nghefn gwlad Cymru.",
+      "thumbnail_url": "Cymru_ar_Gyffuriau_2025S4C_Cyfres_099.jpg",
+      "duration": "20",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "O Gymru i'r Almaen, Zahra Errami sy'n ymchwilio i'r ddadl dros gyfreithloni canabis.",
+      "clic_aired": "6 Ionawr 2026",
+      "fav_id": "927534538",
+      "id": "927534546",
+      "series_id": "927534538",
+      "title": "Cymru ar Gyffuriau",
+      "date_broadcast": "2026-01-08 23:20:00",
+      "vs": "0"
+    },
+    {
       "count": "9",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -932,25 +951,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "117",
-      "series_title": "Cymru ar Gyffuriau",
-      "programme_title": "Canabis",
-      "short_billing": "Mae Zahra Errami'n ffilmio'n gudd ac yn ymchwilio i gynnydd yn y defnydd o gocên yng nghefn gwlad Cymru.",
-      "thumbnail_url": "Cymru_ar_Gyffuriau_2025S4C_Cyfres_099.jpg",
-      "duration": "20",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "O Gymru i'r Almaen, Zahra Errami sy'n ymchwilio i'r ddadl dros gyfreithloni canabis.",
-      "clic_aired": "5 Rhagfyr 2025",
-      "fav_id": "927534538",
-      "id": "927534546",
-      "series_id": "927534538",
-      "title": "Cymru ar Gyffuriau",
-      "date_broadcast": "2026-01-08 23:20:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "117",
       "series_title": "Priodas Pum Mil - Cyfres 8",
@@ -1654,6 +1654,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "71",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "71",
       "series_title": null,
@@ -1688,25 +1707,6 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "71",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": null,
       "programme_title": "Pethau Bychain",
       "short_billing": "Ffilm fer a'i chomisiynnwyd gan Celfyddydau Rhyngwladol Cymru i nodi deng mlynedd o Ddeddf Llesiant Cenedlaethau'r Dyfodol drwy berspectif artistiaid Cymreig. Y bardd a cherddor Iestyn Tyne sy'n curadu 7 o'm hartisitiaid gweledol, cerddorion a dawnswyr mwyaf blaengar, i drafod eu gwaith.",
