@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "149",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Aled Tyllwyd",
-      "short_billing": "Blwyddyn ym mywyd Prif Weithredwr Cymdeithas Amaethyddol Frenhinol Cymru, Aled Jones, tair blynedd ers penodi'r g¿r gymharol ifanc i warchod un o ddigwyddiadau cenedlaethol mwyaf Cymru. Cyfle prin i fynd dan groen y g¿r mae trigolion Cwrt y Cadno yn dal i 'nabod fel Aled Tyllwyd. ",
-      "thumbnail_url": "Cefn_Gwlad_2025S4C_P11.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Blwyddyn ym mywyd Prif Weithredwr Cymdeithas Amaethyddol Frenhinol Cymru, Aled Jones, tair blynedd ers penodi'r g¿r gymharol ifanc i warchod un o ddigwyddiadau cenedlaethol mwyaf Cymru. Cyfle prin i fynd dan groen y g¿r mae trigolion Cwrt y Cadno yn dal i 'nabod fel Aled Tyllwyd. ",
-      "clic_aired": "6 Ionawr 2026",
-      "fav_id": "520950902",
-      "id": "942179419",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2026-01-11 17:05:00",
-      "vs": "0"
-    },
-    {
       "count": "19",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -93,6 +74,25 @@
       "series_id": "927534538",
       "title": "Cymru ar Gyffuriau",
       "date_broadcast": "2026-01-08 23:20:00",
+      "vs": "0"
+    },
+    {
+      "count": "9",
+      "days_to_expire": "148",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Aled Tyllwyd",
+      "short_billing": "Blwyddyn ym mywyd Prif Weithredwr Cymdeithas Amaethyddol Frenhinol Cymru, Aled Jones, tair blynedd ers penodi'r g¿r gymharol ifanc i warchod un o ddigwyddiadau cenedlaethol mwyaf Cymru. Cyfle prin i fynd dan groen y g¿r mae trigolion Cwrt y Cadno yn dal i 'nabod fel Aled Tyllwyd. ",
+      "thumbnail_url": "Cefn_Gwlad_2025S4C_P11.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Blwyddyn ym mywyd Prif Weithredwr Cymdeithas Amaethyddol Frenhinol Cymru, Aled Jones, tair blynedd ers penodi'r g¿r gymharol ifanc i warchod un o ddigwyddiadau cenedlaethol mwyaf Cymru. Cyfle prin i fynd dan groen y g¿r mae trigolion Cwrt y Cadno yn dal i 'nabod fel Aled Tyllwyd. ",
+      "clic_aired": "5 Ionawr 2026",
+      "fav_id": "520950902",
+      "id": "942179419",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2026-01-11 17:05:00",
       "vs": "0"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Codi Pac - Cyfres 4",
       "programme_title": "Llandudno",
       "short_billing": "Geraint Hardy sy'n 'Codi Pac' ac yn ymlwybro o gwmpas Cymru.",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Erddig",
       "short_billing": "Cyfres am y straeon sy'n cuddio o fewn ein tai hynafol, a chyfle i gwestiynu eu gorffennol - y da a'r drwg. ",
