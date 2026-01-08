@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Dan Do",
+      "programme_title": "Ty David ac Anthony- Talog",
+      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "thumbnail_url": "Dan_Do_2019_010.jpg",
+      "duration": "9",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
+      "clic_aired": "8 Ionawr 2026",
+      "fav_id": "802081093",
+      "id": "832478843",
+      "series_id": "832478761",
+      "title": "Dan Do",
+      "date_broadcast": "2026-01-09 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
@@ -63,7 +82,7 @@
       "series_title": "Y Cyfweliad",
       "programme_title": "Mike Phillips",
       "short_billing": "Yn y bennod hon, y cyn-chwaraewr rygbi cenedlaethol Mike Phillips fydd yn cael ei holi'n dwll mewn ffordd fel na welwyd o'r blaen wrth i griw o holwyr awtistig, niwro-wahanol a phobl sydd ag anableddau dysgu ei gyfweld.",
-      "thumbnail_url": "Y_Cyfweliad_2025S4C_099.jpg",
+      "thumbnail_url": "Y_Cyfweliad_2025S4C_Mike_Phillips-3309.jpg",
       "duration": "28",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
@@ -325,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Grove Arberth",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -533,8 +552,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "135",
+      "count": "9",
+      "days_to_expire": "134",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Nadolig",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -875,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "118",
-      "series_title": "Dan Do",
-      "programme_title": "Ty Jan a'r Teulu- Pontcanna",
-      "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "thumbnail_url": "Dan_Do_2019_010.jpg",
-      "duration": "9",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â chartref Fictoraidd ar ei newydd wedd ym Mhontcanna.  ",
-      "clic_aired": "7 Rhagfyr 2025",
-      "fav_id": "802081093",
-      "id": "832478795",
-      "series_id": "832478761",
-      "title": "Dan Do",
-      "date_broadcast": "2025-12-07 19:05:00",
-      "vs": "0"
-    },
-    {
       "count": "5",
       "days_to_expire": "118",
       "series_title": "24 Awr Newidiodd Gymru",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Mae Chris Roberts, Kiri Pritchard McLean ac Alun Williams ar daith drwy Seland Newydd. ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd. Dot Davies sy'n mynd â sêr adnabyddus ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru. ",
@@ -1692,25 +1692,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "69",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "69",
       "series_title": null,
@@ -1726,6 +1707,25 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "69",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "O FLAEN DY LYGAID",
       "programme_title": "Y Byd Yn Fflam",
       "short_billing": " Heno, cawn hanes rhai o'r Cymry frwydrodd yn erbyn y Natsïaid yn yr Ail Ryfel Byd. // Trwy ddeunydd archif a chyfweliadau, cawn glywed atgofion personol aelodau o'r fyddin, y llynges a'r llu awyr a darganfod sut y gwnaeth y profiadau hyn newid eu bywydau.",
