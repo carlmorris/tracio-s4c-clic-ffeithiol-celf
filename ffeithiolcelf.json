@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "5 Ionawr 2026",
-      "fav_id": "944195105",
-      "id": "944196953",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-01-05 21:58:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "147",
       "series_title": "Cefn Gwlad",
@@ -131,6 +112,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2026-01-11 17:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "5 Ionawr 2026",
+      "fav_id": "944195105",
+      "id": "944196953",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-01-05 21:58:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Hydref Gwyllt Iolo",
       "programme_title": "Tir Gwlyb",
       "short_billing": "Yn y rhan olaf o'i daith o fywyd gwyllt gorau'r hydref, mae Iolo Williams yn crwydro afonydd, coedlannau collddail a thir gwlyb yng Ngwm Rheidol, Cors Caron a  Llynnoedd Cosmeston. Hefyd un o olygfeydd gorau'r hydref.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
