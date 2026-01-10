@@ -97,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Sioned",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Sharon Morgan",
       "short_billing": "Y tro hwn, yr artist dyfrliw Teresa Jenellen sy'n mynd ati i wneud portread o'r actor Sharon Morgan.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Pobl Harri Parri",
       "programme_title": null,
       "short_billing": "Harri Parri sy'n ymweld â llefydd sy'n bwysig iddo ac yn cwrdd â rhai o'r trigolion.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -857,7 +857,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -971,7 +971,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -1749,25 +1749,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "67",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "67",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -1783,6 +1764,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "67",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "21",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Edrychwn ymlaen at ddathlu Wythnos Dysgu Cymraeg a chawn gwmni enillydd Dysgwr y Flwyddyn Eisteddfod Genedlaethol Wrecsam 2025, Lucy Cowley. Hefyd heno, rydym yn fyw o Wyl Ffilm Iris yng Nghaerdydd. ",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -2452,7 +2452,7 @@
       "vs": "0"
     },
     {
-      "count": "5",
+      "count": "4",
       "days_to_expire": "15",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
