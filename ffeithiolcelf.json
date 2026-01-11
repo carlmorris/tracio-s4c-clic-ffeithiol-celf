@@ -301,12 +301,12 @@
       "id": "808666917",
       "series_id": "808666856",
       "title": "Sain Ffagan - Cyfres 1",
-      "date_broadcast": "2026-01-05 12:05:00",
+      "date_broadcast": "2026-01-25 11:00:00",
       "vs": "0"
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "A series of compelling, powerful and contemporary films, as Jess Davies looks into some of today's issues.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
@@ -928,7 +928,7 @@
       "id": "883264982",
       "series_id": "883264521",
       "title": "24 Awr Newidiodd Gymru",
-      "date_broadcast": "2025-12-07 18:55:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -947,7 +947,7 @@
       "id": "876140542",
       "series_id": "876140485",
       "title": "Y Gêm - Cyfres 2",
-      "date_broadcast": "2025-12-07 18:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
       "programme_title": "Y Leming: Cawr Bach y Gogledd",
       "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
@@ -1080,7 +1080,7 @@
       "id": "805931236",
       "series_id": "805931199",
       "title": "Tylluan yr Eira a'i Ysglyfaeth",
-      "date_broadcast": "2025-12-07 09:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -1313,18 +1313,18 @@
     },
     {
       "count": "3",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadlu'r hwyr",
-      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
+      "programme_title": "Cystadleuthau hwyr y prynhawn",
+      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
-      "duration": "203",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
-      "clic_aired": "16 Tachwedd 2025",
+      "clic_aired": "15 Tachwedd 2025",
       "fav_id": "537583011",
-      "id": "947927314",
+      "id": "947927307",
       "series_id": "947927302",
       "title": "Eisteddfod Ffermwyr Ifanc 2025",
       "date_broadcast": null,
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -1730,6 +1730,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "67",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "67",
       "series_title": null,
@@ -1764,25 +1783,6 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "67",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -2643,7 +2643,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "896",
+      "days_to_expire": "895",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2719,7 +2719,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
