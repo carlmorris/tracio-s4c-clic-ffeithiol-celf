@@ -40,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Bai ar Gam",
       "short_billing": "Welsh TV broadcaster and journalist Sian Lloyd takes viewers on a powerful journey through some of Wales' dark history of crime.",
@@ -55,25 +55,6 @@
       "series_id": "873597678",
       "title": "Troseddau Cymru Gyda Sian Lloyd",
       "date_broadcast": "2026-01-12 23:10:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "12 Ionawr 2026",
-      "fav_id": "944195105",
-      "id": "944197003",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-01-12 21:33:00",
       "vs": "0"
     },
     {
@@ -93,6 +74,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-01-18 17:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "12 Ionawr 2026",
+      "fav_id": "944195105",
+      "id": "944197003",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-01-12 21:33:00",
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "A series of compelling, powerful and contemporary films, as Jess Davies looks into some of today's issues.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
@@ -1198,25 +1198,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "46",
-      "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
-      "programme_title": "Y Leming: Cawr Bach y Gogledd",
-      "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
-      "thumbnail_url": "Tylluan_Eira_Ysglyfaeth_2019S4C_P2_Leming_003.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
-      "clic_aired": "1 Rhagfyr 2025",
-      "fav_id": "805931199",
-      "id": "805931236",
-      "series_id": "805931199",
-      "title": "Tylluan yr Eira a'i Ysglyfaeth",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "105",
       "series_title": "Y Ffair Aeaf",
@@ -1233,6 +1214,25 @@
       "series_id": "947996540",
       "title": "Y Ffair Aeaf",
       "date_broadcast": "2025-12-14 16:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "45",
+      "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
+      "programme_title": "Taith Tylluan Yr Eira",
+      "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
+      "thumbnail_url": "Tylluan_Eira_Ysglyfaeth_2019S4C_P1_Taith_004.jpg",
+      "duration": "44",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
+      "clic_aired": "30 Tachwedd 2025",
+      "fav_id": "805931199",
+      "id": "805931210",
+      "series_id": "805931199",
+      "title": "Tylluan yr Eira a'i Ysglyfaeth",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -1863,25 +1863,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "64",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "64",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -1897,6 +1878,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "64",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2049,7 +2049,7 @@
       "id": "821380959",
       "series_id": "821380840",
       "title": "Teulu'r Castell",
-      "date_broadcast": "2025-12-10 22:30:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Bydd pob rhifyn yn dilyn un artist wrth iddynt ddarlunio un eicon Cymreig ar gynfas/mewn celfyddyd o'u dewis.",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -2776,7 +2776,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
