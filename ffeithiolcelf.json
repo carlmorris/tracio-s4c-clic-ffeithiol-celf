@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y diweddaraf ar y Dreth Etifeddiant wedi cyhoeddiad Llywodraeth y Deyrnas Gyfunol bod y trothwy'n codi, a theyrnged i gyn-gyflwynydd Ffermio, Sulwyn Thomas.",
-      "clic_aired": "12 Ionawr 2026",
-      "fav_id": "533250950",
-      "id": "946348710",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2026-01-18 17:35:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -112,6 +93,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-01-12 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y diweddaraf ar y Dreth Etifeddiant wedi cyhoeddiad Llywodraeth y Deyrnas Gyfunol bod y trothwy'n codi, a theyrnged i gyn-gyflwynydd Ffermio, Sulwyn Thomas.",
+      "clic_aired": "12 Ionawr 2026",
+      "fav_id": "533250950",
+      "id": "946348710",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2026-01-18 17:35:00",
       "vs": "0"
     },
     {
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": null,
       "programme_title": "Pethau Bychain",
       "short_billing": "Ffilm fer a'i chomisiynnwyd gan Celfyddydau Rhyngwladol Cymru i nodi deng mlynedd o Ddeddf Llesiant Cenedlaethau'r Dyfodol drwy berspectif artistiaid Cymreig. Y bardd a cherddor Iestyn Tyne sy'n curadu 7 o'm hartisitiaid gweledol, cerddorion a dawnswyr mwyaf blaengar, i drafod eu gwaith.",
