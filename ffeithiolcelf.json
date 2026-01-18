@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Pobl Harri Parri",
+      "programme_title": "Caernarfon",
+      "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
+      "thumbnail_url": "Harri_Parri_2010_9949.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
+      "clic_aired": "18 Ionawr 2026",
+      "fav_id": "497596795",
+      "id": "497596925",
+      "series_id": "497596795",
+      "title": "Pobl Harri Parri",
+      "date_broadcast": "2026-01-18 12:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "34",
       "series_title": "Tywysogion",
@@ -230,7 +249,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Elin ac Olive",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -249,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Mei Gwynedd",
       "short_billing": "Y tro hwn, bydd yr artist graffeg Steffan Dafydd yn mynd ati i greu portread o'r cerddor Mei Gwynedd. ",
@@ -344,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -416,25 +435,6 @@
       "series_id": "879178476",
       "title": "Y Fets - Cyfres 6",
       "date_broadcast": "2026-01-13 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Pobl Harri Parri",
-      "programme_title": "Pobl Wahanol",
-      "short_billing": "I Harri mae rhai pobl sy'n berchen ar egni heintus. Caiff wybod mwy am yr hyn sy'n eu gyrru wrth ymweld â labordy Dr Hefin Jones, gwyddonydd ym Mhrifysgol Caerdydd. Bydd e hefyd yn clywed hanes morwyr y Cilie yng nghwmni Jon Meirion Jones ger Llangrannog ac yn Rhos, Wrecsam, bydd yn ail-gyfarfod cyfaill a chwaraewr tenis, Elfyn Richards. Bydd Harri hefyd yn teithio i ysbyty Lerpwl i gyfarfod y meddyg, Yr Athro Mari Lloyd-Williams. Ond beth sy'n rhoi'r 'teigr yn y tanc' i'r bobl 'arbennig' yma'",
-      "thumbnail_url": "Harri_Parri_2010_9949.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "I Harri mae rhai pobl sy'n berchen ar egni heintus. Caiff wybod mwy am yr hyn sy'n eu gyrru wrth ymweld â labordy Dr Hefin Jones, gwyddonydd ym Mhrifysgol Caerdydd. Bydd e hefyd yn clywed hanes morwyr y Cilie yng nghwmni Jon Meirion Jones ger Llangrannog ac yn Rhos, Wrecsam, bydd yn ail-gyfarfod cyfaill a chwaraewr tenis, Elfyn Richards. Bydd Harri hefyd yn teithio i ysbyty Lerpwl i gyfarfod y meddyg, Yr Athro Mari Lloyd-Williams. Ond beth sy'n rhoi'r 'teigr yn y tanc' i'r bobl 'arbennig' yma'",
-      "clic_aired": "11 Ionawr 2026",
-      "fav_id": "497596795",
-      "id": "497596901",
-      "series_id": "497596795",
-      "title": "Pobl Harri Parri",
-      "date_broadcast": "2026-01-11 12:00:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -1863,25 +1863,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "59",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "59",
       "series_title": null,
@@ -1897,6 +1878,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "59",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "21",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Heno",
       "programme_title": null,
       "short_billing": "Edrychwn ymlaen at ddathlu Wythnos Dysgu Cymraeg a chawn gwmni enillydd Dysgwr y Flwyddyn Eisteddfod Genedlaethol Wrecsam 2025, Lucy Cowley. Hefyd heno, rydym yn fyw o Wyl Ffilm Iris yng Nghaerdydd. ",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
