@@ -154,7 +154,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon, mae'r Cerddor Gwilym Bowen Rhys yn ymweld â Donostia (San Sebastian) ac yn cwrdd â nifer o bobl leol wrth ddysgu am yr hanes, yr iaith, y gerddoriaeth a'r diwylliant.",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Arian parod, arian brwnt",
       "short_billing": "Gwneud arian yn gyflym ac yn hawdd - dyna'r addewid gan droseddwyr wrth dargedu pobl i fod yn 'money mules', sef ffordd anghyfreithlon o guddio arian. Nest Jenkins sy'n cwrdd â dau berson gafodd eu twyllo mewn i fulo arian, gyda'r goblygiadau ariannol a meddyliol yn ddifrifol.",
@@ -1901,25 +1901,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "54",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "54",
       "series_title": null,
@@ -1935,6 +1916,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "54",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": null,
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
