@@ -420,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai'r 1920au a'r 1930au",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Nadolig",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Mae Chris Roberts, Kiri Pritchard McLean ac Alun Williams ar daith drwy Seland Newydd. ",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Cyfres newydd. Dot Davies sy'n mynd â sêr adnabyddus ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru. ",
@@ -1939,25 +1939,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "52",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "52",
       "series_title": null,
@@ -1992,6 +1973,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "52",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "O FLAEN DY LYGAID",
       "programme_title": "Y Byd Yn Fflam",
       "short_billing": " Heno, cawn hanes rhai o'r Cymry frwydrodd yn erbyn y Natsïaid yn yr Ail Ryfel Byd. // Trwy ddeunydd archif a chyfweliadau, cawn glywed atgofion personol aelodau o'r fyddin, y llynges a'r llu awyr a darganfod sut y gwnaeth y profiadau hyn newid eu bywydau.",
