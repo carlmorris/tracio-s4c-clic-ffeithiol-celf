@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae 2026 yn nodi diwedd cyfnod i Aled Jones fel Llywydd NFU Cymru, Nia fydd yn ymweld ag ef ac yn holi am ei gyfnod wrth y llyw. Bydd Meinir yn clywed mwy am y diwydiant llaeth yn Yr Iseldiroedd a gyda phris llaeth yn gostwng, mae un ffermwr o Sir Gâr yn datblygu ei fusnes i ychwanegu gwerth i'w laeth.",
-      "clic_aired": "26 Ionawr 2026",
-      "fav_id": "533250950",
-      "id": "946348724",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2026-02-01 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -74,6 +55,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-01-26 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae 2026 yn nodi diwedd cyfnod i Aled Jones fel Llywydd NFU Cymru, Nia fydd yn ymweld ag ef ac yn holi am ei gyfnod wrth y llyw. Bydd Meinir yn clywed mwy am y diwydiant llaeth yn Yr Iseldiroedd a gyda phris llaeth yn gostwng, mae un ffermwr o Sir Gâr yn datblygu ei fusnes i ychwanegu gwerth i'w laeth.",
+      "clic_aired": "26 Ionawr 2026",
+      "fav_id": "533250950",
+      "id": "946348724",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2026-02-01 15:55:00",
       "vs": "0"
     },
     {
