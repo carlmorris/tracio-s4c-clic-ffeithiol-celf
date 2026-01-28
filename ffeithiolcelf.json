@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": null,
+      "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
+      "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
+      "thumbnail_url": "Byd_Eithafol_2025S4C_Neo-Nazis_yn_ein_Plith-Edit.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
+      "clic_aired": "28 Ionawr 2026",
+      "fav_id": "887613048",
+      "id": "897351062",
+      "series_id": null,
+      "title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
+      "date_broadcast": "2026-01-28 22:05:00",
+      "vs": "0"
+    },
+    {
       "count": "19",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -96,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "26 Ionawr 2026",
-      "fav_id": "944195105",
-      "id": "944197103",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-01-26 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "147",
       "series_title": "Ffermio",
@@ -131,6 +131,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-02-01 15:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "26 Ionawr 2026",
+      "fav_id": "944195105",
+      "id": "944197103",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-01-26 21:33:00",
       "vs": "0"
     },
     {
@@ -1085,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1142,7 +1161,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
@@ -1351,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "Priodas Pymtheg Mil Aled&Malin",
       "short_billing": "Mewn pennod unigryw o'r gyfres boblogaidd Priodas Pum Mil, mae'r pot ariannol wedi treblu i bymtheg mil o bunnoedd er mwyn gwireddu breuddwyd Aled a Malin o Eglwyswrw, Sir Benfro sy'n awyddus dathlu eu diwrnod mawr yng Nghymru ac yn Sweden. ",
@@ -2016,7 +2035,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": null,
       "programme_title": "Tri Tryweryn",
       "short_billing": "Cyfle arall i weld y rhaglen hon yn dilyn digwyddiadau diweddar yn ymwneud â chofeb Cofiwch Dryweryn. Yn hwyr ar y 9fed Chwefror 1963, ynghanol eira mawr, teithiodd tri Chymro i ardal y Bala - Emyr Llewelyn, myfyriwr prifysgol o Sir Aberteifi, Owain Williams, mab ffarm a pherchennog caffi ym Mhwllheli, a John Albert Jones o Ben Llyn, cyn aelod o'r RAF. Y nod oedd gosod bom ar safle adeiladu cronfa dd¿r Tryweryn a chreu difrod er mwyn tynnu sylw at foddi pentref a chymuned Gymraeg Capel Celyn ger",
@@ -2053,25 +2072,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "49",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "49",
       "series_title": null,
@@ -2087,6 +2087,25 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "49",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2111,7 +2130,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": null,
       "programme_title": "Brwydr Llangyndeyrn",
       "short_billing": "Rhaglen arbennig a ddangoswyd gyntaf, ym mis Hydref 2013, i nodi 50 mlynedd ers ymgyrch lwyddiannus i atal Cyngor Abertawe rhag boddi Cwm Gwendraeth Fach a'r ffermydd cyfagos. Yr actores Sharon Morgan fu'n teithio yn ôl i fro ei mebyd i ddarganfod mwy am hanes cudd Brwydr Llangyndeyrn. Brwydr gan y gymuned oedd hon a chawn gyfweliadau â'r ffermwyr a chwaraeodd rôl bwysig, yn ogystal ag aelodau o'r gymuned ehangach. ",
@@ -2586,7 +2605,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Y Stiwdio Grefftau",
       "programme_title": "Parc Cenedlaethol Eryri",
       "short_billing": "Yn y gyfres hon bydd tri crefftwyr dawnus yn cystadlu â'i gilydd er mwyn ennill y fraint o arddangos eu gwaith i'r cyhoedd ar ran rhai o fudiadau mwyaf blaenllaw Cymru. Y gamp fydd creu darn o waith gall y mudiad fod yn falch ohoni ac am ei ddangos i'r byd. Gyda mis i greu, bydd angen sgil, creadigrwydd a llond trol o amynedd. Y tro hwn, Parc Cenedlaethol Eryri fydd yn gosod yr her o greu mainc i wylio'r sêr.  Ond sut fydd y crefftwyr yn ymdopi a phwy ddaw i'r brig'",
