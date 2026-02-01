@@ -401,7 +401,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
@@ -910,25 +910,6 @@
       "series_id": null,
       "title": "Guinness World Records Cymru 2025",
       "date_broadcast": "2025-12-30 22:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Dai Ar Y Teifi",
-      "short_billing": "Cyfres o 1989-90 yn dilyn Dai Jones, Llanilar wrth iddo ymweld â rhai o gymeriadau'r Gymru wledig.",
-      "thumbnail_url": "cefn-gwlad.jpg",
-      "duration": "25",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle i fwynhau rhai o glasuron y gyfres dros y blynyddoedd. Yn y rhaglen hon byddwn yn ail fyw anturiaethau trwstan Dai Jones ar Afon Teifi.",
-      "clic_aired": "28 Rhagfyr 2025",
-      "fav_id": "520950902",
-      "id": "21602328",
-      "series_id": "21299992",
-      "title": "Cefn Gwlad",
-      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2548,7 +2529,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Teulu Shadog:Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Wrth i dymor yr wyna ddod i ben --  Meinir sy'n cael y cyfle i ddianc o glos y fferm gyda Sioned a Dafydd wrth iddynt gystadlu yn yr eisteddfod fach leol --  gan gynnwys syrpreis fach hyfryd i Ann y famgu. Ac mae un heffer a llo yn curo crocbris o dan y morthwyl ym mart y Trallwng. ",
