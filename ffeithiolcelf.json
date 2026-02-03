@@ -325,7 +325,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Stori'r Iaith",
       "programme_title": "Lisa Jen",
       "short_billing": "Lisa Jên sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd Lisa yn dysgu am Gymreictod cymunedau llechi'r gogledd ac yn darganfod mwy am wreiddiau'r berthynas anodd rhwng Cymraeg a Saesneg.  Mae'n darganfod effeithiau hir dymor y Deddfau Uno 500 mlynedd yn ôl ar yr iaith Gymraeg ac yn datgelu'r gwirionedd anghyfforddus am y Welsh Not. Cyfres sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -2148,6 +2148,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "43",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "43",
       "series_title": null,
@@ -2182,25 +2201,6 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "43",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Cyfres dwy-ran am y llofruddiaeth bwa croes ar Ynys Môn.",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2338,8 +2338,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "35",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Gareth Jones: Nofio Adre",
       "programme_title": "Pennod 3",
       "short_billing": "I ddathlu ei ben-blwydd yn 60 oed mae Gareth 'Gaz Top' Jones am nofio 60km o'r de i ogledd Cymru ar draws llynnoedd, afonydd, a chronfeydd d¿r. Dros dair wythnos bydd Gareth yn nofio mwy nag y mae erioed wedi ei wneud o'r blaen. Yn ystod wsos olaf y sialens bydd y nofiwr gwyllt Caris Bowen yn cefnogi Gareth wrth iddo deithio ar draws y gogledd cyn gorffen ei sialens drwy nofio lawr yr afon Conwy. Ond ar ôl tair wythnos nofio fydd ganddo ddigon o egni i lwyddo' \n\n ",
