@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "0",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "2 Chwefror 2026",
-      "fav_id": "944195105",
-      "id": "944197153",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-02-02 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -150,6 +131,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-02-08 15:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "0",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "2 Chwefror 2026",
+      "fav_id": "944195105",
+      "id": "944197153",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-02-02 21:33:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon, mae Gwilym yn ymweld ag Iperralde sef rhan Ffrengig Gwlad y Basg cyn gorffen ei daith yn Irunea (Pamplona).",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Arian parod, arian brwnt",
       "short_billing": "Gwneud arian yn gyflym ac yn hawdd - dyna'r addewid gan droseddwyr wrth dargedu pobl i fod yn 'money mules', sef ffordd anghyfreithlon o guddio arian. Nest Jenkins sy'n cwrdd â dau berson gafodd eu twyllo mewn i fulo arian, gyda'r goblygiadau ariannol a meddyliol yn ddifrifol.",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": null,
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
