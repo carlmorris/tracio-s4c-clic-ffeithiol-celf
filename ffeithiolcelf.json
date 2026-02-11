@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": null,
       "programme_title": "Ffwtbol a Fflêrs: Cofio Arwyr `76",
       "short_billing": "Ail-ddarllediad i gofio cyn-gapten Cymru, y diweddar Terry Yorath, a'n harweiniodd ni i rownd yr wyth olaf ym Mhencampwriaeth Ewrop 1976. Hefyd - nodwn 50 mlynedd ers i hyn ddigwydd. Mae John Hardy yn grediniol bod carfan bêl-droed Cymru 1976 wedi cael andros o gam o'i chymharu â'r tîm presennol sydd wedi cyrraedd rowndiau terfynol Euro 2016 yn Ffrainc, a'r tîm gyrhaeddodd rowndiau terfynol Cwpan y Byd Sweden ym 1958. Drwy gyfweliadau dadlennol gyda sawl aelod o'r garfan, yn cynnwys Terry Yorath",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 6",
       "programme_title": "Noel Thomas",
       "short_billing": "Elin Fflur fydd yn Sgwrsio dan olau'r lloer gyda'r cyn is-bostfeistr, Noel Thomas, a aeth i'r carchar, a cholli popeth.",
@@ -2790,25 +2790,6 @@
       "id": "814949359",
       "series_id": "814949311",
       "title": "Y Stiwdio Grefftau",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Arfordir Cymru: Môn",
-      "programme_title": "Pennod 6",
-      "short_billing": "Mae Bedwyr Rees ar drywydd rhai o enwau'r llefydd ar hyd arfordir Môn gan obeithio cofnodi rhai ohonynt a mynd ar drywydd eu hanes. ",
-      "thumbnail_url": "Arfordir_Cymru_Mon_2013S4C_P6_Traeth_Gwyllt.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Bedwyr Rees ar drywydd rhai o enwau'r llefydd ar hyd arfordir Môn gan obeithio cofnodi rhai ohonynt a mynd ar drywydd eu hanes. Y Fenai sydd dan sylw heddiw ac mae cyfle i ni fod ymhlith y cyntaf i weld olion llys chwedlonol ers iddo gael ei foddi yn y 6ed ganrif.",
-      "clic_aired": "14 Medi 2025",
-      "fav_id": "531119040",
-      "id": "512536370",
-      "series_id": "512536218",
-      "title": "Arfordir Cymru: Môn",
       "date_broadcast": null,
       "vs": "0"
     },
