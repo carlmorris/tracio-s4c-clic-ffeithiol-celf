@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Am Dro! - Cyfres 7",
+      "programme_title": null,
+      "short_billing": "Yn y bennod hon, aiff Sara â ni ar daith i Langollen, cyn mynd ar daith o gwmpas Llyn Ogwen gyda Mohima. I Fachynlleth awn ni ar gyfer taith Liam cyn i Huw ein denu ni i'r de, ac i Sir Benfro, ger Tyddewi.",
+      "thumbnail_url": "Am_Dro_2024S4C_P8-5967.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon, aiff Sara â ni ar daith i Langollen, cyn mynd ar daith o gwmpas Llyn Ogwen gyda Mohima. I Fachynlleth awn ni ar gyfer taith Liam cyn i Huw ein denu ni i'r de, ac i Sir Benfro, ger Tyddewi.",
+      "clic_aired": "14 Chwefror 2026",
+      "fav_id": "809997292",
+      "id": "870173184",
+      "series_id": "870173036",
+      "title": "Am Dro! - Cyfres 7",
+      "date_broadcast": "2026-02-14 13:20:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Busnes Bwyd",
@@ -397,25 +416,6 @@
       "series_id": "888288070",
       "title": "Gronyn Gobaith: Cymry CERN",
       "date_broadcast": "2026-02-17 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "7",
-      "days_to_expire": "143",
-      "series_title": "Am Dro! - Cyfres 7",
-      "programme_title": null,
-      "short_billing": "Yn y rhaglen yma bydd Owen yn tywys y criw ar daith o gwmpas Gardd Fotaneg Genedlaethol Cymru. Aiff Kim â nhw i 'nôl i'w phlentyndod yn Nhegryn. Bydd Stephen yn eu harwain o'r Hôb i Gaergwrle, cyn i Shan fynd â nhw i'r tir uchel uwchben Capel Curig.",
-      "thumbnail_url": "Am_Dro_2024S4C_P7-081.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y rhaglen yma bydd Owen yn tywys y criw ar daith o gwmpas Gardd Fotaneg Genedlaethol Cymru. Aiff Kim â nhw i 'nôl i'w phlentyndod yn Nhegryn. Bydd Stephen yn eu harwain o'r Hôb i Gaergwrle, cyn i Shan fynd â nhw i'r tir uchel uwchben Capel Curig.",
-      "clic_aired": "7 Chwefror 2026",
-      "fav_id": "809997292",
-      "id": "870173164",
-      "series_id": "870173036",
-      "title": "Am Dro! - Cyfres 7",
-      "date_broadcast": "2026-02-07 13:15:00",
       "vs": "0"
     },
     {
