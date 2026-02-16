@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Cais Quinnell - Cyfres 1",
+      "programme_title": "Rhaglen 4",
+      "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
+      "thumbnail_url": "Cais_Quinnell_2023S4C_P4-110.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl.  Yr wythnos hon mae'n ymweld â Zip Fforest, yn Tiwbio Afon ac yn rhoi cynnig ar Gerfio Iâ. ",
+      "clic_aired": "16 Chwefror 2026",
+      "fav_id": "891152307",
+      "id": "873338900",
+      "series_id": "873338808",
+      "title": "Cais Quinnell - Cyfres 1",
+      "date_broadcast": "2026-02-16 12:05:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "149",
       "series_title": "Y Fets - Cyfres 6",
@@ -249,7 +268,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -416,25 +435,6 @@
       "series_id": "864982911",
       "title": "Iaith ar Daith - Cyfres 4",
       "date_broadcast": "2026-02-14 16:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Cais Quinnell - Cyfres 1",
-      "programme_title": "Rhaglen 3",
-      "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
-      "thumbnail_url": "Cais_Quinnell_2023S4C_P3-148.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol.  Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth gael llond ei fol o hwyl. \r\nYr wythnos hon mae'n rhoi cynnig ar arlunio byw, Cartio ac yn cael gwers arwyddo Makaton.",
-      "clic_aired": "9 Chwefror 2026",
-      "fav_id": "891152307",
-      "id": "873338874",
-      "series_id": "873338808",
-      "title": "Cais Quinnell - Cyfres 1",
-      "date_broadcast": "2026-02-09 12:05:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Pobl Harri Parri",
       "programme_title": "Caernarfon",
       "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -2645,25 +2645,6 @@
       "count": "1",
       "days_to_expire": "10",
       "series_title": null,
-      "programme_title": "Nathan Brew: Caethwasiaeth a Fi",
-      "short_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
-      "thumbnail_url": "Nathan_Brew_Caethwasiaeth_a_Fi_2024S4C_02690.jpg",
-      "duration": "59",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
-      "clic_aired": "30 Medi 2025",
-      "fav_id": "893503821",
-      "id": "893504057",
-      "series_id": null,
-      "title": "Nathan Brew: Caethwasiaeth a Fi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "10",
-      "series_title": null,
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr Actor ifanc Kimberley Abodunrin yn edrych ar fywyd a gyrfa yr Eicon Betty Campbell, y Brifathrawes Ddu gyntaf yng Nghymru. Bydd Kimberley yn ein tywys drwy fywyd diddorol Betty ac yn edrych yn ôl ar ei magwraeth hi ei hun yng nghefn gwlad Cymru, fel person ifanc gyda hunaniaeth ddeuol - Nigerian a Chymreig, ac hefyd yn edrych i'r dyfodol yn y Gymru aml-ddiwylliant gyfoes.",
       "thumbnail_url": "Yr_Actor_ar_Eicon_2024S4C-6-Edit.jpg",
@@ -2676,6 +2657,25 @@
       "id": "886233501",
       "series_id": null,
       "title": "Yr Actor A'r Eicon",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "10",
+      "series_title": null,
+      "programme_title": "Nathan Brew: Caethwasiaeth a Fi",
+      "short_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
+      "thumbnail_url": "Nathan_Brew_Caethwasiaeth_a_Fi_2024S4C_02690.jpg",
+      "duration": "59",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen yn dilyn stori ac olrhain hanes teuluol y cyn-chwaraewr rygbi, Nathan Brew. Cafodd Nathan ei enwi ar ôl Richard Brew - hen hen berthynas iddo nôl yn y ddeunawfed ganrif, oedd yn un o brif fasnachwyr caethweision y byd. Dyma ffilm ddogfennol yn dilyn Nathan wrth iddo geisio darganfod mwy am hanes ei deulu. Fe fydd yn daith ffeithiol ond hefyd emosiynol, wrth i Nathan geisio deall mwy am weithredoedd ei gyndeidiau.",
+      "clic_aired": "30 Medi 2025",
+      "fav_id": "893503821",
+      "id": "893504057",
+      "series_id": null,
+      "title": "Nathan Brew: Caethwasiaeth a Fi",
       "date_broadcast": null,
       "vs": "0"
     },
