@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "10",
+      "days_to_expire": "149",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": "Fodlediad",
+      "short_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_3.jpg",
+      "duration": "33",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres wleidyddol sy'n dadansoddi'r diweddara o'r byd gwleidyddol. ",
+      "clic_aired": "18 Chwefror 2026",
+      "fav_id": "799276940",
+      "id": "946652357",
+      "series_id": "946652282",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "Amour & Mynydd",
@@ -115,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "16 Chwefror 2026",
-      "fav_id": "944195105",
-      "id": "944197253",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-02-16 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -150,6 +150,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-02-22 13:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "16 Chwefror 2026",
+      "fav_id": "944195105",
+      "id": "944197253",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-02-16 21:33:00",
       "vs": "0"
     },
     {
@@ -720,25 +739,6 @@
       "series_id": null,
       "title": "Ni di Bangor Aye!",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "9",
-      "days_to_expire": "130",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": null,
-      "short_billing": "Mewn rhaglen fyw o Fae Caerdydd, Catrin Haf Jones a'i phanel o westeion sy'n trafod y newyddion gwleidyddol diweddaraf o Gymru a thu hwnt. Arweinydd y Blaid Werdd, Zack Polanski, sy'n cael ei holi, a'r Athro Richard Wyn Jones fydd yn dadansoddi'r cyfan. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2022S4C_Catrin_Haf_Jones_3.jpg",
-      "duration": "40",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn rhaglen fyw o Fae Caerdydd, Catrin Haf Jones a'i phanel o westeion sy'n trafod y newyddion gwleidyddol diweddaraf o Gymru a thu hwnt. Arweinydd y Blaid Werdd, Zack Polanski, sy'n cael ei holi, a'r Athro Richard Wyn Jones fydd yn dadansoddi'r cyfan. ",
-      "clic_aired": "29 Ionawr 2026",
-      "fav_id": "799276940",
-      "id": "946652350",
-      "series_id": "946652282",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": "2026-01-29 21:00:00",
       "vs": "0"
     },
     {
@@ -2376,25 +2376,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "28",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "28",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2410,6 +2391,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "28",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2737,8 +2737,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Gareth Jones: Nofio Adre",
       "programme_title": "Pennod 3",
       "short_billing": "I ddathlu ei ben-blwydd yn 60 oed mae Gareth 'Gaz Top' Jones am nofio 60km o'r de i ogledd Cymru ar draws llynnoedd, afonydd, a chronfeydd d¿r. Dros dair wythnos bydd Gareth yn nofio mwy nag y mae erioed wedi ei wneud o'r blaen. Yn ystod wsos olaf y sialens bydd y nofiwr gwyllt Caris Bowen yn cefnogi Gareth wrth iddo deithio ar draws y gogledd cyn gorffen ei sialens drwy nofio lawr yr afon Conwy. Ond ar ôl tair wythnos nofio fydd ganddo ddigon o egni i lwyddo' \n\n ",
