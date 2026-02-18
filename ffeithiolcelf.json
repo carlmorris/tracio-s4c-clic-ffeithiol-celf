@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "16 Chwefror 2026",
-      "fav_id": "944195105",
-      "id": "944197253",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-02-16 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -150,6 +131,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-02-22 13:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "16 Chwefror 2026",
+      "fav_id": "944195105",
+      "id": "944197253",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-02-16 21:33:00",
       "vs": "0"
     },
     {
@@ -1143,7 +1143,7 @@
     {
       "count": "2",
       "days_to_expire": "101",
-      "series_title": "Noson Lawen - Cyfres 2025",
+      "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Sain y Band Mawr",
       "short_billing": "Gwledd o gerddoriaeth i groesawu'r flwyddyn newydd yng nghwmni Steffan Hughes a'i ffrindiau yn perfformio clasuron cerddoriaeth swing a jazz a chriw Welsh of The West End. ",
       "thumbnail_url": "Noson_Lawen_2025S4C_P2_Sain_y_Band_Mawr-059.jpg",
@@ -1155,7 +1155,7 @@
       "fav_id": "533515113",
       "id": "924857624",
       "series_id": "924857596",
-      "title": "Noson Lawen - Cyfres 2025",
+      "title": "Noson Lawen - Cyfres 2025/26",
       "date_broadcast": null,
       "vs": "0"
     },
