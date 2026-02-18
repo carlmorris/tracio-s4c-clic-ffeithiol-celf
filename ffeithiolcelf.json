@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Amour & Mynydd",
+      "programme_title": "Pennod 4",
+      "short_billing": "Mae'r criw wedi hen setlo yn yr Alpau Ffrengig erbyn hyn, a chyplau yn dechrau ffurfio. Cyfle felly i ysgwyd y drol!",
+      "thumbnail_url": "Amour_a_Mynydd_2026S4C_Alaw_p6.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r criw wedi hen setlo yn yr Alpau Ffrengig erbyn hyn, a chyplau yn dechrau ffurfio. Cyfle felly i ysgwyd y drol!",
+      "clic_aired": "18 Chwefror 2026",
+      "fav_id": "884734211",
+      "id": "946337890",
+      "series_id": "946337850",
+      "title": "Amour & Mynydd",
+      "date_broadcast": "2026-02-21 22:00:00",
+      "vs": "0"
+    },
+    {
       "count": "26",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -55,25 +74,6 @@
       "series_id": "946652282",
       "title": "Y Byd yn ei Le",
       "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Amour & Mynydd",
-      "programme_title": "Pennod 3",
-      "short_billing": "Mae Connor wedi gadael am adra. Pwy sy mewn peryg o adael' Gall unrhyw beth ddigwydd yn Chalet Amour a Mynydd!",
-      "thumbnail_url": "Amour_a_Mynydd_2026S4C_Emyr_p5.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Connor wedi gadael am adra. Pwy sy mewn peryg o adael' Gall unrhyw beth ddigwydd yn Chalet Amour a Mynydd!",
-      "clic_aired": "17 Chwefror 2026",
-      "fav_id": "884734211",
-      "id": "946337883",
-      "series_id": "946337850",
-      "title": "Amour & Mynydd",
-      "date_broadcast": "2026-02-19 22:00:00",
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Wythnos yma byddwn ni yn Onllwyn, Castell-nedd Port Talbot. Ar y panel fydd Sioned Williams, Plaid Cymru; Callum Higgins ar ran Llafur Cymru; ac Aled Davies ar rhan y Ceidwadwyr. Byddwn ni'n trafod gwasanaethau cyhoeddus, egni gwyrdd a'i effaith ar dirwedd Cymru, beth sydd ar gael i bobl ifanc yr ardal; a hefyd dyfodol rygbi yn yr ardal. ",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": null,
       "programme_title": "Dwr Du: Trychineb y Sea Empress",
       "short_billing": "30 mlynedd ers i drychineb y Sea Empress adael ei farc ar Sir Benfro, cawn glywed am un o ddamweiniau tancer olew mwya'r byd drwy lygaid y sawl fu yno.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Cefn Gwlad",
       "programme_title": "Aled Tyllwyd",
       "short_billing": "Blwyddyn ym mywyd Prif Weithredwr Cymdeithas Amaethyddol Frenhinol Cymru, Aled Jones, tair blynedd ers penodi'r g¿r gymharol ifanc i warchod un o ddigwyddiadau cenedlaethol mwyaf Cymru. Cyfle prin i fynd dan groen y g¿r mae trigolion Cwrt y Cadno yn dal i 'nabod fel Aled Tyllwyd. ",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Elidyr Glyn",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw'r cyfansoddwr a phrif leisydd Bwncath, Elidyr Glyn.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": null,
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": null,
       "programme_title": "Curo Tu ôl i'r Drws",
       "short_billing": "Trwy lygaid rhai o'r heddweision sy'n gweithio ym maes cam drin domestig Heddlu Dyfed-Powys, bydd y rhaglen ddogfen ddadlennol hon yn adrodd straeon dioddefwyr cam-drin domestig a'r gwaith sy'n cael ei wneud gan yr heddlu i ymchwilio i bob trosedd.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": null,
       "programme_title": "Mari Grug: Un Dydd Ar Y Tro",
       "short_billing": "Ers derbyn diagnosis o gancer yn 2023 mae bywyd Mari Grug a'i theulu wedi newid yn syfrdanol. Dilynwn siwrnai Mari wrth iddi ddysgu dygymod a thriniaethau a jyglo bywyd fel mam a chyflwynydd, tra'n ceisio 'neud y mwyaf o bob dydd.",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "245",
+      "days_to_expire": "244",
       "series_title": null,
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Caryl Lewis",
       "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma, un o'n hawduron mwya toreithiog a llwyddianus Caryl Lewis.\n ",
@@ -2833,7 +2833,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": null,
       "programme_title": "Gwlad Bardd",
       "short_billing": "'Gwlad Bardd' - ffilm ddogfen sy'n dilyn hynt y bardd Rhys Iorwerth wrth iddo deithio Cymru a thu hwnt i drin, trafod a dathlu'r sîn farddol Cymraeg. Mae'r ffilm yn cynnwys cerddi newydd sbon ynghyd a chyfweliadau gyda llu o feirdd amlycaf Cymru heddiw.",
