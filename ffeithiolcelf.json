@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Bois y Pizza: Chwe' Gwlad",
+      "programme_title": "Cymru",
+      "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
+      "thumbnail_url": "Bois_y_Pizza_2023S4C_P3_Cymru_03.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Bois y Pizza yn ol. Jez, Ieuz ac heb anghofio Smokey Pete --  a ma' nhw off ar antur arall!  Y tro hon - taith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad. Wythnos bant i dîm rygbi Cymru --  felly ma'r bois yn aros yn nes at gatre ac yn crwydro eu hardal leol, Caerdydd. Ar ôl blasu rhai o fwydydd gorau y ddinas, ma'nhw am gynnal parti pizza sydd wedi'i ysbrydoli gan yr hyn ma' nhw di ddysgu. Corporation Yard, Bar 44, Bragdy Twt Lol, Ty Caws, Vegetarian Food Studio. Delish! ",
+      "clic_aired": "20 Chwefror 2026",
+      "fav_id": "799321392",
+      "id": "836229087",
+      "series_id": "836229013",
+      "title": "Bois y Pizza: Chwe' Gwlad",
+      "date_broadcast": "2026-02-25 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "26",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -135,7 +154,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -400,25 +419,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Bois y Pizza: Chwe' Gwlad",
-      "programme_title": "Yr Alban",
-      "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
-      "thumbnail_url": "Bois_y_Pizza_2023S4C_P2_Yr_Alban_20.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Bois y Pizza yn ol. Jez, Ieuz ac heb anghofio Smokey Pete - a ma' nhw off ar antur arall! Y tro hon - taith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad. Yn y rhaglen yma - mae'r bois yn yr Alban - ond dy' nhw ddim yn mynd i brifddinas rygbi, Caeredin - o na - ma'n mynd hyd yn oed ymhellach i'r gogledd! Yr holl ffordd i'r Herbides- gan wthio Smokey Pete i'w eithaf wrth anelu am Ynysoedd Gorllewinol Harris a Lewis. Rhai o olygfeydd mwya godidog erioed a llwyth o westeion arbennig gan gynn",
-      "clic_aired": "13 Chwefror 2026",
-      "fav_id": "799321392",
-      "id": "836229061",
-      "series_id": "836229013",
-      "title": "Bois y Pizza: Chwe' Gwlad",
-      "date_broadcast": "2026-02-18 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "141",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
@@ -572,7 +572,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -2357,25 +2357,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "26",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "26",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2410,6 +2391,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "26",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
