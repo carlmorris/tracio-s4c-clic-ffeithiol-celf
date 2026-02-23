@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "9",
+      "days_to_expire": "149",
+      "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
+      "programme_title": "Ail Frwydr Llangyndeyrn",
+      "short_billing": "Mae pentref Llangyndeyrn yn rhan o hanes Cymru. Enillodd y gymuned fach wledig yng Nghwm Gwendraeth ei brwydr rhag cael ei boddi yn y 60au. Ond heddiw, mae'r pentref yn wynebu brwydr arall - i gadw drysau ei ysgol ar agor. Siôn Jenkins sy'n clywed gan y trigolion sy'n benderfynol o sicrhau dyfodol i'w cymuned. A chyda'r cynnig i ystyried cau'r ysgol yn dod gan gyngor Plaid Cymru, ydy'r blaid yn troi ei chefn ar un o'i chadarnleoedd traddodiadol'",
+      "thumbnail_url": "YBAB_2026S4C_P15-1.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae pentref Llangyndeyrn yn rhan o hanes Cymru. Enillodd y gymuned fach wledig yng Nghwm Gwendraeth ei brwydr rhag cael ei boddi yn y 60au. Ond heddiw, mae'r pentref yn wynebu brwydr arall - i gadw drysau ei ysgol ar agor. Siôn Jenkins sy'n clywed gan y trigolion sy'n benderfynol o sicrhau dyfodol i'w cymuned. A chyda'r cynnig i ystyried cau'r ysgol yn dod gan gyngor Plaid Cymru, ydy'r blaid yn troi ei chefn ar un o'i chadarnleoedd traddodiadol'",
+      "clic_aired": "23 Chwefror 2026",
+      "fav_id": "534158704",
+      "id": "946613608",
+      "series_id": "946613505",
+      "title": "Y Byd ar Bedwar - Cyfres 2025/26",
+      "date_broadcast": "2026-02-26 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "26",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -476,25 +495,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "143",
-      "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
-      "programme_title": "Cwmni mewn creisis",
-      "short_billing": "Mae'r cwmni egni Consumer Energy Solutions o Abertawe wedi mynd i'r wal. Flwyddyn ers iddi wneud ymchwiliad ar y cwmni, mae Nest Jenkins yn dychwelyd at gwsmeriaid sy'n dweud bod eu tai wedi'u difetha gan y cwmni. ",
-      "thumbnail_url": "YBAB_2025-26S4C_P14_Cwmni_Creisis_09-2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r cwmni egni Consumer Energy Solutions o Abertawe wedi mynd i'r wal. Flwyddyn ers iddi wneud ymchwiliad ar y cwmni, mae Nest Jenkins yn dychwelyd at gwsmeriaid sy'n dweud bod eu tai wedi'u difetha gan y cwmni. ",
-      "clic_aired": "16 Chwefror 2026",
-      "fav_id": "534158704",
-      "id": "946613601",
-      "series_id": "946613505",
-      "title": "Y Byd ar Bedwar - Cyfres 2025/26",
-      "date_broadcast": "2026-02-19 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "141",
       "series_title": "Cartrefi Cymru - Cyfres 1",
@@ -914,7 +914,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon, mae Gwilym yn ymweld ag Iperralde sef rhan Ffrengig Gwlad y Basg cyn gorffen ei daith yn Irunea (Pamplona).",
