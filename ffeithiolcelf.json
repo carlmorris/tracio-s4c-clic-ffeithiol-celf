@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Prosiect lleihau hunanladdiadau, O'r fferm i'r ysgol, Cydweithio rhwng distyllfa a ffarmwr",
-      "clic_aired": "23 Chwefror 2026",
-      "fav_id": "533250950",
-      "id": "946348752",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2026-03-01 15:45:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -55,6 +36,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-02-23 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Prosiect lleihau hunanladdiadau, O'r fferm i'r ysgol, Cydweithio rhwng distyllfa a ffarmwr",
+      "clic_aired": "23 Chwefror 2026",
+      "fav_id": "533250950",
+      "id": "946348752",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2026-03-01 15:45:00",
       "vs": "0"
     },
     {
