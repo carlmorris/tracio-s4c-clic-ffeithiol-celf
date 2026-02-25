@@ -116,7 +116,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": null,
       "short_billing": "Rhagolygon tywydd yr wythnos.",
@@ -135,7 +135,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -990,7 +990,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
