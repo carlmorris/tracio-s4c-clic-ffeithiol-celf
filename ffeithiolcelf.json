@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "26",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "Ar heno nos Fercher, byddwn ni'n siarad gyda chwaraewr pêl-droed Wrecsam, Lili Jones, a chawn ni sgwrs gyda Rhys Meirion yn Galeri, Caernarfon. Hefyd, Rhodri Owen sydd wedi mynd i gael 'sneak-peek' ar ty 4.5 miliwn o bunnoedd yn Sir Benfro. ",
+      "thumbnail_url": "Heno_2025S4C_logo_098.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar heno nos Fercher, byddwn ni'n siarad gyda chwaraewr pêl-droed Wrecsam, Lili Jones, a chawn ni sgwrs gyda Rhys Meirion yn Galeri, Caernarfon. Hefyd, Rhodri Owen sydd wedi mynd i gael 'sneak-peek' ar ty 4.5 miliwn o bunnoedd yn Sir Benfro. ",
+      "clic_aired": "25 Chwefror 2026",
+      "fav_id": "520950912",
+      "id": "946222875",
+      "series_id": "946221253",
+      "title": "Heno",
+      "date_broadcast": "2026-02-26 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -36,25 +55,6 @@
       "series_id": "946337850",
       "title": "Amour & Mynydd",
       "date_broadcast": "2026-02-26 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "26",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "Byddwn ni'n fyw yn stadiwm Swansea.com wrth i'r Swans groesawu Preston - ac, am y tro cyntaf, bydd eu cyd berchennog y rapiwr, Snoop Dog, yno i'w cefnogi. Ac, yma yn y stiwdio, sgwrs gyda'r actor o Gaerfyrddin, Steffan Rizzi, am ei ran yn y gyfres boblogaidd, Call the Midwife. ",
-      "thumbnail_url": "Heno_2025S4C_logo_098.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn ni'n fyw yn stadiwm Swansea.com wrth i'r Swans groesawu Preston - ac, am y tro cyntaf, bydd eu cyd berchennog y rapiwr, Snoop Dog, yno i'w cefnogi. Ac, yma yn y stiwdio, sgwrs gyda'r actor o Gaerfyrddin, Steffan Rizzi, am ei ran yn y gyfres boblogaidd, Call the Midwife. ",
-      "clic_aired": "24 Chwefror 2026",
-      "fav_id": "520950912",
-      "id": "946222868",
-      "series_id": "946221253",
-      "title": "Heno",
-      "date_broadcast": "2026-02-25 12:30:00",
       "vs": "0"
     },
     {
@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "23 Chwefror 2026",
-      "fav_id": "944195105",
-      "id": "944197303",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-02-23 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -150,6 +131,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-03-01 15:45:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "23 Chwefror 2026",
+      "fav_id": "944195105",
+      "id": "944197303",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-02-23 21:33:00",
       "vs": "0"
     },
     {
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Cynefin",
       "programme_title": "Llanrwst- Llyn Geirionydd",
       "short_billing": "Sion Tomos Owen yn crwydro glannau Llyn Geirionydd, ger Llanrwst, i adrodd am hanes traddodiad llenyddol cyfoethog yr ardal, ac yn arbennig William John Roberts, neu Gwilym Cowlyd.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -2452,25 +2452,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "21",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "21",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2505,6 +2486,25 @@
       "id": "835987067",
       "series_id": null,
       "title": "Y Parchedig Emyr Ddrwg",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "21",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
