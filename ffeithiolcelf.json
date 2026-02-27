@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Bois y Pizza: Chwe' Gwlad",
+      "programme_title": "Iwerddon",
+      "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
+      "thumbnail_url": "Bois_y_Pizza_2023S4C_P1_Iwerddon_04.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Bois y Pizza yn ôl. Jez, Ieuz ac heb anghofio Smokey Pete - a ma' nhw off ar antur arall! Taith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad! Cyfle i flasu rhai o fwydydd gore, enwoca'r Chwe' Gwlad ac ar ddiwedd bob taith bydd parti arbennig - parti pizzas sydd wedi eu hysbrydoli gan y bwyd anhygoel ni wedi blasu. Yn y rhaglen yma, mae'r bois yn Iwerddon yn dysgu popeth gallen nhw am fwyd Gwyddelig ac yn cael ei ysbrydoli i goginio pizzas ar gyfer y bobl ma' nhw'n cwrdd ar hyd y daith.",
+      "clic_aired": "27 Chwefror 2026",
+      "fav_id": "799321392",
+      "id": "836229024",
+      "series_id": "836229013",
+      "title": "Bois y Pizza: Chwe' Gwlad",
+      "date_broadcast": "2026-03-04 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "26",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -97,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -382,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -435,25 +454,6 @@
       "series_id": null,
       "title": "Paid a Dweud Hoyw ",
       "date_broadcast": "2026-02-20 21:55:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Bois y Pizza: Chwe' Gwlad",
-      "programme_title": "Cymru",
-      "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
-      "thumbnail_url": "Bois_y_Pizza_2023S4C_P3_Cymru_03.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Bois y Pizza yn ol. Jez, Ieuz ac heb anghofio Smokey Pete --  a ma' nhw off ar antur arall!  Y tro hon - taith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad. Wythnos bant i dîm rygbi Cymru --  felly ma'r bois yn aros yn nes at gatre ac yn crwydro eu hardal leol, Caerdydd. Ar ôl blasu rhai o fwydydd gorau y ddinas, ma'nhw am gynnal parti pizza sydd wedi'i ysbrydoli gan yr hyn ma' nhw di ddysgu. Corporation Yard, Bar 44, Bragdy Twt Lol, Ty Caws, Vegetarian Food Studio. Delish! ",
-      "clic_aired": "20 Chwefror 2026",
-      "fav_id": "799321392",
-      "id": "836229087",
-      "series_id": "836229013",
-      "title": "Bois y Pizza: Chwe' Gwlad",
-      "date_broadcast": "2026-02-25 18:00:00",
       "vs": "0"
     },
     {
@@ -629,7 +629,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -2452,25 +2452,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "19",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "19",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2486,6 +2467,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "19",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
