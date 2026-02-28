@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Am Dro!",
+      "programme_title": null,
+      "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
+      "thumbnail_url": "Am_Dro_2025S4C_P3-4.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon awn ar deithiau bendigedig ar arfordir Bae Ceredigion a Phen Llyn, yn ogystal â thref hanesyddol Pontypridd a Mynydd y Cribarthy yng Nghwm Tawe. Lynda o Langrannog, Kai o Bontypridd, Dyfed o Bwllheli a Lucy o Abercraf sy'n mynd â ni 'Am Dro' y tro hwn.",
+      "clic_aired": "28 Chwefror 2026",
+      "fav_id": "809997292",
+      "id": "938437431",
+      "series_id": "938437383",
+      "title": "Am Dro!",
+      "date_broadcast": "2026-02-28 10:15:00",
+      "vs": "0"
+    },
+    {
       "count": "26",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -438,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "143",
-      "series_title": "Am Dro!",
-      "programme_title": null,
-      "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
-      "thumbnail_url": "Am_Dro_2025S4C_P2-10.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw fydd Karen yn mynd a'r criw am dro ar hyd y traeth yn Rhosneigr.  Yna taith o Nefyn i Borthdinllaen gyda Chris wrth y llyw cyn ei throi hi am Ferthyr Tudful dan arweiniad Rhydian. Manon fydd yn diweddu drwy gerdded o amgylch Parc Dinefwr ar gyrion Llandeilo. Felly dewch i ni fynd Am Dro.",
-      "clic_aired": "21 Chwefror 2026",
-      "fav_id": "809997292",
-      "id": "938437411",
-      "series_id": "938437383",
-      "title": "Am Dro!",
-      "date_broadcast": "2026-02-21 10:15:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "142",
       "series_title": null,
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -2471,25 +2471,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "18",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "18",
       "series_title": null,
@@ -2505,6 +2486,25 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "18",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2624,7 +2624,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
