@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
@@ -605,7 +605,7 @@
       "id": "840743212",
       "series_id": "840743082",
       "title": "Dim Byd i'w Wisgo - Cyfres 2",
-      "date_broadcast": "2026-02-12 12:05:00",
+      "date_broadcast": "2026-03-14 11:15:00",
       "vs": "0"
     },
     {
@@ -985,7 +985,7 @@
       "id": "884740749",
       "series_id": "884740681",
       "title": "Amour & Mynydd",
-      "date_broadcast": "2026-01-24 21:35:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1289,7 +1289,7 @@
       "id": "880980221",
       "series_id": "880980161",
       "title": "Iolo: Natur Bregus Cymru",
-      "date_broadcast": null,
+      "date_broadcast": "2026-03-14 13:20:00",
       "vs": "0"
     },
     {
@@ -1669,7 +1669,7 @@
       "id": "946422647",
       "series_id": "946422642",
       "title": "Llond Bol o Japan",
-      "date_broadcast": null,
+      "date_broadcast": "2026-03-14 21:00:00",
       "vs": "0"
     },
     {
@@ -1825,8 +1825,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1",
+      "count": "1",
+      "days_to_expire": "0",
       "series_title": "Tylluan yr Eira a'i Ysglyfaeth",
       "programme_title": "Y Leming: Cawr Bach y Gogledd",
       "short_billing": "Dogfen natur drawiadol yn dilyn taith tylluan yr eira i Ewrop.",
@@ -1916,7 +1916,7 @@
       "id": "917460515",
       "series_id": "917460418",
       "title": "Bar Hansh",
-      "date_broadcast": "2026-01-24 22:40:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2073,18 +2073,18 @@
     },
     {
       "count": "3",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadlu'r hwyr",
-      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
+      "programme_title": "Cystadleuthau hwyr y prynhawn",
+      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
-      "duration": "203",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
-      "clic_aired": "16 Tachwedd 2025",
+      "clic_aired": "15 Tachwedd 2025",
       "fav_id": "537583011",
-      "id": "947927314",
+      "id": "947927307",
       "series_id": "947927302",
       "title": "Eisteddfod Ffermwyr Ifanc 2025",
       "date_broadcast": null,
@@ -2452,25 +2452,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "19",
-      "series_title": null,
-      "programme_title": "Llofruddiaeth Jack Armstrong",
-      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "825877079",
-      "id": "825877079",
-      "series_id": null,
-      "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "19",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2486,6 +2467,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "19",
+      "series_title": null,
+      "programme_title": "Llofruddiaeth Jack Armstrong",
+      "short_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "thumbnail_url": "Llofruddiaeth_Jack_Armstrong_2022S4C_Crime_Scene_SWP_02.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ers 1979 mae llofruddiaeth gyrrwr tasci o Gaerdydd wedi parhau'n ddirgelwch i dditectifs. Ond nawr gyda datblygiadau newydd ym myd DNA, mae Heddlu De Cymru yn benderyfnol o ddod o hyd i'r llofrudd.",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "825877079",
+      "id": "825877079",
+      "series_id": null,
+      "title": "Llofruddiaeth Jack Armstrong",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2700,7 +2700,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Bwyd Bach Shumana a Catrin",
       "programme_title": "Gwyr",
       "short_billing": "Mae Shumana Palit a Catrin Enid wedi dod at ei gilydd i goginio platiau o fwydydd bach yn defnyddio cynnyrch lleol. Yn y rhaglen hon fe fydd y ddwy ar y Gwyr yn coginio ac yn ceisio plesio aelodau Eglwys Y Bedyddwyr Carmel, Pontlliw. ",
@@ -2752,7 +2752,7 @@
       "id": "914847229",
       "series_id": null,
       "title": "Gwlad Bardd",
-      "date_broadcast": "2026-01-24 20:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2833,7 +2833,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "382",
+      "days_to_expire": "381",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -2871,7 +2871,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
