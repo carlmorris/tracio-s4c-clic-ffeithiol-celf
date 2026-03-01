@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Antur y Gorllewin",
+      "programme_title": "Ynys Manaw, Arfordir Gorllewin",
+      "short_billing": "Mae Iolo Williams ar daith anturus i leoliadau mwyaf anghysbell a gwyllt Gorllewin Ewrop. Yr wythnos hon yn Yr Alban, mae'n gweld afanc sydd wedi creu argae rhyfeddol. Bydd e hefyd yn gweld dwrgi, morloi ac adar ysglyfaethus ar Ynysoedd Heledd ac Erch, ac yn deifio o amgylch llongddrylliad o'r Ail Ryfel Byd yn nyfroedd Scapa Flow.",
+      "thumbnail_url": "antur-y-gorllewin2.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Iolo Williams ar daith anturus i leoliadau mwyaf anghysbell a gwyllt Gorllewin Ewrop. Yr wythnos hon yn Yr Alban, mae'n gweld afanc sydd wedi creu argae rhyfeddol. Bydd e hefyd yn gweld dwrgi, morloi ac adar ysglyfaethus ar Ynysoedd Heledd ac Erch, ac yn deifio o amgylch llongddrylliad o'r Ail Ryfel Byd yn nyfroedd Scapa Flow.",
+      "clic_aired": "1 Mawrth 2026",
+      "fav_id": "432095908",
+      "id": "432095996",
+      "series_id": "432095908",
+      "title": "Antur y Gorllewin",
+      "date_broadcast": "2026-03-11 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "9",
       "days_to_expire": "149",
       "series_title": "Y Fets - Cyfres 6",
@@ -154,7 +173,7 @@
     },
     {
       "count": "25",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Prynhawn Da",
       "programme_title": null,
       "short_billing": "Mae Gareth yn y gegin, Ioan Dyer yn edrych nôl ar wobrau Bafta ac mae'r Clwb Clecs yn cael dweud eu dweud!",
@@ -625,25 +644,6 @@
       "series_id": "840743082",
       "title": "Dim Byd i'w Wisgo - Cyfres 2",
       "date_broadcast": "2026-03-14 11:15:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "129",
-      "series_title": "Antur y Gorllewin",
-      "programme_title": "Iwerddon",
-      "short_billing": "Cyfle arall i weld Iolo Williams yn profi bywyd gwyllt a thirwedd anhygoel ynysoedd Y Skelligs, Cilarne, Swydd Clare, Y Burren ger Doolin, Ballycroy ac Ynys Boffin ar arfordir gorllewinol Connemara, Iwerddon.",
-      "thumbnail_url": "antur-y-gorllewin2.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld Iolo Williams yn profi bywyd gwyllt a thirwedd anhygoel ynysoedd Y Skelligs, Cilarne, Swydd Clare, Y Burren ger Doolin, Ballycroy ac Ynys Boffin ar arfordir gorllewinol Connemara, Iwerddon.",
-      "clic_aired": "8 Chwefror 2026",
-      "fav_id": "432095908",
-      "id": "432095976",
-      "series_id": "432095908",
-      "title": "Antur y Gorllewin",
-      "date_broadcast": "2026-03-03 15:05:00",
       "vs": "0"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": null,
       "programme_title": "Ffwtbol a Fflêrs: Cofio Arwyr `76",
       "short_billing": "Ail-ddarllediad i gofio cyn-gapten Cymru, y diweddar Terry Yorath, a'n harweiniodd ni i rownd yr wyth olaf ym Mhencampwriaeth Ewrop 1976. Hefyd - nodwn 50 mlynedd ers i hyn ddigwydd. Mae John Hardy yn grediniol bod carfan bêl-droed Cymru 1976 wedi cael andros o gam o'i chymharu â'r tîm presennol sydd wedi cyrraedd rowndiau terfynol Euro 2016 yn Ffrainc, a'r tîm gyrhaeddodd rowndiau terfynol Cwpan y Byd Sweden ym 1958. Drwy gyfweliadau dadlennol gyda sawl aelod o'r garfan, yn cynnwys Terry Yorath",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. ",
@@ -2433,6 +2433,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "17",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "17",
       "series_title": null,
@@ -2467,25 +2486,6 @@
       "id": "825877079",
       "series_id": null,
       "title": "Llofruddiaeth Jack Armstrong",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "17",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
