@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Y Fets - Cyfres 6",
+      "programme_title": null,
+      "short_billing": "Y tro yma ar Y Fets --  Mae'n ddiwrnod prysur i'r unig ddwy Glesni sy'n fets cofrestredig yn y Deyrnas Unedig, a'r ddwy yn gweithio yn Ystwyth Fets. Mae'r ci defaid Fan yn cael ei rhuthro i'r feddygfa wedi iddi gael anaf ar y fferm, ac mae diddordeb mawr mewn neidr sydd angen triniaeth.",
+      "thumbnail_url": "Y_Fets_2024S4C_P8_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro yma ar Y Fets --  Mae'n ddiwrnod prysur i'r unig ddwy Glesni sy'n fets cofrestredig yn y Deyrnas Unedig, a'r ddwy yn gweithio yn Ystwyth Fets. Mae'r ci defaid Fan yn cael ei rhuthro i'r feddygfa wedi iddi gael anaf ar y fferm, ac mae diddordeb mawr mewn neidr sydd angen triniaeth.",
+      "clic_aired": "1 Mawrth 2026",
+      "fav_id": "799156639",
+      "id": "879178653",
+      "series_id": "879178476",
+      "title": "Y Fets - Cyfres 6",
+      "date_broadcast": "2026-03-03 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Am Dro! - Cyfres 8",
@@ -59,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -154,7 +173,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Iwerddon",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -230,7 +249,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -378,25 +397,6 @@
       "series_id": null,
       "title": "Dylanwad Un Nos Ola Leuad",
       "date_broadcast": "2026-02-22 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "7",
-      "days_to_expire": "142",
-      "series_title": "Y Fets - Cyfres 6",
-      "programme_title": null,
-      "short_billing": "Y tro yma ar Y Fets --  Mae gofid am gyflwr Bandit y fferet. Hannah a Dafydd sy'n gwneud llawdriniaeth frys ar lo sy'n cael trafferth anadlu. Ac mae'n gyfnod prysur i ddau o'r fets sydd hefyd yn dad a mab --  Harry yn brechu'r asynod Fred a Basil, a'r tad, Hywel, yn brysur gyda phrofion TB.",
-      "thumbnail_url": "Y_Fets_2024S4C_P7-130.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro yma ar Y Fets --  Mae gofid am gyflwr Bandit y fferet. Hannah a Dafydd sy'n gwneud llawdriniaeth frys ar lo sy'n cael trafferth anadlu. Ac mae'n gyfnod prysur i ddau o'r fets sydd hefyd yn dad a mab --  Harry yn brechu'r asynod Fred a Basil, a'r tad, Hywel, yn brysur gyda phrofion TB.",
-      "clic_aired": "22 Chwefror 2026",
-      "fav_id": "799156639",
-      "id": "879178629",
-      "series_id": "879178476",
-      "title": "Y Fets - Cyfres 6",
-      "date_broadcast": "2026-02-24 23:00:00",
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Y Sîn",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -2547,7 +2547,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "14",
       "series_title": "Gerddi Cymru - Cyfres 2",
       "programme_title": "Castell y Waun a Plas yn Rhiw",
