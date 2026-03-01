@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -591,7 +591,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
@@ -2433,25 +2433,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "17",
-      "series_title": null,
-      "programme_title": "Y Parchedig Emyr Ddrwg",
-      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
-      "duration": "60",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "835987067",
-      "id": "835987067",
-      "series_id": null,
-      "title": "Y Parchedig Emyr Ddrwg",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "17",
       "series_title": "Llofruddiaeth y Bwa Croes",
@@ -2467,6 +2448,25 @@
       "id": "878476096",
       "series_id": "878476084",
       "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "17",
+      "series_title": null,
+      "programme_title": "Y Parchedig Emyr Ddrwg",
+      "short_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "thumbnail_url": "Y_Parchedig_Emyr_Ddrwg_2022S4C_04164.jpg",
+      "duration": "60",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cafodd Y Parchedig Emyr Owen ei garcharu yn 1985 am niweidio cyrff meirw. Edrychai'r ddrama ddogfen hon drwy lens modern ar arferion gwarthus gweinidog yn Nhywyn. Be' oedd ei gymhelliant' Be' arweiniodd i'r troseddau yma' Diafol neu dduw, magwraeth neu natur - y frwydr drwy gydol ei fywyd Emyr ddrwg neu Emyr dda'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "835987067",
+      "id": "835987067",
+      "series_id": null,
+      "title": "Y Parchedig Emyr Ddrwg",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Teulu'r Castell",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfres yn dilyn Marian a Rob Evans o Lansteffan, sydd wedi prynu ty fferm gyda thir, coedwig, a chastell Normanaidd. Yn y bennod olaf ac ar ol dwy flynedd o aros, mi gewn ni weld y briodas gyntaf swyddogol yn y castell. Hefyd, mae Ffion a Catrin yn cael blas ar gadw gwenyn, ac fe gewn ni weld beth yw cynlluniau Marian ar gyfer y dyfodol gyda'r fferm a'u busnesau.",
