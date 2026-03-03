@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tîm Cneifio Cymru, Cefn gwlad Cymru'n ysbrydoli busnes merch ifanc, a ffermio ar y cyd o fudd i ffarmwr ifanc",
-      "clic_aired": "2 Mawrth 2026",
-      "fav_id": "533250950",
-      "id": "946348759",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2026-03-08 12:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -131,6 +112,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-03-02 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tîm Cneifio Cymru, Cefn gwlad Cymru'n ysbrydoli busnes merch ifanc, a ffermio ar y cyd o fudd i ffarmwr ifanc",
+      "clic_aired": "2 Mawrth 2026",
+      "fav_id": "533250950",
+      "id": "946348759",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2026-03-08 12:55:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": null,
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": null,
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": null,
       "programme_title": "Ffa Coffi Pawb!",
       "short_billing": "Ffa Coffi Pawb - 30 mlynedd ers chwalu, dilynwn hynt a helynt y band o'r gogledd trwy sin gerddoriaeth danddaearol Cymru'r 80au a'r 90au hyd at lwyddiant diweddarach y Super Furry Animals. ",
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": null,
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Marw gyda Kris",
       "programme_title": "Indonesia",
       "short_billing": "Kristoffer Hughes sy'n teithio'r byd i ffeindio'r ffyrdd mwyaf gwahanol - ac efallai gwell - o ddelio â marwolaeth. Wedi gweithio gyda chyrff am flynyddoedd mae Kris yn gadael marwdai Cymru ar daith bersonol i galon marwolaeth. Mentro i ben draw y bedd.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": null,
       "programme_title": "Wil ac Aeron: Gwlad y Ceirw",
       "short_billing": "Ymunwch â Wil Hendreseifion ac Aeron Pughe wrth iddyn nhw adael bryniau Machynlleth i brofi antur deuluol yng Ngwlad y Ceirw. Drwy'r eira a gyda golygfeydd hudolus yn gefndir, mae'r ddau'n wynebu'r her o yrru cannoedd o geirw dros lwyfandir Gogledd Norwy. Dyma raglen llawn chwerthin a chariad! ",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Priodas Pum Mil - Cyfres 8",
       "programme_title": "Priodas Pymtheg Mil Aled&Malin",
       "short_billing": "Mewn pennod unigryw o'r gyfres boblogaidd Priodas Pum Mil, mae'r pot ariannol wedi treblu i bymtheg mil o bunnoedd er mwyn gwireddu breuddwyd Aled a Malin o Eglwyswrw, Sir Benfro sy'n awyddus dathlu eu diwrnod mawr yng Nghymru ac yn Sweden. ",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": null,
       "programme_title": "Tri Tryweryn",
       "short_billing": "Cyfle arall i weld y rhaglen hon yn dilyn digwyddiadau diweddar yn ymwneud â chofeb Cofiwch Dryweryn. Yn hwyr ar y 9fed Chwefror 1963, ynghanol eira mawr, teithiodd tri Chymro i ardal y Bala - Emyr Llewelyn, myfyriwr prifysgol o Sir Aberteifi, Owain Williams, mab ffarm a pherchennog caffi ym Mhwllheli, a John Albert Jones o Ben Llyn, cyn aelod o'r RAF. Y nod oedd gosod bom ar safle adeiladu cronfa dd¿r Tryweryn a chreu difrod er mwyn tynnu sylw at foddi pentref a chymuned Gymraeg Capel Celyn ger",
@@ -2486,25 +2486,6 @@
       "id": "915981680",
       "series_id": null,
       "title": "Ruth Ellis: Y Cariad a'r Crogi",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "15",
-      "series_title": "Llofruddiaeth y Bwa Croes",
-      "programme_title": "Pennod 1",
-      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
-      "clic_aired": "20 Hydref 2025",
-      "fav_id": "878476084",
-      "id": "878476096",
-      "series_id": "878476084",
-      "title": "Llofruddiaeth y Bwa Croes",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2547,8 +2528,27 @@
       "vs": "0"
     },
     {
-      "count": "1",
+      "count": "2",
       "days_to_expire": "15",
+      "series_title": "Llofruddiaeth y Bwa Croes",
+      "programme_title": "Pennod 1",
+      "short_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "thumbnail_url": "Llofruddiaeth_Bwa_Croes_2025S4C_P1_150.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ebrill 2019-  mae pensiynwr yn cael ei saethu gyda Bwa Croes ar Ynys Môn. Heb dystion, tystiolaeth fforensig  na chwaith cymhelliad clir, a fydd Heddlu Gogledd Cymru yn medru darganfod pwy oedd yn gyfrifol'",
+      "clic_aired": "20 Hydref 2025",
+      "fav_id": "878476084",
+      "id": "878476096",
+      "series_id": "878476084",
+      "title": "Llofruddiaeth y Bwa Croes",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "14",
       "series_title": null,
       "programme_title": "Brwydr Llangyndeyrn",
       "short_billing": "Rhaglen arbennig a ddangoswyd gyntaf, ym mis Hydref 2013, i nodi 50 mlynedd ers ymgyrch lwyddiannus i atal Cyngor Abertawe rhag boddi Cwm Gwendraeth Fach a'r ffermydd cyfagos. Yr actores Sharon Morgan fu'n teithio yn ôl i fro ei mebyd i ddarganfod mwy am hanes cudd Brwydr Llangyndeyrn. Brwydr gan y gymuned oedd hon a chawn gyfweliadau â'r ffermwyr a chwaraeodd rôl bwysig, yn ogystal ag aelodau o'r gymuned ehangach. ",
