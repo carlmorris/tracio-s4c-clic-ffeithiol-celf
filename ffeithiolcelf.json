@@ -115,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "2 Mawrth 2026",
-      "fav_id": "944195105",
-      "id": "944197353",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-03-02 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -150,6 +131,25 @@
       "series_id": "946348607",
       "title": "Ffermio",
       "date_broadcast": "2026-03-08 12:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "2 Mawrth 2026",
+      "fav_id": "944195105",
+      "id": "944197353",
+      "series_id": "944195105",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-03-02 21:33:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Pwllheli",
       "short_billing": "Pwllheli.  Bydd Heledd Cynwal, Iestyn Jones, Ffion Dafis a Siôn Tomos Owen yn mwynhau taith i Bwllheli, tref glan môr yn Ll&#375;n.   Dyma gyfle i Iestyn gael gwers hwylio, i Ffion ddarganfod hanes y pentre Pwylaidd, ag i Sion gwrdd â hanesydd lleol gwybodus.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Cymru Yn Euro 2016",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 18 yn adrodd stori albwm arloesol Max Boyce. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonny Clayton",
       "short_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Sean Fletcher: Cyfrinachau'r Llong",
       "programme_title": "Pennod 1",
       "short_billing": "Bydd Sean Fletcher yn darganfod peryglon oedd yn wynebu Llong Casnewydd yn hwylio i Bortiwgal yn y bymthegfed ganrif; a dod ar draws perchennog newydd i'r llong; ffigwr blaenllaw a chyfrwys Rhyfeloedd y Rhosynnau.",
@@ -2132,8 +2132,8 @@
       "count": "3",
       "days_to_expire": "41",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadleuthau hwyr y prynhawn",
-      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
+      "programme_title": "Cystadlu'r hwyr",
+      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
       "duration": "203",
       "genre": "Ffeithiol a'r Celfyddydau",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
