@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "999",
+      "series_title": "Pencampwriaeth Cneifio'r Byd",
+      "programme_title": null,
+      "short_billing": "Uchafbwyntiau o ddiwrnod cyntaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
+      "thumbnail_url": "Pencampwriaeth_Cneifio_Byd_2026S4C.jpg",
+      "duration": "38",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Uchafbwyntiau o ddiwrnod cyntaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
+      "clic_aired": "4 Mawrth 2026",
+      "fav_id": "948827688",
+      "id": "948827693",
+      "series_id": "948827688",
+      "title": "Pencampwriaeth Cneifio'r Byd",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -40,7 +59,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Porth Meudwy-Abersoch",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -96,25 +115,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tîm Cneifio Cymru, Cefn gwlad Cymru'n ysbrydoli busnes merch ifanc, a ffermio ar y cyd o fudd i ffarmwr ifanc",
-      "clic_aired": "2 Mawrth 2026",
-      "fav_id": "533250950",
-      "id": "946348759",
-      "series_id": "946348607",
-      "title": "Ffermio",
-      "date_broadcast": "2026-03-08 12:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -131,6 +131,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-03-02 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2023S4C_260_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tîm Cneifio Cymru, Cefn gwlad Cymru'n ysbrydoli busnes merch ifanc, a ffermio ar y cyd o fudd i ffarmwr ifanc",
+      "clic_aired": "2 Mawrth 2026",
+      "fav_id": "533250950",
+      "id": "946348759",
+      "series_id": "946348607",
+      "title": "Ffermio",
+      "date_broadcast": "2026-03-08 12:55:00",
       "vs": "0"
     },
     {
@@ -154,7 +173,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "I Lydaw",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -1560,7 +1579,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
@@ -1731,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
       "short_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
