@@ -496,7 +496,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n cychwyn ar daith newydd cyffrous, i archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru. Yn syfrdanol ac ysbrydoledig, dyma'r diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Yn rhaglen ola'r gyfres, mae Richard yn dathlu ein hathrylith am arloesi. Dyma stori Cymru mewn ffurf heb ei gweld erioed o'r blaen. 'Mae adrodd ein stori ni yn ein hen iaith ni,' medde Richard, sy'n dysgu Cymraeg, 'yn sialens ac anrhydedd mwya fy mywyd.'",
@@ -1061,7 +1061,7 @@
       "id": "931152583",
       "series_id": "931152445",
       "title": "Gwlad y Basg: Gwilym Bowen Rhys",
-      "date_broadcast": "2026-01-29 18:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1099,7 +1099,7 @@
       "id": "947005374",
       "series_id": "947005348",
       "title": "Y Cyfweliad",
-      "date_broadcast": "2026-01-29 18:25:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1422,7 +1422,7 @@
       "id": "948107111",
       "series_id": null,
       "title": "Stuart Burrows: Brenin y Tenoriaid",
-      "date_broadcast": "2026-01-29 22:50:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2149,18 +2149,18 @@
     },
     {
       "count": "3",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadlu'r hwyr",
-      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
+      "programme_title": "Cystadleuthau hwyr y prynhawn",
+      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
-      "duration": "203",
+      "duration": "99",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
-      "clic_aired": "16 Tachwedd 2025",
+      "clic_aired": "15 Tachwedd 2025",
       "fav_id": "537583011",
-      "id": "947927314",
+      "id": "947927307",
       "series_id": "947927302",
       "title": "Eisteddfod Ffermwyr Ifanc 2025",
       "date_broadcast": null,
@@ -2852,7 +2852,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "377",
+      "days_to_expire": "376",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Rhi Dancey: Dylunio'r dyfodol",
       "short_billing": "Y Dylunydd Rhi Dancey sy'n trafod yr heriau i sicrhau byd ffasiwn cynaliadwy.",
@@ -2890,7 +2890,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Dim Signal",
       "short_billing": "Cipolwg i fywyd Solwen, merch 17 oed a'i ffrindiau sy'n byw 'off-grid' mewn cymuned yn Sir Gâr.",
