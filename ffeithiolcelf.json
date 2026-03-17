@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Arfordir Cymru: Llyn",
+      "programme_title": "Cricieth- Afon Dwyryd",
+      "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
+      "thumbnail_url": "Arfordir_Cymru_Llyn_2015S4C_P6_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres o 2015 yn dilyn llwybr arfordir Llyn o Gaernarfon i Borthmadog ar drywydd enwau a hanesion yr ardal. Mae'r bennod olaf yn mynd â ni o Gricieth, heibio Porthmadog ac i fyny'r Afon Dwyryd. Dysgwn am y newidiadau yn y tirlun o amgylch Cricieth, am ddatblygiad tref Porthmadog ac am goedwig sydd wedi ei chamenwi.",
+      "clic_aired": "17 Mawrth 2026",
+      "fav_id": "531119040",
+      "id": "528384809",
+      "series_id": "528384679",
+      "title": "Arfordir Cymru: Llyn",
+      "date_broadcast": "2026-03-22 11:00:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -154,7 +173,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Brest & Landerneau/Landerne",
       "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
@@ -457,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Arfordir Cymru: Llyn",
-      "programme_title": "Llanbedrog- Castell Cricieth",
-      "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
-      "thumbnail_url": "Arfordir_Cymru_Llyn_2015S4C_P5_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres o 2015 yn dilyn llwybr arfordir Llyn o Gaernarfon i Borthmadog ar drywydd enwau a hanesion yr ardal. Mae'r bennod hon yn mynd â ni o Lanbedrog, heibio Pwllheli ac ymlaen tuag at gastell Cricieth. Byddwn yn clywed am ddechreuadau'r diwydiant twristiaeth ym Mhen Llyn, yn cael ein drysu gan enwau strydoedd Pwllheli ac yn wynebu'r cwestiwn mawr - un 'c' ynteu dwy sydd i fod yn yr enw Cricieth'",
-      "clic_aired": "10 Mawrth 2026",
-      "fav_id": "531119040",
-      "id": "528384785",
-      "series_id": "528384679",
-      "title": "Arfordir Cymru: Llyn",
-      "date_broadcast": "2026-03-15 11:05:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "26",
       "series_title": "Radio Fa'ma - Cyfres 1",
@@ -534,7 +534,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "990",
+      "days_to_expire": "989",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": null,
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
@@ -590,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1488",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "1488",
       "series_title": "Grid - Cyfres 2",
@@ -624,6 +605,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1488",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -762,7 +762,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Marc a Steve, Treganna",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â thy unigryw Marc a Steve yn Nhreganna, Caerdydd. ",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
       "short_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
@@ -2604,7 +2604,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "2",
       "days_to_expire": "8",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
