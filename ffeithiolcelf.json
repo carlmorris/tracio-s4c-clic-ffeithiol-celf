@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "11",
-      "days_to_expire": "147",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Sw Sioned",
-      "short_billing": "Merch fferm o Ben Llyn yw Sioned Mai Davies, sydd bellach yn gweithio gyda stoc go wahanol mewn Sw yn Swydd Stafford. Wedi ei hamgylchynu gan bob math o greaduriaid o Bengwins i Bandas i Pola Bears mae Sioned yn ei seithfed nef. Yn y bennod yma mae Mari Lovgreen yn cynnig help llaw i Sioned ac yn cael llond trol o hwyl yn ei chwmni!",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Merch fferm o Ben Llyn yw Sioned Mai Davies, sydd bellach yn gweithio gyda stoc go wahanol mewn Sw yn Swydd Stafford. Wedi ei hamgylchynu gan bob math o greaduriaid o Bengwins i Bandas i Pola Bears mae Sioned yn ei seithfed nef. Yn y bennod yma mae Mari Lovgreen yn cynnig help llaw i Sioned ac yn cael llond trol o hwyl yn ei chwmni!",
-      "clic_aired": "16 Mawrth 2026",
-      "fav_id": "520950902",
-      "id": "942179465",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2026-03-22 14:35:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -226,6 +207,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-03-16 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "11",
+      "days_to_expire": "147",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Sw Sioned",
+      "short_billing": "Merch fferm o Ben Llyn yw Sioned Mai Davies, sydd bellach yn gweithio gyda stoc go wahanol mewn Sw yn Swydd Stafford. Wedi ei hamgylchynu gan bob math o greaduriaid o Bengwins i Bandas i Pola Bears mae Sioned yn ei seithfed nef. Yn y bennod yma mae Mari Lovgreen yn cynnig help llaw i Sioned ac yn cael llond trol o hwyl yn ei chwmni!",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Merch fferm o Ben Llyn yw Sioned Mai Davies, sydd bellach yn gweithio gyda stoc go wahanol mewn Sw yn Swydd Stafford. Wedi ei hamgylchynu gan bob math o greaduriaid o Bengwins i Bandas i Pola Bears mae Sioned yn ei seithfed nef. Yn y bennod yma mae Mari Lovgreen yn cynnig help llaw i Sioned ac yn cael llond trol o hwyl yn ei chwmni!",
+      "clic_aired": "16 Mawrth 2026",
+      "fav_id": "520950902",
+      "id": "942179465",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2026-03-22 14:35:00",
       "vs": "0"
     },
     {
@@ -647,25 +647,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1487",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1487",
       "series_title": "Grid - Cyfres 1",
@@ -681,6 +662,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1487",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -933,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "A series of compelling, powerful and contemporary films, as Jess Davies looks into some of today's issues.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Prosiect Pum Mil - Cyfres 4",
       "programme_title": "Caffi Hafan, Bangor",
       "short_billing": "Gyda dim ond 5 mil o bunnoedd yn y pot mae Emma Walford a Trystan Ellis-Morris ym Mangor yn helpu criw o Gaffi Hafan Age Cymru . Gyda mewnbwn y cynllunydd crefftus Gwyn Eiddior.",
@@ -2681,7 +2681,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Ty Ffit",
       "programme_title": null,
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
