@@ -344,7 +344,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sw Sioned",
       "short_billing": "Merch fferm o Ben Llyn yw Sioned Mai Davies, sydd bellach yn gweithio gyda stoc go wahanol mewn Sw yn Swydd Stafford. Wedi ei hamgylchynu gan bob math o greaduriaid o Bengwins i Bandas i Pola Bears mae Sioned yn ei seithfed nef. Yn y bennod yma mae Mari Lovgreen yn cynnig help llaw i Sioned ac yn cael llond trol o hwyl yn ei chwmni!",
@@ -685,6 +685,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1485",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1485",
       "series_title": "Grid - Cyfres 1",
@@ -723,27 +742,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1485",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
