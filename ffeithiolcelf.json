@@ -496,7 +496,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Am Dro!",
       "programme_title": null,
       "short_billing": "Cyfres gyda 4 o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded ac yn sgorio ei gilydd ar y diwedd. ",
@@ -666,6 +666,25 @@
       "vs": "0"
     },
     {
+      "count": "4",
+      "days_to_expire": "1485",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1485",
       "series_title": "Grid - Cyfres 1",
@@ -700,25 +719,6 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "1485",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Elis James sy'n mynd ar daith bersonol i ddarganfod mwy am hanes yr iaith Gymraeg. Bydd yn darganfod mwy am yr ymgyrchu cythryblus dros hawliau'r iaith drwy'r 20fed ganrif. Gyda Chymru yn anelu at filiwn o siaradwyr Cymraeg erbyn 2050, bydd Elis yn ymweld â Gwlad y Basg ac yn darganfod sut mae'r Fasgeg eisoes wedi cyrraedd y targed. Wrth ddenu siaradwyr newydd, ydyn ni'n barod i dderbyn y bydd y Gymraeg yn newid' Rhaglen sy'n dathlu'r Gymraeg, Cymreictod a dros 1500 o flynyddoedd o hanes.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Hen Dy Newydd - Cyfres 2",
       "programme_title": "Caerfyrddin",
       "short_billing": "Yn y bennod hon, mae ein 3 cynllunydd creadigol sef Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn wynebu'r her o adnewyddu 3 ardal mewn cartref i gwpwl ifanc yng Nghaerfyrddin. Ni fydd gan y cwpwl syniad sut hwyl geith y tri a gyda chyllidebau gwahanol fe fydd tipyn o sialens yn eu hwynebu- a fydd ein tîm adnewyddu yn llwyddo i drawsnewid hen dy yn HEN DY NEWYDD'",
