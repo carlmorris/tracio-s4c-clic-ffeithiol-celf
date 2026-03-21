@@ -685,6 +685,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1484",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "1484",
       "series_title": "Grid - Cyfres 2",
@@ -723,25 +742,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1484",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "9",
       "days_to_expire": "131",
       "series_title": "Ffermio",
@@ -762,7 +762,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Jayde Adams a Geraint Edwards",
       "short_billing": "Yn y rhaglen olaf o'r gyfres Iaith ar Daith y comedïwyr a'r actorion Jayde Adams a Geraint Rhys Edwards sy'n teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Jayde i ddysgu Cymraeg. Fe fydd Jayde yn gwynebu cyfres o sialensau ieithyddol ac fe fydd Geraint wrth ei hochor ar hyd y ffordd. Ac fe fydd digon o gaws i gyd-fynd gydag ambell jôc gawslyd falle'\nOnd - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Yr Anialwch",
       "programme_title": "Lowri Morgan: Namib",
       "short_billing": "Does dim anialwch yn y byd sy'n hyn na'r Namib.  Am wyth deg miliwn o flynyddoedd mae twyni tywod wedi sefyll ar hyd arfordir Iwerydd Africa.  Lowri Morgan sy'n teithio i anialwch y Namib lle bydd hi'n rhyfeddu at anifeiliaid yr anialwch hynafol yma, yn treulio amser gyda llwyth hardd yr Himba ac yn clywed hanes gorthrwm llwyth yr Herero cyn ymuno â theulu sy'n cloddio am dlysau gwerthfawr.",
