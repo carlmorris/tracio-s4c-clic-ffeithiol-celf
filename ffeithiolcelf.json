@@ -287,7 +287,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna ddraenog yn cael eu gludo i'r practis. Mae Dafydd y Fet yn ymweld â blaidd-gi, ac mae yna alwad brys gan fod Teddy y ci wedi llyncu bachyn pysgota.\r\nBeth fydd eu hanes yn y Fets'",
@@ -685,25 +685,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1484",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "1484",
       "series_title": "Grid - Cyfres 2",
@@ -738,6 +719,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1484",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Y Frwydr: Stori Anabledd",
       "programme_title": "Pennod 3",
       "short_billing": "Mae'r actor Mared Jarman yn parhau ei thaith i ddysgu am hanes anabledd yng Nghymru gan edrych ar y 90au hyd at heddiw. Dyma gyfnod o frwydro'r ol, ymladd tros hawliau a dechrau dathlu anabledd mewn ffordd na welwyd o'r blaen.",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen gyntaf hon, bydd y ddau'n mynd ar daith o'u cartref yng Nghaerdydd, i ynys fwya' Cymru, Ynys Môn - gan ymweld â 'Love Island' Cymru, sef Ynys Llanddwyn! ",
