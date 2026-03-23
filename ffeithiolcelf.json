@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Codi Hwyl: Llydaw",
+      "programme_title": "Douarnenez",
+      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
+      "thumbnail_url": "CodiHwyl_Llydaw_Cyfres.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y rhaglen hon mae John Pierce Jones a Dilwyn Morgan yn hwylio i Douarnenez, y pentref pysgota hyfryd a anfarwolwyd yng Nghymru gan gân Meic Stevens. Mi fydd 'na 'bysgod yn y bore, cychod wrth y cei a fez noz yn Douarnanez'!",
+      "clic_aired": "23 Mawrth 2026",
+      "fav_id": "533276078",
+      "id": "536788162",
+      "series_id": "536788087",
+      "title": "Codi Hwyl: Llydaw",
+      "date_broadcast": "2026-04-05 23:20:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -153,25 +172,6 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "32",
-      "series_title": "Heno",
-      "programme_title": null,
-      "short_billing": "I ni yng Ngwyl Para Chwaraeon Abertawe.",
-      "thumbnail_url": "Heno_2025S4C_logo_098.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "I orffen yr wythnos, i ni yng Ngwyl Para Chwaraeon Abertawe, yn clywed y diweddara o Ynys Gifftan sydd ar werth am £350,000 a chyfle am sgwrs a chân.",
-      "clic_aired": "20 Mawrth 2026",
-      "fav_id": "520950912",
-      "id": "946222994",
-      "series_id": "946221253",
-      "title": "Heno",
-      "date_broadcast": "2026-03-23 12:30:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "31",
       "series_title": "Bethesda: Pobol y Chwarel",
@@ -245,6 +245,25 @@
       "series_id": "946446628",
       "title": "Pawb a'i Farn",
       "date_broadcast": "2026-03-19 21:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "25",
+      "days_to_expire": "31",
+      "series_title": "Heno",
+      "programme_title": null,
+      "short_billing": "I ni yng Ngwyl Para Chwaraeon Abertawe.",
+      "thumbnail_url": "Heno_2025S4C_logo_098.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "I ni'n cyhoeddi rhestr fer Tir na n-Og Uwchradd, mae Bronwen Lewis yn y stiwdio ag i ni'n edrych 'mlaen at ffilm newydd Peaky Blinders.",
+      "clic_aired": "19 Mawrth 2026",
+      "fav_id": "520950912",
+      "id": "946222987",
+      "series_id": "946221253",
+      "title": "Heno",
+      "date_broadcast": "2026-03-20 12:30:00",
       "vs": "0"
     },
     {
@@ -401,7 +420,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -511,25 +530,6 @@
       "series_id": "946613505",
       "title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "date_broadcast": "2026-03-19 13:10:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Codi Hwyl: Llydaw",
-      "programme_title": "Brest & Landerneau/Landerne",
-      "short_billing": "Cyfres yn dilyn John Pierce Jones a Dilwyn Morgan ar daith hwylio i Lydaw.",
-      "thumbnail_url": "Codi_Hwyl_llydaw_P3.jpg",
-      "duration": "22",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Oedd cael cipolwg ar Fae Brest ar jet skis yn syniad da' Nac oedd - mae John yn edifar! Ond mae Dilwyn wrth ei fodd. Llawer mwy pleserus i Gapten Jones oedd hwylio i fyny Afon Elorn i Landerneau / Landerne, tref ganoloesol sydd wedi'i chefeillio â Chaernarfon. ",
-      "clic_aired": "16 Mawrth 2026",
-      "fav_id": "533276078",
-      "id": "536788140",
-      "series_id": "536788087",
-      "title": "Codi Hwyl: Llydaw",
-      "date_broadcast": "2026-03-29 23:00:00",
       "vs": "0"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "984",
+      "days_to_expire": "983",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": null,
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
       "short_billing": "Caeau a thirwedd godre mynydd Carnguwch, ger Llithfaen bydd lleoliad rhaglen olaf y gyfres. Bydd Brychan Llyr a Rhian Parry yn cymharu enwau caeau rhwng 1790 a 1840 ar dir hynafol fferm Llech Engan. Byddant hefyd yn clywed am enw anghyffredin ar gae ar fferm Carnguwch Fawr sy'n gysylltiedig â hen draddodiad amaethyddol. Ar ochr ogleddol y mynydd, ar dir fferm yr Hafod, mae yna gae lle mae defnydd elusennol i'r tir yn dyddio 'nôl i'r bedwaredd ganrif ar bymtheg.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Cymru Yn Euro 2016",
       "short_billing": "Yr anturiaethwr Richard Parks sy'n archwilio'r dyddiau allweddol sydd wedi newid cwrs hanes Cymru - y diwrnodau a greodd nid yn unig ein gwlad ni heddiw, ond ein byd cyfan. Mae Pennod 18 yn adrodd stori albwm arloesol Max Boyce. ",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Y Gêm - Cyfres 2",
       "programme_title": "Jonny Clayton",
       "short_billing": "Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Sean Fletcher: Cyfrinachau'r Llong",
       "programme_title": "Pennod 1",
       "short_billing": "Bydd Sean Fletcher yn darganfod peryglon oedd yn wynebu Llong Casnewydd yn hwylio i Bortiwgal yn y bymthegfed ganrif; a dod ar draws perchennog newydd i'r llong; ffigwr blaenllaw a chyfrwys Rhyfeloedd y Rhosynnau.",
@@ -2455,8 +2455,8 @@
       "count": "3",
       "days_to_expire": "22",
       "series_title": "Eisteddfod Ffermwyr Ifanc 2025",
-      "programme_title": "Cystadleuthau hwyr y prynhawn",
-      "short_billing": "Bwrlwm y cystadlu o Eisteddfod y Ffermwyr Ifanc yn y Drenewydd gyda Ifan Jones Evans, Eleri Siôn a Terwyn Davies.",
+      "programme_title": "Cystadlu'r hwyr",
+      "short_billing": "Mewn dwy raglen estynedig bydd Ifan Jones Evans, Eleri Siôn a Terwyn Davies yn cyflwyno holl gyffro Eisteddfod y Ffermwyr Ifanc 2025 o Theatr Hafren Y Drenewydd.  Byddwn yn cynnwys y cystadlu, yn crynhoi seremoni'r cadeirio a'r coroni ac yn rhannu hwyl a bwrlwm un o ddigwyddiadau mwyaf calendr mudiad ffermwyr ifanc Cymru.  Ffederasiwn Maldwyn sydd yn noddi'r digwyddiad unigryw hwn eleni.   ",
       "thumbnail_url": "Eisteddfod_Ffermwyr_Ifanc_2023S4C_5085_ii.jpg",
       "duration": "203",
       "genre": "Ffeithiol a'r Celfyddydau",
