@@ -1,25 +1,6 @@
 {
   "progs": [
     {
-      "count": "12",
-      "days_to_expire": "149",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Teulu Lleine",
-      "short_billing": "Cwrdd â chymeriadau.cefn gwlad Cymru.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cymeriadau cwmni contractio Lleine ar gyrion Aberteifi sy'n cynnig gwasanaeth i bobl cefn gwlad ar draws tair sir yng Ngorllewin Cymru. Blas ar fusnes teuluol, tair cenhedlaeth sy'n ffordd o fyw i bawb!",
-      "clic_aired": "23 Mawrth 2026",
-      "fav_id": "520950902",
-      "id": "942179488",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2026-03-29 15:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -36,6 +17,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-03-23 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "149",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Teulu Lleine",
+      "short_billing": "Cwrdd â chymeriadau.cefn gwlad Cymru.",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cymeriadau cwmni contractio Lleine ar gyrion Aberteifi sy'n cynnig gwasanaeth i bobl cefn gwlad ar draws tair sir yng Ngorllewin Cymru. Blas ar fusnes teuluol, tair cenhedlaeth sy'n ffordd o fyw i bawb!",
+      "clic_aired": "23 Mawrth 2026",
+      "fav_id": "520950902",
+      "id": "942179488",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2026-03-29 15:40:00",
       "vs": "0"
     },
     {
