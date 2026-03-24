@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": null,
+      "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
+      "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
+      "thumbnail_url": "Cariad_Heb_Ffiniau_Poliamori_2026S4C_Naomi_27-Edit.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Naomi mewn perthynas gyda mwy nag un person ar y tro, yn agored ac yn onest, dyma poliamori ond a all cariad weithio heb ffiniau'",
+      "clic_aired": "24 Mawrth 2026",
+      "fav_id": "946631646",
+      "id": "946631646",
+      "series_id": null,
+      "title": "Cariad Heb Ffiniau: Poliamori a Fi",
+      "date_broadcast": "2026-03-30 22:05:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -325,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Pawb a'i Farn o Hystings Cenedlaethol yr Urdd yng Nghaerdydd. ",
@@ -401,7 +420,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Stori'r Iaith",
       "programme_title": "Sarra Elgan",
       "short_billing": "Sarra Elgan sy'n dilyn rôl rygbi yn stori'r iaith.",
@@ -477,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Maxine Hughes Canser: Ar Ba Gost?",
       "short_billing": "Rhaglen ddogfen gyda'r newyddiadurwraig Maxine Hughes yn siarad am ei diagnosis o ganser y fron. Mae'r ddogfen yn archwilio'r heriau sydd gan yr NHS yng Nghymru, a gweddill y DU. ",
@@ -686,7 +705,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": null,
       "programme_title": "Fy Ffrind ar Death Row",
       "short_billing": "Mae Rhys Williams a Roderick Orme wedi bod yn ffrindiau ers 20 mlynedd. Ond rwan, a'r ddau yn eu chwedegau, mae na gyfnod ar fin dod i ben. Wrth i Rhys baratoi i ymddeol, mae amser Roderick ar Death Row yn rhedeg allan. Rwan ydi'r cyfle i gyfarfod, neu mi fydd yn rhy hwyr.",
@@ -780,25 +799,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1481",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "1481",
       "series_title": "Grid - Cyfres 2",
@@ -814,6 +814,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1481",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -936,18 +955,18 @@
       "days_to_expire": "123",
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres: Amour & Mynydd 3",
-      "short_billing": "Cyn gadael yr Alpau am adref, mae gan y criw un penderfyniad ola i'w wneud.",
+      "short_billing": "Mae'r cerddor Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy bennod ola', Amour & Mynydd. ",
       "thumbnail_url": "Amour_a_Mynydd_P10_Apres.jpg",
-      "duration": "48",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyn gadael yr Alpau am adref, mae gan y criw un penderfyniad ola i'w wneud.",
+      "full_billing": "Mae'r cerddor Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy bennod ola', Amour & Mynydd. ",
       "clic_aired": "25 Chwefror 2026",
       "fav_id": "884734211",
-      "id": "948433223",
+      "id": "948433258",
       "series_id": "946337850",
       "title": "Amour & Mynydd",
-      "date_broadcast": "2026-02-28 22:30:00",
+      "date_broadcast": "2026-02-28 23:25:00",
       "vs": "0"
     },
     {
@@ -1199,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": null,
       "programme_title": "Dwr Du: Trychineb y Sea Empress",
       "short_billing": "30 mlynedd ers i drychineb y Sea Empress adael ei farc ar Sir Benfro, cawn glywed am un o ddamweiniau tancer olew mwya'r byd drwy lygaid y sawl fu yno.",
@@ -1845,7 +1864,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Elidyr Glyn",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw'r cyfansoddwr a phrif leisydd Bwncath, Elidyr Glyn.",
@@ -1921,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": null,
       "programme_title": "Cegin Clwyd: Nadolig Bryn Williams",
       "short_billing": "Ymunwch â'r cogydd amryddawn Bryn Williams wrth iddo ddathlu'r Nadolig nol yn ei gartref genedigol yng Nghlwyd. Yng nghwmni ei ffrindiau a'i deulu, fe fydd yn paratoi danteithion blasus gan gynnwys twrci arbennig, pwdin oren a siocled, coctêl Nadolig a'r tôsti caws mwyaf blasus erioed!",
@@ -2035,7 +2054,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": null,
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
@@ -2529,7 +2548,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": null,
       "programme_title": "Curo Tu ôl i'r Drws",
       "short_billing": "Trwy lygaid rhai o'r heddweision sy'n gweithio ym maes cam drin domestig Heddlu Dyfed-Powys, bydd y rhaglen ddogfen ddadlennol hon yn adrodd straeon dioddefwyr cam-drin domestig a'r gwaith sy'n cael ei wneud gan yr heddlu i ymchwilio i bob trosedd.",
@@ -2738,7 +2757,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": null,
       "programme_title": "Mari Grug: Un Dydd Ar Y Tro",
       "short_billing": "Ers derbyn diagnosis o gancer yn 2023 mae bywyd Mari Grug a'i theulu wedi newid yn syfrdanol. Dilynwn siwrnai Mari wrth iddi ddysgu dygymod a thriniaethau a jyglo bywyd fel mam a chyflwynydd, tra'n ceisio 'neud y mwyaf o bob dydd.",
@@ -2776,7 +2795,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "211",
+      "days_to_expire": "210",
       "series_title": null,
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
