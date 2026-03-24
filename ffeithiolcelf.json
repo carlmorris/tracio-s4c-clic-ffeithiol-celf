@@ -477,7 +477,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna ddraenog yn cael eu gludo i'r practis. Mae Dafydd y Fet yn ymweld â blaidd-gi, ac mae yna alwad brys gan fod Teddy y ci wedi llyncu bachyn pysgota.\r\nBeth fydd eu hanes yn y Fets'",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "1481",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1481",
       "series_title": "Grid - Cyfres 3",
@@ -833,6 +814,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "1481",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Y Frwydr: Stori Anabledd",
       "programme_title": "Pennod 3",
       "short_billing": "Mae'r actor Mared Jarman yn parhau ei thaith i ddysgu am hanes anabledd yng Nghymru gan edrych ar y 90au hyd at heddiw. Dyma gyfnod o frwydro'r ol, ymladd tros hawliau a dechrau dathlu anabledd mewn ffordd na welwyd o'r blaen.",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Cymru, Dad a Fi",
       "programme_title": "Pennod 1",
       "short_billing": "Cyfres yn dilyn taith tad a mab, Wayne a Connagh Howard, o gwmpas rhai o ynysoedd Cymru. Yn y rhaglen gyntaf hon, bydd y ddau'n mynd ar daith o'u cartref yng Nghaerdydd, i ynys fwya' Cymru, Ynys Môn - gan ymweld â 'Love Island' Cymru, sef Ynys Llanddwyn! ",
