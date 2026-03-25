@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Christine Mills a Osian Huw Williams",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Christine Mills yn mynd ati i geisio creu portread o'r cerddor Osian Huw Williams. ",
@@ -93,25 +93,6 @@
       "series_id": "809592897",
       "title": "Cymry ar Gynfas - Cyfres 2",
       "date_broadcast": "2026-03-24 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "12",
-      "days_to_expire": "148",
-      "series_title": "Cefn Gwlad",
-      "programme_title": "Teulu Lleine",
-      "short_billing": "Cwrdd â chymeriadau.cefn gwlad Cymru.",
-      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cymeriadau cwmni contractio Lleine ar gyrion Aberteifi sy'n cynnig gwasanaeth i bobl cefn gwlad ar draws tair sir yng Ngorllewin Cymru. Blas ar fusnes teuluol, tair cenhedlaeth sy'n ffordd o fyw i bawb!",
-      "clic_aired": "23 Mawrth 2026",
-      "fav_id": "520950902",
-      "id": "942179488",
-      "series_id": "942179189",
-      "title": "Cefn Gwlad",
-      "date_broadcast": "2026-03-29 15:40:00",
       "vs": "0"
     },
     {
@@ -131,6 +112,25 @@
       "series_id": "944195105",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-03-23 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "148",
+      "series_title": "Cefn Gwlad",
+      "programme_title": "Teulu Lleine",
+      "short_billing": "Cwrdd â chymeriadau.cefn gwlad Cymru.",
+      "thumbnail_url": "Cefn_Gwlad_2020S4C_teitlau.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cymeriadau cwmni contractio Lleine ar gyrion Aberteifi sy'n cynnig gwasanaeth i bobl cefn gwlad ar draws tair sir yng Ngorllewin Cymru. Blas ar fusnes teuluol, tair cenhedlaeth sy'n ffordd o fyw i bawb!",
+      "clic_aired": "23 Mawrth 2026",
+      "fav_id": "520950902",
+      "id": "942179488",
+      "series_id": "942179189",
+      "title": "Cefn Gwlad",
+      "date_broadcast": "2026-03-29 15:40:00",
       "vs": "0"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 3",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r tri pobydd yn mynd ati i greu cacen arbennig wedi'i hysbrydoli gan un o'u hoff bethau.  ",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1480",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1480",
       "series_title": "Grid - Cyfres 3",
@@ -814,6 +795,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1480",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey, yn edrych ar gartrefi Cymru drwy'r oesoedd. ",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Pobl Harri Parri",
       "programme_title": "Caernarfon",
       "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Nadolig",
       "short_billing": "Rhaglen arbennig Nadolig o 'Heno Aur' gydag Angharad Mair a Siân Thomas. Eisteddwch nôl i chwerthin a rhyfeddu ar rai o straeon Nadolig y nawdegau cynnar.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 1",
       "programme_title": null,
       "short_billing": "Cyfres goginio newydd gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yn rhaglen olaf y gyfres mae'n dangos i ni sut i greu prydau 'ffansi pants', rhai sy'n edrych yn fwy cymhleth nag ydyn nhw. Ac mae Mam a Dad Colleen yn dod draw i fwynhau pwdin arbennig.",
@@ -2604,8 +2604,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "14",
+      "count": "2",
+      "days_to_expire": "13",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": null,
       "short_billing": "Mae Chris Roberts, Kiri Pritchard McLean ac Alun Williams ar daith drwy Seland Newydd. ",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
