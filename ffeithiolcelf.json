@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "programme_title": null,
+      "short_billing": "Gyda thymor yr haf yn prysur dod i ben a'r hydref yn agosau, am y tro cyntaf erioed ma' 'na gyfle i Gary a Meinir feirniadu'r adran ddefaid gyda'i gilydd yn un o sioeau ola'r tymor sef sioe Dinbych a Fflint 2024. Hefyd ers dyfodiad y pandemig yn 2020 ma' nhw wedi cynnal arwerthiant blynyddol yr hyrddod adref yn Shadog, ond eleni wedi penderfynu mentro allan o glos y ffarm a gwerthu 40 o'r hyrddod yn arwerthiant blynyddol yr NSA yn Llanelwedd. Llwyddiant iddyn nhw fel busnes ai peidio'",
+      "thumbnail_url": "Teulur_Shadog_2025S4C_P2-922.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gyda thymor yr haf yn prysur dod i ben a'r hydref yn agosau, am y tro cyntaf erioed ma' 'na gyfle i Gary a Meinir feirniadu'r adran ddefaid gyda'i gilydd yn un o sioeau ola'r tymor sef sioe Dinbych a Fflint 2024. Hefyd ers dyfodiad y pandemig yn 2020 ma' nhw wedi cynnal arwerthiant blynyddol yr hyrddod adref yn Shadog, ond eleni wedi penderfynu mentro allan o glos y ffarm a gwerthu 40 o'r hyrddod yn arwerthiant blynyddol yr NSA yn Llanelwedd. Llwyddiant iddyn nhw fel busnes ai peidio'",
+      "clic_aired": "25 Mawrth 2026",
+      "fav_id": "946349631",
+      "id": "946349643",
+      "series_id": "946349631",
+      "title": "Teulu Shadog: Tymhorau'r Flwyddyn",
+      "date_broadcast": "2026-04-05 11:00:00",
+      "vs": "0"
+    },
+    {
       "count": "11",
       "days_to_expire": "149",
       "series_title": "Y Fets - Cyfres 6",
@@ -268,7 +287,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Cyfres newydd. Dot Davies sy'n mynd â sêr adnabyddus ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru. ",
@@ -306,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda ydy hon.  Cyfres sy'n clustfeinio ar fywydau cymeriadau mewn cymuned glos Gymreig.  Mae hi'n dathlu'r rhyfeddol mewn bywydau arferol bob dydd pobl.  ",
@@ -477,25 +496,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "programme_title": null,
-      "short_billing": "Dechreuwn y gyfres wrth i Gary a Meinir wynebu ansicrwydd o fewn y diwydiant gyda newidiadau o fewn diwygiad yr SFS - y cynllun cynaliadwy gan y llywodraeth sy' di creu nifer o brotestiadau cenedlaethol ar hyd a lled y wlad - gan gynnwys un adref ar fferm Shadog.",
-      "thumbnail_url": "Teulur_Shadog_2025S4C_P1-631.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dechreuwn y gyfres wrth i Gary a Meinir wynebu ansicrwydd o fewn y diwydiant gyda newidiadau o fewn diwygiad yr SFS - y cynllun cynaliadwy gan y llywodraeth sy' di creu nifer o brotestiadau cenedlaethol ar hyd a lled y wlad - gan gynnwys un adref ar fferm Shadog.",
-      "clic_aired": "18 Mawrth 2026",
-      "fav_id": "946349631",
-      "id": "946349636",
-      "series_id": "946349631",
-      "title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "date_broadcast": "2026-03-29 11:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "142",
       "series_title": null,
       "programme_title": "Maxine Hughes Canser: Ar Ba Gost?",
@@ -534,7 +534,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams yn y gyfres goginio hon.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -780,25 +780,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1480",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1480",
       "series_title": "Grid - Cyfres 1",
@@ -833,6 +814,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1480",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Y Sin",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
