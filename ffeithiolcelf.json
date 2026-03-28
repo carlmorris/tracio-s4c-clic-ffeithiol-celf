@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
+      "programme_title": "Cerys Matthews",
+      "short_billing": "Cerys Matthews sy'n rhannu ei chyfrinachau.",
+      "thumbnail_url": "Cyfrinachaur_Llyfrgell_2024S4C_P2_Cerys-2.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Taith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru gyda'r cerddor a'r darlledwr Cerys Matthews.",
+      "clic_aired": "28 Mawrth 2026",
+      "fav_id": "910288189",
+      "id": "877549284",
+      "series_id": "877549259",
+      "title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
+      "date_broadcast": "2026-03-28 12:45:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Priodas Pum Mil - Cyfres 7",
@@ -514,25 +533,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
-      "programme_title": "Tudur Owen",
-      "short_billing": "Tudur Owen sy'n rhannu ei daith bersonol. ",
-      "thumbnail_url": "Cyfrinachaur_Llyfrgell_2024S4C_P1_Tudur_a_Dot-Edit.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd. Mae Dot Davies yn mynd â Tudur Owen ar daith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru.",
-      "clic_aired": "21 Mawrth 2026",
-      "fav_id": "910288189",
-      "id": "877549266",
-      "series_id": "877549259",
-      "title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
-      "date_broadcast": "2026-03-21 12:45:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "142",
       "series_title": "Am Dro!",
@@ -894,25 +894,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "1477",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1477",
       "series_title": "Grid - Cyfres 1",
@@ -928,6 +909,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "1477",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
