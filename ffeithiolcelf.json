@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Y Llais",
+      "programme_title": null,
+      "short_billing": "Mae'r Clyweliadau Cudd ar fin dod i ben. ",
+      "thumbnail_url": "Y_Llais_2026S4C_C2_3x2_Dim_Teitl.jpg",
+      "duration": "73",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r Clyweliadau Cudd ar fin dod i ben, pwy fydd yn hawlio'r llefydd olaf yn nhimau ein hyfforddwyr'",
+      "clic_aired": "29 Mawrth 2026",
+      "fav_id": "894876084",
+      "id": "947163440",
+      "series_id": "947163414",
+      "title": "Y Llais",
+      "date_broadcast": "2026-04-03 21:00:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Colli Cymru i'r Môr",
@@ -40,7 +59,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Fflach o Noson Lawen",
       "short_billing": "Dathlu gwaddol y label recordio o Aberteifi.",
@@ -477,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": null,
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -530,25 +549,6 @@
       "series_id": null,
       "title": "Lladron Gwartheg",
       "date_broadcast": "2026-04-02 21:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Y Llais",
-      "programme_title": null,
-      "short_billing": "Yn y drydedd bennod o'r Clyweliadau Cudd bydd ein hyfforddwyr Yws Gwynedd, Bronwen Lewis, Aleighcia Scott a Syr Bryn Terfel yn brwydro yn erbyn ei gilydd i lenwi ei timau o gantorion talentog.",
-      "thumbnail_url": "Y_Llais_2026S4C_C2_3x2_Dim_Teitl.jpg",
-      "duration": "73",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y drydedd bennod o'r Clyweliadau Cudd bydd ein hyfforddwyr Yws Gwynedd, Bronwen Lewis, Aleighcia Scott a Syr Bryn Terfel yn brwydro yn erbyn ei gilydd i lenwi ei timau o gantorion talentog.",
-      "clic_aired": "22 Mawrth 2026",
-      "fav_id": "894876084",
-      "id": "947163433",
-      "series_id": "947163414",
-      "title": "Y Llais",
-      "date_broadcast": "2026-03-27 21:50:00",
       "vs": "0"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -913,25 +913,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "1476",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1476",
       "series_title": "Grid - Cyfres 3",
@@ -947,6 +928,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "1476",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": null,
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Dilynwn Rhys Meirion wrth iddo fynd ati i greu fersiwn Gymraeg o un o ganeuon y diweddar Mike Peters. Dyma ymateb i'r neges olaf a gafodd Rhys gan Mike, ac mae'n cyd-weithio gyda meibion Mike, sef Dylan ac Evan, ar y recordiad arbennig yma. ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi mewn diwrnod llawn chwerthin, cariad a phêl-droed. Gyda'u plant Kian a Kai'n gefnogwyr brwd o Manchester United, ni fydd Lerpwl yn cael dod yn agos¿ neu bydd Adam yn gweld coch!",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": null,
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i un o denoriaid mwya'r 20fed ganrif --  Stuart Burrows. Am wlad fach mae Cymru wedi creu cewri cerddorol - ac mae Stuart Burrows ymhlith y mwyaf oll o'r rheiny. Dyma raglen deyrnged dwymgalon fydd yn cynnwys atgofion rhai oedd yn ei nabod yn dda ac yn agos iddo.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Wrth i fisoedd ola'r her nesáu, mae Mike angen magu mwy o hyder i siarad Cymraeg. Mae'n ymarfer yn y car gyda ffrind dychmygol, yn cyfarfod criw o ddysgwyr brwdfrydig yn Y Rhondda, ac yn clywed sut wnaeth y DJ Katie Owen ddysgu'r iaith. Mae'n treulio diwrnod yn Tafwyl, yn darlledu'n fyw ar S4C, Mae'n dysgu cân Gymraeg gydag un o berfformwyr amlycaf Cymru, ac yn mentro i'r Senedd i gwrdd â'r Prif Weinidog, i holi a yw e ar ei ffordd i fod yn Un Mewn Miliwn'",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 2",
       "programme_title": "Nadolig Colleen Ramsey ",
       "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Uchafbwyntiau'r Ffair Aeaf",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2025. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. Isdeitlau Saesneg ar gael. ",
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Cyfres yn edrych ar hanes pensaernïol Cymru.",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": null,
       "short_billing": "Pan mae Cymru yn mynd i gysgu mae na griw arbennig o bobl yn dechrau eu diwrnod. Yn ymuno â'r garfan ddiwyd yma am un shift unigryw mae'r eicon rygbi a'r dysgwr Cymraeg, Scott Quinnell. Yn y bennod olaf, mae Scott yn Amazon yn Abertawe ac yng ngwesty mawreddog Portmeirion.",
@@ -2681,7 +2681,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": null,
       "short_billing": "Mae mab a merch yn dilyn ôl traed eu tad, carcharor rhyfel yn yr Ail Ryfel Byd, ac yn datgelu gwybodaeth newydd am y cynllun mentrus a ysbrydolodd ffilm enwog 'The Great Escape'. ",
@@ -2776,7 +2776,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": null,
       "programme_title": "Cowbois Tecsas",
       "short_billing": "Wil ac Aeron sy'n teithio draw i Tecsas ¿ er mwyn gwireddu breuddwyd oes o gael bod yn gowbois! ",
