@@ -267,8 +267,8 @@
       "vs": "0"
     },
     {
-      "count": "13",
-      "days_to_expire": "147",
+      "count": "12",
+      "days_to_expire": "146",
       "series_title": "Cefn Gwlad",
       "programme_title": "Emrys Owen",
       "short_billing": "Dyn ei filltir sgwâr yw'r Peiriannydd Amaethyddol.",
@@ -283,25 +283,6 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2026-04-05 14:15:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd am yr wythnos. ",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos. ",
-      "clic_aired": "30 Mawrth 2026",
-      "fav_id": "944195105",
-      "id": "944197553",
-      "series_id": "944195105",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-03-30 21:33:00",
       "vs": "0"
     },
     {
@@ -1084,25 +1065,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1472",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1472",
       "series_title": "Grid - Cyfres 2",
@@ -1141,8 +1103,27 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1472",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "8",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1731,7 +1712,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -1883,7 +1864,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
