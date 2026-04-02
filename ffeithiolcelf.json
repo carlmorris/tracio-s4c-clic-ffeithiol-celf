@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Llanllwni",
+      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Troedio caeau ardal Llanllwni yng ngogledd Sir Gaerfyrddin bydd Brychan Llyr a Rhian Parry yr wythnos hon. Bydd y rhaglen yn canolbwyntio ar gasgliad o enwau diddorol ar fferm y Gelli gyda Janet Howells, ac yn olrhain hanes cae ym Maesycrugiau lle bu ymosodiad cas ym 1858.",
+      "clic_aired": "2 Ebrill 2026",
+      "fav_id": "760725904",
+      "id": "519715703",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2026-04-02 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "30",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
@@ -97,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Alys Williams",
       "short_billing": "Y cerddor Alys Williams sy'n blasu byta a sgwrsio.",
@@ -116,7 +135,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Edrychwn ymlaen at un o gyfnodau prysuraf y teulu.",
@@ -401,7 +420,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Cerys Matthews",
       "short_billing": "Cerys Matthews sy'n rhannu ei chyfrinachau.",
@@ -439,7 +458,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn yr ail raglen byddwn yn dod i nabod Dilys Margaret Pritchard sy'n byw ym Methesda ar hyd ei hoes ac sy'n caru'r lle hwn sy'n gynefin iddi.  Byddwn yn mynd i'r chwarel i gwrdd â Neil Roberts sy'n gweithio yno ers pymtheg mlynedd ar hugain.  Mae Neil yn chwarelwr ac yn aelod o'r band Celt.  Byddwn yn mynd nôl at Nicola i gael canlyniadau ei mamogram blynyddol ac yn ei gweld yn sgwrsio efo Dilys am fywyd ",
@@ -568,25 +587,6 @@
       "series_id": "808111821",
       "title": "Radio Fa'ma - Cyfres 1",
       "date_broadcast": "2026-03-29 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Pennant",
-      "short_billing": "Golwg ar hanes ein cymunedau gwledig, drwy ddadansoddi'r enwau a ddefnyddir ar ein caeau a thiroedd.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Brychan Llyr yn datgloi hanes a chyfrinachau ein cymunedau gwledig trwy ddadansoddi ac ymchwilio i'r enwau a ddefnyddir ar ein tiroedd. Yn gwmni i Brychan bydd yr hanesydd Dr Rhian Parry. Yn rhaglen gynta'r gyfres hon o 2015, bydd y ddau yn trafod caeau a thiroedd ardal Llanfihangel-y-Pennant, yn Nyffryn Dysynni.",
-      "clic_aired": "26 Mawrth 2026",
-      "fav_id": "760725904",
-      "id": "519715681",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2026-03-26 13:00:00",
       "vs": "0"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1084,25 +1084,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1472",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1472",
       "series_title": "Grid - Cyfres 1",
@@ -1118,6 +1099,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1472",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Noson hamddenol yn yr ardd a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. ",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Sin",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
