@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
+      "programme_title": "Iolo Williams",
+      "short_billing": "Y naturiaethwr Iolo Williams sy ar daith bersonol.",
+      "thumbnail_url": "Cyfrinachaur_Llyfrgell_2024S4C_P3_Iolo_Williams_6412-Edit-2.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae'r naturiaethwr a'r darlledwr Iolo Williams.",
+      "clic_aired": "4 Ebrill 2026",
+      "fav_id": "910288189",
+      "id": "877549302",
+      "series_id": "877549259",
+      "title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
+      "date_broadcast": "2026-04-04 13:20:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "149",
       "series_title": "Priodas Pum Mil - Cyfres 7",
@@ -473,25 +492,6 @@
       "series_id": "864272866",
       "title": "Cynefin - Cyfres 6",
       "date_broadcast": "2026-03-28 18:20:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "142",
-      "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
-      "programme_title": "Cerys Matthews",
-      "short_billing": "Cerys Matthews sy'n rhannu ei chyfrinachau.",
-      "thumbnail_url": "Cyfrinachaur_Llyfrgell_2024S4C_P2_Cerys-2.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Taith bersonol drwy goridorau Llyfrgell Genedlaethol Cymru gyda'r cerddor a'r darlledwr Cerys Matthews.",
-      "clic_aired": "28 Mawrth 2026",
-      "fav_id": "910288189",
-      "id": "877549284",
-      "series_id": "877549259",
-      "title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
-      "date_broadcast": "2026-03-28 12:45:00",
       "vs": "0"
     },
     {
@@ -1084,6 +1084,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1470",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1470",
       "series_title": "Grid - Cyfres 1",
@@ -1118,25 +1137,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1470",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": null,
       "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 6",
       "programme_title": "Noel Thomas",
       "short_billing": "Elin Fflur fydd yn Sgwrsio dan olau'r lloer gyda'r cyn is-bostfeistr, Noel Thomas, a aeth i'r carchar, a cholli popeth.",
