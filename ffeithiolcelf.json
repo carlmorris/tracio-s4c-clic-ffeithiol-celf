@@ -686,7 +686,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -914,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -1141,6 +1141,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1468",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "1468",
       "series_title": "Grid - Cyfres 2",
@@ -1175,25 +1194,6 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1468",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Richard Parks ar daith i archwilio hanes Cymru.",
@@ -1650,7 +1650,7 @@
       "id": "892227485",
       "series_id": "892227382",
       "title": "Colleen Ramsey: Bywyd a Bwyd - 3",
-      "date_broadcast": "2026-03-03 12:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
