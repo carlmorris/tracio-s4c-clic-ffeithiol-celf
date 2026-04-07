@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": null,
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": null,
-      "clic_aired": "6 Ebrill 2026",
-      "fav_id": "949106349",
-      "id": "949106356",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-04-06 21:58:00",
-      "vs": "0"
-    },
-    {
       "count": "13",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -112,6 +93,25 @@
       "series_id": "942179189",
       "title": "Cefn Gwlad",
       "date_broadcast": "2026-04-19 12:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": null,
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": null,
+      "clic_aired": "6 Ebrill 2026",
+      "fav_id": "949106349",
+      "id": "949106356",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-04-06 21:58:00",
       "vs": "0"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd yn ei Le",
       "programme_title": "Ceidwadwyr",
       "short_billing": "Byddwn yn craffu ar addewidion mawr y blaid. ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": null,
       "short_billing": "Yn y rhaglen hon, mae Gwilym yn ymweld ag Iperralde sef rhan Ffrengig Gwlad y Basg cyn gorffen ei daith yn Irunea (Pamplona).",
