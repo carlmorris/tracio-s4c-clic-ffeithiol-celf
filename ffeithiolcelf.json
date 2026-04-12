@@ -800,7 +800,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -990,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -1236,25 +1236,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1462",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1462",
       "series_title": "Grid - Cyfres 2",
@@ -1270,6 +1251,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1462",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Richard Parks ar daith i archwilio hanes Cymru.",
@@ -2277,7 +2277,7 @@
       "id": "898790255",
       "series_id": "898790192",
       "title": "Mike Bubbins - Un Mewn Miliwn",
-      "date_broadcast": "2026-03-09 22:05:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
