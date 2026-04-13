@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": null,
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": null,
-      "clic_aired": "13 Ebrill 2026",
-      "fav_id": "949106349",
-      "id": "949106366",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-04-13 21:33:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "149",
       "series_title": "Ffermio",
       "programme_title": null,
@@ -36,6 +17,25 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-04-19 12:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": null,
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": null,
+      "clic_aired": "13 Ebrill 2026",
+      "fav_id": "949106349",
+      "id": "949106366",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-04-13 21:33:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Eryri: Pobol y Parc",
       "programme_title": null,
       "short_billing": "Cyfres yn dathlu penblwydd Parc Cenedlaethol Eryri yn 70 oed. Beicio ar lethrau'r Wyddfa a cherdded mewn storm ar Foel Siabod, cyffro'r tymor &#373;yna a phroblemau cynllunio, olion archaeolegol a rhyfeddodau Eryri dan y sêr. ",
@@ -377,7 +377,7 @@
       "id": "946632745",
       "series_id": "946632733",
       "title": "Nol o'r Dibyn gyda Iolo Williams",
-      "date_broadcast": "2026-04-18 16:25:00",
+      "date_broadcast": "2026-04-28 22:30:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhywiol ac addysg rhyw. ",
@@ -1274,25 +1274,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "1461",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1461",
       "series_title": "Grid - Cyfres 3",
@@ -1327,6 +1308,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "1461",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Richard Parks ar daith i archwilio hanes Cymru.",
@@ -1536,7 +1536,7 @@
       "id": "871293682",
       "series_id": "871293585",
       "title": "Taith Bywyd - Cyfres 1",
-      "date_broadcast": "2026-03-10 22:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2334,7 +2334,7 @@
       "id": "898790255",
       "series_id": "898790192",
       "title": "Mike Bubbins - Un Mewn Miliwn",
-      "date_broadcast": null,
+      "date_broadcast": "2026-04-28 15:05:00",
       "vs": "0"
     },
     {
@@ -2543,7 +2543,7 @@
       "id": "878168920",
       "series_id": "878168853",
       "title": "Sgwrs Dan y Lloer - Cyfres 5",
-      "date_broadcast": null,
+      "date_broadcast": "2026-04-28 12:05:00",
       "vs": "0"
     },
     {
