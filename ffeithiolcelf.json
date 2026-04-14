@@ -2,25 +2,6 @@
   "progs": [
     {
       "count": "1",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
-      "clic_aired": "13 Ebrill 2026",
-      "fav_id": "533250950",
-      "id": "949038903",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-04-19 12:25:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": null,
@@ -36,6 +17,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-04-13 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
+      "clic_aired": "13 Ebrill 2026",
+      "fav_id": "533250950",
+      "id": "949038903",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-04-19 12:25:00",
       "vs": "0"
     },
     {
