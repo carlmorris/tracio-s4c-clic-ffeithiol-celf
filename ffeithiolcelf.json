@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "30",
+      "series_title": "Nol o'r Dibyn gyda Iolo Williams",
+      "programme_title": null,
+      "short_billing": "Y tro hwn, enghreifftiau yn Abertawe ac Ibiza.",
+      "thumbnail_url": "Nol_or_Dibyn_gyda_Iolo_Williams_2026S4C_P3_925322816.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddi, edrychwn ar ymdrechion cadwraeth yn Amsterdam, Mwmbwls, Basel, Bryncir, ac Ibiza.",
+      "clic_aired": "15 Ebrill 2026",
+      "fav_id": "946632733",
+      "id": "946632752",
+      "series_id": "946632733",
+      "title": "Nol o'r Dibyn gyda Iolo Williams",
+      "date_broadcast": "2026-04-25 16:15:00",
+      "vs": "0"
+    },
+    {
       "count": "11",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -116,25 +135,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
-      "clic_aired": "13 Ebrill 2026",
-      "fav_id": "533250950",
-      "id": "949038903",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-04-19 12:25:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": null,
@@ -153,8 +153,27 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "1",
       "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
+      "clic_aired": "13 Ebrill 2026",
+      "fav_id": "533250950",
+      "id": "949038903",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-04-19 12:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "147",
       "series_title": "Garddio a Mwy",
       "programme_title": null,
       "short_billing": "Mae Meinir yn yr Ardd Fotaneg Genedlaethol.",
@@ -230,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Llais",
       "programme_title": null,
       "short_billing": "Mae'r daith yn parhau gyda rownd yr Ail-Alwadau.",
@@ -435,25 +454,6 @@
       "series_id": "519715672",
       "title": "Caeau Cymru",
       "date_broadcast": "2026-04-09 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "24",
-      "series_title": "Nol o'r Dibyn gyda Iolo Williams",
-      "programme_title": null,
-      "short_billing": "Heddiw, enghreifftiau fel toeau gwyrdd yr Almaen.",
-      "thumbnail_url": "Nol_or_Dibyn_gyda_Iolo_Williams_2026S4C_763973873-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Edrychwn ar enghreifftiau o ymdrechion cadwraeth, gan gynnwys toeau gwyrdd yr Almaen.",
-      "clic_aired": "8 Ebrill 2026",
-      "fav_id": "946632733",
-      "id": "946632745",
-      "series_id": "946632733",
-      "title": "Nol o'r Dibyn gyda Iolo Williams",
-      "date_broadcast": "2026-04-28 22:30:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Fflach o Noson Lawen",
       "short_billing": "Dathlu gwaddol Cwmni recordio Fflach. ",
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": null,
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": null,
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Dilynwn Rhys Meirion wrth iddo fynd ati i greu fersiwn Gymraeg o un o ganeuon y diweddar Mike Peters. Dyma ymateb i'r neges olaf a gafodd Rhys gan Mike, ac mae'n cyd-weithio gyda meibion Mike, sef Dylan ac Evan, ar y recordiad arbennig yma. ",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": null,
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i un o denoriaid mwya'r 20fed ganrif --  Stuart Burrows. Am wlad fach mae Cymru wedi creu cewri cerddorol - ac mae Stuart Burrows ymhlith y mwyaf oll o'r rheiny. Dyma raglen deyrnged dwymgalon fydd yn cynnwys atgofion rhai oedd yn ei nabod yn dda ac yn agos iddo.",
@@ -2358,7 +2358,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 2",
       "programme_title": "Nadolig Colleen Ramsey ",
       "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Mae'r rhaglen hon yn dathlu'r Nadolig. Mae Colleen yn caru dathlu'r Wyl gyda'r teulu a chawn weld hi'n paratoi ryseitiau Nadoligaidd, rhannu hen draddodiadau a rhai newydd . ",
@@ -2738,7 +2738,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Uchafbwyntiau'r Ffair Aeaf",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2025. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. Isdeitlau Saesneg ar gael. ",
@@ -2833,7 +2833,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai newydd.",
