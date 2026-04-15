@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "34",
+      "series_title": "Y Sioe Fwyd - Cyfres 1",
+      "programme_title": "Aeron Pughe",
+      "short_billing": "Y cyflwynydd Aeron Pughe sy'n sgwrsio a blasu bwyd.",
+      "thumbnail_url": "Y_Sioe_Fwyd_2019S4C_P3.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyflwynydd Aeron Pughe sy'n ymuno ag Ifan Jones Evans a'r cogydd Hywel Griffith yn y gegin i goginio, blasu bwyd a sgwrsio.",
+      "clic_aired": "15 Ebrill 2026",
+      "fav_id": "804022858",
+      "id": "802157469",
+      "series_id": "802157404",
+      "title": "Y Sioe Fwyd - Cyfres 1",
+      "date_broadcast": "2026-04-15 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "Dim Cwsg i Quinnell",
@@ -78,25 +97,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": null,
-      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
-      "clic_aired": "13 Ebrill 2026",
-      "fav_id": "533250950",
-      "id": "949038903",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-04-19 12:25:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": null,
@@ -112,6 +112,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-04-13 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": null,
+      "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yng nghanol bywyd newydd, oes yna heriau'n wynebu Alun Elidyr ar ei fferm yn ystod yr wyna'",
+      "clic_aired": "13 Ebrill 2026",
+      "fav_id": "533250950",
+      "id": "949038903",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-04-19 12:25:00",
       "vs": "0"
     },
     {
@@ -173,7 +192,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Benfro i Trinidad",
       "short_billing": "I gyd-fynd â digwyddiadau cyfredol symudiad Black Lives Matter, dyma ail-ddangos stori Thomas Picton - y milwr o Sir Benfro a ddaeth yn Llywodraethwr cyntaf ynys Trinidad. Mae'r stori yn dechrau yn Gibraltar ac yntau yn gyw o filwr ac yn gorffen yn Waterloo pan ddaeth yn uchel swyddog enwog. Ond rhwng y ddau roedd yna gyfnod tywyll iawn yn stori Thomas Picton. Cyfnod sydd yn codi cwestiynau anodd am ei rôl e a'r Ymerodraeth Brydeinig mewn hanes sydd erbyn hyn yn codi cywilydd; caethwasiaeth.",
@@ -306,7 +325,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": null,
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y drydedd rhaglen byddwn yn mynd i Bartneriaeth Ogwen i gwrdd â Meleri Davies sy'n arwain y fenter gymdeithasol er lles Bethesda.  Byddwn hefyd yn cwrdd ag Adam Quaeck sy'n swyddog cynnal a chadw yn y pentre ac sy'n sôn am sut mae byw yn rhywle fel Bethsda yn llesol i iechyd meddwl rhywun.  Mae Neville Hughes yn un o hoelion wyth y gymdeithas glos hon ac yn hynod o weithgar yn y gymuned ac mae o a Grif",
@@ -382,7 +401,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Caeau Cymru",
       "programme_title": "Brynddu",
       "short_billing": "Hanes bywyd cefn gwlad Sir Fôn yn y 18fed ganrif.",
@@ -439,7 +458,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -549,25 +568,6 @@
       "series_id": "832947033",
       "title": "Cynefin",
       "date_broadcast": "2026-04-01 15:50:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "21",
-      "series_title": "Y Sioe Fwyd - Cyfres 1",
-      "programme_title": "Alys Williams",
-      "short_billing": "Y cerddor Alys Williams sy'n blasu byta a sgwrsio.",
-      "thumbnail_url": "Y_Sioe_Fwyd_2019S4C_P2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio, gyda Ifan Jones Evans wrth y llyw, a'r cogydd Hywel Griffith. Yn ymuno â nhw 'tro 'ma mae'r cerddor Alys Williams.",
-      "clic_aired": "1 Ebrill 2026",
-      "fav_id": "804022858",
-      "id": "802157441",
-      "series_id": "802157404",
-      "title": "Y Sioe Fwyd - Cyfres 1",
-      "date_broadcast": "2026-04-01 13:30:00",
       "vs": "0"
     },
     {
@@ -913,6 +913,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "126",
+      "series_title": null,
+      "programme_title": "Y Llinell Las: Lladron Gwartheg",
+      "short_billing": "Plismyn yn ymchwilio lladrad gwartheg gwerth £20k.",
+      "thumbnail_url": "Y_Llinell_Las_Gwartheg_2026S4C_001.jpg",
+      "duration": "39",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig yn dilyn tîm plismona cefn gwlad wrth iddynt ymchwilio i ladrad gwartheg o fferm ar Ynys Môn.",
+      "clic_aired": "23 Mawrth 2026",
+      "fav_id": "925072130",
+      "id": "948029413",
+      "series_id": null,
+      "title": "Y Llinell Las: Lladron Gwartheg",
+      "date_broadcast": "2026-04-02 21:30:00",
+      "vs": "0"
+    },
+    {
       "count": "6",
       "days_to_expire": "124",
       "series_title": "Am Dro!",
@@ -1028,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Tir a'r môr Cymru sy'n ysbrydoli Bryn Williams.",
@@ -1161,7 +1180,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1427,7 +1446,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1655,7 +1674,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Elin Fflur sy'n sgwrsio â wynebau cyfarwydd Cymru.",
@@ -2111,7 +2130,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2206,7 +2225,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -2263,7 +2282,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -2339,7 +2358,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -2738,7 +2757,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Y Sin",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
