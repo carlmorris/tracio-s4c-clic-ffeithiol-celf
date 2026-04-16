@@ -116,7 +116,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": null,
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -401,7 +401,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Cacen Gaws Basgaidd",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Cacen Gaws Basgaidd.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Seren Morgan Jones a Kizzy",
       "short_billing": "Yn y rhaglen hon bydd yr artist Seren Morgan Jones sy'n enwog am ei phortreadau cryf o fenywod yn mynd ati i geisio peintio portread fydd yn plesio y cerddor a'r gantores Kizzy Crawford. ",
@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1312,6 +1312,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "1458",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1458",
       "series_title": "Grid - Cyfres 1",
@@ -1350,25 +1369,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "1458",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "105",
       "series_title": "Ffermio",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Yn y gyfres hon bydd y cyn chwaraewr rygbi Scott Quinnell yn mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Pobl Harri Parri",
       "programme_title": "Caernarfon",
       "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
