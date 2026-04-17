@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "34",
+      "series_title": "Eryri: Pobol y Parc",
+      "programme_title": null,
+      "short_billing": "Cyfres am bobl sy'n byw a gweithio ym Mharc Cenedlaethol Eryri. Gweithgareddau awyr agored, achub bywydau a gwarchod yr amgylchedd, a theyrnged i Gerald Williams, Yr Ysgwrn.",
+      "thumbnail_url": "Eryri_Pobol_y_Parc_2021S4C_P4_002.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres am bobl sy'n byw a gweithio ym Mharc Cenedlaethol Eryri. Gweithgareddau awyr agored, achub bywydau a gwarchod yr amgylchedd, a theyrnged i Gerald Williams, Yr Ysgwrn.",
+      "clic_aired": "18 Ebrill 2026",
+      "fav_id": "842988508",
+      "id": "809157565",
+      "series_id": "809157497",
+      "title": "Eryri: Pobol y Parc",
+      "date_broadcast": "2026-04-17 22:55:00",
+      "vs": "0"
+    },
+    {
       "count": "13",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -378,25 +397,6 @@
       "series_id": "871178255",
       "title": "Priodas Pum Mil - Cyfres 7",
       "date_broadcast": "2026-04-11 10:45:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "28",
-      "series_title": "Eryri: Pobol y Parc",
-      "programme_title": null,
-      "short_billing": "Cyfres yn dathlu penblwydd Parc Cenedlaethol Eryri yn 70 oed. Beicio ar lethrau'r Wyddfa a cherdded mewn storm ar Foel Siabod, cyffro'r tymor &#373;yna a phroblemau cynllunio, olion archaeolegol a rhyfeddodau Eryri dan y sêr. ",
-      "thumbnail_url": "Eryri_Pobol_y_Parc_2021S4C_P3_013.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres yn dathlu penblwydd Parc Cenedlaethol Eryri yn 70 oed. Beicio ar lethrau'r Wyddfa a cherdded mewn storm ar Foel Siabod, cyffro'r tymor &#373;yna a phroblemau cynllunio, olion archaeolegol a rhyfeddodau Eryri dan y sêr. ",
-      "clic_aired": "11 Ebrill 2026",
-      "fav_id": "842988508",
-      "id": "809157545",
-      "series_id": "809157497",
-      "title": "Eryri: Pobol y Parc",
-      "date_broadcast": "2026-04-10 23:05:00",
       "vs": "0"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres sy'n archwilio iechyd rhywiol ac addysg rhyw. ",
@@ -1137,7 +1137,7 @@
       "id": "817959744",
       "series_id": "817959638",
       "title": "Adre - Cyfres 6",
-      "date_broadcast": "2026-03-14 15:25:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1457",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1457",
       "series_title": "Grid - Cyfres 2",
@@ -1346,6 +1327,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1457",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Richard Parks ar daith i archwilio hanes Cymru.",
@@ -1631,7 +1631,7 @@
       "id": "840743212",
       "series_id": "840743082",
       "title": "Dim Byd i'w Wisgo - Cyfres 2",
-      "date_broadcast": "2026-03-14 11:15:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2220,7 +2220,7 @@
       "id": "880980221",
       "series_id": "880980161",
       "title": "Iolo: Natur Bregus Cymru",
-      "date_broadcast": "2026-03-14 13:20:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -2638,7 +2638,7 @@
       "id": "851192343",
       "series_id": "851192203",
       "title": "Hen Dy Newydd - Cyfres 2",
-      "date_broadcast": null,
+      "date_broadcast": "2026-05-02 14:20:00",
       "vs": "0"
     },
     {
