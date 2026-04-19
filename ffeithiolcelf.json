@@ -2,6 +2,25 @@
   "progs": [
     {
       "count": "7",
+      "days_to_expire": "149",
+      "series_title": "Y Llais",
+      "programme_title": null,
+      "short_billing": "Mae'r daith i ddarganfod pwy fydd yn bachu teitl Y Llais 2026 yn parhau gyda'r Rownd Gyn-Derfynol.",
+      "thumbnail_url": "Y_Llais_2026S4C_C2_3x2_Dim_Teitl.jpg",
+      "duration": "83",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r daith i ddarganfod pwy fydd yn bachu teitl Y Llais 2026 yn parhau gyda'r Rownd Gyn-Derfynol.",
+      "clic_aired": "19 Ebrill 2026",
+      "fav_id": "894876084",
+      "id": "947163461",
+      "series_id": "947163414",
+      "title": "Y Llais",
+      "date_broadcast": "2026-04-24 21:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
       "days_to_expire": "148",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "I'r plant...o bob oed!",
@@ -249,7 +268,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Rhaglen arbennig Ffermio ar dymor wyna.",
@@ -340,25 +359,6 @@
       "series_id": "532330290",
       "title": "Dylan ar Daith",
       "date_broadcast": "2026-04-13 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "142",
-      "series_title": "Y Llais",
-      "programme_title": null,
-      "short_billing": "Mae'r daith yn parhau gyda rownd yr Ail-Alwadau.",
-      "thumbnail_url": "Y_Llais_2026S4C_C2_3x2_Dim_Teitl.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r daith i goroni enillydd Y Llais 2026 yn parhau gyda rownd yr Ail-Alwadau.",
-      "clic_aired": "12 Ebrill 2026",
-      "fav_id": "894876084",
-      "id": "947163454",
-      "series_id": "947163414",
-      "title": "Y Llais",
-      "date_broadcast": "2026-04-17 21:50:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Ffermio",
       "programme_title": null,
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
