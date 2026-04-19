@@ -59,7 +59,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Eryri: Pobol y Parc",
       "programme_title": null,
       "short_billing": "Cyfres am bobl sy'n byw a gweithio ym Mharc Cenedlaethol Eryri. Gweithgareddau awyr agored, achub bywydau a gwarchod yr amgylchedd, a theyrnged i Gerald Williams, Yr Ysgwrn.",
@@ -857,7 +857,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres sy'n archwilio iechyd rhywiol ac addysg rhyw. ",
@@ -1080,7 +1080,7 @@
       "id": "902783121",
       "series_id": "902783035",
       "title": "Ar Led",
-      "date_broadcast": "2026-03-16 23:35:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1232,7 +1232,7 @@
       "id": "947643084",
       "series_id": null,
       "title": "Fy Ffrind ar Death Row",
-      "date_broadcast": "2026-03-16 22:35:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Richard Parks ar daith i archwilio hanes Cymru.",
