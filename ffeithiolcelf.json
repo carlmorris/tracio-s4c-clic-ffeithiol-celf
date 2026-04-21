@@ -154,7 +154,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Dylan ar Daith",
       "programme_title": "O'r Rhos i Morocco",
       "short_billing": "Hanes menyw ifanc a deithiodd i bum cyfandir ac a ddaeth yn enwog am ei llythyron a'i darlithoedd am wlad Canaan yn yr 1860au.  Fe ddaeth Margaret Jones o Rosllannerchrugog yn enwog fel awdur a darlithydd a hithau ond wedi derbyn tair wythnos o ysgol ffurfiol. Mae Dylan yn dilyn yn ôl ei throed i Foroco lle mae ei stori'n dechrau fel cydymaith i fenyw ifanc ond yn gorffen yn dra gwahanol.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -491,7 +491,7 @@
       "id": "808111929",
       "series_id": "808111821",
       "title": "Radio Fa'ma - Cyfres 1",
-      "date_broadcast": "2026-05-03 21:30:00",
+      "date_broadcast": "2026-05-03 22:30:00",
       "vs": "0"
     },
     {
@@ -1331,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1453",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1453",
       "series_title": "Grid - Cyfres 3",
@@ -1365,6 +1346,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1453",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": null,
       "short_billing": "Heddiw fydd Arfon yn mynd a'r criw am dro i Llandre. Yna taith o Gei Newydd i Gwmtydu gyda Morwenna cyn ei throi hi am Llanrug dan arweiniad Osian. Beth fydd yn diweddu yn Henllan. Dewch i ni fynd Am Dro.",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": null,
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr¿p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "Cyfres gyda phedwar o gyfranwyr yn arwain ei gilydd yn eu tro wrth gerdded, ac yn sgorio ei gilydd ar y diwedd.",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Alex Jones",
       "short_billing": "O dan olau'r lleuad yn Llundain fe fydd Elin Fflur yn cael cwmni y cyflwynydd Alex Jones. Yn wreiddiol o Rydaman Alex bellach yw un o hoff wynebau y BBC a phrif gyflwynydd 'The One Show'. Fe gawn ni glywed am ei phrofiadau cynnar a gwerthfawr ar S4C, am ei hoff gyfweliadau , a'r gwaethaf, yn ogystal â rhai o'r heriau sy'n dod yn sgil byw bywyd mor gyhoeddus. Dyma sgwrs annwyl, hwyliog a gonest rhwng dwy ffrind. ",
@@ -2757,7 +2757,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 6",
       "programme_title": "Noel Thomas",
       "short_billing": "Elin Fflur fydd yn Sgwrsio dan olau'r lloer gyda'r cyn is-bostfeistr, Noel Thomas, a aeth i'r carchar, a cholli popeth.",
