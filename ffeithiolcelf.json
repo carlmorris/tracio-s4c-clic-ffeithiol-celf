@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "20 Ebrill 2026",
-      "fav_id": "949106349",
-      "id": "949106376",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-04-20 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -93,6 +74,25 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-04-26 15:40:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "20 Ebrill 2026",
+      "fav_id": "949106349",
+      "id": "949106376",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-04-20 21:33:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Eryri: Pobol y Parc",
       "programme_title": null,
       "short_billing": "Cyfres am bobl sy'n byw a gweithio ym Mharc Cenedlaethol Eryri. Gweithgareddau awyr agored, achub bywydau a gwarchod yr amgylchedd, a theyrnged i Gerald Williams, Yr Ysgwrn.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": null,
       "short_billing": "Y tro yma ar Y Fets ¿ Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Cyfres sy'n archwilio iechyd rhywiol ac addysg rhyw. ",
@@ -1213,7 +1213,7 @@
       "id": "836229139",
       "series_id": "836229013",
       "title": "Bois y Pizza: Chwe' Gwlad",
-      "date_broadcast": "2026-03-18 18:00:00",
+      "date_broadcast": null,
       "vs": "0"
     },
     {
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -2547,7 +2547,7 @@
       "vs": "0"
     },
     {
-      "count": "3",
+      "count": "2",
       "days_to_expire": "16",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Aberdar",
