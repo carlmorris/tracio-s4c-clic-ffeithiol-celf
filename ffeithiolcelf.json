@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "364",
+      "series_title": "Y Wal",
+      "programme_title": "Fietnam",
+      "short_billing": "Effaith y rhyfel a'r rhwyg ar bobl yn Fietnam.  ",
+      "thumbnail_url": "Y_Wal_2026S4C_C2_P3_Fietnam-1.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Lisa Jên sy'n cyfarfod pobl sy'n dal i fyw yng nghysgod Rhyfel Fietnam.",
+      "clic_aired": "21 Ebrill 2026",
+      "fav_id": "936520590",
+      "id": "936521516",
+      "series_id": "936521473",
+      "title": "Y Wal",
+      "date_broadcast": "2026-04-29 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "15",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -381,25 +400,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "358",
-      "series_title": "Y Wal",
-      "programme_title": "Brasil",
-      "short_billing": "Y rhaniadau rhwng cyfoeth a thlodi yn São Paulo. ",
-      "thumbnail_url": "Y_Wal_2026S4C_C2_P2_Brasil-.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Lisa Jên sy'n darganfod mwy am y rhaniadau dwfn rhwng cyfoeth a thlodi yn São Paulo, Brasil.",
-      "clic_aired": "14 Ebrill 2026",
-      "fav_id": "936520590",
-      "id": "936521498",
-      "series_id": "936521473",
-      "title": "Y Wal",
-      "date_broadcast": "2026-04-22 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "140",
       "series_title": "Hen Dy Newydd - Cyfres 1",
@@ -572,7 +572,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Morgan",
       "short_billing": "Hanes Siôn Morgan sy'n rheolwr yn Castle Farm. ",
@@ -743,7 +743,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Llond Bol o Japan",
       "programme_title": "Pennod 3",
       "short_billing": "Mae antur y cogydd tân, Chris 'Flamebaster' Roberts, yn Japan yn parhau. Mae Chris wedi cyrraedd Tokyo, ac yn byta, cig wagyu moethus, cyw iâr amrwd a phen tiwna enfawr! ",
@@ -857,7 +857,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Stori'r Iaith",
       "programme_title": "Ian Gwyn Hughes",
       "short_billing": "Mae Ian Gwyn Hughes yn adfywio stori ei dad-cu. ",
@@ -895,7 +895,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": null,
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Pawb a'i Farn",
       "programme_title": null,
       "short_billing": "Pawb a'i Farn o Hystings Cenedlaethol yr Urdd yng Nghaerdydd. ",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": null,
       "programme_title": "Maxine Hughes Canser: Ar Ba Gost?",
       "short_billing": "Maxine Hughes sy'n siarad am ganser y fron. ",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": null,
       "programme_title": "Fy Ffrind ar Death Row",
       "short_billing": "Perthynas rhwng dyn o Gymru a dyn ar Death Row.",
@@ -1449,15 +1449,15 @@
       "days_to_expire": "95",
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres: Amour & Mynydd 3",
-      "short_billing": "Cyn gadael, mae gan y criw un penderfyniad mawr i'w wneud.",
+      "short_billing": "Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams. ",
       "thumbnail_url": "Amour_a_Mynydd_P10_Apres.jpg",
-      "duration": "48",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyn gadael yr Alpau am adref, mae gan y criw un penderfyniad ola i'w wneud.",
+      "full_billing": "Mae'r cerddor Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy bennod ola', Amour & Mynydd. ",
       "clic_aired": "25 Chwefror 2026",
       "fav_id": "884734211",
-      "id": "948433223",
+      "id": "948433258",
       "series_id": "946337850",
       "title": "Amour & Mynydd",
       "date_broadcast": null,
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": null,
       "programme_title": "Dwr Du: Trychineb y Sea Empress",
       "short_billing": "30 mlynedd ers i drychineb y Sea Empress adael ei farc ar Sir Benfro, cawn glywed am un o ddamweiniau tancer olew mwya'r byd drwy lygaid y sawl fu yno.",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Canu Gyda Fy Arwr - Cyfres 4",
       "programme_title": "Elidyr Glyn",
       "short_billing": "Mae Bronwen Lewis a Rhys Meirion yn rhoi cyfle i un person lwcus sydd wedi enwebu eu hunain, neu wedi cael eu henwebu gan rhywun arall fel sypreis llwyr, i gwrdd a pherfformio gyda'i harwr cerddorol.  Yr arwr dan sylw y tro hwn yw'r cyfansoddwr a phrif leisydd Bwncath, Elidyr Glyn.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": null,
       "programme_title": "Cegin Clwyd: Nadolig Bryn Williams",
       "short_billing": "Ymunwch â'r cogydd amryddawn Bryn Williams wrth iddo ddathlu'r Nadolig nol yn ei gartref genedigol yng Nghlwyd. Yng nghwmni ei ffrindiau a'i deulu, fe fydd yn paratoi danteithion blasus gan gynnwys twrci arbennig, pwdin oren a siocled, coctêl Nadolig a'r tôsti caws mwyaf blasus erioed!",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": null,
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
@@ -2852,7 +2852,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "183",
+      "days_to_expire": "182",
       "series_title": null,
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
