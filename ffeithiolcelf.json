@@ -58,25 +58,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": null,
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "20 Ebrill 2026",
-      "fav_id": "949106349",
-      "id": "949106376",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-04-20 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "148",
       "series_title": "Ffermio",
@@ -93,6 +74,25 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-04-26 15:40:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": null,
+      "short_billing": "Rhagolygon tywydd yr wythnos.",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.",
+      "clic_aired": "20 Ebrill 2026",
+      "fav_id": "949106349",
+      "id": "949106376",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-04-20 21:33:00",
       "vs": "0"
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": null,
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Cacen Gaws Basgaidd",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Cacen Gaws Basgaidd.",
@@ -838,7 +838,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": null,
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -955,7 +955,7 @@
       "days_to_expire": "117",
       "series_title": "Am Dro!",
       "programme_title": null,
-      "short_billing": "Mae mil o bunnoedd yn y fantol wrth i Helen, Khadiza, Dafydd a Jochen frwydro am y wobr fawr. Byddwn yn ymweld â Swiss Valley yn Llanelli, yn ymlwybro o Gwbert i Mwnt, byddwn yn teithio i Ynys Mon i Lannerch-y-Medd cyn gorffen ym Methesda. ",
+      "short_billing": "Pa daith gerdded bydd yn derbyn y sgôr uchaf'",
       "thumbnail_url": "Am_Dro_2025S4C_P6-6.jpg",
       "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1452",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1452",
       "series_title": "Grid - Cyfres 2",
@@ -1346,6 +1327,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1452",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Y tro 'ma bydd Scott yn pysgota ac yn Bîtbocsio.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Cyfres newydd ac mae Cadi Matthews ac Owain Williams yn ol yn y stiwdio steilio.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": null,
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Pobl Harri Parri",
       "programme_title": "Caernarfon",
       "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Elin Fflur sy'n sgwrsio gydag enwogion Cymru am eu bywydau, yng nghysur eu gerddi. ",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": null,
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
