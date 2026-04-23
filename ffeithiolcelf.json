@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": null,
+      "programme_title": "Y Ddadl Fawr: Etholiad Senedd 2026",
+      "short_billing": "Senedd Cymru 2026: trafod gyda'r Prif Bleidiau.",
+      "thumbnail_url": "Y_Ddadl_Fawr_2026S4C_097.jpg",
+      "duration": "87",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ar drothwy etholiad Senedd Cymru 2026 Bethan Rhys Roberts fydd yn llywio'r Ddadl Fawr yn fyw o'r Egin yng Nghaerfyrddin. Cyfle i'r gynulleidfa holi arweinwyr a phrif gynrychiolwyr Llafur Cymru, y Ceidwadwr Cymreig, Plaid Cymru, Y Blaid Werdd, Democratiaid Rhyddfrydol Cymru, a Reform UK.",
+      "clic_aired": "23 Ebrill 2026",
+      "fav_id": "949262274",
+      "id": "949262274",
+      "series_id": null,
+      "title": "Y Ddadl Fawr: Etholiad Senedd 2026",
+      "date_broadcast": "2026-04-23 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "17",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -1293,6 +1312,25 @@
       "vs": "0"
     },
     {
+      "count": "3",
+      "days_to_expire": "1451",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1451",
       "series_title": "Grid - Cyfres 3",
@@ -1327,25 +1365,6 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "1451",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
