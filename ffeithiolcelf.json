@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Bethesda: Pobol y Chwarel",
+      "programme_title": null,
+      "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig. Yn y bumed rhaglen mae Dafydd Hedd yn derbyn ei ganlyniadau TGAU a byddwn yn cyfarfod y tri brawd Gwil, Fred a Pete. Mae Gwil yn rhedeg cwmni tacsi yn Bethesda ac mae Fred a Pete yn gweithio yn y chwarel ers gadael yr ysgol.  Byddwn yn mynd draw i fferm Tan y Garth yng ngesail mynyddoedd y Carneddau i gyfarfod teulu Temple Morris sydd â'r olygfa orau o'r chwarel o fuarth y fferm a byddwn yn cwrdd â Charmaine - me",
+      "thumbnail_url": "Bethesda_Pobol_y_Chwarel_2020S4C_P5_004-Edit.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig. Yn y bumed rhaglen mae Dafydd Hedd yn derbyn ei ganlyniadau TGAU a byddwn yn cyfarfod y tri brawd Gwil, Fred a Pete. Mae Gwil yn rhedeg cwmni tacsi yn Bethesda ac mae Fred a Pete yn gweithio yn y chwarel ers gadael yr ysgol.  Byddwn yn mynd draw i fferm Tan y Garth yng ngesail mynyddoedd y Carneddau i gyfarfod teulu Temple Morris sydd â'r olygfa orau o'r chwarel o fuarth y fferm a byddwn yn cwrdd â Charmaine - me",
+      "clic_aired": "24 Ebrill 2026",
+      "fav_id": "808757099",
+      "id": "802942983",
+      "series_id": "802942895",
+      "title": "Bethesda: Pobol y Chwarel",
+      "date_broadcast": "2026-04-24 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": null,
@@ -59,7 +78,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Caeau Cymru",
       "programme_title": "Dol Clettwr",
       "short_billing": "HanesionTre'r Ddôl yng Ngogledd Ceredigion.",
@@ -135,7 +154,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Beti George",
       "short_billing": "Beti George sy'n sgwrsio a blasu cynnyrch lleol.",
@@ -362,25 +381,6 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Bethesda: Pobol y Chwarel",
-      "programme_title": null,
-      "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y bedwaredd rhaglen bydd llawer o'n cymeriadau yn dod at ei gilydd i fwynhau gwyl gymunedol gerddorol.  Mae'r criw yn mynd i &#372;yl Zip Rocks yng nghanolfan antur Zip World- sy'n rhan o'r hen chwarel.  Mae Neil y chwarelwr yn chwarae yno gyda'i fand Celt, mae Fred a chôr Penrhyn yn perfformio yno ac mae Dafydd Hedd yn canu ar y daith gerdded elusennol.  Mae Nicola a Jenna yn mynd yno i fwynhau efo'r genod! ",
-      "thumbnail_url": "Bethesda_Pobol_y_Chwarel_2020S4C_P4_002-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y bedwaredd rhaglen bydd llawer o'n cymeriadau yn dod at ei gilydd i fwynhau gwyl gymunedol gerddorol.  Mae'r criw yn mynd i &#372;yl Zip Rocks yng nghanolfan antur Zip World- sy'n rhan o'r hen chwarel.  Mae Neil y chwarelwr yn chwarae yno gyda'i fand Celt, mae Fred a chôr Penrhyn yn perfformio yno ac mae Dafydd Hedd yn canu ar y daith gerdded elusennol.  Mae Nicola a Jenna yn mynd yno i fwynhau efo'r genod! ",
-      "clic_aired": "17 Ebrill 2026",
-      "fav_id": "808757099",
-      "id": "802942963",
-      "series_id": "802942895",
-      "title": "Bethesda: Pobol y Chwarel",
-      "date_broadcast": "2026-04-17 13:00:00",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "142",
       "series_title": "Ymgyrch Seal Bay",
@@ -515,7 +515,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": null,
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": null,
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
@@ -2757,7 +2757,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Y Sin",
       "programme_title": null,
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
