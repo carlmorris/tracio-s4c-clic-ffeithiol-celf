@@ -306,7 +306,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Y Llais",
       "programme_title": null,
       "short_billing": "Mae'r daith i ddarganfod pwy fydd yn bachu teitl Y Llais 2026 yn parhau gyda'r Rownd Gyn-Derfynol.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "I'r plant...o bob oed!",
       "short_billing": "Alun Williams hel atgofion am raglenni plant S4C.",
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "1450",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1450",
       "series_title": "Grid - Cyfres 3",
@@ -1346,6 +1327,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "1450",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": null,
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Dilynwn Rhys Meirion wrth iddo fynd ati i greu fersiwn Gymraeg o un o ganeuon y diweddar Mike Peters. Dyma ymateb i'r neges olaf a gafodd Rhys gan Mike, ac mae'n cyd-weithio gyda meibion Mike, sef Dylan ac Evan, ar y recordiad arbennig yma. ",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": null,
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i un o denoriaid mwya'r 20fed ganrif --  Stuart Burrows. Am wlad fach mae Cymru wedi creu cewri cerddorol - ac mae Stuart Burrows ymhlith y mwyaf oll o'r rheiny. Dyma raglen deyrnged dwymgalon fydd yn cynnwys atgofion rhai oedd yn ei nabod yn dda ac yn agos iddo.",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
@@ -2719,7 +2719,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Y Ffair Aeaf",
       "programme_title": "Uchafbwyntiau'r Ffair Aeaf",
       "short_billing": "Ifan Jones Evans a Mari Lovgreen sy'n edrych nôl ar uchafbwyntiau Ffair Aeaf 2025. Y gorau o'r goreuon dros ddeuddydd o gystadlu o Faes y Sioe yn Llanelwedd. Isdeitlau Saesneg ar gael. ",
