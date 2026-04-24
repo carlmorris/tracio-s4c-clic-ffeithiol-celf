@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Cacen Gaws Basgaidd",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Cacen Gaws Basgaidd.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 11",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1995, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Busnes Bwyd",
       "programme_title": null,
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1293,25 +1293,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1450",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": null,
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1450",
       "series_title": "Grid - Cyfres 2",
@@ -1346,6 +1327,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": null,
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1450",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": null,
       "vs": "0"
     },
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Tai cyfoes sy'n cael ein sylw tro 'ma.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
