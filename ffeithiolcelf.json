@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cegin Bryn",
       "programme_title": null,
       "short_billing": "Mae Colin Owen o Bentir yn llysieuwr ac wrth ei fodd yn coginio. Mae'n galw ar Bryn am gymorth i ymestyn ei sgiliau coginio. Yn ogystal, bydd Carrie Rhymes yn dangos ei dull o gynhyrchu caws dafad a bydd Bryn yn coginio mewn llecyn ar fferm gymunedol Moelyci.",
@@ -287,7 +287,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Meinir Mathias a Iolo Williams",
       "short_billing": "Yn y rhaglen hon bydd yr artist Meinir Mathias yn cwrdd â'r naturiaethwr a darlledwr Iolo Williams er mwyn ceisio peintio portread fydd yn ei blesio.  ",
@@ -688,19 +688,19 @@
       "count": "6",
       "days_to_expire": "124",
       "series_title": "Codi Hwyl: Llydaw",
-      "programme_title": "Benodet- Quimper",
+      "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Ar y cymal olaf mae nhw'n hwylio i Concarneau.",
       "thumbnail_url": "Codi_Hwyl_Llydaw_P6_Concarneau-Edit.jpg",
-      "duration": "24",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn fe fydd John a Dilwyn yn hwylio i Benodet /Benoded lle byddan nhw'n ymweld â'r farchnad leol lle fydd John yn ceisio troi ei law at wneud crêpes. ",
+      "full_billing": "Ar gymal olaf eu taith yn Llydaw bydd John Pierce Jones a Dilwyn Morgan yn hwylio i Concarneau / Konk Kerne. Yno ceir un o farchnadoedd pysgod mwyaf Llydaw cyn codi hwyl a throi trwyn y Mystique am adref.",
       "clic_aired": "30 Mawrth 2026",
       "fav_id": "533276078",
-      "id": "536788184",
+      "id": "536788206",
       "series_id": "536788087",
       "title": "Codi Hwyl: Llydaw",
-      "date_broadcast": "2026-04-19 23:30:00",
+      "date_broadcast": "2026-04-26 23:20:00",
       "vs": "0"
     },
     {
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "951",
+      "days_to_expire": "950",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": null,
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
@@ -2414,8 +2414,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "21",
+      "count": "3",
+      "days_to_expire": "20",
       "series_title": "Y Ci Perffaith",
       "programme_title": null,
       "short_billing": "Ym mhob pennod, bydd un set o bobl yn cael y cyfle i roi cynnig ar ddau gi neu gi bach gwahanol yn eu cartref eu hunain, gan obeithio dod o hyd i'w aelod teuluol newydd nhw.",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Caeau Cymru",
       "programme_title": "Llithfaen ",
       "short_billing": "Straeon o gaeau a thirwedd godre mynydd Carnguwch.",
