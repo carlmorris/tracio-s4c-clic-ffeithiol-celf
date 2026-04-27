@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Heno Aur - Cyfres 1",
+      "programme_title": "Pennod 12",
+      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
+      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
+      "clic_aired": "27 Ebrill 2026",
+      "fav_id": "810255618",
+      "id": "809467651",
+      "series_id": "809467444",
+      "title": "Heno Aur - Cyfres 1",
+      "date_broadcast": "2026-04-27 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "8",
       "days_to_expire": "149",
       "series_title": "Y Llais",
@@ -36,6 +55,25 @@
       "series_id": "826345615",
       "title": "Hen Dy Newydd - Cyfres 1",
       "date_broadcast": "2026-04-26 09:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "148",
+      "series_title": "Cyfrinachau'r Great Escape",
+      "programme_title": "",
+      "short_billing": "Mae mab a merch yn dilyn ôl traed eu tad, carcharor rhyfel yn yr Ail Ryfel Byd, ac yn datgelu gwybodaeth newydd am y cynllun mentrus a ysbrydolodd ffilm enwog 'The Great Escape'. ",
+      "thumbnail_url": "Cyfrinachau_Great_Escape_2025S4C_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae mab a merch yn dilyn ôl traed eu tad, carcharor rhyfel yn yr Ail Ryfel Byd, ac yn datgelu gwybodaeth newydd am y cynllun mentrus a ysbrydolodd ffilm enwog 'The Great Escape'. ",
+      "clic_aired": "25 Ebrill 2026",
+      "fav_id": "896000540",
+      "id": "896000553",
+      "series_id": "896000540",
+      "title": "Cyfrinachau'r Great Escape",
+      "date_broadcast": "2026-04-25 22:35:00",
       "vs": "0"
     },
     {
@@ -116,7 +154,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig. Yn y bumed rhaglen mae Dafydd Hedd yn derbyn ei ganlyniadau TGAU a byddwn yn cyfarfod y tri brawd Gwil, Fred a Pete. Mae Gwil yn rhedeg cwmni tacsi yn Bethesda ac mae Fred a Pete yn gweithio yn y chwarel ers gadael yr ysgol.  Byddwn yn mynd draw i fferm Tan y Garth yng ngesail mynyddoedd y Carneddau i gyfarfod teulu Temple Morris sydd â'r olygfa orau o'r chwarel o fuarth y fferm a byddwn yn cwrdd â Charmaine - me",
@@ -173,7 +211,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Caeau Cymru",
       "programme_title": "Dol Clettwr",
       "short_billing": "HanesionTre'r Ddôl yng Ngogledd Ceredigion.",
@@ -249,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Beti George",
       "short_billing": "Beti George sy'n sgwrsio a blasu cynnyrch lleol.",
@@ -515,7 +553,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -758,25 +796,6 @@
       "series_id": "946422642",
       "title": "Llond Bol o Japan",
       "date_broadcast": "2026-04-04 15:20:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "119",
-      "series_title": "Heno Aur - Cyfres 1",
-      "programme_title": "Pennod 11",
-      "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1995, pan roedd Cymru yn le hollol wahanol!   ",
-      "thumbnail_url": "Heno_Aur_2020S4C_P1_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1995, pan roedd Cymru yn le hollol wahanol!   ",
-      "clic_aired": "27 Mawrth 2026",
-      "fav_id": "810255618",
-      "id": "809467632",
-      "series_id": "809467444",
-      "title": "Heno Aur - Cyfres 1",
-      "date_broadcast": "2026-03-27 12:30:00",
       "vs": "0"
     },
     {
@@ -1066,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1180,7 +1199,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1199,7 +1218,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1312,25 +1331,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "1447",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1447",
       "series_title": "Grid - Cyfres 3",
@@ -1346,6 +1346,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "1447",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1579,7 +1598,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Tai cyfoes sy'n cael ein sylw tro 'ma.",
@@ -1655,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1674,7 +1693,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
@@ -1997,7 +2016,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -2111,7 +2130,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -2752,25 +2771,6 @@
       "id": "897361115",
       "series_id": "895902884",
       "title": "Sgwrs Dan y Lloer - Cyfres 6",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Sin",
-      "programme_title": "",
-      "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
-      "thumbnail_url": "Y_Sin_2025S4C_P5-829.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dyma ail gyfres Y Sîn, gyda Francesca Sciarrillo a Joe Healy yn bwrw golwg dros y sîn creadigol ifanc yng Nghymru. Yn y bennod yma mae Owain Williams yn hybu cerddoriaeth o Gymru mewn sawl ffordd greadigol. Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth ac mae'r artist Paul Eastwood yn arwain gwaith cymunedol yn Wrecsam. ",
-      "clic_aired": "28 Tachwedd 2025",
-      "fav_id": "891890563",
-      "id": "886784458",
-      "series_id": "886784249",
-      "title": "Y Sin",
       "date_broadcast": "",
       "vs": "0"
     },
