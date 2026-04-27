@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Y Byd yn ei Le",
+      "programme_title": "Plaid Cymru",
+      "short_billing": "Addewidion Plaid Cymru sydd dan sylw. ",
+      "thumbnail_url": "Y_Byd_yn_ei_Le_2026S4C_Brand_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Plaid Cymru sydd dan sylw y rhifyn yma o'r gyfres Etholiadol.",
+      "clic_aired": "27 Ebrill 2026",
+      "fav_id": "799276940",
+      "id": "949037560",
+      "series_id": "949037534",
+      "title": "Y Byd yn ei Le",
+      "date_broadcast": "2026-04-27 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "18",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -416,25 +435,6 @@
       "series_id": "949117887",
       "title": "Garddio a Mwy",
       "date_broadcast": "2026-04-26 11:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Y Byd yn ei Le",
-      "programme_title": "Llafur",
-      "short_billing": "Addewidion y blaid Lafur fydd dan y chwyddwydr. ",
-      "thumbnail_url": "Y_Byd_yn_ei_Le_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Addewidion y blaid Lafur sydd dan sylw yr wythnos hon.",
-      "clic_aired": "20 Ebrill 2026",
-      "fav_id": "799276940",
-      "id": "949037553",
-      "series_id": "949037534",
-      "title": "Y Byd yn ei Le",
-      "date_broadcast": "2026-04-20 20:00:00",
       "vs": "0"
     },
     {
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "1447",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1447",
       "series_title": "Grid - Cyfres 1",
@@ -1346,6 +1327,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "1447",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Yn y rhaglen hon, mae Gwilym yn ymweld ag Iperralde sef rhan Ffrengig Gwlad y Basg cyn gorffen ei daith yn Irunea (Pamplona).",
