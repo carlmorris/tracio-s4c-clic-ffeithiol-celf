@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "18",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "",
+      "short_billing": "Mae Alaw o'r gyfres Amour a Mynydd yn y stiwdio. ",
+      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Alaw o'r gyfres Amour a Mynydd yn y stiwdio ac i ni ym Mae Colwyn yn dadorchuddio cerflun Terry Jones. ",
+      "clic_aired": "27 Ebrill 2026",
+      "fav_id": "520950912",
+      "id": "949084043",
+      "series_id": "949083912",
+      "title": "Heno",
+      "date_broadcast": "2026-04-28 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "34",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
@@ -245,25 +264,6 @@
       "series_id": "",
       "title": "Y Ddadl Fawr: Etholiad Senedd 2026",
       "date_broadcast": "2026-04-23 20:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "17",
-      "days_to_expire": "30",
-      "series_title": "Heno",
-      "programme_title": "",
-      "short_billing": "Ymgyrch codi ymwybyddiaeth o ganser y coluddyn.",
-      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs gyda Gemma Pritchard ac ymgyrch codi ymwybyddiaeth o ganser y coluddyn.",
-      "clic_aired": "23 Ebrill 2026",
-      "fav_id": "520950912",
-      "id": "949084029",
-      "series_id": "949083912",
-      "title": "Heno",
-      "date_broadcast": "2026-04-24 12:30:00",
       "vs": "0"
     },
     {
@@ -1312,25 +1312,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1447",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1447",
       "series_title": "Grid - Cyfres 2",
@@ -1346,6 +1327,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1447",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
