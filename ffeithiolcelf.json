@@ -135,7 +135,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -150,25 +150,6 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-05-03 15:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": "",
-      "short_billing": "Rhagolygon tywydd yr wythnos.",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.",
-      "clic_aired": "27 Ebrill 2026",
-      "fav_id": "949106349",
-      "id": "949106386",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-04-27 21:33:00",
       "vs": "0"
     },
     {
@@ -420,7 +401,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "",
       "programme_title": "Y Ddadl Fawr: Etholiad Senedd 2026",
       "short_billing": "Senedd Cymru 2026: trafod gyda'r Prif Bleidiau.",
@@ -666,7 +647,7 @@
       "vs": "0"
     },
     {
-      "count": "11",
+      "count": "10",
       "days_to_expire": "126",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Morgan",
@@ -1427,7 +1408,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -2016,7 +1997,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Y gantores a'r gyflwynwraig o Fôn --  Elin Fflur sy'n cael ei holi gan y criw chwilfrydig o holwyr awtistig, niwro-wahanol a phobl sydd ag anghenion dysgu ychwanegol.",
@@ -2168,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
