@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Caeau Cymru",
+      "programme_title": "Trewern Ganol",
+      "short_billing": "Olrhain hanes y Porthmyn yn Sir Drefaldwyn.",
+      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Brychan Llyr a'r hanesydd Rhian Parry yn darganfod sawl enw diddorol o gyfnod y porthmyn wrth bori trwy hen ddogfennau ystâd Trewern Ganol ar gyrion Llanrhaeadr-ym-Mochnant, Sir Drefaldwyn.",
+      "clic_aired": "30 Ebrill 2026",
+      "fav_id": "760725904",
+      "id": "519715769",
+      "series_id": "519715672",
+      "title": "Caeau Cymru",
+      "date_broadcast": "2026-04-30 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "",
@@ -78,7 +97,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Ameer Rana",
       "short_billing": "Ameer Rana sy'n sgwrsio a blasu kotftas cig Oen.",
@@ -134,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant, gan holi ffermwyr ac arbenigwyr ar draws Cymru gyfan.",
-      "clic_aired": "27 Ebrill 2026",
-      "fav_id": "533250950",
-      "id": "949038917",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-03 15:00:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -169,6 +169,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-04-27 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant, gan holi ffermwyr ac arbenigwyr ar draws Cymru gyfan.",
+      "clic_aired": "27 Ebrill 2026",
+      "fav_id": "533250950",
+      "id": "949038917",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-03 15:00:00",
       "vs": "0"
     },
     {
@@ -401,7 +420,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig. Yn y bumed rhaglen mae Dafydd Hedd yn derbyn ei ganlyniadau TGAU a byddwn yn cyfarfod y tri brawd Gwil, Fred a Pete. Mae Gwil yn rhedeg cwmni tacsi yn Bethesda ac mae Fred a Pete yn gweithio yn y chwarel ers gadael yr ysgol.  Byddwn yn mynd draw i fferm Tan y Garth yng ngesail mynyddoedd y Carneddau i gyfarfod teulu Temple Morris sydd â'r olygfa orau o'r chwarel o fuarth y fferm a byddwn yn cwrdd â Charmaine - me",
@@ -435,25 +454,6 @@
       "series_id": "",
       "title": "Y Ddadl Fawr: Etholiad Senedd 2026",
       "date_broadcast": "2026-04-23 20:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Caeau Cymru",
-      "programme_title": "Dol Clettwr",
-      "short_billing": "HanesionTre'r Ddôl yng Ngogledd Ceredigion.",
-      "thumbnail_url": "Caeau_Cymru_2014_007.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ar dir fferm Dol Clettwr ym mhentref Tre'r Ddôl, Aberystwyth mae enwau a hanesion y caeau yn adlewyrchiad o hanesion cyfoethog y pentref.",
-      "clic_aired": "23 Ebrill 2026",
-      "fav_id": "760725904",
-      "id": "519715747",
-      "series_id": "519715672",
-      "title": "Caeau Cymru",
-      "date_broadcast": "2026-04-23 13:00:00",
       "vs": "0"
     },
     {
@@ -629,7 +629,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1444",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1444",
       "series_title": "Grid - Cyfres 1",
@@ -1441,6 +1422,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1444",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
