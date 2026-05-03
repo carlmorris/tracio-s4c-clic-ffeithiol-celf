@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Hen Dy Newydd - Cyfres 1",
+      "programme_title": "Llandegfan",
+      "short_billing": "Trawsnewid llefydd bach gydag Uchelgais mawr. ",
+      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_1729.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y tro 'ma mae'r 3 cynllunydd, tu fewn a thu allan!",
+      "clic_aired": "3 Mai 2026",
+      "fav_id": "851192183",
+      "id": "826345703",
+      "series_id": "826345615",
+      "title": "Hen Dy Newydd - Cyfres 1",
+      "date_broadcast": "2026-05-03 09:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
@@ -359,25 +378,6 @@
       "series_id": "947163414",
       "title": "Y Llais",
       "date_broadcast": "2026-05-01 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Hen Dy Newydd - Cyfres 1",
-      "programme_title": "Aberhonddu",
-      "short_billing": "Mae'r cynllunwyr yn gweddnewid gardd i mam a'i mab",
-      "thumbnail_url": "Hen_Dy_Newydd_2021S4C_P4_1536.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Gwyn Eiddior, Mandy Watkins a Carwyn Lloyd Jones yn trawsnewid ty a gardd mam a mab yn Aberhonddu.",
-      "clic_aired": "26 Ebrill 2026",
-      "fav_id": "851192183",
-      "id": "826345683",
-      "series_id": "826345615",
-      "title": "Hen Dy Newydd - Cyfres 1",
-      "date_broadcast": "2026-04-26 09:00:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "",
       "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
@@ -1388,25 +1388,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1441",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "1441",
       "series_title": "Grid - Cyfres 2",
@@ -1441,6 +1422,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1441",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Gronyn Gobaith: Cymry CERN",
       "programme_title": "Pennod 2",
       "short_billing": "Stori ryfeddol arbrawf mwya'r byd yn CERN, lle mae ffisegwyr o Gymru yn allweddol. O'i dechrau, wedi diwedd yr ail ryfel byd ,i'w darganfyddiadau chwyldroadol, heddychlon, mae wedi trawsnewid ffiseg a'n bywydau ni oll.",
