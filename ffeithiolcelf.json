@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Y Sioe Fwyd - Cyfres 1",
+      "programme_title": "Tara Bethan",
+      "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
+      "thumbnail_url": "Y_Sioe_Fwyd_2019S4C_P6_Tara_Hywel_Ifan.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres sy'n cyfuno coginio, blasu bwyd a sgwrsio. Yn ymuno â'r bois yn y rhaglen hon, fydd yr actores Tara Bethan. ",
+      "clic_aired": "6 Mai 2026",
+      "fav_id": "804022858",
+      "id": "802157547",
+      "series_id": "802157404",
+      "title": "Y Sioe Fwyd - Cyfres 1",
+      "date_broadcast": "2026-05-06 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Y Llinell Las",
@@ -287,7 +306,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -325,7 +344,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Caeau Cymru",
       "programme_title": "Trewern Ganol",
       "short_billing": "Olrhain hanes y Porthmyn yn Sir Drefaldwyn.",
@@ -359,25 +378,6 @@
       "series_id": "949122315",
       "title": "Cartrefi Cymru",
       "date_broadcast": "2026-05-07 13:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Y Sioe Fwyd - Cyfres 1",
-      "programme_title": "Ameer Rana",
-      "short_billing": "Ameer Rana sy'n sgwrsio a blasu kotftas cig Oen.",
-      "thumbnail_url": "Y_Sioe_Fwyd_2019S4C_P5_Ameer_002.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ameer Rana, un o gyflwynwyr Hansh, sy'n ymuno ag Ifan Jones Evans a'r cogydd Hywel Griffith, am sgwrs ag i fwyta Koftas Cig Oen. ",
-      "clic_aired": "29 Ebrill 2026",
-      "fav_id": "804022858",
-      "id": "802157521",
-      "series_id": "802157404",
-      "title": "Y Sioe Fwyd - Cyfres 1",
-      "date_broadcast": "2026-04-29 13:00:00",
       "vs": "0"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "122",
+      "days_to_expire": "121",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Yn rhaglen olaf y gyfres mae'r cogydd tanbaid Chris 'Flamebaster' Roberts yn mentro i Barcelona yng Nhatalonia i ddarganfod diwylliant bwyd bywiog y ddinas yng nghwmni'r cerddor Cerys Matthews. O tapas mewn bariau vermuth i ddosbarth meistr paella, bydd Chris yn cael profiadau bwyta bythgofiadwy.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
