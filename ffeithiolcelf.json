@@ -534,7 +534,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -852,7 +852,7 @@
       "id": "928639037",
       "series_id": "928638928",
       "title": "Cartrefi Cymru - Cyfres 2",
-      "date_broadcast": "2026-04-04 11:15:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -909,7 +909,7 @@
       "id": "946422661",
       "series_id": "946422642",
       "title": "Llond Bol o Japan",
-      "date_broadcast": "2026-04-04 15:20:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -1447,25 +1447,6 @@
     {
       "count": "1",
       "days_to_expire": "1436",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1436",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -1479,6 +1460,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1436",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Jess Davies",
       "programme_title": "ADHD Dioddef yn Dawel",
       "short_billing": "A series of compelling, powerful and contemporary films, as Jess Davies looks into some of today's issues.",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Nadolig",
       "short_billing": "Mae rhai o enwogion Cymru yn checio mewn i Gwesty Aduniad Nadolig yma. Mae'r actor Richard Ellis am i'r Gwesty ddod o hyd i'r gwir am ei ddad-cu, wnaeth dwyllo'r fyddin er mwyn cael mynd i'r Rhyfel Byd Cyntaf. Bydd Ditectif Mathias o'r Gwyll, Richard Harrington, yn gobeithio fod y Gwesty yn gallu datrys ei ddirgelwch personol ei hun, ac mae'r athletwraig a cyn-chwarewraig rygbi rhyngwladol, Non Evans am ddiolch i hen ffrind fu'n gefn iddi mewn cyfnod anodd.",
