@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
-      "clic_aired": "11 Mai 2026",
-      "fav_id": "533250950",
-      "id": "949038931",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-17 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -74,6 +55,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-05-11 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
+      "clic_aired": "11 Mai 2026",
+      "fav_id": "533250950",
+      "id": "949038931",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-17 15:55:00",
       "vs": "0"
     },
     {
@@ -172,8 +172,8 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "34",
+      "count": "23",
+      "days_to_expire": "33",
       "series_title": "Prynhawn Da",
       "programme_title": "",
       "short_billing": "Elwen fydd yn y gegin gyda ni, a byddwn yn cael cwmni'r colofnwyr.",
@@ -495,6 +495,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "136",
+      "series_title": "Nôl i'r Gwersyll",
+      "programme_title": "2: Y 60au",
+      "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
+      "thumbnail_url": "Nol_ir_Gwersyll_2022S4C_P2_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae cabanau pren a phebyll Llangrannog y 60au yn eu hôl. Pa weithgareddau fydd wedi'u trefnu gan y 'swogs', Mici Plwm a Dilwyn Morgan, ar gyfer y gwersyllwyr'",
+      "clic_aired": "29 Ebrill 2026",
+      "fav_id": "846120847",
+      "id": "846120914",
+      "series_id": "846120847",
+      "title": "Nôl i'r Gwersyll",
+      "date_broadcast": "2026-05-07 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "351",
       "series_title": "Y Wal",
@@ -724,7 +743,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "119",
+      "days_to_expire": "118",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -1464,6 +1483,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1432",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1432",
       "series_title": "Grid - Cyfres 3",
@@ -1498,25 +1536,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1432",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1674,7 +1693,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Morwenna, Arfon, Osian a Beth.",
@@ -2244,7 +2263,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "",
       "programme_title": "Ffwtbol a Fflêrs: Cofio Arwyr `76",
       "short_billing": "Ail-ddarllediad i gofio cyn-gapten Cymru, y diweddar Terry Yorath, a'n harweiniodd ni i rownd yr wyth olaf ym Mhencampwriaeth Ewrop 1976. Hefyd - nodwn 50 mlynedd ers i hyn ddigwydd. Mae John Hardy yn grediniol bod carfan bêl-droed Cymru 1976 wedi cael andros o gam o'i chymharu â'r tîm presennol sydd wedi cyrraedd rowndiau terfynol Euro 2016 yn Ffrainc, a'r tîm gyrhaeddodd rowndiau terfynol Cwpan y Byd Sweden ym 1958. Drwy gyfweliadau dadlennol gyda sawl aelod o'r garfan, yn cynnwys Terry Yorath",
@@ -2377,7 +2396,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Iolo: Natur Bregus Cymru",
       "programme_title": "Cynhesu Byd-eang",
       "short_billing": "Mae Iolo yn edrych ar effaith cynhesu byd-eang ar fywyd gwyllt.",
