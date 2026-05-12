@@ -39,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
-      "clic_aired": "11 Mai 2026",
-      "fav_id": "533250950",
-      "id": "949038931",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-17 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -74,6 +55,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-05-11 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
+      "clic_aired": "11 Mai 2026",
+      "fav_id": "533250950",
+      "id": "949038931",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-17 15:55:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "",
       "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Gronyn Gobaith: Cymry CERN",
       "programme_title": "Pennod 2",
       "short_billing": "Stori ryfeddol arbrawf mwya'r byd yn CERN, lle mae ffisegwyr o Gymru yn allweddol. O'i dechrau, wedi diwedd yr ail ryfel byd ,i'w darganfyddiadau chwyldroadol, heddychlon, mae wedi trawsnewid ffiseg a'n bywydau ni oll.",
