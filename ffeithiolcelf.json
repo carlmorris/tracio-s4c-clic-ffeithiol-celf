@@ -77,27 +77,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
-      "clic_aired": "11 Mai 2026",
-      "fav_id": "533250950",
-      "id": "949038931",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-17 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": "",
       "short_billing": "Rhagolygon tywydd yr wythnos.",
@@ -116,7 +97,26 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
+      "clic_aired": "11 Mai 2026",
+      "fav_id": "533250950",
+      "id": "949038931",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-17 15:55:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "148",
       "series_title": "Garddio a Mwy",
       "programme_title": "",
       "short_billing": "Mae Adam yn edrych ar berlysiau. ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Iaith ar Daith",
       "programme_title": "Callum Scott Howells",
       "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
@@ -363,7 +363,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cartrefi Cymru",
       "programme_title": "Y Gelli Gandryll",
       "short_billing": "I ni'n ymweld â chartrefi ac adeiladau yn Y Gelli Gandryll.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Y Byd yn ei Le",
       "programme_title": "Plaid Werdd Cymru + Reform UK",
       "short_billing": "Golwg ar addewidion Plaid Werdd Cymru a Reform UK.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Y Llais",
       "programme_title": "",
       "short_billing": "Pwy fydd yn bachu teitl enillydd Y Llais 2026'",
@@ -553,7 +553,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Linda Griffiths a Sorela",
       "short_billing": "Noson o gerddoriaeth gwerin gyda Linda Griffiths a Sorela.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "",
       "programme_title": "Y Ddadl Fawr: Etholiad Senedd 2026",
       "short_billing": "Senedd Cymru 2026: trafod gyda'r Prif Bleidiau.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
       "programme_title": "",
       "short_billing": "Y tro hwn, enghreifftiau o Borthcawl ac Aberdeen.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "",
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -1502,25 +1502,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1432",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1432",
       "series_title": "Grid - Cyfres 3",
@@ -1540,8 +1521,27 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1432",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "8",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "",
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Creu fersiwn Gymraeg o un o ganeuon Mike Peters.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Elin Fflur sy'n cael ei holi gan y criw chwilfrydig. ",
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "",
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i Stuart Burrows.",
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
