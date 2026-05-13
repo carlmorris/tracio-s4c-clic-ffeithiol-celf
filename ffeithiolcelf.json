@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "23",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "",
+      "short_billing": "Bydd Ifan Davies (Swnami) yn y stiwdio.",
+      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn yn dal lan gydag Endaf y Mecanic, a bydd Ifan Davies (Swnami) yn y stiwdio.",
+      "clic_aired": "13 Mai 2026",
+      "fav_id": "520950912",
+      "id": "949084127",
+      "series_id": "949083912",
+      "title": "Heno",
+      "date_broadcast": "2026-05-14 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "24",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -55,25 +74,6 @@
       "series_id": "874242658",
       "title": "Y Llinell Las",
       "date_broadcast": "2026-05-12 21:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "23",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": "",
-      "short_billing": "Bydd Iestyn Arwel gyda ni yn y stiwdio.",
-      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Iestyn Arwel gyda ni yn y stiwdio, a byddwn yn fyw o ddadorchuddiad cadair a goron Eisteddfod yr Urdd.",
-      "clic_aired": "12 Mai 2026",
-      "fav_id": "520950912",
-      "id": "949084120",
-      "series_id": "949083912",
-      "title": "Heno",
-      "date_broadcast": "2026-05-13 12:30:00",
       "vs": "0"
     },
     {
