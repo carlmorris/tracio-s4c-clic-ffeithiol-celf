@@ -115,7 +115,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "3",
       "days_to_expire": "147",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Aberystwyth i Aberaeron",
@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
-      "clic_aired": "11 Mai 2026",
-      "fav_id": "533250950",
-      "id": "949038931",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-17 15:55:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -188,6 +169,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-05-11 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "5",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae hi'n Wythnos Ymwybyddiaeth Iechyd Meddwl, a Meinir fydd yn clywed am bwysigrwydd mart Hendy-gwyn ar Daf i'r ardal.",
+      "clic_aired": "11 Mai 2026",
+      "fav_id": "533250950",
+      "id": "949038931",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-17 15:55:00",
       "vs": "0"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial sy'n cael priodas am £5000 y tro ma.",
@@ -1502,6 +1502,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1430",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1430",
       "series_title": "Grid - Cyfres 3",
@@ -1536,25 +1555,6 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1430",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed yr Andes.",
