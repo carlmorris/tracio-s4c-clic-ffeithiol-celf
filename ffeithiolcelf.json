@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Cartrefi Cymru",
       "programme_title": "Y Drenewydd",
       "short_billing": "Cartrefi ac adeiladau yn y Drenewydd.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Garddio a Mwy",
       "programme_title": "",
       "short_billing": "Mae Adam yn edrych ar berlysiau. ",
@@ -382,7 +382,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Iaith ar Daith",
       "programme_title": "Callum Scott Howells",
       "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Y Llais",
       "programme_title": "",
       "short_billing": "Pwy fydd yn bachu teitl enillydd Y Llais 2026'",
@@ -591,7 +591,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Linda Griffiths a Sorela",
       "short_billing": "Noson o gerddoriaeth gwerin gyda Linda Griffiths a Sorela.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
       "programme_title": "",
       "short_billing": "Y tro hwn, enghreifftiau o Borthcawl ac Aberdeen.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "",
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -1504,25 +1504,6 @@
     {
       "count": "1",
       "days_to_expire": "1429",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1429",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -1536,6 +1517,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1429",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "",
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Creu fersiwn Gymraeg o un o ganeuon Mike Peters.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "",
       "programme_title": "Reform UK: Tu ol i'r Llenni",
       "short_billing": "Rhaglen ddogfen sydd wedi cael mynediad at aelodau a gwirfoddolwyr y blaid Reform UK yn Sir Gaerfyrddin. ",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi.",
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "",
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i Stuart Burrows.",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
