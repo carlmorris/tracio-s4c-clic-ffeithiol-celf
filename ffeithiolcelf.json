@@ -97,7 +97,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Iaith ar Daith",
       "programme_title": "Melanie Walters",
       "short_billing": "Melanie Walters sy'n ailgysylltu â'r Gymraeg. ",
@@ -191,25 +191,6 @@
       "vs": "0"
     },
     {
-      "count": "24",
-      "days_to_expire": "32",
-      "series_title": "Prynhawn Da",
-      "programme_title": "",
-      "short_billing": "Bydd Gareth yn y gegin, a bydd y Clwb Clecs yma.",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "41",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Gareth yn y gegin, a bydd y Clwb Clecs yn barod i ddweud eu dweud.",
-      "clic_aired": "15 Mai 2026",
-      "fav_id": "520950923",
-      "id": "949074159",
-      "series_id": "949073930",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2026-05-15 14:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "147",
       "series_title": "",
@@ -226,6 +207,25 @@
       "series_id": "",
       "title": "Seren Jones: Yn Fyw yn y Dwr",
       "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "24",
+      "days_to_expire": "32",
+      "series_title": "Prynhawn Da",
+      "programme_title": "",
+      "short_billing": "Bydd Gareth yn y gegin, a bydd y Clwb Clecs yma.",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
+      "duration": "41",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Gareth yn y gegin, a bydd y Clwb Clecs yn barod i ddweud eu dweud.",
+      "clic_aired": "15 Mai 2026",
+      "fav_id": "520950923",
+      "id": "949074159",
+      "series_id": "949073930",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2026-05-15 14:05:00",
       "vs": "0"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cartrefi Cymru",
       "programme_title": "Y Drenewydd",
       "short_billing": "Cartrefi ac adeiladau yn y Drenewydd.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Garddio a Mwy",
       "programme_title": "",
       "short_billing": "Mae Adam yn edrych ar berlysiau. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Y Llais",
       "programme_title": "",
       "short_billing": "Pwy fydd yn bachu teitl enillydd Y Llais 2026'",
@@ -686,7 +686,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Linda Griffiths a Sorela",
       "short_billing": "Noson o gerddoriaeth gwerin gyda Linda Griffiths a Sorela.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
       "programme_title": "",
       "short_billing": "Y tro hwn, enghreifftiau o Borthcawl ac Aberdeen.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "",
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "",
       "programme_title": "Neges Olaf Mike Peters",
       "short_billing": "Creu fersiwn Gymraeg o un o ganeuon Mike Peters.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "",
       "programme_title": "Reform UK: Tu ol i'r Llenni",
       "short_billing": "Rhaglen ddogfen sydd wedi cael mynediad at aelodau a gwirfoddolwyr y blaid Reform UK yn Sir Gaerfyrddin. ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Priodas Pum Mil",
       "programme_title": "Nicky & Adam",
       "short_billing": "Y tro hwn, Nicky ac Adam o Lanbedrog sy'n priodi.",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "",
       "programme_title": "Stuart Burrows: Brenin y Tenoriaid",
       "short_billing": "Aled Hall sy'n cyflwyno teyrnged arbennig i Stuart Burrows.",
@@ -2643,7 +2643,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
