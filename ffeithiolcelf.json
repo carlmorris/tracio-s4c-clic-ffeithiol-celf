@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "3",
+      "days_to_expire": "149",
+      "series_title": "Sgwrs dan y Lloer - Cyfres 1",
+      "programme_title": "Trystan Ellis-Morris",
+      "short_billing": "Mae Elin Fflur yn sgwrsio gyda Trystan Ellis-Morris. ",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2020S4C_P4_002.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Elin Fflur yn ymweld a Trystan Ellis-Morris am sgwrs hyfryd o dan y sêr.",
+      "clic_aired": "18 Mai 2026",
+      "fav_id": "819088838",
+      "id": "809371095",
+      "series_id": "809371020",
+      "title": "Sgwrs dan y Lloer - Cyfres 1",
+      "date_broadcast": "2026-05-18 20:00:00",
+      "vs": "0"
+    },
+    {
       "count": "23",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -458,7 +477,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Chris Roberts",
       "short_billing": "Sgwrs gyda'r 'flamebaster', y cogydd Chris Roberts.",
@@ -534,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "",
       "programme_title": "Etholiad Senedd 2026",
       "short_billing": "Darllediad o ganlyniadau Etholiad y Senedd 2026.",
@@ -1616,25 +1635,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1426",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1426",
       "series_title": "Grid - Cyfres 3",
@@ -1669,6 +1669,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1426",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2015,25 +2034,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "47",
-      "series_title": "Sgwrs dan y Lloer - Cyfres 1",
-      "programme_title": "Myrddin ap Dafydd",
-      "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
-      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2020S4C_P9_Myrddin_ap_Dafydd_001.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Wel, dyma gefnlen berffaith ar gyfer noson hamddenol braf yn yr ardd, a chyfle arbennig am sgwrs dan y sêr yng nghwmni Elin Fflur a rhai o wynebau cyfarwydd Cymru. Y tro hwn: y bardd, awdur a chyhoeddwr Myrddin ap Dafydd yw'r gwestai.",
-      "clic_aired": "5 Chwefror 2026",
-      "fav_id": "819088838",
-      "id": "809761892",
-      "series_id": "809371020",
-      "title": "Sgwrs dan y Lloer - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "46",
       "series_title": "",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Mae Gwilym yn teithio i Iperralde ac Irunea.",
