@@ -135,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": "",
       "short_billing": "Scott Quinnell sy'n mynd ar hyd a lled Cymru yn troi ei law at bob math o weithgareddau a phrofiadau amrywiol. ",
@@ -496,7 +496,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -553,7 +553,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -662,7 +662,26 @@
       "id": "936521534",
       "series_id": "936521473",
       "title": "Y Wal",
-      "date_broadcast": "2026-05-30 15:15:00",
+      "date_broadcast": "2026-05-06 15:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "129",
+      "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
+      "programme_title": "Sera Cracroft ",
+      "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
+      "thumbnail_url": "Sgwrs_Dan_y_Lloer_2023S4C_P3_Sera_Cracroft_19964.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sgwrs dan y lloer - Bydd Elin Fflur  gyda'r actores Sera Cracroft --  sy'n gyfrifol am bortreadu un o gymeriadau mwya eiconig y byd teledu yng Nghymru, Eileen o Pobol y Cwm.",
+      "clic_aired": "28 Ebrill 2026",
+      "fav_id": "819088838",
+      "id": "878168920",
+      "series_id": "878168853",
+      "title": "Sgwrs Dan y Lloer - Cyfres 5",
+      "date_broadcast": "2026-04-28 12:05:00",
       "vs": "0"
     },
     {
@@ -838,7 +857,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -895,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -914,7 +933,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1142,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "97",
+      "days_to_expire": "96",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": "",
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1370,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1484,7 +1503,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1503,7 +1522,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1599,25 +1618,6 @@
     {
       "count": "1",
       "days_to_expire": "1426",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1426",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -1631,6 +1631,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1426",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1674,7 +1693,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Y tro 'ma bydd Scott yn pysgota ac yn Bîtbocsio.",
@@ -1902,7 +1921,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Tai cyfoes sy'n cael ein sylw tro 'ma.",
@@ -1940,7 +1959,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio y tro hwn.",
@@ -1978,7 +1997,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Aiff Chris i Barcelona yng nghwmni Cerys Matthews. ",
@@ -1997,7 +2016,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Myrddin ap Dafydd",
       "short_billing": "Sgwrs gyda'r bardd a'r awdur, Myrddin ap Dafydd. ",
@@ -2187,7 +2206,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Cymry ar Gynfas - Cyfres 3",
       "programme_title": "Carys Eleri",
       "short_billing": "Yr wythnos hon mae'r artist amlgyfrwng Aron Evans yn cwrdd â Carys Eleri i greu portread ohoni.",
@@ -2282,7 +2301,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Sain Ffagan - Cyfres 1",
       "programme_title": "",
       "short_billing": "Golwg unigryw tu ôl i ddrysau amgueddfa Sain Ffagan.",
@@ -2301,7 +2320,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "Pobl Harri Parri",
       "programme_title": "Caernarfon",
       "short_billing": "Mae Harri Parri wedi gwneud ei gartref yng Nghaernarfon ers degawdau ac mae pobl y dref unigryw honno wedi dylanwadu ar Harri'r awdur cymaint ag ar Harri'r gweinidog.  Mae 'na bobl sy'n ysbrydoli Harri ac yn gwmni iddo - ar y peiriant rhedeg yn y Ganolfan Hamdden bob dydd Llun ac Iau - ac ym mhen arall y dref yng nghanolfan Noddfa wrth eu gwaith cymdeithasol gyda'r gymuned.  Cawn weld ymarfer a llwyfannu ei Basiant diweddaraf, a darganfod sut y daeth i berchnogi capel oedd â theatr ynghlwm! ",
@@ -2320,7 +2339,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
@@ -2434,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -2662,7 +2681,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Comedi ",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
