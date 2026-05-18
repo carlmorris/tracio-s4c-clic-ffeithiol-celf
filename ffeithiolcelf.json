@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Dylan ar Daith",
+      "programme_title": "O Aberystwyth i'r Almaen",
+      "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "thumbnail_url": "Dylan_ar_Daith2017_P6_Goronwy_Rees_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
+      "clic_aired": "18 Mai 2026",
+      "fav_id": "793726197",
+      "id": "532330409",
+      "series_id": "532330290",
+      "title": "Dylan ar Daith",
+      "date_broadcast": "2026-05-18 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
@@ -21,7 +40,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Wystrys a Chig Eidion",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Wystrys a Chig Eidion.",
@@ -40,7 +59,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "",
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -210,25 +229,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "147",
-      "series_title": "",
-      "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
-      "short_billing": "Pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio'",
-      "thumbnail_url": "Seren_Jones_yn_Fyw_yn_y_Dwr_2025S4C_88.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
-      "clic_aired": "15 Mai 2026",
-      "fav_id": "946831055",
-      "id": "946831055",
-      "series_id": "",
-      "title": "Seren Jones: Yn Fyw yn y Dwr",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "24",
       "days_to_expire": "32",
       "series_title": "Prynhawn Da",
@@ -245,6 +245,25 @@
       "series_id": "949073930",
       "title": "Prynhawn Da",
       "date_broadcast": "2026-05-15 14:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "147",
+      "series_title": "",
+      "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
+      "short_billing": "Pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio'",
+      "thumbnail_url": "Seren_Jones_yn_Fyw_yn_y_Dwr_2025S4C_88.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'r newyddiadurwr a'r cyn nofiwr elite Seren Jones yn gofyn pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio, ac yn colli eu bywydau yn y dwr. Yn ystod y rhaglen mae Seren yn cymryd rhan mewn gwaith ymchwil rhyngwladol sy'n ceisio profi unwaith ac am byth nad yw dwysedd esgyrn pobl Ddu yn drymach na phobl gwyn a bod pawb yn gallu nofio ac arnofio.  ",
+      "clic_aired": "15 Mai 2026",
+      "fav_id": "946831055",
+      "id": "946831055",
+      "series_id": "",
+      "title": "Seren Jones: Yn Fyw yn y Dwr",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -473,25 +492,6 @@
       "series_id": "803924988",
       "title": "Cynefin - Cyfres 3",
       "date_broadcast": "2026-05-11 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Dylan ar Daith",
-      "programme_title": "O Ffaldybrenin i Tsieina",
-      "short_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
-      "thumbnail_url": "Dylan_ar_Daith2017_P5_Timothy_Richards.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ym mis Chwefror 1870, fe laniodd dyn ifanc o Ffaldybrenin ym mhorthladd Yantai; aeth i Tsieina fel un o'r cenhadon cynnar. Yn ôl rhai, Timothy Richard oedd y cenhadwr pwysicaf i fynd i Tsieina erioed, o unrhyw genedl. Ond roedd e'n llawer mwy na hynny. Fe achubodd fywydau miloedd o bobl trwy ymladd newyn, daeth i adnabod yr Ymerawdwr ac fe wnaeth ymgyrchu dros ddatblygu'r wlad.",
-      "clic_aired": "11 Mai 2026",
-      "fav_id": "793726197",
-      "id": "532330387",
-      "series_id": "532330290",
-      "title": "Dylan ar Daith",
-      "date_broadcast": "2026-05-11 13:00:00",
       "vs": "0"
     },
     {
@@ -895,7 +895,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -1618,25 +1618,6 @@
     {
       "count": "1",
       "days_to_expire": "1426",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1426",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -1650,6 +1631,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1426",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Morwenna, Arfon, Osian a Beth.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "",
       "programme_title": "Ffwtbol a Fflêrs: Cofio Arwyr `76",
       "short_billing": "Ail-ddarllediad i gofio cyn-gapten Cymru, y diweddar Terry Yorath, a'n harweiniodd ni i rownd yr wyth olaf ym Mhencampwriaeth Ewrop 1976. Hefyd - nodwn 50 mlynedd ers i hyn ddigwydd. Mae John Hardy yn grediniol bod carfan bêl-droed Cymru 1976 wedi cael andros o gam o'i chymharu â'r tîm presennol sydd wedi cyrraedd rowndiau terfynol Euro 2016 yn Ffrainc, a'r tîm gyrhaeddodd rowndiau terfynol Cwpan y Byd Sweden ym 1958. Drwy gyfweliadau dadlennol gyda sawl aelod o'r garfan, yn cynnwys Terry Yorath",
@@ -2472,7 +2472,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "",
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr–p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -2624,7 +2624,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "4 trysor cenedlaethol sy'n mynd â ni 'Am Dro' y tro hwn.",
