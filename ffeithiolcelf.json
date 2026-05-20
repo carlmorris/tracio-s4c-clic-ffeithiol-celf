@@ -96,25 +96,6 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Cyfres sy'n edrych ar y byd amaeth.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Alun ym mart Bryncir yn clywed am bwysigrwydd gofal llygaid i ffermwyr, ac mae  Meinir yn y G–yr i ddathlu 70 mlynedd fel ardal harddwch naturiol eithriadol.",
-      "clic_aired": "18 Mai 2026",
-      "fav_id": "533250950",
-      "id": "949038938",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-05-31 17:40:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -131,6 +112,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-05-18 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "6",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Cyfres sy'n edrych ar y byd amaeth.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Alun ym mart Bryncir yn clywed am bwysigrwydd gofal llygaid i ffermwyr, ac mae  Meinir yn y G–yr i ddathlu 70 mlynedd fel ardal harddwch naturiol eithriadol.",
+      "clic_aired": "18 Mai 2026",
+      "fav_id": "533250950",
+      "id": "949038938",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-05-31 17:40:00",
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "",
       "programme_title": "Barcud",
       "short_billing": "Mae dyn ifanc yn gadael ei gymuned glos ar Ynys Môn am fyd modelu Llundain.",
