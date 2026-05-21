@@ -78,7 +78,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Y Llinell Las",
       "programme_title": "3. Dan Ddylanwad",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -496,7 +496,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
@@ -724,7 +724,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "342",
+      "days_to_expire": "341",
       "series_title": "Y Wal",
       "programme_title": "Sbaen a Moroco",
       "short_billing": "Yn Ceuta mae pobl yn croesi o Affrica i Ewrop.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Ymgyrch Seal Bay",
       "programme_title": "Pennod 2",
       "short_billing": "Mae ditectifs yn dechrau cau ar y gang smyglo.",
@@ -1065,8 +1065,8 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "105",
+      "count": "7",
+      "days_to_expire": "104",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Morgan",
       "short_billing": "Hanes Siôn Morgan sy'n rheolwr yn Castle Farm. ",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Llond Bol o Japan",
       "programme_title": "Pennod 3",
       "short_billing": "Mae antur Chris yn Japan yn dod i'w therfyn yn Tokyo.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Stori'r Iaith",
       "programme_title": "Ian Gwyn Hughes",
       "short_billing": "Mae Ian Gwyn Hughes yn adfywio stori ei dad-cu. ",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Pawb a'i Farn o Hystings Cenedlaethol yr Urdd yng Nghaerdydd. ",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "",
       "programme_title": "Maxine Hughes Canser: Ar Ba Gost?",
       "short_billing": "Maxine Hughes sy'n siarad am ganser y fron. ",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "3 Lle - Cyfres 4",
       "programme_title": "Eigra Lewis Roberts",
       "short_billing": "Ail-ddangosiad er cof am Eigra Lewis Roberts.",
@@ -1732,25 +1732,6 @@
     {
       "count": "1",
       "days_to_expire": "1423",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1423",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -1764,6 +1745,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1423",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "68",
+      "days_to_expire": "67",
       "series_title": "",
       "programme_title": "Can i Gymru",
       "short_billing": "Prif gystadleuaeth cyfansoddi'r flwyddyn o Sir Fôn.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres: Amour & Mynydd 3",
       "short_billing": "Cyn gadael, mae gan y criw un penderfyniad mawr i'w wneud.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "",
       "programme_title": "Dwr Du: Trychineb y Sea Empress",
       "short_billing": "30 mlynedd ers i drychineb y Sea Empress adael ei farc ar Sir Benfro, cawn glywed am un o ddamweiniau tancer olew mwya'r byd drwy lygaid y sawl fu yno.",
@@ -2322,7 +2322,7 @@
       "count": "8",
       "days_to_expire": "33",
       "series_title": "Amour & Mynydd",
-      "programme_title": "Apres:Amour & Mynydd 4",
+      "programme_title": "Rhaglen 4",
       "short_billing": "Mae cyfnod y criw yn y chalet yn dod i ben. ",
       "thumbnail_url": "Amour_a_Mynydd_2025S4C_P4_099.jpg",
       "duration": "47",
@@ -2700,7 +2700,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "153",
+      "days_to_expire": "152",
       "series_title": "",
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
