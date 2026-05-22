@@ -211,7 +211,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Aberystwyth i'r Almaen",
       "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "",
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -990,7 +990,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "109",
+      "days_to_expire": "108",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1617,7 +1617,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1713,6 +1713,25 @@
     {
       "count": "1",
       "days_to_expire": "1422",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1422",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -1745,25 +1764,6 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1422",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -2510,7 +2510,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "",
       "programme_title": "Guinness World Records Cymru 2025",
       "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr–p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Am Dro! - Cyfres 4",
       "programme_title": "Selebs!",
       "short_billing": "4 trysor cenedlaethol sy'n mynd â ni 'Am Dro' y tro hwn.",
