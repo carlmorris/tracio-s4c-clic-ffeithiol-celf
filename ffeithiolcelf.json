@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Tafwyl 2025",
+      "programme_title": "Uchafbwyntiau Dydd Sul",
+      "short_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol ail diwrnod Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru. Bydd perfformiadau byw o'r prif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.\n ",
+      "thumbnail_url": "Tafwyl_2025S4C_P9_Dydd_Sul_98.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol ail diwrnod Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru. Bydd perfformiadau byw o'r prif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.\n ",
+      "clic_aired": "23 Mai 2026",
+      "fav_id": "827646495",
+      "id": "946787807",
+      "series_id": "946787746",
+      "title": "Tafwyl 2025",
+      "date_broadcast": "2026-05-23 22:00:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
@@ -59,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Cofio",
       "programme_title": "Gwersylloedd yr Urdd",
       "short_billing": "Ymunwch â Lisa Gwilym a llu o wynebau cyfarwydd i gofio gwersylloedd yr Urdd mewn rhaglen o 2011. Mae'r atgofion o wersylloedd Llangrannog a Glan-llyn yn llifo nôl wrth i'r gwersyllwyr a'r swyddogion gofio'r cymdeithasu, y canu a'r cerdded, yr hwyl a'r hiraeth. Cawn glywed am y chwerthin a'r crio, y doniol a'r trist wrth wylio lluniau archif gwych o'r gwersyllwyr yn y '60au a'r '70au yn profi'r bywyd agored wrth adael cartref, o bosib am y tro cyntaf.  ",
@@ -192,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Aberaeron i Langrannog",
       "short_billing": "Hanes traethau a phentrefi ar hyd arfordir Bae Ceredigion.",
@@ -344,7 +363,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -420,7 +439,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 3",
       "short_billing": "Dileit mwya' Chris Roberts ydy Caernarfon, Roxy'r Ci a chreu bwyd epic gan ddefnyddio cynnyrch lleol anhygoel. Yn y rhaglen hon, mi fydd yn mynd ati i brofi bod cyts rhad o gig llawn mor flasus â chig drud - mond i chi 'pimpio nhw i fyny' fel fo! Mi fydd yn creu crempogau 'lamb neck' i'w fêt i brofi bod nhw cystal â'i hoff 'decawê'. Ond y prawf mwya' iddo fydd creu Cofibanos pork belly i ffans peldroed Caernarfon Town. A fydd o'n colli ei 'cred' hefo'r 'home crowd' ' Epic!",
@@ -435,25 +454,6 @@
       "series_id": "798369276",
       "title": "Bwyd Epic Chris - Cyfres 1",
       "date_broadcast": "2026-05-19 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Tafwyl 2025",
-      "programme_title": "Uchafbwyntiau Dydd Sadwrn",
-      "short_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol y bwrlwm yn Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru.   Bydd perfformiadau byw o'r brif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.",
-      "thumbnail_url": "Tafwyl_2025S4C_P4_Dydd_Sadwrn_98.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Huw Stephens, Tara Bethan a Lloyd Lewis yng nghanol y bwrlwm yn Tafwyl - un o wyliau cerddoriaeth mwyaf cyffrous Cymru.   Bydd perfformiadau byw o'r brif lwyfan a'r Tafiliwn, sgyrsiau gydag artistiaid, ac hefyd perfformiadau cerddorol egsglwsif yn yr ardd gudd.",
-      "clic_aired": "16 Mai 2026",
-      "fav_id": "827646495",
-      "id": "946787772",
-      "series_id": "946787746",
-      "title": "Tafwyl 2025",
-      "date_broadcast": "2026-05-16 22:00:00",
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
@@ -705,7 +705,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": "",
       "short_billing": "Gwybodaeth newydd trwy hanesion carcharor Ail Ryfel Byd.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "",
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -1732,25 +1732,6 @@
     {
       "count": "1",
       "days_to_expire": "1421",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1421",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -1783,6 +1764,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1421",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "",
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "",
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "",
       "programme_title": "Ffa Coffi Pawb!",
       "short_billing": "30 mlynedd ers chwalu, dilynwn siwrne'r band o'r gogledd.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "35",
+      "days_to_expire": "34",
       "series_title": "",
       "programme_title": "Byd Eithafol: Neo-Nazis yn Ein Plith",
       "short_billing": "Mae'r newyddiadurwraig, Maxine Hughes, yn gofyn pam fod cynnydd yn nifer y bechygyn yn eu harddegau yng Nghymru sy'n cael eu radicaleiddio gan grwpiau neo-Natsïaidd.",
