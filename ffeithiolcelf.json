@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Gwyl",
+      "programme_title": "Gwyl y Priodi: Moroco",
+      "short_billing": "Mewn cyfres ddogfen liwgar a dadlennol mae'r anturiaethwraig, Lowri Morgan, yn teithio'r byd i ymuno mewn dathliadau ysblennydd sy'n nodi Genedigaeth, Priodas a Marwolaeth.",
+      "thumbnail_url": "Gwyl_2014S4C_P2_YPriodi_Moroco.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae taith Lowri Morgan i hen ddathliadau nodedig ar draws y byd yn ei harwain at Fynyddoedd yr Atlas ym Moroco. Bob blwyddyn mae miloedd o bobl y Berber yn dod at ei gilydd ger tref Imilchil i brynu, gwerthu a pharatoi ar gyfer y gaeaf mewn marchnad fawr draddodiadol a phriodi degau o barau ifanc mewn seremoni sy'n gysylltiedig â chwedl cariadon leol, tebyg i chwedl Romeo a Juliet.  Mae pobl falch y llwythi Berber yn gallu bod yn amheus o bobl o'r tu allan ond mae Lowri'n cael croeso yng nghartr",
+      "clic_aired": "24 Mai 2026",
+      "fav_id": "536476370",
+      "id": "515081845",
+      "series_id": "515081811",
+      "title": "Gwyl",
+      "date_broadcast": "2026-05-26 22:35:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
@@ -438,25 +457,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Gwyl",
-      "programme_title": "Gwyl y Geni: Tsieina",
-      "short_billing": "Mewn cyfres ddogfen liwgar a dadlennol mae'r anturiaethwraig, Lowri Morgan, yn teithio'r byd i ymuno mewn dathliadau ysblennydd sy'n nodi Genedigaeth, Priodas a Marwolaeth.",
-      "thumbnail_url": "Gwyl_2014S4C_P1_YGeni_Tsieina.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mewn cyfres ddogfen liwgar a dadlennol mae'r anturiaethwraig, Lowri Morgan, yn teithio'r byd i ymuno mewn dathliadau ysblennydd sy'n nodi Genedigaeth, Priodas a Marwolaeth.  G–yl y Gwanwyn a'r Flwyddyn Newydd yn Tsieina yw pen siwrnai'r rhaglen gyntaf. Bydd Lowri'n ymweld â dau deulu yn Beijing i siopa, coginio a phrofi difyrrwch unigryw.  Wrth fwynhau'r tân gwyllt a'r gwledda mae hi'n gweld sut mae cyfoeth newydd y wlad yn newid bywyd teuluol - ac yn darganfod pam y bydd 1 o bob 12 o'r boblogae",
-      "clic_aired": "17 Mai 2026",
-      "fav_id": "536476370",
-      "id": "515081822",
-      "series_id": "515081811",
-      "title": "Gwyl",
-      "date_broadcast": "2026-05-19 22:00:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "142",
       "series_title": "Iaith ar Daith",
@@ -610,7 +610,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "",
       "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
@@ -1730,6 +1730,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1420",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1420",
       "series_title": "Grid - Cyfres 2",
@@ -1764,25 +1783,6 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1420",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Gronyn Gobaith: Cymry CERN",
       "programme_title": "Pennod 2",
       "short_billing": "Stori ryfeddol arbrawf mwya'r byd yn CERN, lle mae ffisegwyr o Gymru yn allweddol. O'i dechrau, wedi diwedd yr ail ryfel byd ,i'w darganfyddiadau chwyldroadol, heddychlon, mae wedi trawsnewid ffiseg a'n bywydau ni oll.",
