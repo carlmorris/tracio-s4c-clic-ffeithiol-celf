@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "23",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "",
+      "short_billing": "Yr actor Gwion Morris Jones fydd yn y stiwdio.",
+      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
+      "duration": "36",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yr actor Gwion Morris Jones fydd yn y stiwdio, a chyfle am sgwrs a chân gyda Cerys Hafana.",
+      "clic_aired": "25 Mai 2026",
+      "fav_id": "520950912",
+      "id": "949084183",
+      "series_id": "949083912",
+      "title": "Heno",
+      "date_broadcast": "2026-05-25 19:00:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
@@ -150,25 +169,6 @@
       "series_id": "498446655",
       "title": "Cofio",
       "date_broadcast": "2026-05-22 22:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "22",
-      "days_to_expire": "31",
-      "series_title": "Heno",
-      "programme_title": "",
-      "short_billing": "Sgwrs a chân gyda Morgan Elwy.",
-      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Sgwrs a chân gyda Morgan Elwy ac fe fyddwn ni'n dathlu Butlins yn 90oed.",
-      "clic_aired": "22 Mai 2026",
-      "fav_id": "520950912",
-      "id": "949084176",
-      "series_id": "949083912",
-      "title": "Heno",
-      "date_broadcast": "2026-05-22 19:00:00",
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Chris Roberts",
       "short_billing": "Sgwrs gyda'r 'flamebaster', y cogydd Chris Roberts.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "",
       "programme_title": "Etholiad Senedd 2026",
       "short_billing": "Darllediad o ganlyniadau Etholiad y Senedd 2026.",
@@ -1768,25 +1768,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1419",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1419",
       "series_title": "Grid - Cyfres 1",
@@ -1802,6 +1783,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1419",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Gwlad y Basg: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Mae Gwilym yn teithio i Iperralde ac Irunea.",
