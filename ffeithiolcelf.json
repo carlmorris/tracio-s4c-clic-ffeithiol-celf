@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": "",
+      "short_billing": "Rhagolygon tywydd yr wythnos. ",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos. ",
+      "clic_aired": "25 Mai 2026",
+      "fav_id": "949106349",
+      "id": "949106426",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-05-25 21:32:00",
+      "vs": "0"
+    },
+    {
       "count": "23",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -20,6 +39,25 @@
       "vs": "0"
     },
     {
+      "count": "11",
+      "days_to_expire": "149",
+      "series_title": "Eisteddfod yr Urdd Ynys Mon",
+      "programme_title": "Artist Ifanc ac Y Fedal Gelf",
+      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P08_Bore_Llun.jpg",
+      "duration": "77",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dechrau'r cystadlu ynghyd â'r holl newyddion a gwybodaeth angenrheidiol ar fore Llun yr Wyl yng nghwmni Heledd Cynwal a Trystan Ellis Morris. ",
+      "clic_aired": "25 Mai 2026",
+      "fav_id": "534519556",
+      "id": "949380853",
+      "series_id": "949380799",
+      "title": "Eisteddfod yr Urdd Ynys Mon",
+      "date_broadcast": "2026-05-25 10:30:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
@@ -36,25 +74,6 @@
       "series_id": "809371020",
       "title": "Sgwrs dan y Lloer - Cyfres 1",
       "date_broadcast": "2026-05-24 22:45:00",
-      "vs": "0"
-    },
-    {
-      "count": "11",
-      "days_to_expire": "149",
-      "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Artist Ifanc ac Y Fedal Gelf",
-      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P07_Nos_Sul.jpg",
-      "duration": "87",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mwy o gystadlaethau'r Aelwydydd yng nghwmni Trystan Ellis Morris a Heledd Cynwal o faes yr Eisteddfod. ",
-      "clic_aired": "24 Mai 2026",
-      "fav_id": "534519556",
-      "id": "949380846",
-      "series_id": "949380799",
-      "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-24 19:30:00",
       "vs": "0"
     },
     {
@@ -306,7 +325,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres sy'n edrych ar y byd amaeth.",
@@ -895,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "",
       "programme_title": "Y Ddadl Fawr: Etholiad Senedd ",
       "short_billing": "Senedd Cymru 2026: trafod gyda'r Prif Bleidiau.",
@@ -1807,7 +1826,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
@@ -2510,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Cymry ar Gynfas - Cyfres 1",
       "programme_title": "Robin McBryde& Iwan Gwyn Parry",
       "short_billing": "Teyrneg i'r artist tirluniol, y diweddar Iwan Gwyn Parry. Yma mae o'n cymryd yr her o geisio portreadu'r hyfforddwr rygbi Robin McBryde. ",
