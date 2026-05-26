@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "Pennod 4",
       "short_billing": "Mae'r Gwesty yn aduno dau frawd oedd wedi eu magu yng nghartef plant Bontnewydd ar ol dros 30 mlynedd arwahan. Mae na aduniad i Ben a Cadi hefyd, oedd wedi treulio amser efo'i gilydd mewn uned gofal arbennig i fabis, ac mae gan Gillian Hobbs neges emosiynol o ddiolch i weithwraig gymdeithasol y Gwesty, Theresa Ryan.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Eryri: Pobol y Parc",
       "programme_title": "",
       "short_billing": "Cyfres i ddathlu penblwydd Parc Cenedlaethol Eryri yn 70 oed. Prysurdeb yr haf yn ardal Y Bala; ras redeg y Fron a threialon cwn defaid Dolgellau, Tren Ucheldir a pharagleidio.  ",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Wayne a Connagh Howard sy'n archwilio hanes eu teulu ar draws Cymru, Iwerddon, a Jamaica.",
@@ -1808,6 +1808,25 @@
     {
       "count": "1",
       "days_to_expire": "1418",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1418",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -1840,25 +1859,6 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1418",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2224,7 +2224,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "36",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "1. Lucca",
