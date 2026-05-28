@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "25",
+      "days_to_expire": "149",
+      "series_title": "Eisteddfod yr Urdd Ynys Mon",
+      "programme_title": "Bore Iau o'r Urdd",
+      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P018_cino_mercher_01_11.jpg",
+      "duration": "75",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Uchafbwyntiau Dydd Mercher Eisteddfod yr Urdd Ynys Môn 2026 gyda Lloyd Lewis yn crwydro'r maes. ",
+      "clic_aired": "27 Mai 2026",
+      "fav_id": "534519556",
+      "id": "949380951",
+      "series_id": "949380799",
+      "title": "Eisteddfod yr Urdd Ynys Mon",
+      "date_broadcast": "2026-05-27 23:40:00",
+      "vs": "0"
+    },
+    {
       "count": "23",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -17,25 +36,6 @@
       "series_id": "949083912",
       "title": "Heno",
       "date_broadcast": "2026-05-27 19:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "25",
-      "days_to_expire": "149",
-      "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Bore Iau o'r Urdd",
-      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P018_cino_mercher_01_11.jpg",
-      "duration": "179",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cystadlaethau'r Adrannau, Uwchradd a'r offerynnol yn fyw gyda Trystan Ellis Morris a Heledd Cynwal, ac Alun Williams yn crwydro'r maes.",
-      "clic_aired": "27 Mai 2026",
-      "fav_id": "534519556",
-      "id": "949380944",
-      "series_id": "949380799",
-      "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-27 14:30:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Cegin Bryn",
       "programme_title": "",
       "short_billing": "Y tro hwn, mae Colin Owen yn galw ar Bryn am gymorth.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Trefdraeth",
       "short_billing": "Tynnu rhaff a chanu baled y Mochyn Du.",
@@ -1239,19 +1239,19 @@
       "count": "6",
       "days_to_expire": "91",
       "series_title": "Codi Hwyl: Llydaw",
-      "programme_title": "Benodet- Quimper",
+      "programme_title": "Concarneau/Konk Kerne",
       "short_billing": "Ar y cymal olaf mae nhw'n hwylio i Concarneau.",
       "thumbnail_url": "Codi_Hwyl_Llydaw_P6_Concarneau-Edit.jpg",
-      "duration": "24",
+      "duration": "23",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Y tro hwn fe fydd John a Dilwyn yn hwylio i Benodet /Benoded lle byddan nhw'n ymweld â'r farchnad leol lle fydd John yn ceisio troi ei law at wneud crêpes. ",
+      "full_billing": "Ar gymal olaf eu taith yn Llydaw bydd John Pierce Jones a Dilwyn Morgan yn hwylio i Concarneau / Konk Kerne. Yno ceir un o farchnadoedd pysgod mwyaf Llydaw cyn codi hwyl a throi trwyn y Mystique am adref.",
       "clic_aired": "30 Mawrth 2026",
       "fav_id": "533276078",
-      "id": "536788184",
+      "id": "536788206",
       "series_id": "536788087",
       "title": "Codi Hwyl: Llydaw",
-      "date_broadcast": "",
+      "date_broadcast": "2026-04-26 23:20:00",
       "vs": "0"
     },
     {
@@ -1351,7 +1351,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Cyfres 2025/26",
       "programme_title": "Fodlediad",
       "short_billing": "Catrin Haf Jones a'r Athro Richard Wyn Jones sydd yn edrych ymlaen i Etholiad Senedd Cymru.",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "918",
+      "days_to_expire": "917",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
