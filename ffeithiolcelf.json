@@ -20,6 +20,25 @@
       "vs": "0"
     },
     {
+      "count": "24",
+      "days_to_expire": "149",
+      "series_title": "Eisteddfod yr Urdd Ynys Mon",
+      "programme_title": "Bore Iau o'r Urdd",
+      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P018_cino_mercher_01_11.jpg",
+      "duration": "179",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cystadlaethau'r Adrannau, Uwchradd a'r offerynnol yn fyw gyda Trystan Ellis Morris a Heledd Cynwal, ac Alun Williams yn crwydro'r maes.",
+      "clic_aired": "27 Mai 2026",
+      "fav_id": "534519556",
+      "id": "949380944",
+      "series_id": "949380799",
+      "title": "Eisteddfod yr Urdd Ynys Mon",
+      "date_broadcast": "2026-05-27 14:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "34",
       "series_title": "Cynefin - Cyfres 4",
@@ -36,25 +55,6 @@
       "series_id": "815567826",
       "title": "Cynefin - Cyfres 4",
       "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "23",
-      "days_to_expire": "149",
-      "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Bore Iau o'r Urdd",
-      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P018_cino_mercher_01_11.jpg",
-      "duration": "93",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cystadlaethau Adrannau, Uwchradd ac offerynnol bl7 - 9 ynghyd a'r canlyniadau diweddaraf o Lwyfan y Cyfrwy gyda Mari Lovgreen. ",
-      "clic_aired": "27 Mai 2026",
-      "fav_id": "534519556",
-      "id": "949380930",
-      "series_id": "949380799",
-      "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-27 12:05:00",
       "vs": "0"
     },
     {
@@ -439,7 +439,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Aberystwyth i'r Almaen",
       "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Wystrys a Chig Eidion",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Wystrys a Chig Eidion.",
@@ -534,7 +534,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "",
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -1825,25 +1825,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1416",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1416",
       "series_title": "Grid - Cyfres 2",
@@ -1859,6 +1840,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1416",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Morwenna, Arfon, Osian a Beth.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Aiff Chris i Barcelona yng nghwmni Cerys Matthews. ",
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Dan Do",
       "programme_title": "Ty David ac Anthony- Talog",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. Yn y rhaglen hon byddwn yn ymweld â hen ffermdy gydag estyniad cyfoes ger Talog.  ",
@@ -2624,7 +2624,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "3 Lle Cyfres 2",
       "programme_title": "Eric Jones",
       "short_billing": "Mewn rhaglen o 2011, y mynyddwr Eric Jones sy'n ein tywys i dri lle sydd wedi bod yn bwysig yn ei fywyd, sef Bryn Saith Marchog yng Nghlwyd, Bwlch Llanberis, Eryri ac Grindelwald yn Alpau'r Swistir.",
@@ -2714,25 +2714,6 @@
       "id": "880980221",
       "series_id": "880980161",
       "title": "Iolo: Natur Bregus Cymru",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "",
-      "programme_title": "Guinness World Records Cymru 2025",
-      "short_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr–p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
-      "thumbnail_url": "Guinness_World_Records_Cymru_2025S4C_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dilynwn yr ymdrechion i dorri recordiau Guinness World Records Cymru 2025. Bydd menywod cryf yn cystadlu yn erbyn ei gilydd ar lan Llyn Padarn am yr amser cyflymaf i dynnu Injan! Tra yn Sir Gâr fydd ymgais i dorri'r record am y nifer fwyaf o flodau (go iawn) ar ffrog a'r nifer fwyaf o droelliadau gan gr–p (mewn relay) mewn un awr. Yng Nghaerdydd, bydd dwy efaill yn anelu i dorri record anhygoel ar raff trapeze! Alun Williams a Rhianna Loren sy' yma i dorri mwy o recordiau Guinness World Records!",
-      "clic_aired": "29 Rhagfyr 2025",
-      "fav_id": "820757830",
-      "id": "940511713",
-      "series_id": "",
-      "title": "Guinness World Records Cymru 2025",
       "date_broadcast": "",
       "vs": "0"
     },
