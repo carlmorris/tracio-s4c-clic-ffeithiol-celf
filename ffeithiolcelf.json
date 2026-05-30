@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Cartrefi Cymru - Cyfres 2",
+      "programme_title": "Tai Anarferol",
+      "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai anarferol.",
+      "thumbnail_url": "Cartrefi_Cymru_2025S4C_P8-.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres lle bydd Aled Samuel a'r hanesydd adeiladau, Bethan Scorey yn edrych ar wahanol fathau o gartrefi yng Nghymru – o ffermdai i dai newydd, tai teras i dai anarferol.  Byddwn yn agor y drws ar hanes pensaernïol Cymru.  Yn y rhaglen hon byddwn yn edrych ar dai anarferol.  ",
+      "clic_aired": "30 Mai 2026",
+      "fav_id": "929832329",
+      "id": "928639165",
+      "series_id": "928638928",
+      "title": "Cartrefi Cymru - Cyfres 2",
+      "date_broadcast": "2026-05-30 10:15:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "Gwesty Aduniad - Cyfres 3",
@@ -587,25 +606,6 @@
       "series_id": "940802161",
       "title": "Iaith ar Daith",
       "date_broadcast": "2026-06-05 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "6",
-      "days_to_expire": "136",
-      "series_title": "Cartrefi Cymru - Cyfres 2",
-      "programme_title": "Ffermdai",
-      "short_billing": "Hanes pensaernïol Ffermdai Cymru.",
-      "thumbnail_url": "Cartrefi_Cymru_2025S4C_P1_Bythynnod.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Byddwn yn agor y drws ar hanes pensaernïol Cymru. Yn y rhaglen hon byddwn yn edrych ar Ffermdai.  ",
-      "clic_aired": "16 Mai 2026",
-      "fav_id": "929832329",
-      "id": "928639133",
-      "series_id": "928638928",
-      "title": "Cartrefi Cymru - Cyfres 2",
-      "date_broadcast": "2026-05-16 10:45:00",
       "vs": "0"
     },
     {
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": "",
       "short_billing": "Sut all natur helpu effaith newid hinsawdd'",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Am Dro!",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Helen, Khadiza, Dafydd a Jochen.",
@@ -1825,6 +1825,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1414",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1414",
       "series_title": "Grid - Cyfres 3",
@@ -1859,25 +1878,6 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1414",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Darganfod mwy am yr ymgyrchu dros hawliau'r iaith.",
@@ -2510,7 +2510,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
