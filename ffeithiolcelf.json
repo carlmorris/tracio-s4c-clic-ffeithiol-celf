@@ -191,6 +191,25 @@
       "vs": "0"
     },
     {
+      "count": "32",
+      "days_to_expire": "148",
+      "series_title": "Eisteddfod yr Urdd Ynys Mon",
+      "programme_title": "Uchafbwyntiau Dydd Gwener",
+      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P032_uchaf_gwener_01_028.jpg",
+      "duration": "77",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Uchafbwyntiau Dydd Gwener Eisteddfod yr Urdd Ynys Môn 2026 gyda Lloyd Lewis yn crwydro'r maes. ",
+      "clic_aired": "29 Mai 2026",
+      "fav_id": "534519556",
+      "id": "949381021",
+      "series_id": "949380799",
+      "title": "Eisteddfod yr Urdd Ynys Mon",
+      "date_broadcast": "2026-05-29 23:35:00",
+      "vs": "0"
+    },
+    {
       "count": "24",
       "days_to_expire": "33",
       "series_title": "Heno",
@@ -207,25 +226,6 @@
       "series_id": "949083912",
       "title": "Heno",
       "date_broadcast": "2026-06-01 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "32",
-      "days_to_expire": "148",
-      "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Prynhawn Gwener o'r Urdd",
-      "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P031_Prynhawn_gwener_0213.jpg",
-      "duration": "181",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cystadlaethau'r plant cynradd gyda Trystan Ellis Morris a Heledd Cynwal, ac Alun Williams yn crwydro'r Maes. ",
-      "clic_aired": "29 Mai 2026",
-      "fav_id": "534519556",
-      "id": "949381014",
-      "series_id": "949380799",
-      "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-29 14:30:00",
       "vs": "0"
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Cymry ar Gynfas - Cyfres 2",
       "programme_title": "Wil Rowlands a Dafydd Iwan",
       "short_billing": "Yn y rhaglen hon bydd yr artist aml-gyfrwng Wil Rowlands yn mynd ati i geisio peintio portread o Dafydd Iwan. ",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Cegin Bryn",
       "programme_title": "",
       "short_billing": "Y tro hwn, mae Colin Owen yn galw ar Bryn am gymorth.",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Benodet- Quimper",
       "short_billing": "Ar y cymal olaf mae nhw'n hwylio i Concarneau.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Taith ar hyd arfordir Pen Llyn i ymweld â phentrefi a lleoliadau diddorol.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "915",
+      "days_to_expire": "914",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
