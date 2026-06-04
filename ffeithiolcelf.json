@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
+      "programme_title": "Mark Drakeford",
+      "short_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, Co'r Genedl, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae Prif Weinidog Cymru yn ystod y pandemig, Mark Drakeford.",
+      "thumbnail_url": "Cyfrinachau_Llyfrgell_2025S4C_Mark_Drakeford_5177.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres newydd lle mae Dot Davies yn mynd â sêr adnabyddus ar daith bersonol ac emosiynol drwy goridorau Llyfrgell Genedlaethol Cymru, Cartref ein Cyfrinachau, Co'r Genedl, i ganfod y pethe sy'n bwysig iddyn nhw ac i ni ddod i'w 'nabod nhw'n well. Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae Prif Weinidog Cymru yn ystod y pandemig, Mark Drakeford.",
+      "clic_aired": "4 Mehefin 2026",
+      "fav_id": "910288189",
+      "id": "910290463",
+      "series_id": "910290453",
+      "title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
+      "date_broadcast": "2026-06-12 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "24",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -382,7 +401,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Yn y rhifyn Nadolig arbennig yma fe fydd Elin Fflur yn croesi'r Iwerydd i 'sgwrsio dan y lloer' gyda un o sêr mwya' Hollywood - Matthew Rhys. Mewn rhaglen awr o hyd a gyda goleuadau Efrog Newydd yn gefnlen berffaith fe gawn godi'r llen ar fywyd cyffrous a lliwgar yr actor llwyddiannus o Gymru.",
@@ -420,7 +439,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Rhaglen drafod materion cyfoes.",
@@ -591,7 +610,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Y Llinell Las",
       "programme_title": "3. Dan Ddylanwad",
       "short_billing": "Cipolwg tu ol i'r llen ar waith heriol a pheryglus Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru. ",
@@ -781,7 +800,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Byw heb forgais a chreu busnes newydd - dyna'r freuddwyd i Emilie a Jon James. Mae'r cwpwl wedi gwerthu popeth a phrynu darn o dir yng Ngorllewin Cymru i fyw gyda'u ci Maggie ac i adeiladu safle glampio. Ond mae 'na her anferthol o'u blaenau.",
@@ -971,7 +990,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "328",
+      "days_to_expire": "327",
       "series_title": "Y Wal",
       "programme_title": "Sbaen a Moroco",
       "short_billing": "Yn Ceuta mae pobl yn croesi o Affrica i Ewrop.",
@@ -1123,7 +1142,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Ymgyrch Seal Bay",
       "programme_title": "Pennod 2",
       "short_billing": "Mae ditectifs yn dechrau cau ar y gang smyglo.",
@@ -1255,8 +1274,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "91",
+      "count": "5",
+      "days_to_expire": "90",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Morgan",
       "short_billing": "Hanes Siôn Morgan sy'n rheolwr yn Castle Farm. ",
@@ -1351,7 +1370,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Llond Bol o Japan",
       "programme_title": "Pennod 3",
       "short_billing": "Mae antur Chris yn Japan yn dod i'w therfyn yn Tokyo.",
@@ -1446,7 +1465,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Stori'r Iaith",
       "programme_title": "Ian Gwyn Hughes",
       "short_billing": "Mae Ian Gwyn Hughes yn adfywio stori ei dad-cu. ",
@@ -1484,7 +1503,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -1560,7 +1579,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Pawb a'i Farn o Hystings Cenedlaethol yr Urdd yng Nghaerdydd. ",
@@ -1617,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "",
       "programme_title": "Maxine Hughes Canser: Ar Ba Gost?",
       "short_billing": "Maxine Hughes sy'n siarad am ganser y fron. ",
@@ -1826,7 +1845,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "3 Lle - Cyfres 4",
       "programme_title": "Eigra Lewis Roberts",
       "short_billing": "Ail-ddangosiad er cof am Eigra Lewis Roberts.",
@@ -1882,6 +1901,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1409",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1409",
       "series_title": "Grid - Cyfres 2",
@@ -1916,25 +1954,6 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1409",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -1997,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "",
       "programme_title": "Can i Gymru",
       "short_billing": "Prif gystadleuaeth cyfansoddi'r flwyddyn o Sir Fôn.",
@@ -2016,7 +2035,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres: Amour & Mynydd 3",
       "short_billing": "Cyn gadael, mae gan y criw un penderfyniad mawr i'w wneud.",
@@ -2263,7 +2282,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "",
       "programme_title": "Dwr Du: Trychineb y Sea Empress",
       "short_billing": "30 mlynedd ers i drychineb y Sea Empress adael ei farc ar Sir Benfro, cawn glywed am un o ddamweiniau tancer olew mwya'r byd drwy lygaid y sawl fu yno.",
@@ -2493,7 +2512,7 @@
       "count": "6",
       "days_to_expire": "19",
       "series_title": "Amour & Mynydd",
-      "programme_title": "Apres:Amour & Mynydd 4",
+      "programme_title": "Rhaglen 4",
       "short_billing": "Mae cyfnod y criw yn y chalet yn dod i ben. ",
       "thumbnail_url": "Amour_a_Mynydd_2025S4C_P4_099.jpg",
       "duration": "47",
@@ -2738,7 +2757,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "",
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Y Gymraes Ruth Ellis oedd y fenyw olaf i gael ei chrogi ym Mhrydain. Wedi'i geni yn Rhyl, mae'r rhaglen ddogfen hon yn olrhain ei bywyd - o'i phlentyndod a'r sîn glwbiau yn y 1950au i'w pherthynas stormus â David Blakely a'r llofruddiaeth wnaeth ysgwyd Cymru a Lloegr. Gyda chyfweliadau newydd ac ymchwil ffres, mae'r rhaglen yn cynnig golwg emosiynol ar stori Ruth a'r effaith gafodd ei throsedd ar gymdeithas a'r gyfraith.",
