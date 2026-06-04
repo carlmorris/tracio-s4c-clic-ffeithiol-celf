@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "24",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "",
+      "short_billing": "Rhaglen gylchgrawn nosweithiol.",
+      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y ffotograffydd Betsan Haf Evans fydd yn datgelu enillwyr cystadleuaeth ffotograffiaeth y Gwanwyn. Byddwn ni'n nodi 50 diwrnod tan Gemau'r Gymanwlad, ac yn cwrdd a rhai o Gymry ifanc Glasgow. Ac yn y stiwdio - y cyn-chwaraewr rygbi rhyngwladol Lloyd Williams.",
+      "clic_aired": "4 Mehefin 2026",
+      "fav_id": "520950912",
+      "id": "949084239",
+      "series_id": "949083912",
+      "title": "Heno",
+      "date_broadcast": "2026-06-05 12:30:00",
+      "vs": "0"
+    },
+    {
       "count": "19",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -17,25 +36,6 @@
       "series_id": "949073930",
       "title": "Prynhawn Da",
       "date_broadcast": "2026-06-04 14:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "24",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": "",
-      "short_billing": "Rhaglen gylchgrawn nosweithiol.",
-      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Bois y Clôs ym ymuno gyda ni am sgwrs a chân. Uchafbwyntiau o ail ddiwrnod Gwyl Cyfryngau Celtaidd ym Melffast, ac ar Ddiwrnod Rhedeg y Byd cyfle i glywed am her arbennig David Jackson. ",
-      "clic_aired": "3 Mehefin 2026",
-      "fav_id": "520950912",
-      "id": "949084232",
-      "series_id": "949083912",
-      "title": "Heno",
-      "date_broadcast": "2026-06-04 12:30:00",
       "vs": "0"
     },
     {
@@ -77,25 +77,6 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Bydd Nia yn cyfweld gyda'r Gweinidog Llyr Gruffydd.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Nia yn cyfweld â Llyr Gruffydd AS. Bydd Meinir yn clywed am beryglon y ffliw ceffyl, a bydd Alun yn fferm Gelli Aur.",
-      "clic_aired": "1 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038945",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-07 17:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -112,6 +93,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-01 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "7",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Bydd Nia yn cyfweld gyda'r Gweinidog Llyr Gruffydd.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Nia yn cyfweld â Llyr Gruffydd AS. Bydd Meinir yn clywed am beryglon y ffliw ceffyl, a bydd Alun yn fferm Gelli Aur.",
+      "clic_aired": "1 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038945",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-07 17:05:00",
       "vs": "0"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Port Talbot",
       "short_billing": "Dyma ddarganfod yr hanes bob ochr i'r M4.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "",
       "programme_title": "Etholiad Senedd 2026",
       "short_billing": "Darllediad o ganlyniadau Etholiad y Senedd 2026.",
