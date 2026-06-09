@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
-      "clic_aired": "8 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038952",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-14 18:10:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -55,6 +36,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-08 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
+      "clic_aired": "8 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038952",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-14 18:10:00",
       "vs": "0"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Cynefin",
       "programme_title": "Bro Dysynni",
       "short_billing": "Cyfle i fynd ar drywydd rhai o straeon difyr a chudd gwahanol rannau o Gymru. ",
@@ -306,7 +306,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Straeon Harri Parri",
       "programme_title": "C'nebrwng Gwahanol",
       "short_billing": "John Ogwen yn darllen rhai o straeon Harri Parri.",
@@ -321,6 +321,25 @@
       "series_id": "377107587",
       "title": "Straeon Harri Parri",
       "date_broadcast": "2026-06-01 13:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "22",
+      "series_title": "Nol o'r Dibyn gyda Iolo Williams",
+      "programme_title": "",
+      "short_billing": "Edrychwn ar ymdrechion cadwraeth ar draws Ewrop.",
+      "thumbnail_url": "Nol_or_Dibyn_gyda_Iolo_Williams_2026S4C_P1_143717305-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Edrychwn ar ymdrechion cadwraeth, gan gynnwys cynefinoedd trefol dyfrgwn a'r drudwy yng Nghymru.",
+      "clic_aired": "31 Mai 2026",
+      "fav_id": "946632733",
+      "id": "946632738",
+      "series_id": "946632733",
+      "title": "Nol o'r Dibyn gyda Iolo Williams",
+      "date_broadcast": "2026-05-31 17:10:00",
       "vs": "0"
     },
     {
@@ -441,19 +460,19 @@
       "count": "32",
       "days_to_expire": "139",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Dros Ginio Gwener o'r Urdd",
+      "programme_title": "Prynhawn Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
-      "duration": "92",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P030_coroni_Gwener_39.jpg",
+      "duration": "39",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cystadlaethau'r plant Cynradd - Cân Actol a pherfformiad theatrig i ysgolion ac adrannau ynghyd â'r canlyniadau diweddaraf o Lwyfan y Cyfrwy. ",
+      "full_billing": "Darllediad byw o faes Eisteddfod yr Urdd 2026 o Seremoni'r Dydd: Y Coroni.",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949381000",
+      "id": "949381007",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-29 12:05:00",
+      "date_broadcast": "2026-05-29 14:00:00",
       "vs": "0"
     },
     {
@@ -667,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Aberystwyth i'r Almaen",
       "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees - llenor, newyddiadurwr, milwr, academig ac efallai ysbïwr. Dyma stori llawn dirgelwch a sgandal sy'n sôn am y Natsïaid ym Merlin, y Comiwnyddion ym Mhrydain ac ysbiwyr. Mae'r hanes yn mynd â ni i Aberystwyth, Rhydychen, Ffrainc a'r Almaen.",
@@ -743,7 +762,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "",
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -857,7 +876,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -914,7 +933,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -933,7 +952,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -971,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -1256,7 +1275,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1693,7 +1712,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1807,7 +1826,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1826,7 +1845,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Mae Bois y Pizza yn ôl ac ar daith fwyd i wledydd pencampwriaeth rygbi'r chwe gwlad!",
@@ -2073,7 +2092,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Iaith ar Daith - Cyfres 4",
       "programme_title": "Adam Jones a Mike Phillips",
       "short_billing": "Yn y bumed pennod o'r gyfres Iaith ar Daith mae'r cyn chwaraewyr rygbi rhyngwladol a ffrindiau agos Adam Jones ac Mike Phillips yn teithio ar draws Cymru gyda'r nôd o ysgogi a helpu Adam i ddysgu Cymraeg. Fe fydd Adam'n gwynebu cyfres o sialensau ieithyddol ac fe fydd Mike wrth ei ochor ar hyd y ffordd. Fe fydd ymddangosiad arbennig iawn hefyd gan rhai o'u cyd-llewod! Ond - a fydd y Gymraeg yn llifo neu'n brifo'",
@@ -2282,7 +2301,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Aiff Chris i Barcelona yng nghwmni Cerys Matthews. ",
@@ -2585,8 +2604,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Cysgu o Gwmpas",
       "programme_title": "Yr Albion",
       "short_billing": "Yn y gyfres newydd hon, cawn ddihangfa am hanner awr drwy fynd ar wyliau gyda Beti George a Huw Stephens i rai o westai a bwytai gorau Cymru.",
