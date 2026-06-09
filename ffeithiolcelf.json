@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Y Sin",
+      "programme_title": "",
+      "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
+      "thumbnail_url": "Y_Sin_2025S4C_P1-134.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Dyma gychwyn i ail gyfres Y Sîn gyda Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn yr Eisteddfod, yn bwrw golwg dros y sin creadigol ifanc yng Nghymru. Yn y bennod yma byddwn yn dysgu am baentio arwyddion gyda llaw, yn clywed am sin gomedi'r Cymoedd,  bwrw golwg ar brosiectau celf berfformiadol ac yn ymweld ag ynys hudol Enlli.",
+      "clic_aired": "9 Mehefin 2026",
+      "fav_id": "891890563",
+      "id": "886784275",
+      "series_id": "886784249",
+      "title": "Y Sin",
+      "date_broadcast": "2026-06-09 23:20:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Y Llinell Las",
@@ -78,7 +97,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Llyn Trawsfynydd ac Uwchmynydd",
       "short_billing": "Awn i'r gogledd i lyn Trawsfynydd ac Uwchmynydd ym Mhen Llyn.",
@@ -93,25 +112,6 @@
       "series_id": "810339727",
       "title": "Pysgod i Bawb",
       "date_broadcast": "2026-06-08 23:10:00",
-      "vs": "0"
-    },
-    {
-      "count": "8",
-      "days_to_expire": "148",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
-      "clic_aired": "8 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038952",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-14 18:10:00",
       "vs": "0"
     },
     {
@@ -131,6 +131,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-08 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "148",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
+      "clic_aired": "8 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038952",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-14 18:10:00",
       "vs": "0"
     },
     {
@@ -401,7 +420,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "140",
+      "days_to_expire": "139",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Tro yma bydd Chris yn mynd efo'i ffrindiau am benwythnos epic mewn bwthyn bach yng nghanol coedwig ym Metws y Coed. Mi fydd yn chwilota am drysor y goedwig i wneud pryd llawn madarch, ac yn  paratoi stec a –yau i'r hogia i leddfu'r hangofyr yn y bore! Ond yr her fwyaf fydd coginio mochyn cyfan ar 'spit' wedi'i adeiladu gan ei fêts a'i bweru gan dd–r yr afon. Epic!",
@@ -1161,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "102",
+      "days_to_expire": "101",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -1541,7 +1560,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1750,7 +1769,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -1977,25 +1996,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1404",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1404",
       "series_title": "Grid - Cyfres 1",
@@ -2011,6 +2011,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1404",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2130,7 +2149,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -2244,7 +2263,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
