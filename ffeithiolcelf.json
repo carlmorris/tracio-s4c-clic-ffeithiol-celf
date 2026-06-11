@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "19",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": "",
+      "short_billing": "Cyfres gylchgrawn dyddiol gydag eitemau amrywiol.",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfres gylchgrawn gydag eitemau am lyfrau, coginio a ffasiwn a chyngor am bopeth!",
+      "clic_aired": "11 Mehefin 2026",
+      "fav_id": "520950923",
+      "id": "949074292",
+      "series_id": "949073930",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2026-06-11 14:05:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Taclo'r Ty",
@@ -36,25 +55,6 @@
       "series_id": "949083912",
       "title": "Heno",
       "date_broadcast": "2026-06-11 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "18",
-      "days_to_expire": "33",
-      "series_title": "Prynhawn Da",
-      "programme_title": "",
-      "short_billing": "Cyfres gylchgrawn dyddiol gydag eitemau amrywiol.",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfres gylchgrawn gydag eitemau am lyfrau, coginio a ffasiwn a chyngor am bopeth!",
-      "clic_aired": "10 Mehefin 2026",
-      "fav_id": "520950923",
-      "id": "949074285",
-      "series_id": "949073930",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2026-06-10 14:05:00",
       "vs": "0"
     },
     {
@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "8",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
-      "clic_aired": "8 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038952",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-14 18:10:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -169,6 +150,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-08 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "8",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Cyfres gylchgrawn am faterion cefn gwlad. ",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Alun yn ymweld a fferm sydd wedi gwaredu BVD o'i fuches, a bydd Meinir yn Grantham yn cwrdd ag ymgynghorydd defaid.",
+      "clic_aired": "8 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038952",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-14 18:10:00",
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Tregaron",
       "short_billing": "Bydd Heledd Cynwal yn sgwrsio â chymeriadauTregaron.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Y Fenai",
       "short_billing": "Cyfres yn olrhain straeon difyr ar draws Cymru.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Rydym yn trawsnewid Neuadd Santes Helen, Penisarwaun.",
@@ -1998,25 +1998,6 @@
     {
       "count": "1",
       "days_to_expire": "1402",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1402",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -2030,6 +2011,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1402",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
