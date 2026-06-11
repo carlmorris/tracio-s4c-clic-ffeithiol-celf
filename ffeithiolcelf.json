@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": "",
-      "short_billing": "Rhagolygon tywydd yr wythnos.  ",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.  ",
-      "clic_aired": "8 Mehefin 2026",
-      "fav_id": "949106349",
-      "id": "949106446",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-06-08 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
       "days_to_expire": "147",
       "series_title": "Ffermio",
@@ -169,6 +150,25 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-06-14 18:10:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "0",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": "",
+      "short_billing": "Rhagolygon tywydd yr wythnos.  ",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.  ",
+      "clic_aired": "8 Mehefin 2026",
+      "fav_id": "949106349",
+      "id": "949106446",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-06-08 21:33:00",
       "vs": "0"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "139",
+      "days_to_expire": "138",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mewn cyfres ddogfen liwgar a dadlennol mae'r anturiaethwraig, Lowri Morgan, yn teithio'r byd i ymuno mewn dathliadau ysblennydd sy'n nodi Genedigaeth, Priodas a Marwolaeth.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Agor y Clo",
       "programme_title": "Meryl Davies- Cpt Efan Davies",
       "short_billing": "Stori Capten Efan Davies.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cynefin Byr",
       "programme_title": "Cynefin- Castell Newdd Emlyn- y Cwrwgl",
       "short_billing": "Ger Castell Newydd Emlyn, mae Iestyn Jones yn ymweld a Chanolfan Cwrwglau Cenedlaethol Cymru yng Nghenarth, ac yn cymryd rhan mewn ras cwryglau yn ystod Gwyl Flynyddol yr Afon gyda help llaw gan yr arbenigwr Matthew Crossman.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "",
       "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
@@ -2339,7 +2339,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Gronyn Gobaith: Cymry CERN",
       "programme_title": "Pennod 2",
       "short_billing": "Stori ryfeddol arbrawf mwya'r byd yn CERN, lle mae ffisegwyr o Gymru yn allweddol. O'i dechrau, wedi diwedd yr ail ryfel byd ,i'w darganfyddiadau chwyldroadol, heddychlon, mae wedi trawsnewid ffiseg a'n bywydau ni oll.",
