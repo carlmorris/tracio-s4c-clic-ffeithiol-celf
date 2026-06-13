@@ -249,7 +249,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Tregaron",
       "short_billing": "Bydd Heledd Cynwal yn sgwrsio â chymeriadauTregaron.",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Y Fenai",
       "short_billing": "Cyfres yn olrhain straeon difyr ar draws Cymru.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "63",
+      "days_to_expire": "62",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Rydym yn trawsnewid Neuadd Santes Helen, Penisarwaun.",
@@ -1958,6 +1958,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1400",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1400",
       "series_title": "Grid - Cyfres 3",
@@ -1992,25 +2011,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1400",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
