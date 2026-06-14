@@ -306,7 +306,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Tregaron",
       "short_billing": "Bydd Heledd Cynwal yn sgwrsio â chymeriadauTregaron.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -553,7 +553,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Y Fenai",
       "short_billing": "Cyfres yn olrhain straeon difyr ar draws Cymru.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -1979,25 +1979,6 @@
     {
       "count": "1",
       "days_to_expire": "1399",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1399",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -2011,6 +1992,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1399",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2224,8 +2224,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "35",
+      "count": "5",
+      "days_to_expire": "34",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
