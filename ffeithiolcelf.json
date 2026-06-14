@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "30",
+      "series_title": "Nol o'r Dibyn gyda Iolo Williams",
+      "programme_title": "",
+      "short_billing": "Heddiw, enghreifftiau fel toeau gwyrdd yr Almaen.",
+      "thumbnail_url": "Nol_or_Dibyn_gyda_Iolo_Williams_2026S4C_763973873-Edit.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Edrychwn ar enghreifftiau o ymdrechion cadwraeth, gan gynnwys toeau gwyrdd yr Almaen.",
+      "clic_aired": "14 Mehefin 2026",
+      "fav_id": "946632733",
+      "id": "946632745",
+      "series_id": "946632733",
+      "title": "Nol o'r Dibyn gyda Iolo Williams",
+      "date_broadcast": "2026-06-14 17:10:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Cynefin",
@@ -40,7 +59,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Keri Pritchard-Mclean",
       "short_billing": "Corrie Chiswell sy'n peintio Kiri Pritchard-Mclean.",
@@ -435,25 +454,6 @@
       "series_id": "377107587",
       "title": "Straeon Harri Parri",
       "date_broadcast": "2026-06-01 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "17",
-      "series_title": "Nol o'r Dibyn gyda Iolo Williams",
-      "programme_title": "",
-      "short_billing": "Edrychwn ar ymdrechion cadwraeth ar draws Ewrop.",
-      "thumbnail_url": "Nol_or_Dibyn_gyda_Iolo_Williams_2026S4C_P1_143717305-Edit.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Edrychwn ar ymdrechion cadwraeth, gan gynnwys cynefinoedd trefol dyfrgwn a'r drudwy yng Nghymru.",
-      "clic_aired": "31 Mai 2026",
-      "fav_id": "946632733",
-      "id": "946632738",
-      "series_id": "946632733",
-      "title": "Nol o'r Dibyn gyda Iolo Williams",
-      "date_broadcast": "2026-05-31 17:10:00",
       "vs": "0"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Elin Fflur sy'n cael ei holi gan y criw chwilfrydig. ",
