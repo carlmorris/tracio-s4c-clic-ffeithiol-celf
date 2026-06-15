@@ -439,7 +439,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai newydd.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mewn cyfres ddogfen liwgar a dadlennol mae'r anturiaethwraig, Lowri Morgan, yn teithio'r byd i ymuno mewn dathliadau ysblennydd sy'n nodi Genedigaeth, Priodas a Marwolaeth.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "114",
+      "days_to_expire": "113",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": "",
       "short_billing": "Sut all natur helpu effaith newid hinsawdd'",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Am Dro!",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Helen, Khadiza, Dafydd a Jochen.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Am Dro! - Cyfres 8",
       "programme_title": "",
       "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
@@ -1977,6 +1977,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1398",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1398",
       "series_title": "Grid - Cyfres 1",
@@ -2011,25 +2030,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1398",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2282,7 +2282,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "29",
+      "days_to_expire": "28",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Darganfod mwy am yr ymgyrchu dros hawliau'r iaith.",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Gronyn Gobaith: Cymry CERN",
       "programme_title": "Pennod 2",
       "short_billing": "Stori ryfeddol arbrawf mwya'r byd yn CERN, lle mae ffisegwyr o Gymru yn allweddol. O'i dechrau, wedi diwedd yr ail ryfel byd ,i'w darganfyddiadau chwyldroadol, heddychlon, mae wedi trawsnewid ffiseg a'n bywydau ni oll.",
@@ -2662,7 +2662,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Iaith ar Daith - Cyfres 5",
       "programme_title": "Jess Fishlock a Catrin Heledd",
       "short_billing": "Cyfres sy'n estyn gwahoddiad i rai o enwau mwyaf Cymru, neu sydd â chysylltiad â Chymru, i ddysgu Cymraeg. ",
