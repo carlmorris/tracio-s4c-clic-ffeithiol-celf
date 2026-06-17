@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "20",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": "",
+      "short_billing": "Byddwn ni'n trafod iechyd meddwl tadau.",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
+      "duration": "34",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Byddwn ni'n trafod iechyd meddwl tadau ac yn edrych ar rôl AI mewn crefydd.",
+      "clic_aired": "17 Mehefin 2026",
+      "fav_id": "520950923",
+      "id": "949074320",
+      "series_id": "949073930",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2026-06-17 14:05:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "It's My Shout - Docs",
@@ -93,25 +112,6 @@
       "series_id": "528048666",
       "title": "Cymoedd Roy Noble",
       "date_broadcast": "2026-06-28 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "20",
-      "days_to_expire": "34",
-      "series_title": "Prynhawn Da",
-      "programme_title": "",
-      "short_billing": "Bydd Haf Weighton yn sôn am ei thaith i ben draw'r byd.",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "41",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Haf Weighton yn sôn am ei thaith i ben draw'r byd. A bydd gan Alun Saunders yr holl awgrymiadau ar gyfer anrhegion Sul y Tadau.",
-      "clic_aired": "16 Mehefin 2026",
-      "fav_id": "520950923",
-      "id": "949074313",
-      "series_id": "949073930",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2026-06-16 14:05:00",
       "vs": "0"
     },
     {
@@ -652,17 +652,17 @@
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
       "programme_title": "Prynhawn Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P030_coroni_Gwener_39.jpg",
-      "duration": "39",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P031_Prynhawn_gwener_0213.jpg",
+      "duration": "181",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Darllediad byw o faes Eisteddfod yr Urdd 2026 o Seremoni'r Dydd: Y Coroni.",
+      "full_billing": "Cystadlaethau'r plant cynradd gyda Trystan Ellis Morris a Heledd Cynwal, ac Alun Williams yn crwydro'r Maes. ",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949381007",
+      "id": "949381014",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-29 14:00:00",
+      "date_broadcast": "2026-05-29 14:30:00",
       "vs": "0"
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "4",
+      "days_to_expire": "3",
       "series_title": "Bwyd Epic Chris",
       "programme_title": "Pei Wystrys a Chig Eidion",
       "short_billing": "Risét o drydedd cyfres Bwyd Epic Chris --  Pei Wystrys a Chig Eidion.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "",
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio'",
@@ -1806,7 +1806,7 @@
       "vs": "0"
     },
     {
-      "count": "6",
+      "count": "5",
       "days_to_expire": "59",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Rydym yn trawsnewid Neuadd Santes Helen, Penisarwaun.",
@@ -2093,25 +2093,6 @@
     {
       "count": "1",
       "days_to_expire": "1396",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1396",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
       "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
@@ -2125,6 +2106,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1396",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "Am Dro! - Cyfres 7",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Morwenna, Arfon, Osian a Beth.",
@@ -2771,7 +2771,7 @@
       "id": "915981680",
       "series_id": "",
       "title": "Ruth Ellis: Y Cariad a'r Crogi",
-      "date_broadcast": "2026-06-30 21:00:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
