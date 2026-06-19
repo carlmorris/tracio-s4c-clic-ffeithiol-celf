@@ -458,7 +458,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Aberhonddu",
       "short_billing": "Awn ar wyliau byr yng Nghymru. Dau griw, dwy gyllideb wahanol: sut hwyl gawn nhw'",
@@ -1047,7 +1047,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "111",
+      "days_to_expire": "110",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Cyfres newydd sy'n mynd â ni i ganol cymuned chwarelyddol Bethesda - cymuned glos Gymreig.  Yn y rhaglen olaf cawn gwrdd â Carrie Rimes - dynes busnes sy'n dechrau ar fenter newydd gyffrous yn yr ardal wrth iddi droi'r hen eglwys babyddol yn laethdy i wneud caws.  Hefyd cawn weld trigolion Bethesda yn dod ynghyd am gêm o bingo ac yn trafod pwysigrwydd cymuned a'u gobeithion am y dyfodol.    ",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Cegin Bryn: Tir a Môr",
       "programme_title": "",
       "short_billing": "Mae Bryn yn dychwelyd i Ddyffryn Clwyd ar gyfer y bennod ola.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Busnes Bwyd",
       "programme_title": "",
       "short_billing": "Mae chwech o gynhyrchwyr ac entrepreneuriaid bwyd yn cystadlu am £5K a chynllun mentora unigryw. ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Bois y Pizza: Chwe' Gwlad",
       "programme_title": "Aberystwyth",
       "short_billing": "Taith fwyd i wledydd pencampwriaeth rygbi'r 6 gwlad.",
@@ -2093,25 +2093,6 @@
     {
       "count": "1",
       "days_to_expire": "1394",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1394",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -2144,6 +2125,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1394",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Llond Bol o Sbaen",
       "programme_title": "Chris yn Barcelona",
       "short_billing": "Aiff Chris i Barcelona yng nghwmni Cerys Matthews. ",
