@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "20",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": "",
+      "short_billing": "Cawn ni stori Pawlie Bryant sydd wedi dysgu Cymraeg.",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
+      "duration": "42",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cawn ni stori ysbrydoledig Pawlie Bryant o Santa Barbara, California, sydd wedi dysgu Cymraeg.",
+      "clic_aired": "23 Mehefin 2026",
+      "fav_id": "520950923",
+      "id": "949074348",
+      "series_id": "949073930",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2026-06-23 14:05:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "149",
       "series_title": "Ar Brawf",
@@ -20,25 +39,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Bydd Alun yn croesawu'r haf i Gae Coch.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesawu'r haf i Gae Coch.",
-      "clic_aired": "22 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038966",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-28 18:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -55,6 +55,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-22 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Bydd Alun yn croesawu'r haf i Gae Coch.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesawu'r haf i Gae Coch.",
+      "clic_aired": "22 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038966",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-28 18:05:00",
       "vs": "0"
     },
     {
@@ -112,25 +131,6 @@
       "series_id": "521885762",
       "title": "Codi Hwyl - Cyfres 3",
       "date_broadcast": "2026-06-24 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "19",
-      "days_to_expire": "33",
-      "series_title": "Prynhawn Da",
-      "programme_title": "",
-      "short_billing": "Bydd Karl yn dod â holl straeon y penwythnos i ni.",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Elwen yn y gegin, a Karl yn dod â holl straeon y penwythnos i ni.",
-      "clic_aired": "22 Mehefin 2026",
-      "fav_id": "520950923",
-      "id": "949074341",
-      "series_id": "949073930",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2026-06-22 14:05:00",
       "vs": "0"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Bro Ogwr",
       "short_billing": "Ardal wedi'i hollti'n ddwy gan draffordd yr M4.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Y Fenai",
       "short_billing": "Cyfres yn olrhain straeon difyr ar draws Cymru.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "53",
+      "days_to_expire": "52",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "49",
+      "days_to_expire": "48",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Rydym yn trawsnewid Neuadd Santes Helen, Penisarwaun.",
@@ -2167,6 +2167,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1390",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1390",
       "series_title": "Grid - Cyfres 1",
@@ -2201,25 +2220,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1390",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "26",
+      "days_to_expire": "25",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
