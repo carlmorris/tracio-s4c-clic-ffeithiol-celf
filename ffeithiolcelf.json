@@ -134,25 +134,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Bydd Alun yn croesawu'r haf i Gae Coch.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesawu'r haf i Gae Coch.",
-      "clic_aired": "22 Mehefin 2026",
-      "fav_id": "533250950",
-      "id": "949038966",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-06-28 18:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -169,6 +150,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-06-22 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "10",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Bydd Alun yn croesawu'r haf i Gae Coch.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesawu'r haf i Gae Coch.",
+      "clic_aired": "22 Mehefin 2026",
+      "fav_id": "533250950",
+      "id": "949038966",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-06-28 18:05:00",
       "vs": "0"
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -529,7 +529,7 @@
       "id": "521510962",
       "series_id": "521510955",
       "title": "Gwlad Moc",
-      "date_broadcast": "2026-06-14 17:40:00",
+      "date_broadcast": "2026-07-09 13:00:00",
       "vs": "0"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Tro yma bydd Chris yn mynd efo'i ffrindiau am benwythnos epic mewn bwthyn bach yng nghanol coedwig ym Metws y Coed. Mi fydd yn chwilota am drysor y goedwig i wneud pryd llawn madarch, ac yn  paratoi stec a –yau i'r hogia i leddfu'r hangofyr yn y bore! Ond yr her fwyaf fydd coginio mochyn cyfan ar 'spit' wedi'i adeiladu gan ei fêts a'i bweru gan dd–r yr afon. Epic!",
@@ -928,7 +928,7 @@
       "id": "949037581",
       "series_id": "949037534",
       "title": "Y Byd yn ei Le",
-      "date_broadcast": "2026-05-21 21:00:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "866673045",
       "series_id": "",
       "title": "Y Gymraeg: Hawl Pob Plentyn",
-      "date_broadcast": "2026-05-21 21:45:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1080,7 +1080,7 @@
       "id": "846120966",
       "series_id": "846120847",
       "title": "Nôl i'r Gwersyll",
-      "date_broadcast": "2026-05-21 15:05:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -1517,7 +1517,7 @@
       "id": "946349657",
       "series_id": "946349631",
       "title": "Teulu Shadog: Tymhorau'r Flwyddyn",
-      "date_broadcast": "2026-05-21 12:05:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2188,25 +2188,6 @@
     {
       "count": "1",
       "days_to_expire": "1389",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1389",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -2220,6 +2201,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1389",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2338,8 +2338,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "28",
+      "count": "3",
+      "days_to_expire": "27",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
