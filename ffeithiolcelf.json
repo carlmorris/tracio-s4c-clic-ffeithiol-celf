@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "34",
+      "series_title": "Gwlad Moc",
+      "programme_title": "",
+      "short_billing": "Cyfres o 2014 yn hel atgofion, ac yn dathlu gwasanaeth y diweddar Moc Morgan i ddarlledu a chefn gwlad. ",
+      "thumbnail_url": "Gwlad_Moc_2014S4C_C2_P2.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heddiw, bydd Moc Morgan yn ymuno â Gwenno Puw, enillydd Fferm Ffactor 2013, ar ei fferm deuluol yn Sir Fôn ac yn ei holi am ei llwyddiant ar y rhaglen. Caiff Moc gyfle hefyd i ymweld â dau hen ffrind: Eifion Evans, fferm Pengelli Fach, Castell Newydd Emlyn sy'n cadw buches odro; a hefyd Martha Morgan sy'n magu c–n defaid ac yn gystadleuydd brwd o fewn y byd treialu.",
+      "clic_aired": "28 Mehefin 2026",
+      "fav_id": "794286918",
+      "id": "521510980",
+      "series_id": "521510955",
+      "title": "Gwlad Moc",
+      "date_broadcast": "2026-06-28 17:35:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "30",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
@@ -568,25 +587,6 @@
       "series_id": "803924988",
       "title": "Cynefin - Cyfres 3",
       "date_broadcast": "2026-06-15 15:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "21",
-      "series_title": "Gwlad Moc",
-      "programme_title": "",
-      "short_billing": "Cyfres o 2014 yn hel atgofion, ac yn dathlu gwasanaeth y diweddar Moc Morgan i ddarlledu a chefn gwlad. ",
-      "thumbnail_url": "Gwlad_Moc_2014S4C_C2_P1.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle arall i weld y gyfres sy'n dathlu gwasanaeth y diweddar Moc Morgan i gefn gwlad a'r byd darlledu yng Nghymru. Heddiw, byddwn yn canolbwyntio ar ei gariad cyntaf, sef pysgota ac yn cadw cwmni i Moc bydd y pysgotwr Rhys Llywelyn wrth iddyn nhw roi eu gwialenni yn nyfroedd Llyn Clywedog, Powys, un o hoff lefydd Moc i bysgota. Bydd y ddau hefyd yn mwynhau cwmni John Elfed Jones ac Aled Evans ar Afon Tywi i ddal sewin gyda'r nos. Darlledwyd y gyfres gyntaf yn 2014.",
-      "clic_aired": "14 Mehefin 2026",
-      "fav_id": "794286918",
-      "id": "521510962",
-      "series_id": "521510955",
-      "title": "Gwlad Moc",
-      "date_broadcast": "2026-07-09 13:00:00",
       "vs": "0"
     },
     {
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Cyfres 2025/26",
       "programme_title": "Fodlediad",
       "short_billing": "Catrin Haf Jones a'r Athro Richard Wyn Jones sydd yn edrych ymlaen i Etholiad Senedd Cymru.",
@@ -2148,25 +2148,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1385",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1385",
       "series_title": "Grid - Cyfres 3",
@@ -2201,6 +2182,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1385",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
