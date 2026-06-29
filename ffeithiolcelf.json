@@ -78,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Gerddi Cymru - Cyfres 1",
       "programme_title": "Gerddi Castell Powis a Gardd Goedwig Penllergare",
       "short_billing": "Cipolwg ar rai o gerddi Cymru yng nghwmni Aled Samuel.",
@@ -97,7 +97,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Llangrannog",
       "short_billing": "Awn ar wyliau byr yng Nghymru. Dau griw, dwy gyllideb wahanol: sut hwyl gawn nhw'",
@@ -116,7 +116,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Dan Do",
       "programme_title": "",
       "short_billing": "Cyfres sy'n ymweld â gwahanol fathau o gartrefi chwaethus a diddorol. ",
@@ -211,7 +211,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": "",
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -249,7 +249,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Mae Gwilym yn cyrraedd y gymuned Gymraeg yng Nghwm Hyfryd.",
@@ -347,7 +347,7 @@
       "days_to_expire": "143",
       "series_title": "Ar Brawf",
       "programme_title": "Martin a Dei",
-      "short_billing": "Mae Martin a Dei wedi torri'r gyfraith ac yn gorfod cwblhau eu cyfnod ar brawf heb dorri unrhyw amodau o'u dedfryd. Os ydy nhw, y canlyniad ydy cael eu gyrru yn ol i'r llys neu i'r carchar gan eu Swyddogion Prawf. Eu cyfrifoldeb nhw ydy ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
+      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
       "thumbnail_url": "Ar_Brawf_2024S4C_P1-1.jpg",
       "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
@@ -439,7 +439,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Byddwn yn edrych ar dai o'r cyfnod Edwardaidd. ",
@@ -496,7 +496,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": "",
       "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai newydd.",
@@ -764,19 +764,19 @@
       "count": "32",
       "days_to_expire": "119",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Bore Gwener o'r Urdd",
+      "programme_title": "Dros Ginio Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
       "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
-      "duration": "76",
+      "duration": "92",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal a Trystan Ellis Morris yn fyw ar gyfer dechrau'r cystadlu ar fore olaf yr Wyl ieuenctid.",
+      "full_billing": "Cystadlaethau'r plant Cynradd - Cân Actol a pherfformiad theatrig i ysgolion ac adrannau ynghyd â'r canlyniadau diweddaraf o Lwyfan y Cyfrwy. ",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949380993",
+      "id": "949381000",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-29 10:30:00",
+      "date_broadcast": "2026-05-29 12:05:00",
       "vs": "0"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "88",
+      "days_to_expire": "87",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial sy'n cael priodas am £5000 y tro ma.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": "",
       "short_billing": "Sut all natur helpu effaith newid hinsawdd'",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": "",
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Am Dro!",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Helen, Khadiza, Dafydd a Jochen.",
@@ -2129,25 +2129,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1384",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1384",
       "series_title": "Grid - Cyfres 3",
@@ -2163,6 +2144,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1384",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Y tro 'ma bydd Scott yn pysgota ac yn Bîtbocsio.",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Stori'r Iaith",
       "programme_title": "Elis James",
       "short_billing": "Darganfod mwy am yr ymgyrchu dros hawliau'r iaith.",
@@ -2434,7 +2434,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Eurof",
       "short_billing": "Eurof sydd yn y stiwdio steilio y tro hwn.",
