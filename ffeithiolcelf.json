@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "21",
+      "days_to_expire": "34",
+      "series_title": "Prynhawn Da",
+      "programme_title": "",
+      "short_billing": "Nerys fydd yn y gegin yn trafod mefus o bob math.",
+      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
+      "duration": "41",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Ion ac Ifan yn dod â'r holl straeon newyddion diweddaraf, a Nerys fydd yn y gegin yn trafod mefus o bob math.",
+      "clic_aired": "29 Mehefin 2026",
+      "fav_id": "520950923",
+      "id": "949074376",
+      "series_id": "949073930",
+      "title": "Prynhawn Da",
+      "date_broadcast": "2026-06-29 14:05:00",
+      "vs": "0"
+    },
+    {
       "count": "5",
       "days_to_expire": "149",
       "series_title": "Straeon Harri Parri",
@@ -207,25 +226,6 @@
       "series_id": "949083912",
       "title": "Heno",
       "date_broadcast": "2026-06-29 12:30:00",
-      "vs": "0"
-    },
-    {
-      "count": "20",
-      "days_to_expire": "32",
-      "series_title": "Prynhawn Da",
-      "programme_title": "",
-      "short_billing": "Bydd Ioan Dyer yn mynd â ni i fyd y ffilmiau.",
-      "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "42",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Gareth yn y gegin yn coginio dewis y gwylwyr, a bydd Ioan Dyer yn mynd â ni i fyd y ffilmiau.",
-      "clic_aired": "26 Mehefin 2026",
-      "fav_id": "520950923",
-      "id": "949074369",
-      "series_id": "949073930",
-      "title": "Prynhawn Da",
-      "date_broadcast": "2026-06-26 14:05:00",
       "vs": "0"
     },
     {
@@ -457,7 +457,7 @@
       "vs": "0"
     },
     {
-      "count": "2",
+      "count": "3",
       "days_to_expire": "142",
       "series_title": "Tafwyl 2026",
       "programme_title": "Parti Dathlu 20",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "",
       "programme_title": "Seren Jones: Yn Fyw yn y Dwr",
       "short_billing": "Pam bod cyn lleied o bobl Ddu ac Asiaidd yn nofio'",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Prosiect Pum Mil - Cyfres 5",
       "programme_title": "Penisarwaun",
       "short_billing": "Rydym yn trawsnewid Neuadd Santes Helen, Penisarwaun.",
@@ -2148,25 +2148,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1384",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1384",
       "series_title": "Grid - Cyfres 3",
@@ -2182,6 +2163,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1384",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
