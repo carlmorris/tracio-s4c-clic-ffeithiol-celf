@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "10",
+      "days_to_expire": "149",
+      "series_title": "Cynefin - Cyfres 3",
+      "programme_title": "Trawsfynydd",
+      "short_billing": "I ni'n ymweld â phlwyf mynyddig Trawsfynydd.",
+      "thumbnail_url": "Cynefin_2019-20S4C_P11_Trawsfynydd_004.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Heno, bydd Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen yn ymweld â phlwyf mynyddig a phrydferth Trawsfynydd. ",
+      "clic_aired": "29 Mehefin 2026",
+      "fav_id": "796376120",
+      "id": "803925176",
+      "series_id": "803924988",
+      "title": "Cynefin - Cyfres 3",
+      "date_broadcast": "2026-06-29 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "21",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -571,25 +590,6 @@
       "vs": "0"
     },
     {
-      "count": "9",
-      "days_to_expire": "136",
-      "series_title": "Cynefin - Cyfres 3",
-      "programme_title": "Bro Ogwr",
-      "short_billing": "Ardal wedi'i hollti'n ddwy gan draffordd yr M4.",
-      "thumbnail_url": "Cynefin_2019-20S4C_Sion_Tomos_Owen_32639.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heno, bydd y tîm yn crwydro o amgylch Bro Ogwr - yn dringo i ben un o dwyni tywod uchaf Ewrop ym Merthyr Mawr ac yn cwrdd â'r Fari Lwyd yn un o dafarndai hynaf Cymru.",
-      "clic_aired": "15 Mehefin 2026",
-      "fav_id": "796376120",
-      "id": "803925139",
-      "series_id": "803924988",
-      "title": "Cynefin - Cyfres 3",
-      "date_broadcast": "2026-06-15 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "134",
       "series_title": "",
@@ -629,7 +629,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Keri Pritchard-Mclean",
       "short_billing": "Corrie Chiswell sy'n peintio Kiri Pritchard-Mclean.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Cynefin - Cyfres 4",
       "programme_title": "Y Fenai",
       "short_billing": "Cyfres yn olrhain straeon difyr ar draws Cymru.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "71",
+      "days_to_expire": "70",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Elin Fflur sy'n cael ei holi gan y criw chwilfrydig. ",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -2148,25 +2148,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1384",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1384",
       "series_title": "Grid - Cyfres 2",
@@ -2182,6 +2163,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1384",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
@@ -2605,7 +2605,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Colleen Ramsey: Bywyd a Bwyd - 3",
       "programme_title": "Dathlu Adre",
       "short_billing": "Cyfres goginio gyda Colleen Ramsey. Mae bywyd a bwyd yn dod law yn llaw i Colleen. Yma bydd hi'n dangos ryseitiau i greu prydau ffansi yn y cartref. Y tro hwn, mae ei brawd Scott yn dod i'r gegin i helpu creu pryd i'w rhieni. Ryseitiau y gyfres ar s4c.cymru/cegin.",
