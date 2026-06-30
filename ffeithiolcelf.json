@@ -20,25 +20,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "2",
-      "series_title": "Y Tywydd (Nos Lun)",
-      "programme_title": "",
-      "short_billing": "Rhagolygon tywydd yr wythnos.  ",
-      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
-      "duration": "2",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhagolygon tywydd yr wythnos.  ",
-      "clic_aired": "29 Mehefin 2026",
-      "fav_id": "949106349",
-      "id": "949106476",
-      "series_id": "949106349",
-      "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-06-29 21:33:00",
-      "vs": "0"
-    },
-    {
       "count": "11",
       "days_to_expire": "149",
       "series_title": "Ffermio",
@@ -55,6 +36,25 @@
       "series_id": "949038898",
       "title": "Ffermio",
       "date_broadcast": "2026-07-05 18:10:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "2",
+      "series_title": "Y Tywydd (Nos Lun)",
+      "programme_title": "",
+      "short_billing": "Rhagolygon tywydd yr wythnos.  ",
+      "thumbnail_url": "Y_Tywydd_2025S4C_Gwanwyn_099.jpg",
+      "duration": "2",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhagolygon tywydd yr wythnos.  ",
+      "clic_aired": "29 Mehefin 2026",
+      "fav_id": "949106349",
+      "id": "949106476",
+      "series_id": "949106349",
+      "title": "Y Tywydd (Nos Lun)",
+      "date_broadcast": "2026-06-29 21:33:00",
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Cosb cymorth i Gaza",
       "short_billing": "Honiadau o gam-drin wrth gludo cymorth i Gaza.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "It's My Shout - Docs",
       "programme_title": "Dros y Gamfa",
       "short_billing": "Ffilm ddogfen fer am y bardd Chris Torrance.",
@@ -952,7 +952,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "",
       "programme_title": "Eirys: Mam yr Urdd",
       "short_billing": "Mae Mari Emlyn ar drywydd hanes ei nain, Eirys.",
@@ -1218,7 +1218,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "",
       "programme_title": "Fy Ffrind ar Death Row",
       "short_billing": "Perthynas rhwng dyn o Gymru a dyn ar Death Row.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "917",
+      "days_to_expire": "916",
       "series_title": "Ar Led",
       "programme_title": "Delwedd y Corff",
       "short_billing": "Mae Anya a Molly yn rhannu profiadau o golled a galar.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "TABW",
       "programme_title": "Fillers",
       "short_billing": "I ni'n mynd dan groen y 'cyffur Parti' - Ketamin.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "",
       "programme_title": "Pys Melyn yn Japan",
       "short_billing": "Ydy cynulleidfaoedd Japan yn barod am Pys Melyn!'",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "",
       "programme_title": "Y Llinell Las: Lladron Gwartheg",
       "short_billing": "Plismyn yn ymchwilio lladrad gwartheg gwerth £20k.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "",
       "programme_title": "Naomi yn yr Arctig",
       "short_billing": "Mae Naomi Aldwyn-Allsworth yn ddynes sy'n mwynhau herio ei ffiniau. Nawr mae Naomi eisiau gwthio ymhellach ac yn fwy eithafol - mae'n dechrau ei her fwyaf eto: wynebu hinsawdd garw a pheryglus yr Arctig i ddysgu sut mae dod yn arweinydd teithiau polar. Trwy hyfforddi mewn rhai o'r tirweddau mwyaf anfaddeuol, mae Naomi yn gwthio ei ffiniau er mwyn meistroli goroesi yn yr Arctig. ",
@@ -2148,27 +2148,8 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1384",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
-      "days_to_expire": "1384",
+      "days_to_expire": "1383",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2187,7 +2168,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1384",
+      "days_to_expire": "1383",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -2201,6 +2182,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1383",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Tony ac Aloma: I'r Gresham",
       "programme_title": "",
       "short_billing": "Cawn gip ar fywyd yn eu gwesty yn Blackpool.",
@@ -2567,7 +2567,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "1. Lucca",
       "short_billing": "Mae Colleen Ramsey ag Owain Wyn Evans yn Tuscany.",
@@ -2643,7 +2643,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9755",
+      "days_to_expire": "9754",
       "series_title": "",
       "programme_title": "Dinas, gan Tudur Hallam: Awdl ",
       "short_billing": "Ffilm o'r gerdd ryfeddol Dinas, gan y bardd Tudur Hallam.",
@@ -2681,7 +2681,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "569",
+      "days_to_expire": "568",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Peidiwch â mentro i Stryd y Gwter yn Rhosllanerchrugog cyn gwrando ar y stori yma gan Jimmy Johnson!  Yn ôl y sôn, mae ysbryd yma sy'n newid ei siâp ynghanol nos.",
@@ -2700,7 +2700,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "868",
+      "days_to_expire": "867",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Da neu Du. Dyma ddarn gonest a chryf wrth i Lily Beau ceisio derbyn ateb i gwestiwn dwys... A'i fy mod yn dda neu'n ddu' ",
@@ -2719,7 +2719,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "271",
+      "days_to_expire": "270",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cipolwg ar uchafbwyntiau Pride Cymru 2024.",
@@ -2738,7 +2738,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "225",
+      "days_to_expire": "224",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2757,7 +2757,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "325",
+      "days_to_expire": "324",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Cyfres am be sy'n gwneud 'scene' foduro Cymru mor gyfoethog.",
@@ -2776,7 +2776,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "185",
+      "days_to_expire": "184",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Criw Probcast yn darganfod be chi GORO gweld, GORO neud a GORO bwyta yn Nulyn!",
