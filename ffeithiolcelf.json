@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "Pa Fath o Bobl...",
+      "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
+      "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
+      "thumbnail_url": "PFOB_Sy_Dilyn_Y_Gem_2022S4C_01.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
+      "clic_aired": "2 Gorffennaf 2026",
+      "fav_id": "863547524",
+      "id": "863547567",
+      "series_id": "863547524",
+      "title": "Pa Fath o Bobl...",
+      "date_broadcast": "2026-07-02 23:15:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -116,7 +135,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -415,26 +434,26 @@
       "id": "872656913",
       "series_id": "872656845",
       "title": "Dan Do",
-      "date_broadcast": "2026-07-15 18:00:00",
+      "date_broadcast": "2026-07-17 13:30:00",
       "vs": "0"
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Strip",
-      "programme_title": "Pennod 4",
+      "programme_title": "Pennod 3",
       "short_billing": "Mae Jess yn datgelu'r ffordd annisgwyl mae hi'n ymlacio.",
-      "thumbnail_url": "Strip_2025S4C_P5_X501-Edit.jpg",
-      "duration": "12",
+      "thumbnail_url": "Strip_2025S4C_P3_X30127-Edit.jpg",
+      "duration": "14",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae Jess yn datgelu'r ffordd annisgwyl mae hi'n ymlacio. Mae un o glybiau nos mwyaf Gogledd Cymru wedi sylwi ar ymgyrch cyfryngau cymdeithasol Rhiannon a mae nhw eisiau cyfarfod a hi.",
+      "full_billing": "Mae Katya ar fin ymuno a Nancy's Girls, ond yn gyntaf mae'n rhaid iddi ddysgu gan y goreuon yn y busnes – Rhiannon a Jess.",
       "clic_aired": "26 Mehefin 2026",
       "fav_id": "935463603",
-      "id": "912809689",
+      "id": "911821138",
       "series_id": "911821090",
       "title": "Strip",
-      "date_broadcast": "2026-06-26 23:20:00",
+      "date_broadcast": "2026-06-26 23:05:00",
       "vs": "0"
     },
     {
@@ -629,7 +648,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -800,7 +819,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -852,7 +871,7 @@
       "id": "949380993",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
-      "date_broadcast": "2026-05-29 10:30:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1066,7 +1085,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
@@ -1370,7 +1389,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -1655,7 +1674,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Wayne a Connagh Howard sy'n archwilio hanes eu teulu ar draws Cymru, Iwerddon, a Jamaica.",
@@ -1674,7 +1693,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "",
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -1750,7 +1769,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1958,8 +1977,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "42",
+      "count": "5",
+      "days_to_expire": "41",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2167,6 +2186,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1381",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
+      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190907",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1381",
       "series_title": "Grid - Cyfres 3",
@@ -2201,25 +2239,6 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1381",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Ydy`r byd gamio yn le toxic i ferched?",
-      "short_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "thumbnail_url": "GRID_2021S4C_P6_Gamer_Girls.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tair Cymraes ifanc yn taflu goleuni ar y broblem o gamdriniaeth ar-lein yn y byd gamio, a'r hyn sydd angen newid.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190907",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2339,7 +2358,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -2453,7 +2472,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
