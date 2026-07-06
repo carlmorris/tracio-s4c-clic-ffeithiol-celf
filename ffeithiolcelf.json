@@ -1,22 +1,22 @@
 {
   "progs": [
     {
-      "count": "12",
+      "count": "3",
       "days_to_expire": "149",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
+      "series_title": "Ar Brawf",
+      "programme_title": "Martin a Gabriel",
+      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
+      "thumbnail_url": "ArBrawf_2024S4C_C1_P3.jpg",
+      "duration": "47",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
+      "full_billing": "Wrth gamu allan o carchar Y Berwyn am yr eildro, mae Martin yn gwneud addewid iddo ei hun na fydd yn mynd yno eto. Ond does gan Gabriel ddim yr un awydd ac agwedd tuag at newid. Steve ac Elin ydy'r Swyddogion Prawf sydd yn rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
       "clic_aired": "6 Gorffennaf 2026",
-      "fav_id": "533250950",
-      "id": "949038980",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-07-12 17:20:00",
+      "fav_id": "866377237",
+      "id": "866377280",
+      "series_id": "866377237",
+      "title": "Ar Brawf",
+      "date_broadcast": "2026-07-06 22:05:00",
       "vs": "0"
     },
     {
@@ -36,6 +36,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-07-06 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "149",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
+      "clic_aired": "6 Gorffennaf 2026",
+      "fav_id": "533250950",
+      "id": "949038980",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-07-12 17:20:00",
       "vs": "0"
     },
     {
@@ -230,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -249,7 +268,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Mae Rita o Gaernarfon yn cael sypreis wrth weld pwy sydd wedi ei gwahodd i'r Gwesty. Mae John yn cyfarfod a hen gariad oedd wedi diflannu i Ffrainc ac mae Dilwyn Lloyd yn gofyn i'r Gwesty wireddu dymuniad ola ei Dad.",
@@ -306,7 +325,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -401,7 +420,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -454,25 +473,6 @@
       "series_id": "528048666",
       "title": "Cymoedd Roy Noble",
       "date_broadcast": "2026-07-12 23:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "143",
-      "series_title": "Ar Brawf",
-      "programme_title": "Kim a Carrog",
-      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
-      "thumbnail_url": "ArBrawf_2024S4C_C1_P2.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Kim a Carrog wedi torri'r gyfraith ac yn gorfod cwblhau eu cyfnod ar brawf heb dorri unrhyw amodau o'u dedfryd. Os ydy nhw, mi fydd eu Swyddogion Prawf, sy'n eu rheoli yn y gymuned, yn eu gyrru yn ol i'r llys neu i'r carchar. Eu cyfrifoldeb nhw ydy ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
-      "clic_aired": "29 Mehefin 2026",
-      "fav_id": "866377237",
-      "id": "866377262",
-      "series_id": "866377237",
-      "title": "Ar Brawf",
-      "date_broadcast": "2026-06-29 22:05:00",
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "129",
+      "days_to_expire": "128",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -833,12 +833,12 @@
       "id": "515081867",
       "series_id": "515081811",
       "title": "Gwyl",
-      "date_broadcast": "2026-06-02 22:30:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
       "count": "5",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -914,7 +914,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -933,7 +933,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "107",
+      "days_to_expire": "106",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": "",
       "short_billing": "Gwybodaeth newydd trwy hanesion carcharor Ail Ryfel Byd.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "75",
+      "days_to_expire": "74",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -1712,7 +1712,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "",
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "38",
+      "days_to_expire": "37",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2224,25 +2224,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1377",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1377",
       "series_title": "Grid - Cyfres 1",
@@ -2258,6 +2239,25 @@
       "id": "810190907",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1377",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
@@ -2396,7 +2396,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "",
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -2453,7 +2453,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "",
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
@@ -2491,7 +2491,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Troseddau Cymru Gyda Sian Lloyd",
       "programme_title": "Llofruddiaethau Penmaenmawr ",
       "short_billing": "Hanes noson arswydus ym Mhenmaenmawr yn y saithdegau, pan wnaeth Neil Rutherford saethu pedwar person yn farw a rhoi gwesty Y Red Gables ar dân cyn lladd ei hunan. Clywn gan y plismon dewr gafodd yr alwad ofnadwy a gan y patholegydd oedd yno ar y noson honno hefyd. ",
