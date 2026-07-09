@@ -7,7 +7,7 @@
       "programme_title": "",
       "short_billing": "Bydd cynghorion Ffasiwn gan Huw.",
       "thumbnail_url": "Prynhawn_Da_2024S4C_teitlau.jpg",
-      "duration": "10",
+      "duration": "41",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Bydd cynghorion Ffasiwn gan Huw a byddwn ni'n trafod dibyniaeth ar alcohol yn y syrjeri gyda Dr Angharad Wynne.",
@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
-      "clic_aired": "6 Gorffennaf 2026",
-      "fav_id": "533250950",
-      "id": "949038980",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-07-12 17:20:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -188,6 +169,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-07-06 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
+      "clic_aired": "6 Gorffennaf 2026",
+      "fav_id": "533250950",
+      "id": "949038980",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-07-12 17:20:00",
       "vs": "0"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Gwlad Moc",
       "programme_title": "",
       "short_billing": "Cyfres o 2014 yn hel atgofion, ac yn dathlu gwasanaeth y diweddar Moc Morgan i ddarlledu a chefn gwlad. ",
@@ -287,7 +287,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Nol o'r Dibyn gyda Iolo Williams",
       "programme_title": "",
       "short_billing": "Y tro hwn, enghreifftiau o Borthcawl ac Aberdeen.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Keri Pritchard-Mclean",
       "short_billing": "Corrie Chiswell sy'n peintio Kiri Pritchard-Mclean.",
@@ -1465,7 +1465,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Cegin Bryn",
       "programme_title": "",
       "short_billing": "Y tro hwn, mae Colin Owen yn galw ar Bryn am gymorth.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Elin Fflur sy'n cael ei holi gan y criw chwilfrydig. ",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  Yn y rhaglen hon byddwn yn ymweld â Ann a Gareth, sydd wedi cyfuno yr hen a'r newydd yn eu ty Sioraidd yn Aberaeron.  ",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Cyfres 2025/26",
       "programme_title": "Fodlediad",
       "short_billing": "Catrin Haf Jones a'r Athro Richard Wyn Jones sydd yn edrych ymlaen i Etholiad Senedd Cymru.",
