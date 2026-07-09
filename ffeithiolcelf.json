@@ -153,25 +153,6 @@
       "vs": "0"
     },
     {
-      "count": "12",
-      "days_to_expire": "147",
-      "series_title": "Ffermio",
-      "programme_title": "",
-      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
-      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
-      "clic_aired": "6 Gorffennaf 2026",
-      "fav_id": "533250950",
-      "id": "949038980",
-      "series_id": "949038898",
-      "title": "Ffermio",
-      "date_broadcast": "2026-07-12 17:20:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "0",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -188,6 +169,25 @@
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
       "date_broadcast": "2026-07-06 21:33:00",
+      "vs": "0"
+    },
+    {
+      "count": "12",
+      "days_to_expire": "147",
+      "series_title": "Ffermio",
+      "programme_title": "",
+      "short_billing": "Mae aelodau CFfI Cymru yn dathlu carreg filltir go arbennig.",
+      "thumbnail_url": "Ffermio_2026S4C_cyfres_2026_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Bydd Meinir yng nghanol aelodau CFfI Cymru wrth iddynt ddathlu carreg filltir go arbennig.",
+      "clic_aired": "6 Gorffennaf 2026",
+      "fav_id": "533250950",
+      "id": "949038980",
+      "series_id": "949038898",
+      "title": "Ffermio",
+      "date_broadcast": "2026-07-12 17:20:00",
       "vs": "0"
     },
     {
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Wayne a Connagh Howard sy'n archwilio hanes eu teulu ar draws Cymru, Iwerddon, a Jamaica.",
