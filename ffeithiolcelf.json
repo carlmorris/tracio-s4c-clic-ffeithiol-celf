@@ -249,7 +249,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -1731,7 +1731,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Wayne a Connagh Howard sy'n archwilio hanes eu teulu ar draws Cymru, Iwerddon, a Jamaica.",
@@ -1826,7 +1826,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2243,25 +2243,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1372",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1372",
       "series_title": "Grid - Cyfres 2",
@@ -2296,6 +2277,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1372",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
