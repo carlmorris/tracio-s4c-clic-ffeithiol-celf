@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "",
+      "programme_title": "Alex Humphreys: Epilepsi a Fi",
+      "short_billing": "Mae Alex Humphreys yn wyneb cyfarwydd i wylwyr S4C fel cyflwynydd Y Tywydd, Yr Wythnos a Heno. Dim ond y bobl sydd agosaf at Alex sy'n gwybod bod ganddi epilepsi. Mae Alex yn cyfaddef nad yw hi'n gwybod llawer am y cyflwr ond mae hi wedi cyrraedd pwynt ble mae hi eisiau gwybod mwy. Yn ystod y rhaglen hon fe fydd Alex yn cyfarfod ag arbenigwyr meddygol, hanesydd, a nifer o bobl sydd yn byw gyda'r cyflwr, gyda'r nod o godi mwy o ymwybyddiaeth.",
+      "thumbnail_url": "Alex_Humphreys_Epilepsi_a_Fi_2023S4C_Brand_001.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Alex Humphreys yn wyneb cyfarwydd i wylwyr S4C fel cyflwynydd Y Tywydd, Yr Wythnos a Heno. Dim ond y bobl sydd agosaf at Alex sy'n gwybod bod ganddi epilepsi. Mae Alex yn cyfaddef nad yw hi'n gwybod llawer am y cyflwr ond mae hi wedi cyrraedd pwynt ble mae hi eisiau gwybod mwy. Yn ystod y rhaglen hon fe fydd Alex yn cyfarfod ag arbenigwyr meddygol, hanesydd, a nifer o bobl sydd yn byw gyda'r cyflwr, gyda'r nod o godi mwy o ymwybyddiaeth.",
+      "clic_aired": "14 Gorffennaf 2026",
+      "fav_id": "856001915",
+      "id": "856001915",
+      "series_id": "",
+      "title": "Alex Humphreys: Epilepsi a Fi",
+      "date_broadcast": "2026-07-14 21:30:00",
+      "vs": "0"
+    },
+    {
       "count": "25",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -59,7 +78,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Ar Brawf",
       "programme_title": "Gwenan a Tom",
       "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
@@ -534,7 +553,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "O fannau enwog i berlau cudd, bydd y cogyddion tanbaid Chris 'Flamebaster' Roberts a Tomos Parry yn coginio a chiniawa o amgylch Efrog Newydd– a thanio angerdd gwladgarol gyda gwledd Gymreig arbennig yn Brooklyn!",
@@ -593,19 +612,19 @@
       "count": "6",
       "days_to_expire": "139",
       "series_title": "Strip",
-      "programme_title": "Pennod 5",
+      "programme_title": "Pennod 6",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
-      "thumbnail_url": "Strip_2025S4C_P5_Strip_X60034-Edit.jpg",
+      "thumbnail_url": "Strip_2025S4C_P6_110021-Edit.jpg",
       "duration": "14",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Gyda'r noson strip 'pop-up' yng Nghaernarfon ar y gorwel, mae Rhiannon a Katya yn ymweld a'r dre i hysbysebu'r digwyddiad.  Mae Rhiannon yn datgelu ffaith personol annisgwyl. Ar noson 'pop-up' Caernarfon, mae rhaid i Rhiannon feddwl ar ei thraed pan nad yw pethau'n mynd fel oedd hi wedi disgwyl, ac mae Jinxx yn cael noson i'w hanghofio. ",
+      "full_billing": "Mae Jess wedi cael syniad am noson ychydig yn wahanol ar gyfer Nancy's Girls ac mae hi'n gobeithio bydd Rhiannon yn cytuno i drefnu'r digwyddiad. Cawn weld ochr arall i fywyd Jinxx, ac mae'n datgelu'i uchelgais. Daw'r merched at ei gilydd ar gyfer noson arbennig i ddathlu eu doniau unigol o flaen cynulleidfa wahanol i'r arfer.",
       "clic_aired": "3 Gorffennaf 2026",
       "fav_id": "935463603",
-      "id": "912809759",
+      "id": "912809829",
       "series_id": "911821090",
       "title": "Strip",
-      "date_broadcast": "2026-07-03 23:05:00",
+      "date_broadcast": "2026-07-03 23:20:00",
       "vs": "0"
     },
     {
@@ -895,7 +914,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Tafwyl 2025",
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd: Tafwyl.",
@@ -990,7 +1009,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Mae Elin Fflur yn croesi'r Iwerydd i sgwrsio gyda Matthew Rhys.",
@@ -1028,7 +1047,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Rhaglen drafod materion cyfoes.",
@@ -1047,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -1066,7 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1161,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -1256,7 +1275,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Taith Emilie a Jon i sefydlu busnes glampio.",
@@ -1370,7 +1389,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": "",
       "short_billing": "Gwybodaeth newydd trwy hanesion carcharor Ail Ryfel Byd.",
@@ -1579,7 +1598,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Ymgyrch Seal Bay",
       "programme_title": "Pennod 2",
       "short_billing": "Mae ditectifs yn dechrau cau ar y gang smyglo.",
@@ -2282,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "3 Lle - Cyfres 4",
       "programme_title": "Eigra Lewis Roberts",
       "short_billing": "Ail-ddangosiad er cof am Eigra Lewis Roberts.",
@@ -2453,7 +2472,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "14",
+      "days_to_expire": "13",
       "series_title": "",
       "programme_title": "Can i Gymru",
       "short_billing": "Prif gystadleuaeth cyfansoddi'r flwyddyn o Sir Fôn.",
@@ -2472,21 +2491,21 @@
     },
     {
       "count": "6",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Amour & Mynydd",
       "programme_title": "Apres: Amour & Mynydd 3",
-      "short_billing": "Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams. ",
+      "short_billing": "Cyn gadael, mae gan y criw un penderfyniad mawr i'w wneud.",
       "thumbnail_url": "Amour_a_Mynydd_P10_Apres.jpg",
-      "duration": "23",
+      "duration": "48",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Mae'r cerddor Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy bennod ola', Amour & Mynydd. ",
+      "full_billing": "Cyn gadael yr Alpau am adref, mae gan y criw un penderfyniad ola i'w wneud.",
       "clic_aired": "25 Chwefror 2026",
       "fav_id": "884734211",
-      "id": "948433258",
+      "id": "948433223",
       "series_id": "946337850",
       "title": "Amour & Mynydd",
-      "date_broadcast": "2026-07-18 22:30:00",
+      "date_broadcast": "2026-07-18 21:30:00",
       "vs": "0"
     },
     {
@@ -2529,7 +2548,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "",
       "programme_title": "Dylanwad Un Nos Ola Leuad",
       "short_billing": "Rhaglen arbennig yn olrhain hanes popeth o datws Caryl Bryn i Opera Gareth Glyn. Mae eleni yn nodi trigain mlynedd ers cyhoeddi nofel ysgytwol Caradog Prichard 'Un Nos Ola Leuad' . 30 mlynedd yn ddiweddarach cynhyrchwyd ffilm o'r nofel ac eleni gwelwn gyfansoddiad o opera newydd sbon wedi ei hysbrydoli gan waith gwreiddiol Caradog Prichard. Mewn rhaglen arbennig edrychwn ar weithiau eraill sydd yn deillio yn uniongyrchol neu wedi eu sbarduno gan y nofel arbennig hon.",
@@ -2586,7 +2605,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "",
       "programme_title": "Paid a Dweud Hoyw ",
       "short_billing": "Stifyn Parri sy'n mynd ar drywydd un o benodau mwya cythryblus ein hanes diweddar. Mewn rhaglen bersonol a phwerus, bydd yn olrhain stori Cymal 28 - un o'r deddfau homoffobaidd cyntaf mewn canrif. Yn 1988, ffeindiodd Stifyn ei hun reit yng nghanol yr ymgyrch yn erbyn y ddeddf, profiad newidiodd ei fywyd am byth. Bydd Stifyn yn clywed profiadau pobl eraill o'r cyfnod ac yn holi ydy cymdeithas wedi newid ugain mlynedd ers i'r ddeddf ddod i ben.  ",
