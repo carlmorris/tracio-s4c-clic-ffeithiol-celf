@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Cymoedd Roy Noble",
+      "programme_title": "",
+      "short_billing": "Roy Noble sy'n crwydro Cymoedd De Cymru gan ddysgu mwy am yr hanes a'r bobl.",
+      "thumbnail_url": "Cymoedd_Roy_Noble_2016S4C_C1_P6.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn rhaglen ola'r gyfres bydd Roy yn ymweld â Chaerffili a Senghennydd cyn dychwelyd i Gwm Rhondda drwy Bontypridd. Bydd yn dechrau'r daith yng nghwmni Liz Shankland gan glywed pam mae merch o'r dref bellach yn cadw fferm foch ym Medwas. Nes ymlaen, bydd Roy yn ymuno â'r Dr Elin Jones ym mhentref Senghennydd i gofio tramchwa tanddaearol 1901.  Bydd e'n cwrdd hefyd â Geraint Hopkins i gael hanes ail agor Lido Pontypridd ac yn clywed stori Dr William Price yng nghwmni Dean Powell ym Mhontypridd. ",
+      "clic_aired": "14 Gorffennaf 2026",
+      "fav_id": "534504431",
+      "id": "528048763",
+      "series_id": "528048666",
+      "title": "Cymoedd Roy Noble",
+      "date_broadcast": "2026-07-14 18:00:00",
+      "vs": "0"
+    },
+    {
       "count": "24",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -96,8 +115,8 @@
       "vs": "0"
     },
     {
-      "count": "25",
-      "days_to_expire": "34",
+      "count": "24",
+      "days_to_expire": "33",
       "series_title": "Heno",
       "programme_title": "",
       "short_billing": "Rhaglen gylchgrawn nosweithiol.",
@@ -116,7 +135,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Rhys Patchell: Japan a'r Gic Olaf",
       "programme_title": "Pennod 1",
       "short_billing": "Yn dilyn gyrfa lwyddiannus yn chwarae i Gymru, y Scarlets a Chaerdydd mae'r maswr Rhys Patchell yn cymryd y cam mawr i chwarae rygbi proffesiynnol yn Japan. Sut fydd o'n dygymod a gyrfa a bywyd pob dydd ben draw'r byd' Wedi iddynt briodi llynedd mi fydd yn gyfnod anarferol hefyd i'w wraig, y gyflwynwraig Heledd Anna. Mae'n camerau yn dilyn pob agwedd o'u bywyd yn ystod tymor cynta' Rhys yn Japan.",
@@ -229,7 +248,7 @@
       "vs": "0"
     },
     {
-      "count": "8",
+      "count": "7",
       "days_to_expire": "146",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Llundain",
@@ -457,25 +476,6 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Cymoedd Roy Noble",
-      "programme_title": "",
-      "short_billing": "Roy Noble sy'n crwydro Cymoedd De Cymru gan ddysgu mwy am yr hanes a'r bobl.",
-      "thumbnail_url": "Cymoedd_Roy_Noble_2016S4C_C1_P5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr wythnos hon bydd Roy yn ymweld â Chwm Afon Lwyd ac yn dechrau ei daith ym mragdy Rhymni ym Mlaenafon. Mae'n symud ymlaen i Garndiffaeth ac yna Pont-y-p–l, lle bydd Roy yn cwrdd â Charlotte Sharmin sydd yn farbwr gwallt yno, a'r cyn chwaraewyr rygbi, Clive Rowlands a Gerald Davies. Daw taith Roy i ben yng nghwmni Andrea Woods sy'n bennaeth Ysgol Gynradd Gymraeg Penalltau.",
-      "clic_aired": "7 Gorffennaf 2026",
-      "fav_id": "534504431",
-      "id": "528048745",
-      "series_id": "528048666",
-      "title": "Cymoedd Roy Noble",
-      "date_broadcast": "2026-07-07 18:00:00",
-      "vs": "0"
-    },
-    {
       "count": "12",
       "days_to_expire": "142",
       "series_title": "Ffermio",
@@ -496,7 +496,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Codi Hwyl - Cyfres 3",
       "programme_title": "",
       "short_billing": "Mae'r morwyr talog, Dilwyn Morgan a John Pierce Jones yn Codi Hwyl ac yn anelu am Iwerddon ar fwrdd y Mistress Wilful. ",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "",
       "programme_title": "Apêl Daeargryn Venezuela DEC",
       "short_billing": "Apêl Daeargryn Venezuela DEC.",
@@ -1011,16 +1011,16 @@
       "count": "32",
       "days_to_expire": "104",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Prynhawn Gwener o'r Urdd",
+      "programme_title": "Uchafbwyntiau Dydd Gwener",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P031_Prynhawn_gwener_0213.jpg",
-      "duration": "181",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P032_uchaf_gwener_01_028.jpg",
+      "duration": "77",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cystadlaethau'r plant cynradd gyda Trystan Ellis Morris a Heledd Cynwal, ac Alun Williams yn crwydro'r Maes. ",
+      "full_billing": "Uchafbwyntiau Dydd Gwener Eisteddfod yr Urdd Ynys Môn 2026 gyda Lloyd Lewis yn crwydro'r maes. ",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949381014",
+      "id": "949381021",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
       "date_broadcast": "",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "Cegin Bryn",
       "programme_title": "",
       "short_billing": "Y tro hwn, mae Colin Owen yn galw ar Bryn am gymorth.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Codi Hwyl: Llydaw",
       "programme_title": "Benodet- Quimper",
       "short_billing": "Ar y cymal olaf mae nhw'n hwylio i Concarneau.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Arfordir Cymru: Llyn",
       "programme_title": "Cricieth- Afon Dwyryd",
       "short_billing": "Tro hwn: i Gricieth, heibio Porthmadog ac i fyny'r Afon Dwyryd.",
@@ -2301,7 +2301,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "871",
+      "days_to_expire": "870",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau o ddiwrnod olaf Pencampwriaeth Cneifio'r Byd yn Seland Newydd, 4-7 o Fawrth 2026. ",
@@ -2338,25 +2338,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1369",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1369",
       "series_title": "Grid - Cyfres 1",
@@ -2372,6 +2353,25 @@
       "id": "810190881",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1369",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
