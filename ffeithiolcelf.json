@@ -54,7 +54,7 @@
       "id": "949106496",
       "series_id": "949106349",
       "title": "Y Tywydd (Nos Lun)",
-      "date_broadcast": "2026-07-13 21:59:00",
+      "date_broadcast": "2026-07-13 22:03:00",
       "vs": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Gerddi Cymru - Cyfres 1",
       "programme_title": "Gardd Colby Sir Benfro a Gerddi Castell Penrhyn",
       "short_billing": "Tro hwn: gardd Goedwig Colby a gardd Castell Penrhyn.",
@@ -306,7 +306,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Awn ar wyliau byr yng Nghymru. Dau griw, dwy gyllideb wahanol: sut hwyl gawn nhw'",
@@ -363,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": "",
       "short_billing": "Cystadleuaeth pobi dan adain y cogydd crwst, Richard Holt. ",
@@ -629,7 +629,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "138",
+      "days_to_expire": "137",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed yr Andes.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Edwardaidd",
       "short_billing": "Byddwn yn edrych ar dai o'r cyfnod Edwardaidd. ",
@@ -800,7 +800,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": "",
       "short_billing": "Mae Scott Quinnell yn mynd ar siwrne unwaith eto ar hyd a lled Cymru gan droi ei law at pob math o weithgareddau a phrofiadau amrywiol. Cyfle i ymarfer ei Gymraeg a dysgu geirfa newydd wrth cael llond bol o hwyl. \r\n\r\nBydd Scott yn dychwelyd i'w filltir sgwâr cyn mynd ar antur mewn cwrwgl ar yr Afon Tywi a rhyfeddodau yna'n ei ddisgwyl yn Nhregaron.",
@@ -1011,16 +1011,16 @@
       "count": "32",
       "days_to_expire": "104",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Bore Gwener o'r Urdd",
+      "programme_title": "Dros Ginio Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
       "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
-      "duration": "76",
+      "duration": "92",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal a Trystan Ellis Morris yn fyw ar gyfer dechrau'r cystadlu ar fore olaf yr Wyl ieuenctid.",
+      "full_billing": "Cystadlaethau'r plant Cynradd - Cân Actol a pherfformiad theatrig i ysgolion ac adrannau ynghyd â'r canlyniadau diweddaraf o Lwyfan y Cyfrwy. ",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949380993",
+      "id": "949381000",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
       "date_broadcast": "",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "73",
+      "days_to_expire": "72",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial sy'n cael priodas am £5000 y tro ma.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cyfle arall i ddarganfod mwy am drysorau Sain Ffagan.",
@@ -1883,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": "",
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
@@ -2415,7 +2415,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "16",
+      "days_to_expire": "15",
       "series_title": "Cais Quinnell - Cyfres 1",
       "programme_title": "Rhaglen 6",
       "short_billing": "Y tro 'ma bydd Scott yn pysgota ac yn Bîtbocsio.",
