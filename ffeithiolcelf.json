@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "25",
+      "days_to_expire": "34",
+      "series_title": "Heno",
+      "programme_title": "",
+      "short_billing": "Rhaglen gylchgrawn nosweithiol.",
+      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "We'll be sharing all the excitement of the opening night of Sesiwn Fawr Dolgellau, which is taking place over the weekend. We'll also be wishing Techniquest a happy 40th birthday. In the studio, Rose Datta will be talking about the third series of 'Y Llais'.",
+      "clic_aired": "17 Gorffennaf 2026",
+      "fav_id": "520950912",
+      "id": "949084456",
+      "series_id": "949083912",
+      "title": "Heno",
+      "date_broadcast": "2026-07-17 19:00:00",
+      "vs": "0"
+    },
+    {
       "count": "24",
       "days_to_expire": "34",
       "series_title": "Prynhawn Da",
@@ -36,25 +55,6 @@
       "series_id": "858216837",
       "title": "Richard Holt: Yr Academi Felys -2",
       "date_broadcast": "2026-07-17 12:05:00",
-      "vs": "0"
-    },
-    {
-      "count": "25",
-      "days_to_expire": "34",
-      "series_title": "Heno",
-      "programme_title": "",
-      "short_billing": "Rhaglen gylchgrawn nosweithiol.",
-      "thumbnail_url": "Heno_2026S4C_Brand_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru.",
-      "clic_aired": "16 Gorffennaf 2026",
-      "fav_id": "520950912",
-      "id": "949084449",
-      "series_id": "949083912",
-      "title": "Heno",
-      "date_broadcast": "2026-07-17 12:30:00",
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "",
       "programme_title": "Apêl Daeargryn Venezuela DEC",
       "short_billing": "Apêl Daeargryn Venezuela DEC.",
@@ -690,17 +690,17 @@
       "series_title": "Pwy Laddodd Hilda Murrell?",
       "programme_title": "",
       "short_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Pennod 2: 20 mlynedd wedi'r llofruddiaeth, mae'r Heddlu'n dod o hyd i'r llofrudd - ond mae teulu Hilda yn meddwl fod ganddyn nhw'r dyn anghywir.",
-      "thumbnail_url": "Pwy_Laddodd_Hilda_Mirrell_2025S4C_P1-1.jpg",
+      "thumbnail_url": "Pwy_Laddodd_Hilda_Mirrell_2025S4C_P2-1.jpg",
       "duration": "50",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Ym mhennod 1, cawn olwg ar ddiffygion ymchwiliad yr Heddlu a'r theoriau cynllwyn. Oedd yna gysylltiad gyda'r gwasanaethau cudd'",
+      "full_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Pennod 2: 20 mlynedd wedi'r llofruddiaeth, mae'r Heddlu'n dod o hyd i'r llofrudd - ond mae teulu Hilda yn meddwl fod ganddyn nhw'r dyn anghywir.",
       "clic_aired": "30 Mehefin 2026",
       "fav_id": "891065180",
-      "id": "891065190",
+      "id": "891065214",
       "series_id": "891065180",
       "title": "Pwy Laddodd Hilda Murrell?",
-      "date_broadcast": "2026-06-30 21:00:00",
+      "date_broadcast": "2026-07-01 21:00:00",
       "vs": "0"
     },
     {
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "83",
+      "days_to_expire": "82",
       "series_title": "Sgwrs dan y Lloer - Cyfres 4",
       "programme_title": "Chris Roberts",
       "short_billing": "Sgwrs gyda'r 'flamebaster', y cogydd Chris Roberts.",
