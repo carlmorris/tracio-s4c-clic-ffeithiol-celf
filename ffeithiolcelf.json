@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Cymry ar Gynfas - Cyfres 4",
+      "programme_title": "Tudur Owen",
+      "short_billing": "Mae Anna E Davies yn cyfarfod â Tudur Owen.",
+      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_TX3_P5_TudurO_9837.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ym Mae Trearddur ar Ynys Môn mae'r artist cyfoes, Anna E Davies yn cyfarfod â'r digrifwr, Tudur Owen. Dyma ddechrau eu cyfnod gyda'i gilydd a buan iawn y darganfyddant eu bod yn rhannu llawer o bethau'n gyffredin ac mae Tudur yn synnu ei fod yn trafod pob agwedd o'i fywyd. Ond a fydd Anna yn gallu cipio Tudur ar gynfas'",
+      "clic_aired": "18 Gorffennaf 2026",
+      "fav_id": "804336612",
+      "id": "862359511",
+      "series_id": "862359414",
+      "title": "Cymry ar Gynfas - Cyfres 4",
+      "date_broadcast": "2026-07-18 15:25:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Iolo: Natur Bregus Cymru",
@@ -287,7 +306,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cynefin - Cyfres 3",
       "programme_title": "Lerpwl",
       "short_billing": "Yn y rhaglen olaf i ni'n croesi'r ffîn i Lerpwl.",
@@ -400,27 +419,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Cymry ar Gynfas - Cyfres 4",
-      "programme_title": "Jason Mohammad",
-      "short_billing": "Stephen John Owen sy'n creu portread o Jason Mohammad.",
-      "thumbnail_url": "Cymry_ar_Gynfas_2023S4C_Jason_Mohammed_288-2.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yr arlunydd tirluniau Stephen John Owen sy'n creu portread o'r cyflwynydd radio a theledu, Jason Mohammad.",
-      "clic_aired": "11 Gorffennaf 2026",
-      "fav_id": "804336612",
-      "id": "862359489",
-      "series_id": "862359414",
-      "title": "Cymry ar Gynfas - Cyfres 4",
-      "date_broadcast": "2026-07-11 16:15:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Am Dro! - Cyfres 6",
       "programme_title": "",
       "short_billing": "Tracy, Aled, Beth a Craig sy'n mynd â ni 'Am Dro' y tro hwn.",
@@ -876,7 +876,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Ymunwch â Ryland Teifi wrth iddo fynd ar wibdaith gyda'i ferched Lowri a Cifa ar hyd chwe sir yn Iwerddon a Chymru. ",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Antur y Gorllewin",
       "programme_title": "Ynysoedd Ffaroe, Gwlad yr Ia",
       "short_billing": "Mae Iolo'n teithio i Ynysoedd y Ffaroe a Gwlad yr Iâ.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Adre - Cyfres 6",
       "programme_title": "Lauren Phillips",
       "short_billing": "Byddwn yn ymweld â chartref yr actor Lauren Phillips.",
@@ -2548,7 +2548,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1",
+      "days_to_expire": "0",
       "series_title": "Taith Bywyd - Cyfres 1",
       "programme_title": "Sian James",
       "short_billing": "Owain Williams sy'n trefnu teithiau sbeshal i amryw bobl ym myd chwaraeon, i ail-fyw adegau pwysig eu bywyd.",
