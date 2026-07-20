@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Ar Brawf",
+      "programme_title": "Darren a Chloe",
+      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
+      "thumbnail_url": "ArBrawf_2024S4C_C1_P5.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaid i Darren gydymffurfio â thag cyrffyw rhwng 7pm a 7am a phrofion cyffuriau ar hap er mwyn osgoi cael ei anfon yn ôl i'r carchar. Mae gan Chloe hanes gwael o ddod i'w hapwyntiadau ac mae hi mewn perygl o gael ei gyrru'r llys eto. Nerys a Jo ydy'r Swyddogion Gwasanaeth Prawf sy'n gorfod rheoli ymddygiad y ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
+      "clic_aired": "20 Gorffennaf 2026",
+      "fav_id": "866377237",
+      "id": "866377316",
+      "series_id": "866377237",
+      "title": "Ar Brawf",
+      "date_broadcast": "2026-07-20 22:35:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -111,7 +130,7 @@
       "id": "836322713",
       "series_id": "836322703",
       "title": "Iaith ar Daith - Cyfres 3",
-      "date_broadcast": "2026-07-19 14:00:00",
+      "date_broadcast": "2026-08-04 22:45:00",
       "vs": "0"
     },
     {
@@ -287,7 +306,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -397,25 +416,6 @@
       "series_id": "528048666",
       "title": "Cymoedd Roy Noble",
       "date_broadcast": "2026-07-14 18:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "142",
-      "series_title": "Ar Brawf",
-      "programme_title": "Gwenan a Tom",
-      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
-      "thumbnail_url": "ArBrawf_2024S4C_C1_P4.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Gwenan yn benderfynol o gadw i ffwrdd o alcohol a chyffuriau er mwyn lleihau'r tebygolrwydd o droseddu eto. Mae Tom mewn perygl o gael ei yrru yn ôl i'r llys am fethu ei apwyntiadau gwaith di-dâl. Elin a Danielle ydy'r Swyddogion Prawf sy'n rheoli'r ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
-      "clic_aired": "13 Gorffennaf 2026",
-      "fav_id": "866377237",
-      "id": "866377298",
-      "series_id": "866377237",
-      "title": "Ar Brawf",
-      "date_broadcast": "2026-07-13 22:05:00",
       "vs": "0"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -667,7 +667,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "61",
+      "days_to_expire": "60",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Portread didwyll a gonest o fwrdd iechyd mwyaf Cymru - Betsi Cadwaladr.",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "34",
+      "days_to_expire": "33",
       "series_title": "",
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2359,25 +2359,6 @@
     {
       "count": "2",
       "days_to_expire": "1363",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1363",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2410,6 +2391,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1363",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2529,7 +2529,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Creu",
       "short_billing": "Mae Richard Parks yn dathlu ein hathrylith am arloesi.",
