@@ -268,7 +268,7 @@
     },
     {
       "count": "11",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Mae Ann o Benllyn wedi bod yn chwilio am atebion ers dros 70 mlynedd, ac mae Miss Cymru yn cyfarfod rhywun o'r gorffennol ar ol 15 mlynedd. Mae Richard o Essex yn cyfarfod teulu newidiodd ei fywyd am byth pan yn fabi bach.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Dan Do",
       "programme_title": "",
       "short_billing": "Byddwn yn camu nôl i'r 60au a 70au yn ardal Llanelli.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai newydd.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "32",
+      "days_to_expire": "31",
       "series_title": "Colli Cymru i'r Môr",
       "programme_title": "",
       "short_billing": "Sut all natur helpu effaith newid hinsawdd'",
@@ -2054,7 +2054,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Am Dro!",
       "programme_title": "",
       "short_billing": "Y tro hwn, teithiau cerdded gyda Helen, Khadiza, Dafydd a Jochen.",
@@ -2395,25 +2395,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1358",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1358",
       "series_title": "Grid - Cyfres 3",
@@ -2429,6 +2410,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1358",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
