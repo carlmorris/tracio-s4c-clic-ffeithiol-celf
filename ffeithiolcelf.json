@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Ar Brawf",
+      "programme_title": "Bradley a Tiffany",
+      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
+      "thumbnail_url": "ArBrawf_2024S4C_C1_P6.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Bradley'n ceisio aros yn sobor a gorffen ei oriau gwaith di-dâl er mwyn cwblhau ei gyfnod Ar Brawf. A hithau wedi stopio yfed ers bron i flwyddyn, mae cyfnod Tiffany Ar Brawf ar fîn dod i ben. Jo a Lynne ydy'r Swyddogion sy'n ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel. ",
+      "clic_aired": "27 Gorffennaf 2026",
+      "fav_id": "866377237",
+      "id": "866377334",
+      "series_id": "866377237",
+      "title": "Ar Brawf",
+      "date_broadcast": "2026-07-27 22:30:00",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "2",
       "series_title": "Y Tywydd (Nos Lun)",
@@ -149,7 +168,7 @@
       "id": "836322739",
       "series_id": "836322703",
       "title": "Iaith ar Daith - Cyfres 3",
-      "date_broadcast": "2026-07-26 13:35:00",
+      "date_broadcast": "2026-08-11 22:00:00",
       "vs": "0"
     },
     {
@@ -325,7 +344,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -378,25 +397,6 @@
       "series_id": "889984562",
       "title": "Y Ci Perffaith",
       "date_broadcast": "2026-07-31 13:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Ar Brawf",
-      "programme_title": "Darren a Chloe",
-      "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
-      "thumbnail_url": "ArBrawf_2024S4C_C1_P5.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Rhaid i Darren gydymffurfio â thag cyrffyw rhwng 7pm a 7am a phrofion cyffuriau ar hap er mwyn osgoi cael ei anfon yn ôl i'r carchar. Mae gan Chloe hanes gwael o ddod i'w hapwyntiadau ac mae hi mewn perygl o gael ei gyrru'r llys eto. Nerys a Jo ydy'r Swyddogion Gwasanaeth Prawf sy'n gorfod rheoli ymddygiad y ddau yn y gymuned er mwyn ceisio'u hatal rhag troseddu eto, a chadw'r cyhoedd yn ddiogel.",
-      "clic_aired": "20 Gorffennaf 2026",
-      "fav_id": "866377237",
-      "id": "866377316",
-      "series_id": "866377237",
-      "title": "Ar Brawf",
-      "date_broadcast": "2026-07-20 22:35:00",
       "vs": "0"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Cyfres newydd efo Francesca Sciarrillo a Joe Healy, cyn enillwyr Dysgwyr y Flwyddyn, yn bwrw golwg dros y sin greadigol yng Nghymru. ",
@@ -781,7 +781,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "126",
+      "days_to_expire": "125",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -800,7 +800,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -928,7 +928,7 @@
       "id": "874242798",
       "series_id": "874242658",
       "title": "Y Llinell Las",
-      "date_broadcast": "2026-06-23 21:00:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -1123,7 +1123,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1294,7 +1294,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -1370,7 +1370,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "74",
+      "days_to_expire": "73",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Cyfres lle mae Gwersyll yr Urdd Llangrannog wedi'i drawsnewid i groesawu gwersyllwyr i brofi penwythnos yn y 50au. ",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": "",
       "short_billing": "Gwybodaeth newydd trwy hanesion carcharor Ail Ryfel Byd.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "54",
+      "days_to_expire": "53",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Tro hwn: Adran Newyddenedigol yn Ysbyty Glan Clwyd.  ",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Wayne a Connagh Howard sy'n archwilio hanes eu teulu ar draws Cymru, Iwerddon, a Jamaica.",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "",
       "programme_title": "Sgrap",
       "short_billing": "Mewn ffilm ddogfen amrwd i HANSH, dilynwn fywydau tri pherson wrth iddyn nhw baratoi at un noson fawr flynyddol, lle mae sgrapwyr amatur gogledd Cymru a thu hwnt yn camu i gawell y Market Mayhem. Noson lle mae ffans brwd Mixed Martial Arts yr ardal yn creu awyrgylch ffyrnig yn Neuadd y Farchnad Caernarfon. I Craig Bonc y plastrwr, Courtney yr ofalwraig, a Charlie sy'n rehab - mae'r gawell yn le arbennig. Ond wedi i'r chwys a'r gwaed ddiferu; ai crio neu chwerthin fydd ein tri ni ar ddiwedd y nos",
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Y tro yma ar Y Fets – Mae yna gwn bach a fets ifanc yn dechrau ar eu taith. Mae angen ychydig o waith deintydda ar Oreo y gwningen ac mae Hannah yn brwydro i achub Cymro y ci defaid.\r\nBeth fydd eu hanes yn y Fets'",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "17",
+      "days_to_expire": "16",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
