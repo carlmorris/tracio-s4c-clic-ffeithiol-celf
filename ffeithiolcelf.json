@@ -401,7 +401,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Mae Pawb a'i Farn heno yn dod o faes Y Sioe.",
@@ -420,7 +420,7 @@
     },
     {
       "count": "14",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Garddio a Mwy",
       "programme_title": "",
       "short_billing": "Garddio yn ardal yr Eisteddfod.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Taclo'r Ty",
       "programme_title": "",
       "short_billing": "Gweddnewid caban pren yng ngorllewin Cymru.",
@@ -876,21 +876,21 @@
     },
     {
       "count": "2",
-      "days_to_expire": "121",
+      "days_to_expire": "120",
       "series_title": "Pwy Laddodd Hilda Murrell?",
       "programme_title": "",
       "short_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Pennod 2: 20 mlynedd wedi'r llofruddiaeth, mae'r Heddlu'n dod o hyd i'r llofrudd - ond mae teulu Hilda yn meddwl fod ganddyn nhw'r dyn anghywir.",
-      "thumbnail_url": "Pwy_Laddodd_Hilda_Mirrell_2025S4C_P2-1.jpg",
+      "thumbnail_url": "Pwy_Laddodd_Hilda_Mirrell_2025S4C_P1-1.jpg",
       "duration": "50",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Pennod 2: 20 mlynedd wedi'r llofruddiaeth, mae'r Heddlu'n dod o hyd i'r llofrudd - ond mae teulu Hilda yn meddwl fod ganddyn nhw'r dyn anghywir.",
+      "full_billing": "Cyfres ddogfen fer yn edrych ar lofruddiaeth yr ymgyrchydd heddwch a'r bridiwr rhosod byd enwog Hilda Murrell (78 oed) yn Amwythig ym 1984. Ym mhennod 1, cawn olwg ar ddiffygion ymchwiliad yr Heddlu a'r theoriau cynllwyn. Oedd yna gysylltiad gyda'r gwasanaethau cudd'",
       "clic_aired": "30 Mehefin 2026",
       "fav_id": "891065180",
-      "id": "891065214",
+      "id": "891065190",
       "series_id": "891065180",
       "title": "Pwy Laddodd Hilda Murrell?",
-      "date_broadcast": "2026-07-01 21:00:00",
+      "date_broadcast": "2026-06-30 21:00:00",
       "vs": "0"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "",
       "programme_title": "Dyma Mynediad am Ddim",
       "short_billing": "Ail-ddarllediad fel teyrnged i'r aelod, Robin Evans, a fu farw yn ddiweddar. Yn y rhaglen hon, ceir recordiad o'r grwp gwerin poblogaidd mewn cyngerdd yn stiwdio Barcud.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Cartrefi Cymru",
       "programme_title": "Y Waun",
       "short_billing": "Yn y rhaglen hon, byddwn ni ar y ffin yn y Waun.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Iaith ar Daith",
       "programme_title": "Melanie Walters",
       "short_billing": "Melanie Walters sy'n ailgysylltu â'r Gymraeg. ",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "55",
+      "days_to_expire": "54",
       "series_title": "Noson Lawen - Cyfres 2025/26",
       "programme_title": "Linda Griffiths a Sorela",
       "short_billing": "Noson o gerddoriaeth gwerin gyda Linda Griffiths a Sorela.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "",
       "programme_title": "Craig Bellamy: Byd y Bel a Mi",
       "short_billing": "Portread gonest o'r Craig Bellamy go iawn.",
@@ -2263,7 +2263,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Y Byd ar Bedwar - Cyfres 2025/26",
       "programme_title": "Gofal ar Goridorau",
       "short_billing": "Mae darparu gofal mewn coridorau wedi dod yn arfer cyffredin mewn ysbytai ledled Cymru. Siôn Jenkins sy'n ymchwilio i'r sefyllfa ym Mwrdd Iechyd Betsi Cadwaladr - y Bwrdd Iechyd gwaethaf am oedi yn rhyddhau cleifion ac arosiadau hir yn yr adrannau brys - ac mae'n camerâu cudd ni yn datgelu'r realiti mae cleifion yn ei wynebu.",
@@ -2543,25 +2543,6 @@
       "id": "873338952",
       "series_id": "873338808",
       "title": "Cais Quinnell - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "",
-      "programme_title": "Neges Olaf Mike Peters",
-      "short_billing": "Creu fersiwn Gymraeg o un o ganeuon Mike Peters.",
-      "thumbnail_url": "Neges_Olaf_Mike_Peters_2026S4C_001.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Dilynwn Rhys Meirion wrth iddo fynd ati i greu fersiwn Gymraeg o un o ganeuon y diweddar Mike Peters. Dyma ymateb i'r neges olaf a gafodd Rhys gan Mike, ac mae'n cyd-weithio gyda meibion Mike, sef Dylan ac Evan, ar y recordiad arbennig yma. ",
-      "clic_aired": "1 Mawrth 2026",
-      "fav_id": "947337005",
-      "id": "947337005",
-      "series_id": "",
-      "title": "Neges Olaf Mike Peters",
       "date_broadcast": "",
       "vs": "0"
     },
