@@ -306,7 +306,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cynefin - Cyfres 6",
       "programme_title": "Y Drenewydd",
       "short_billing": "Hanes Plas Gregynog a trochi yn yr Afon Hafren.",
@@ -325,7 +325,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "141",
+      "days_to_expire": "140",
       "series_title": "Cymry ar Gynfas - Cyfres 4",
       "programme_title": "Aled Jones",
       "short_billing": "Mae Steve 'Pablo' Jones yn cwrdd â Aled Jones.",
@@ -439,7 +439,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Arfordir Cymru: Sir Benfro",
       "programme_title": "Trefdraeth i Abergwaun",
       "short_billing": "Bedwyr Rees sydd ar drywydd rhai o'r enwau llefydd ar hyd arfordir Sir Benfro.",
@@ -454,6 +454,25 @@
       "series_id": "522060998",
       "title": "Arfordir Cymru: Sir Benfro",
       "date_broadcast": "2026-08-17 18:00:00",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "134",
+      "series_title": "Priodas Pum Mil",
+      "programme_title": "Einir & Jason",
+      "short_billing": "Mae'n amser trefnu priodas Einir a Jason.",
+      "thumbnail_url": "Priodas_Pum_Mil_2025S4C_P3_Einir_a_Jason.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Yn y bennod hon mae Trystan Ellis-Morris ac Emma Walford yn mynd ati i drefnu priodas Einir a Jason yn Nyffryn Nantlle.",
+      "clic_aired": "19 Gorffennaf 2026",
+      "fav_id": "537527992",
+      "id": "946274935",
+      "series_id": "946274916",
+      "title": "Priodas Pum Mil",
+      "date_broadcast": "2026-07-19 15:00:00",
       "vs": "0"
     },
     {
@@ -629,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Am Dro! - Cyfres 6",
       "programme_title": "",
       "short_billing": "Tracy, Aled, Beth a Craig sy'n mynd â ni 'Am Dro' y tro hwn.",
@@ -762,7 +781,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Gwlad Moc",
       "programme_title": "",
       "short_billing": "Mae Iolo Williams yn cadw cwmni i Moc Morgan.",
@@ -1085,7 +1104,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Ein Llwybrau Celtaidd",
       "programme_title": "3. Sir Caerfyrddin- Ceredigion",
       "short_billing": "Tro hwn, Sir Gaerfyrddin a Cheredigion.",
@@ -1750,7 +1769,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Y Cyfweliad",
       "programme_title": "Elin Fflur",
       "short_billing": "Elin Fflur sy'n cael ei holi gan y criw chwilfrydig. ",
@@ -1997,7 +2016,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Dan Do",
       "programme_title": "Dan Do- Ty Ann a Gareth, Aberaeron",
       "short_billing": "Byddwn yn ymweld â Ann a Gareth.",
@@ -2358,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Cyfres 2025/26",
       "programme_title": "Fodlediad",
       "short_billing": "Catrin Haf Jones a'r Athro Richard Wyn Jones sydd yn edrych ymlaen i Etholiad Senedd Cymru.",
@@ -2416,25 +2435,6 @@
     {
       "count": "2",
       "days_to_expire": "1349",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1349",
       "series_title": "Grid - Cyfres 1",
       "programme_title": "Fy newis i yw gwisgo hijab",
       "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
@@ -2467,6 +2467,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1349",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
