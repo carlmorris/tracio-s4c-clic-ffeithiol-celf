@@ -306,7 +306,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Bydd grwp pop arbennig o'r 60au yn aduno.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Yr Afon",
       "programme_title": "Mererid ac Afon Rhein",
       "short_billing": "Mererid Hopwood sy'n teithio ar hyd Afon Rhein.",
@@ -363,7 +363,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwella'u hiechyd efo cynllun iach.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth.",
@@ -1536,7 +1536,7 @@
       "id": "874924689",
       "series_id": "874924621",
       "title": "Adeiladu'r Freuddwyd: Camp Out West",
-      "date_broadcast": "",
+      "date_broadcast": "2026-08-26 18:30:00",
       "vs": "0"
     },
     {
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Teulu Dad a Fi",
       "programme_title": "Jamaica",
       "short_billing": "Mae'r pâr yn teithio i'r Caribî.",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "10",
+      "days_to_expire": "9",
       "series_title": "Y Fets - Cyfres 6",
       "programme_title": "",
       "short_billing": "Mae yna gwn bach a fets ifanc yn dechrau ar eu taith.",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Ar Led",
       "programme_title": "Aflonyddu Rhywiol & Orgasm",
       "short_billing": "Rhiannon ac Aaron sydd yma i drafod.",
@@ -2452,25 +2452,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1341",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1341",
       "series_title": "Grid - Cyfres 3",
@@ -2510,6 +2491,25 @@
     },
     {
       "count": "1",
+      "days_to_expire": "1341",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
       "days_to_expire": "9712",
       "series_title": "",
       "programme_title": "Dinas, gan Tudur Hallam: Awdl ",
@@ -2543,7 +2543,7 @@
       "id": "915981680",
       "series_id": "",
       "title": "Ruth Ellis: Y Cariad a'r Crogi",
-      "date_broadcast": "2026-07-08 21:30:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
