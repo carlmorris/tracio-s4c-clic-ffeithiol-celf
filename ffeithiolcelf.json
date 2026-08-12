@@ -268,7 +268,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Y Cosmos",
       "programme_title": "Y Blaned Iau",
       "short_billing": "Rhaglen sy'n datgelu rhai o gyfrinachau Y Blaned Iau.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mae Lowri yn ymweld ag Oaxaca ym Mecsico.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -2410,25 +2410,6 @@
       "id": "946613629",
       "series_id": "946613505",
       "title": "Y Byd ar Bedwar - Cyfres 2025/26",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Am Dro! - Cyfres 8",
-      "programme_title": "",
-      "short_billing": "Mae 4 llwybr cerdded yn cael eu sgorio - pa un fydd yn ennill'",
-      "thumbnail_url": "Am_Dro_2024S4C_P5_377.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Heddiw fydd Elliw yn mynd a'r criw am dro i Gapel Garmon. Yna taith o gwmpas Penarlag gyda Rhys cyn ei throi hi am Rhymni dan arweiniad Dilys. Leo fydd yn diweddu drwy gerdded o Aberogwr i Ddwn-rhefn. Dewch i ni fynd Am Dro.",
-      "clic_aired": "15 Mawrth 2026",
-      "fav_id": "809997292",
-      "id": "887386640",
-      "series_id": "887386535",
-      "title": "Am Dro! - Cyfres 8",
       "date_broadcast": "",
       "vs": "0"
     },
