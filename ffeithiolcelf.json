@@ -230,7 +230,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai'r 1960au a'r 1970au",
       "short_billing": "Byddwn yn edrych ar dai o'r 1960au a'r 1970au.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": "",
       "short_billing": "Mae'r pobyddion yn cystadlu am y brif wobr.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "105",
+      "days_to_expire": "104",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed yr Andes.",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "22",
+      "days_to_expire": "21",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 6",
       "short_billing": "Cawn olwg tu fewn i un o'r adeiladau prysuraf.",
@@ -2205,8 +2205,8 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "7",
+      "count": "1",
+      "days_to_expire": "6",
       "series_title": "Richard Holt: Yr Academi Felys -1",
       "programme_title": "",
       "short_billing": "Mae'r ddau bobydd yn mynd ben-ben.",
@@ -2376,6 +2376,25 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1336",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
       "days_to_expire": "1336",
       "series_title": "Grid - Cyfres 2",
@@ -2410,25 +2429,6 @@
       "id": "810190881",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1336",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
