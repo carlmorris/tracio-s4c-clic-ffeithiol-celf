@@ -268,7 +268,7 @@
     },
     {
       "count": "9",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai'r 1980au a'r 1990au",
       "short_billing": "Cartrefi Cymru o'r 1980au a'r 1990au. ",
@@ -876,7 +876,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": "",
       "short_billing": "Mae'r pobyddion yn cystadlu am y brif wobr.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed yr Andes.",
@@ -1902,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott yn Amazon ac yng ngwesty Portmeirion.",
@@ -2300,25 +2300,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Richard Holt: Yr Academi Felys -1",
-      "programme_title": "",
-      "short_billing": "Mae'r ddau bobydd yn mynd ben-ben.",
-      "thumbnail_url": "Richard_Holt_Yr_Academi_Felys_2021S4C_P6_106.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de enwog Richard. ",
-      "clic_aired": "26 Mawrth 2026",
-      "fav_id": "843448574",
-      "id": "824629071",
-      "series_id": "824628952",
-      "title": "Richard Holt: Yr Academi Felys -1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "831",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
@@ -2357,25 +2338,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1329",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1329",
       "series_title": "Grid - Cyfres 3",
@@ -2391,6 +2353,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1329",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
