@@ -97,7 +97,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 2",
       "short_billing": "Mae arddangosfa funud olaf i'w churadu.",
@@ -344,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Aberdâr",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": "",
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Yn y bennod hon, rydyn ni'n edrych yn ôl ar rai o straeon y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Mae'r tim yn dod i adnabod ardal Rhosllanerchrugog.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1787,8 +1787,8 @@
       "vs": "0"
     },
     {
-      "count": "6",
-      "days_to_expire": "42",
+      "count": "5",
+      "days_to_expire": "41",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "36",
+      "days_to_expire": "35",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Bywydau cymeriadau yng nghymuned chwarelyddol glos Bethesda.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
@@ -2338,25 +2338,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1329",
-      "series_title": "Grid - Cyfres 3",
-      "programme_title": "Trawsnewid Bywyd",
-      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
-      "duration": "11",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "862787076",
-      "series_id": "862786857",
-      "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1329",
       "series_title": "Grid - Cyfres 2",
@@ -2372,6 +2353,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1329",
+      "series_title": "Grid - Cyfres 3",
+      "programme_title": "Trawsnewid Bywyd",
+      "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "thumbnail_url": "Grid_2023S4C_P7_Transnewid_Bywyd_008.jpg",
+      "duration": "11",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "862787076",
+      "series_id": "862786857",
+      "title": "Grid - Cyfres 3",
       "date_broadcast": "",
       "vs": "0"
     },
