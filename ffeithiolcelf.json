@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Y Cosmos",
+      "programme_title": "Diwedd Y Byd",
+      "short_billing": "Sut bydd bywyd ar y ddaear yn dod i ben'",
+      "thumbnail_url": "Y_Cosmos_2014S4C_P6_Diwedd_y_Byd_01.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Sut bydd bywyd ar y ddaear yn dod i ben'  Gydag asteroid tua maint car yn bwrw'r ddaear pob diwrnod, mae'r rhaglen ddiweddaraf yng nghyfres y Cosmos yn datgelu pob math o fygythiadau i'n byd. O gomedau i belydrau gamma, llosgfynyddoedd i blanedau ar goll yn y gofod, gofynwn pa mor debygol ydyn nhw o effeithio arnom ni. Drwy edrych yn ôl ar y 5 difodiant mawr sydd wedi taro'r ddaear dros yr 13 biliwn o flynyddoedd diwethaf, bydd y rhaglen yn datgelu sut mae gwyddonwyr yn paratoi am y gwaetha'.",
+      "clic_aired": "23 Awst 2026",
+      "fav_id": "800323651",
+      "id": "514919674",
+      "series_id": "514919555",
+      "title": "Y Cosmos",
+      "date_broadcast": "2026-08-23 09:00:00",
+      "vs": "0"
+    },
+    {
       "count": "7",
       "days_to_expire": "149",
       "series_title": "Cynefin - Cyfres 6",
@@ -473,25 +492,6 @@
       "series_id": "836322703",
       "title": "Iaith ar Daith - Cyfres 3",
       "date_broadcast": "2026-08-25 22:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "5",
-      "days_to_expire": "143",
-      "series_title": "Y Cosmos",
-      "programme_title": "Y Blaned Sadwrn",
-      "short_billing": "Mae'r daith yn parhau, wrth i ni gyrraedd y Blaned Sadwrn.",
-      "thumbnail_url": "Y_Cosmos_2014S4C_P5_Y_Blaned_Sadwrn_02.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r daith drwy'r Cosmos yn parhau, wrth i ni gyrraedd y Blaned Sadwrn. Bydd y rhaglen yn darganfod pam mae'r blaned gyda'i chylchoedd enwog yn cael ei hystyried yn gartref posib i bobl yn y dyfodol agos. Hefyd, byddwn yn datgelu prawf gwyddonol sydd o bosib yn dangos fod yna fywyd estron i'w gael ar un o leuadau'r blaned.",
-      "clic_aired": "16 Awst 2026",
-      "fav_id": "800323651",
-      "id": "514919652",
-      "series_id": "514919555",
-      "title": "Y Cosmos",
-      "date_broadcast": "2026-08-16 09:00:00",
       "vs": "0"
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mae Lowri yn ymweld ag Oaxaca ym Mecsico.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -2319,6 +2319,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1329",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1329",
       "series_title": "Grid - Cyfres 1",
@@ -2353,25 +2372,6 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "1329",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
