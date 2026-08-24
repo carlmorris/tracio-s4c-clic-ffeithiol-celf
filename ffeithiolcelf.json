@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "10",
+      "days_to_expire": "149",
+      "series_title": "Straeon Harri Parri",
+      "programme_title": "Angylion a Mul Benthyg",
+      "short_billing": "Tro hwn: hanes Drama'r Geni go wahanol.",
+      "thumbnail_url": "Straeon_Harri_Parri_2010S4C_Brnad_001.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cyfle i fwynhau hiwmor straeon Harri Parri wrth i gymeriadau Porth yr Aur ddod yn fyw drwy law'r storïwr John Ogwen mewn cyfres o nosweithiau a recordiwyd o flaen cynulleidfaeodd Pen Llyn. Heddiw - o Neuadd Mynytho - hanes Drama'r Geni go wahanol gan drigolion Porth Yr Aur!",
+      "clic_aired": "24 Awst 2026",
+      "fav_id": "377107587",
+      "id": "377107775",
+      "series_id": "377107587",
+      "title": "Straeon Harri Parri",
+      "date_broadcast": "2026-08-24 13:00:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Cynefin - Cyfres 5",
@@ -192,7 +211,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 2",
       "short_billing": "Mae arddangosfa funud olaf i'w churadu.",
@@ -439,7 +458,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Aberdâr",
       "short_billing": "Cyfres giniawa lle mae 3 person adnabyddus yn cystadlu drwy baratoi pryd o fwyd 3 chwrs. ",
@@ -492,25 +511,6 @@
       "series_id": "949117887",
       "title": "Garddio a Mwy",
       "date_broadcast": "2026-08-23 11:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "9",
-      "days_to_expire": "143",
-      "series_title": "Straeon Harri Parri",
-      "programme_title": "Shamus Mulligan a'r Parot",
-      "short_billing": "Tro hwn: hanes lliwgar Livingstone.",
-      "thumbnail_url": "Straeon_Harri_Parri_Shamus_Mulligan_a_r_Parot_2010S4C_044.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cyfle i fwynhau hiwmor straeon Harri Parri wrth i gymeriadau Porth yr Aur ddod yn fyw drwy law'r storïwr John Ogwen mewn cyfres o raglenni a recordiwyd o flaen cynulleidfaeodd Pen Llyn. Heddiw - o Glwb Golff Nefyn - hanes lliwgar Livingstone, parot y ddiweddar Miss Camelia Peters.",
-      "clic_aired": "17 Awst 2026",
-      "fav_id": "377107587",
-      "id": "377107755",
-      "series_id": "377107587",
-      "title": "Straeon Harri Parri",
-      "date_broadcast": "2026-08-17 13:00:00",
       "vs": "0"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "136",
+      "days_to_expire": "135",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": "",
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Yn y bennod hon, rydyn ni'n edrych yn ôl ar rai o straeon y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -1237,7 +1237,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Mae'r tim yn dod i adnabod ardal Rhosllanerchrugog.",
@@ -1486,16 +1486,16 @@
       "count": "32",
       "days_to_expire": "63",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Dros Ginio Gwener o'r Urdd",
+      "programme_title": "Prynhawn Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
-      "duration": "92",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P030_coroni_Gwener_39.jpg",
+      "duration": "39",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Cystadlaethau'r plant Cynradd - Cân Actol a pherfformiad theatrig i ysgolion ac adrannau ynghyd â'r canlyniadau diweddaraf o Lwyfan y Cyfrwy. ",
+      "full_billing": "Darllediad byw o faes Eisteddfod yr Urdd 2026 o Seremoni'r Dydd: Y Coroni.",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949381000",
+      "id": "949381007",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
       "date_broadcast": "",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "52",
+      "days_to_expire": "51",
       "series_title": "Dylan ar Daith",
       "programme_title": "O Aberystwyth i'r Almaen",
       "short_billing": "Mae rhaglen ola'r gyfres yn olrhain hanes Goronwy Rees.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "",
       "programme_title": "Y Gymraeg: Hawl Pob Plentyn",
       "short_billing": "Yr awdur Ciaran Fitzgerald, s'yn datgelu'r frwydr i blant gael eu haddysgu yn eu mamiaith. Straeon  ysbrydoledig am blant anabl a niwroamrywiol ac am frwydr eu rhieni i gael mynediad i addysg Gymraeg. Noder: Yn drist iawn, bu farw Tomos Llewellyn-Jones, un o'r plant yn y rhaglen, ar Fehefin 2ail, ac fe ddarlledir y ddogfen hon er cof amdano.",
@@ -1749,8 +1749,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "45",
+      "count": "2",
+      "days_to_expire": "44",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1788,7 +1788,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -1844,8 +1844,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "35",
+      "count": "4",
+      "days_to_expire": "34",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Bywydau cymeriadau yng nghymuned chwarelyddol glos Bethesda.",
@@ -2092,7 +2092,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
       "programme_title": "",
       "short_billing": "Mae Meinir, Sioned a Dafydd yn mynd i'r eisteddfod leol.",
