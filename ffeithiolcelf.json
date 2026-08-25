@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "2",
+      "days_to_expire": "149",
+      "series_title": "Siwrna Scandi Chris",
+      "programme_title": "Sweden",
+      "short_billing": "Mae Chris yn parhau ar ei siwrna' fwyd Scandi yn Sweden.",
+      "thumbnail_url": "Siwrna_Scandi_Siwrna_Scandi_Chris_2023S4C_P2_Sweden.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Chris yn parhau ar ei siwrna' fwyd Sgandinafaidd yn Sweden, lle mae'n profi clasuron y wlad cyn cyfarfod â'i arwr bwyd Niklas Ekstedt. ",
+      "clic_aired": "25 Awst 2026",
+      "fav_id": "872323765",
+      "id": "872323802",
+      "series_id": "872323765",
+      "title": "Siwrna Scandi Chris",
+      "date_broadcast": "2026-08-26 15:05:00",
+      "vs": "0"
+    },
+    {
       "count": "21",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -78,7 +97,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Y Tywydd (Nos Lun)",
       "programme_title": "",
       "short_billing": "Rhagolygon tywydd yr wythnos.",
@@ -97,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Cefn Gwlad",
       "programme_title": "Palmant Aur y Kiwis",
       "short_billing": "Mari Lovgreen yn teithio i Ynys y Gogledd, Seland Newydd i glywed stori ysbrydoledig Marc a Nia Jones, yn wreiddiol o Llangernyw sydd wedi llwyddo 12,000 o filltiroedd i ffwrdd - wedi ennill 'Waikato Share Farmer of the Year', a'r gilwobr yn y 'New Zealand Dairy Industry Awards'.",
@@ -154,7 +173,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Treffynnon",
       "short_billing": "Byddwn yn darganfod y gornel fach hon o'r Gogledd-Orllewin.",
@@ -420,7 +439,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Am Dro! - Cyfres 6",
       "programme_title": "",
       "short_billing": "Dafydd, Rosemond, Gary a Sioned sy'n mynd â ni 'Am Dro' y tro hwn.",
@@ -477,7 +496,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "",
       "programme_title": "Sioe Sir Benfro 2026",
       "short_billing": "Uchafbwyntiau Sioe Sir Benfro 2026.",
@@ -533,25 +552,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "143",
-      "series_title": "Siwrna Scandi Chris",
-      "programme_title": "Norwy",
-      "short_billing": "Mae Chris yn profi a choginio'r gorau o fwydydd Norwy.",
-      "thumbnail_url": "Siwrna_Scandi_Chris_2023S4C_P1_Norwy.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae'r cogydd tanbaid Chris 'Flamebaster' Roberts ar siwrna Scandi epic yn profi a'n coginio'r gorau o fwydydd Norwy.\r\n\r\n ",
-      "clic_aired": "18 Awst 2026",
-      "fav_id": "872323765",
-      "id": "872323776",
-      "series_id": "872323765",
-      "title": "Siwrna Scandi Chris",
-      "date_broadcast": "2026-08-19 15:05:00",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "142",
       "series_title": "Y Ci Perffaith",
@@ -591,7 +591,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Sioe Mon 2026",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau diwrnod olaf Sioe Sir Fôn 2026.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "135",
+      "days_to_expire": "134",
       "series_title": "Cefn Gwlad",
       "programme_title": "Teulu Tan Y Bryn",
       "short_billing": "Mari Lovgreen sy'n ail-ymweld â ffarm yn Penllyn.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "",
       "programme_title": "Alex Humphreys: Epilepsi a Fi",
       "short_billing": "Mae Alex Humphreys yn wyneb cyfarwydd i wylwyr S4C fel cyflwynydd Y Tywydd, Yr Wythnos a Heno. Dim ond y bobl sydd agosaf at Alex sy'n gwybod bod ganddi epilepsi. Mae Alex yn cyfaddef nad yw hi'n gwybod llawer am y cyflwr ond mae hi wedi cyrraedd pwynt ble mae hi eisiau gwybod mwy. Yn ystod y rhaglen hon fe fydd Alex yn cyfarfod ag arbenigwyr meddygol, hanesydd, a nifer o bobl sydd yn byw gyda'r cyflwr, gyda'r nod o godi mwy o ymwybyddiaeth.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "",
       "programme_title": "Eisteddfod Llangollen: Cor y Byd 2026",
       "short_billing": "Eisteddfod Ryngwladol Llangollen: Côr y Byd 2026.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "99",
+      "days_to_expire": "98",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "Tro hwn: gwledd Gymreig arbennig yn Brooklyn!",
@@ -1256,7 +1256,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "89",
+      "days_to_expire": "88",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Caryl Lewis",
       "short_billing": "Tro hwn: yr awdur llwyddiannus, Caryl Lewis.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "87",
+      "days_to_expire": "86",
       "series_title": "Y Llinell Las",
       "programme_title": "6. Bugeilio",
       "short_billing": "Gwaith Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "70",
+      "days_to_expire": "69",
       "series_title": "Tafwyl 2025",
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd: Tafwyl.",
@@ -1522,7 +1522,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Mae Elin Fflur yn croesi'r Iwerydd i sgwrsio gyda Matthew Rhys.",
@@ -1769,7 +1769,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Taith Emilie a Jon i sefydlu busnes glampio.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "246",
+      "days_to_expire": "245",
       "series_title": "Y Wal",
       "programme_title": "Sbaen a Moroco",
       "short_billing": "Yn Ceuta mae pobl yn croesi o Affrica i Ewrop.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Ymgyrch Seal Bay",
       "programme_title": "Pennod 2",
       "short_billing": "Mae ditectifs yn dechrau cau ar y gang smyglo.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Cefn Gwlad",
       "programme_title": "Sion Morgan",
       "short_billing": "Hanes Siôn Morgan sy'n rheolwr yn Castle Farm. ",
@@ -2281,25 +2281,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Llond Bol o Japan",
-      "programme_title": "Pennod 3",
-      "short_billing": "Mae antur Chris yn Japan yn dod i'w therfyn yn Tokyo.",
-      "thumbnail_url": "Llond_Bol_o_Japan_2025S4C_P3_2025-11-27_ii.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae antur y cogydd tân, Chris 'Flamebaster' Roberts, yn Japan yn parhau. Mae Chris wedi cyrraedd Tokyo, ac yn byta, cig wagyu moethus, cyw iâr amrwd a phen tiwna enfawr! ",
-      "clic_aired": "28 Mawrth 2026",
-      "fav_id": "946422626",
-      "id": "946422661",
-      "series_id": "946422642",
-      "title": "Llond Bol o Japan",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "4",
       "days_to_expire": "828",
       "series_title": "Pencampwriaeth Cneifio'r Byd",
@@ -2319,25 +2300,6 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "1327",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "2",
       "days_to_expire": "1327",
       "series_title": "Grid - Cyfres 1",
@@ -2353,6 +2315,25 @@
       "id": "810190881",
       "series_id": "810190766",
       "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "1327",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
       "date_broadcast": "",
       "vs": "0"
     },
@@ -2396,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "",
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Dogfen yn olrhain bywyd y Gymraes Ruth Ellis.",
