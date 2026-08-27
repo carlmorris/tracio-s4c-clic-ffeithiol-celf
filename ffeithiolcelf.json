@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "8",
+      "days_to_expire": "149",
+      "series_title": "Ty Ffit",
+      "programme_title": "",
+      "short_billing": "Rhaglen arbennig yn dathlu taith trawsnewid y criw.",
+      "thumbnail_url": "Ty_FFIT_2025S4C_Grwp_Cyfres_098.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Rhaglen arbennig yn dathlu taith trawsnewid Dylan, Sharon, Arwel, Gwawr a Becky wrth i ni edrych yn ôl dros ddeufis o ddilyn cynllun iach Ty Ffit.  Bydd Lisa Gwilym yn holi, eu mentoriaid yn rhoi eu cyngor olaf a Dr Sherif - meddyg y gyfres yn rhannu canlyniadau meddygol – beth fydd effaith dilyn cynllun iach Ty Ffit dros ddeufis ar iechyd y pump'",
+      "clic_aired": "26 Awst 2026",
+      "fav_id": "890819515",
+      "id": "890819655",
+      "series_id": "890819515",
+      "title": "Ty Ffit",
+      "date_broadcast": "2026-08-26 22:30:00",
+      "vs": "0"
+    },
+    {
       "count": "21",
       "days_to_expire": "34",
       "series_title": "Heno",
@@ -325,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -496,7 +515,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Yr Afon",
       "programme_title": "Aled ac Afon Nil",
       "short_billing": "Taith Aled Samuel o Gairo hyd at darddiad Afon Nil.",
@@ -530,25 +549,6 @@
       "series_id": "",
       "title": "Sioe Sir Benfro 2026",
       "date_broadcast": "2026-08-23 20:00:00",
-      "vs": "0"
-    },
-    {
-      "count": "7",
-      "days_to_expire": "143",
-      "series_title": "Ty Ffit",
-      "programme_title": "",
-      "short_billing": "Penwythnos olaf y criw yn Ty Ffit.",
-      "thumbnail_url": "Ty_FFIT_2025S4C_P7_012.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Penwythnos olaf Dylan, Sharon, Arwel, Gwawr a Becky yn hafan ymlaciol 'Ty Ffit' ac mae tasg olaf heriol o'i blaenau.  Sut wna nhw ymdopi' ",
-      "clic_aired": "19 Awst 2026",
-      "fav_id": "890819515",
-      "id": "890819636",
-      "series_id": "890819515",
-      "title": "Ty Ffit",
-      "date_broadcast": "2026-08-19 22:30:00",
       "vs": "0"
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "",
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol: Ym 1998 roddodd yr actor Syr Anthony Hopkins filiwn o bunnoedd tuag at ymgyrch yr Ymddiriedolaeth Genedlaethol i brynu'r Wyddfa. Yn anffodus, yn dilyn camddealltwriaeth clerigol, yn hytrach na phrynu mynydd uchaf Cymru, mi sylweddolodd y seren ffilmiau o Bort Talbot ei fod nawr yn berchen ar y grwp canu pop poblogaidd o Lanberis.",
@@ -667,7 +667,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Bydd grwp pop arbennig o'r 60au yn aduno.",
@@ -695,12 +695,12 @@
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
       "full_billing": "Tudur Owen sy'n ein tywys drwy arlwy'r Babell Lên.",
-      "clic_aired": "6 Awst 2026",
+      "clic_aired": "7 Awst 2026",
       "fav_id": "949960977",
-      "id": "949961018",
+      "id": "949961029",
       "series_id": "949960977",
       "title": "Y Babell Lên 2026",
-      "date_broadcast": "2026-08-23 22:00:00",
+      "date_broadcast": "2026-08-23 22:30:00",
       "vs": "0"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "120",
+      "days_to_expire": "119",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -1332,7 +1332,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "81",
+      "days_to_expire": "80",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "6. Genova a Portofino",
       "short_billing": "Y diweddglo perffaith i'w hantur Eidalaidd. ",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -1503,7 +1503,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "44",
+      "days_to_expire": "43",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Tro hwn: penwythnos yn yr 80au. ",
@@ -2035,7 +2035,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Tro hwn: Adran Newyddenedigol yn Ysbyty Glan Clwyd.  ",
@@ -2281,25 +2281,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1326",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1326",
       "series_title": "Grid - Cyfres 2",
@@ -2334,6 +2315,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1326",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
