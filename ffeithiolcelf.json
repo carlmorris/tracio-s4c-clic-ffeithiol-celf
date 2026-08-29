@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "9",
+      "days_to_expire": "149",
+      "series_title": "Dan Do",
+      "programme_title": "",
+      "short_billing": "Ni'n ymweld â byngalo anarferol.",
+      "thumbnail_url": "Dan_Do_2023S4C_P9-4.jpg",
+      "duration": "24",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld â byngalo anarferol sy'n un ty ond yn ddau gartref perffaith i fam a merch, ty Fictoraidd sy'n gartref i arbenigwraig lliw ym Mhen y Bont a thy agored braf sy'n gwneud y mwyaf o'r golygfeydd godidog ger y Trallwng",
+      "clic_aired": "29 Awst 2026",
+      "fav_id": "802081093",
+      "id": "872657081",
+      "series_id": "872656845",
+      "title": "Dan Do",
+      "date_broadcast": "2026-09-11 13:30:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
@@ -325,7 +344,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Radio Fa'ma - Cyfres 2",
       "programme_title": "Rhyl",
       "short_billing": "Tara Bethan a Kris Hughes sy'n sgwrsio gyda phobl Cymru am brofiadau sydd wedi effeithio ar eu bywydau. ",
@@ -344,7 +363,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Y Cosmos",
       "programme_title": "Diwedd Y Byd",
       "short_billing": "Sut bydd bywyd ar y ddaear yn dod i ben'",
@@ -473,25 +492,6 @@
       "series_id": "860978166",
       "title": "Sain Ffagan Cyfres 2",
       "date_broadcast": "2026-08-22 12:45:00",
-      "vs": "0"
-    },
-    {
-      "count": "8",
-      "days_to_expire": "143",
-      "series_title": "Dan Do",
-      "programme_title": "",
-      "short_billing": "Tro hwn: cartref Edwardaidd crand yn y brifddinas.",
-      "thumbnail_url": "Dan_Do_2023S4C_P8-5.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Aled Samuel a Mandy Watkins sy'n mynd â ni ar hyd a lled Cymru i ymweld â gwahanol fathau o gartrefi chwaethus a diddorol.  \nYn y rhaglen hon byddwn ni'n ymweld â thy hynafol yng Nghonwy sy'n llawn nodweddion annisgwyl, cartref Edwardaidd crand yn y brifddinas a hen fwthyn glowr yng nghalon Cwm Tawe.   ",
-      "clic_aired": "22 Awst 2026",
-      "fav_id": "802081093",
-      "id": "872657053",
-      "series_id": "872656845",
-      "title": "Dan Do",
-      "date_broadcast": "2026-09-04 13:30:00",
       "vs": "0"
     },
     {
@@ -857,44 +857,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "0",
-      "series_title": "24 Awr",
-      "programme_title": "Tomi Roberts-Jones",
-      "short_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Tomi Roberts-Jones o Gaerdydd yn mynd i gynrychioli Cymru ym Mhencampwriaeth Athletau Prydain yn Derby.",
-      "thumbnail_url": "24_awr_2020S4C_C2_P4_Tomi_Roberts-Jones_65.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Yn y gyfres hon, byddwn yn dangos profiadau pobol sy'n mynd trwy ddigwyddiadau arwyddocaol dros gyfnod o 24 Awr. Yn y bennod yma, mae Tomi Roberts-Jones o Gaerdydd yn mynd i gynrychioli Cymru ym Mhencampwriaeth Athletau Prydain yn Derby.",
-      "clic_aired": "25 Gorffennaf 2026",
-      "fav_id": "803355220",
-      "id": "808272298",
-      "series_id": "808272216",
-      "title": "24 Awr",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Bwyd Epic Chris",
-      "programme_title": "Pancos Budr",
-      "short_billing": "Tro hwn, Pancos Budr.",
-      "thumbnail_url": "Bwyd_Epic_Chris_2021S4C_P010_07.jpg",
-      "duration": "6",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Risét o drydedd cyfres Bwyd Epic Chris - Pancos Budr.",
-      "clic_aired": "25 Gorffennaf 2026",
-      "fav_id": "801175552",
-      "id": "833319825",
-      "series_id": "833319637",
-      "title": "Bwyd Epic Chris",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "114",
       "series_title": "",
       "programme_title": "Eigra",
@@ -1122,8 +1084,8 @@
       "vs": "0"
     },
     {
-      "count": "7",
-      "days_to_expire": "96",
+      "count": "6",
+      "days_to_expire": "95",
       "series_title": "Y Byd ar Bedwar",
       "programme_title": "Croeso am dâl?",
       "short_billing": "Beth fydd effaith y dreth dwristiaeth yng Nghymru'",
@@ -1218,7 +1180,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "Jason Mohammad: Stadiymau'r Byd",
       "programme_title": "Pennod 1",
       "short_billing": "Amrywiaeth o stadiymau eiconig.",
@@ -1351,7 +1313,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "Sara Manchipp: I mewn i'r Manosphere",
       "programme_title": "Gobaith",
       "short_billing": "Mae Sara Manchipp yn holi beth yw'r Manosphere'",
@@ -1370,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "It's My Shout - Docs",
       "programme_title": "Dros y Gamfa",
       "short_billing": "Ffilm ddogfen fer am y bardd Chris Torrance.",
@@ -1484,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mae Lowri yn ymweld ag Oaxaca ym Mecsico.",
@@ -1655,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "",
       "programme_title": "Eirys: Mam yr Urdd",
       "short_billing": "Mae Mari Emlyn ar drywydd hanes ei nain, Eirys.",
@@ -1826,7 +1788,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1921,7 +1883,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "30",
+      "days_to_expire": "29",
       "series_title": "",
       "programme_title": "Fy Ffrind ar Death Row",
       "short_billing": "Perthynas rhwng dyn o Gymru a dyn ar Death Row.",
@@ -2168,7 +2130,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "857",
+      "days_to_expire": "856",
       "series_title": "Ar Led",
       "programme_title": "Delwedd y Corff",
       "short_billing": "Mae Anya a Molly yn rhannu profiadau o golled a galar.",
@@ -2224,8 +2186,27 @@
       "vs": "0"
     },
     {
+      "count": "2",
+      "days_to_expire": "1323",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "1",
-      "days_to_expire": "1324",
+      "days_to_expire": "1323",
       "series_title": "Grid - Cyfres 2",
       "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
       "short_billing": "Myfyriwr ffasiwn ifanc sy'n ystyried pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant yng Nghymru.",
@@ -2244,26 +2225,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "1324",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1324",
+      "days_to_expire": "1323",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2282,7 +2244,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "9695",
+      "days_to_expire": "9694",
       "series_title": "",
       "programme_title": "Dinas, gan Tudur Hallam: Awdl ",
       "short_billing": "Ffilm o'r gerdd ryfeddol Dinas, gan y bardd Tudur Hallam.",
@@ -2320,7 +2282,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "509",
+      "days_to_expire": "508",
       "series_title": "Cynefin: Codi Bwganod",
       "programme_title": "Allt Stryd y Gwter",
       "short_billing": "Stori am ysbryd sy'n newid ei siâp.",
@@ -2339,7 +2301,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "808",
+      "days_to_expire": "807",
       "series_title": "Hansh",
       "programme_title": "Da Neu Du",
       "short_billing": "Da neu Du. Dyma ddarn gonest a chryf wrth i Lily Beau ceisio derbyn ateb i gwestiwn dwys... A'i fy mod yn dda neu'n ddu' ",
@@ -2358,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "211",
+      "days_to_expire": "210",
       "series_title": "Pride Cymru 2024",
       "programme_title": "Uchafbwyntiau",
       "short_billing": "Cipolwg ar uchafbwyntiau Pride Cymru 2024.",
@@ -2377,7 +2339,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "165",
+      "days_to_expire": "164",
       "series_title": "Tanwen ac Ollie",
       "programme_title": "Pennod 8",
       "short_billing": "Mae'r diwrnod wedi cyrraedd ac mae pawb ar y ffordd i'r ysbyty i gwrdd a'r babi newydd - ond sut fydd Tanwen ac Ollie yn ymdopi i'w bywydau newydd fel rhieni'",
@@ -2396,7 +2358,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "265",
+      "days_to_expire": "264",
       "series_title": "Pen Petrol - Cyfres 2",
       "programme_title": "Loris",
       "short_billing": "Be sy'n mynd mlaen mewn un o'r 'car meets' drwg-enwog'",
@@ -2415,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "125",
+      "days_to_expire": "124",
       "series_title": "Goro' Neud",
       "programme_title": "Dulyn",
       "short_billing": "Criw Probcast yn darganfod be chi GORO gweld, GORO neud a GORO bwyta yn Nulyn!",
