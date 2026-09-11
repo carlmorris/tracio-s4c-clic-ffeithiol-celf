@@ -116,7 +116,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "148",
+      "days_to_expire": "147",
       "series_title": "Llanw",
       "programme_title": "Byw Gyda'r Llanw",
       "short_billing": "Mae bywyd rhai pobl yn cael ei reoli gan y llanw.",
@@ -211,7 +211,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Y Fets: Cyfres 1",
       "programme_title": "Pennod 5",
       "short_billing": "Mae gofid am gyflwr Mazlo'r ci bach deufis oed.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Cefn Gwlad",
       "programme_title": "John Dalton Gelligarneddau",
       "short_billing": "Ar drothwy Sioe'r Cardis cip olwg ar fywyd un o ddynion busnes amlycaf cefn gwlad Sir Geredigion – John Dalton, sydd hefyd yn ffarmwr, yn dad i 5 o blant a gyrru ceir rali – gwr sy'n llosgi'r gannwyl naill ben a llwyddo.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "144",
+      "days_to_expire": "143",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen sy'n rhannu ei daith bersonol. ",
@@ -572,7 +572,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Rhaglen arbennig yn dathlu taith trawsnewid y criw.",
@@ -648,7 +648,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "130",
+      "days_to_expire": "129",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "128",
+      "days_to_expire": "127",
       "series_title": "Yr Afon",
       "programme_title": "Aled ac Afon Nil",
       "short_billing": "Taith Aled Samuel o Gairo hyd at darddiad Afon Nil.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "",
       "programme_title": "Y Crwydryn",
       "short_billing": "Pererindod gerddorol drwy Gymru wledig, yn archwilio bywyd a marwolaeth drwy lygaid y dyn mwyaf c–l yn sin canu gwlad Cymraeg - Wil Tân.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "",
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol: Ym 1998 roddodd yr actor Syr Anthony Hopkins filiwn o bunnoedd tuag at ymgyrch yr Ymddiriedolaeth Genedlaethol i brynu'r Wyddfa. Yn anffodus, yn dilyn camddealltwriaeth clerigol, yn hytrach na phrynu mynydd uchaf Cymru, mi sylweddolodd y seren ffilmiau o Bort Talbot ei fod nawr yn berchen ar y grwp canu pop poblogaidd o Lanberis.",
@@ -833,12 +833,12 @@
       "id": "808793571",
       "series_id": "",
       "title": "Dim Byd Fel Hogia'r Wyddfa",
-      "date_broadcast": "2026-08-08 23:10:00",
+      "date_broadcast": "",
       "vs": "0"
     },
     {
       "count": "13",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Bydd grwp pop arbennig o'r 60au yn aduno.",
@@ -856,27 +856,8 @@
       "vs": "0"
     },
     {
-      "count": "1",
-      "days_to_expire": "0",
-      "series_title": "Y Babell Lên 2026",
-      "programme_title": "Dydd Gwener",
-      "short_billing": "Tudur Owen sy'n ein tywys drwy arlwy'r Babell Lên.",
-      "thumbnail_url": "Y_Babell_Len_2026S4C_P01.jpg",
-      "duration": "24",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Tudur Owen sy'n ein tywys drwy arlwy'r Babell Lên.",
-      "clic_aired": "7 Awst 2026",
-      "fav_id": "949960977",
-      "id": "949961029",
-      "series_id": "949960977",
-      "title": "Y Babell Lên 2026",
-      "date_broadcast": "2026-08-23 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "3",
-      "days_to_expire": "113",
+      "days_to_expire": "112",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Rhaglen drafod materion cyfoes.",
@@ -914,7 +895,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "104",
+      "days_to_expire": "103",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
@@ -1104,7 +1085,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "91",
+      "days_to_expire": "90",
       "series_title": "",
       "programme_title": "Alex Humphreys: Epilepsi a Fi",
       "short_billing": "Mae Alex Humphreys yn wyneb cyfarwydd i wylwyr S4C fel cyflwynydd Y Tywydd, Yr Wythnos a Heno. Dim ond y bobl sydd agosaf at Alex sy'n gwybod bod ganddi epilepsi. Mae Alex yn cyfaddef nad yw hi'n gwybod llawer am y cyflwr ond mae hi wedi cyrraedd pwynt ble mae hi eisiau gwybod mwy. Yn ystod y rhaglen hon fe fydd Alex yn cyfarfod ag arbenigwyr meddygol, hanesydd, a nifer o bobl sydd yn byw gyda'r cyflwr, gyda'r nod o godi mwy o ymwybyddiaeth.",
@@ -1199,7 +1180,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "84",
+      "days_to_expire": "83",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth.",
@@ -1256,7 +1237,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "Tro hwn: gwledd Gymreig arbennig yn Brooklyn!",
@@ -1275,7 +1256,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "80",
+      "days_to_expire": "79",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -1294,7 +1275,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "79",
+      "days_to_expire": "78",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -1446,7 +1427,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "6. Genova a Portofino",
       "short_billing": "Y diweddglo perffaith i'w hantur Eidalaidd. ",
@@ -1503,7 +1484,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -1617,7 +1598,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -1636,7 +1617,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Mae Elin Fflur yn croesi'r Iwerydd i sgwrsio gyda Matthew Rhys.",
@@ -1674,7 +1655,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -1693,7 +1674,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -1788,7 +1769,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "33",
+      "days_to_expire": "32",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -1864,7 +1845,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "28",
+      "days_to_expire": "27",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Tro hwn: penwythnos yn yr 80au. ",
@@ -1883,7 +1864,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Taith Emilie a Jon i sefydlu busnes glampio.",
@@ -1997,7 +1978,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Cyfrinachau'r Great Escape",
       "programme_title": "",
       "short_billing": "Gwybodaeth newydd trwy hanesion carcharor Ail Ryfel Byd.",
@@ -2149,7 +2130,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Ysbyty",
       "programme_title": "Babis Bach",
       "short_billing": "Tro hwn: Adran Newyddenedigol yn Ysbyty Glan Clwyd.  ",
@@ -2187,7 +2168,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Ymgyrch Seal Bay",
       "programme_title": "Pennod 2",
       "short_billing": "Mae ditectifs yn dechrau cau ar y gang smyglo.",
@@ -2283,25 +2264,6 @@
     {
       "count": "2",
       "days_to_expire": "1310",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "2",
-      "days_to_expire": "1310",
       "series_title": "Grid - Cyfres 3",
       "programme_title": "Trawsnewid Bywyd",
       "short_billing": "Mae Joey Davies yn ddyn ifanc sy'n cychwyn ar ei daith yn y brifysgol, ond mae ei daith fel person traws wedi bod yn un llawer anoddach. Am flynyddoedd, mae wedi dymuno newid ei rhywedd yn gorfforol, ond mae wedi wynebu cyfnod hir o aros a brwydr am driniaethau o fewn y gwasanaeth iechyd. ",
@@ -2315,6 +2277,25 @@
       "id": "862787076",
       "series_id": "862786857",
       "title": "Grid - Cyfres 3",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1310",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
