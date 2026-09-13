@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "4",
+      "days_to_expire": "149",
+      "series_title": "Radio Fa'ma - Cyfres 2",
+      "programme_title": "Llanidloes",
+      "short_billing": "Pobol Llanidloes sy'n rhannu eu straeon.",
+      "thumbnail_url": "Radio_Fama_2024S4C_P4_Llanidloes-287.jpg",
+      "duration": "47",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Pobol Llanidloes sy'n rhannu eu straeon ac yn agor eu calonnau wrth i Tara Bethan a Kris Hughes yrru carafan 'Radio Fa'ma' i'r dref ar gyfer y rhaglen radio sydd hefyd yn rhaglen deledu.",
+      "clic_aired": "13 Medi 2026",
+      "fav_id": "928556190",
+      "id": "874988475",
+      "series_id": "874988394",
+      "title": "Radio Fa'ma - Cyfres 2",
+      "date_broadcast": "2026-09-17 22:30:00",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "149",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
@@ -40,7 +59,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Sain Ffagan Cyfres 2",
       "programme_title": "Pennod 5",
       "short_billing": "Mae'r cloc eiconig yn cael ei symud yn ofalus.",
@@ -59,7 +78,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Trysorau Cymru: Tir, Tai a Chyfrinachau",
       "programme_title": "Castell Penrhyn",
       "short_billing": "Cyfres am y straeon sy'n cuddio o fewn ein tai hynafol, a chyfle i gwestiynu eu gorffennol - y da a'r drwg. ",
@@ -154,7 +173,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Dim Byd i'w Wisgo - Cyfres 2",
       "programme_title": "Elin ac Olive",
       "short_billing": "Olive ac Elin sy'n cael help Cadi ac Owain y tro hwn.",
@@ -268,7 +287,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Bwrdd i Dri - Cyfres 3",
       "programme_title": "Caerdydd",
       "short_billing": "Heddiw mi fydd y bwrdd wedi ei osod yng Nghaerdydd.",
@@ -419,27 +438,8 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "143",
-      "series_title": "Radio Fa'ma - Cyfres 2",
-      "programme_title": "Penrhyndeudraeth",
-      "short_billing": "Y tro hwn, mae'r ddau yn mynd i Benrhyndeudraeth.",
-      "thumbnail_url": "Radio_Fama_2024S4C_P3_Penrhyndeudraeth_001.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y tro hwn, mae'r ddau yn mynd i Benrhyndeudraeth i holi'r bobl leol am brofiadau sydd wedi effeithio ar eu bywydau. Tiwniwch i mewn i'r rhaglen sy'n dod o galon y gymuned. ",
-      "clic_aired": "6 Medi 2026",
-      "fav_id": "928556190",
-      "id": "874988451",
-      "series_id": "874988394",
-      "title": "Radio Fa'ma - Cyfres 2",
-      "date_broadcast": "2026-09-10 22:30:00",
-      "vs": "0"
-    },
-    {
       "count": "8",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Cosmos",
       "programme_title": "Llwybr Llaethog",
       "short_billing": "Sut y cafodd ein galaeth ni, y Llwybr Llaethog, ei chreu.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Dan Do",
       "programme_title": "",
       "short_billing": "Mwy o gartrefi chwaethus a diddorol.",
@@ -610,7 +610,7 @@
     },
     {
       "count": "10",
-      "days_to_expire": "132",
+      "days_to_expire": "131",
       "series_title": "Cartrefi Cymru - Cyfres 1",
       "programme_title": "Tai Cyfoes",
       "short_billing": "Tai cyfoes sy'n cael ein sylw tro 'ma.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "Heno Aur - Cyfres 2",
       "programme_title": "",
       "short_billing": "Cyfres gydag Angharad Mair a Siân Thomas yn dathlu 30 mlynedd o raglen Heno. Yn y bennod hon, rydyn ni'n edrych yn ôl ar rai o straeon y 90au, o bremiere Jurassic Park yng Nghaerfyrddin a chwmniau o Siapan yn dod i Gymru, i argyfwng Aids y cyfnod a sgwrs arbennig gyda Jonathan Davies; bydd y ddwy hefyd yn sgwrsio gyda gwesteion o'r newydd.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Gerddi Cymru - Cyfres 1",
       "programme_title": "Plas Brondanw Porthmadog a Gardd Dewston Cas-Gwent",
       "short_billing": "Tro hwn: gardd Plas Brondanw a Gardd Dewstow.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Richard Holt: Yr Academi Felys -2",
       "programme_title": "",
       "short_billing": "Mae'r pobyddion yn cystadlu am y brif wobr.",
@@ -1180,7 +1180,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "86",
+      "days_to_expire": "85",
       "series_title": "Gwyliau Gartref",
       "programme_title": "Biwmares",
       "short_billing": "Biwmares ar Ynys Môn yw'r lleoliad y tro hwn.",
@@ -1313,7 +1313,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "77",
+      "days_to_expire": "76",
       "series_title": "Gwladfa: Gwilym Bowen Rhys",
       "programme_title": "",
       "short_billing": "Daw taith Gwilym i'w therfyn gyda chyngerdd wrth droed yr Andes.",
@@ -1408,7 +1408,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Cynefin",
       "programme_title": "Rhosllanerchrugog",
       "short_billing": "Mae'r tim yn dod i adnabod ardal Rhosllanerchrugog.",
@@ -1427,7 +1427,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "65",
+      "days_to_expire": "64",
       "series_title": "Cais Quinnell - Cyfres 2",
       "programme_title": "",
       "short_billing": "Bydd Scott yn dychwelyd i'w filltir sgwâr.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "51",
+      "days_to_expire": "50",
       "series_title": "Cartrefi Cymru - Cyfres 2",
       "programme_title": "Tai Newydd",
       "short_billing": "Aled Samuel a Bethan Scorey sy'n edrych ar dai newydd.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "45",
+      "days_to_expire": "44",
       "series_title": "Gwyl",
       "programme_title": "Gwyl y Meirw: Mecsico",
       "short_billing": "Mae Lowri yn ymweld ag Oaxaca ym Mecsico.",
@@ -1657,16 +1657,16 @@
       "count": "32",
       "days_to_expire": "43",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Bore Gwener o'r Urdd",
+      "programme_title": "Dros Ginio Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
       "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
-      "duration": "76",
+      "duration": "92",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Ymunwch â Heledd Cynwal a Trystan Ellis Morris yn fyw ar gyfer dechrau'r cystadlu ar fore olaf yr Wyl ieuenctid.",
+      "full_billing": "Cystadlaethau'r plant Cynradd - Cân Actol a pherfformiad theatrig i ysgolion ac adrannau ynghyd â'r canlyniadau diweddaraf o Lwyfan y Cyfrwy. ",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949380993",
+      "id": "949381000",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
       "date_broadcast": "",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "Heno Aur - Cyfres 1",
       "programme_title": "Pennod 13",
       "short_billing": "Cyfres newydd gydag Angharad Mair a Siân Thomas sy'n dathlu 30 mlynedd o raglen Heno. Eisteddwch nol i chwerthin a rhyfeddu ar rai o straeon mawr 1996, pan roedd Cymru yn le hollol wahanol!   ",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Hen Dy Newydd - Cyfres 1",
       "programme_title": "Caerdydd",
       "short_billing": "Mae'r tîm mewn cartref yn Grangetown, Caerdydd.",
@@ -1959,7 +1959,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "21",
+      "days_to_expire": "20",
       "series_title": "Caeau Cymru",
       "programme_title": "Llwyngwern",
       "short_billing": "Claddfa o bwys ac olion pentref o dai crynion.",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "20",
+      "days_to_expire": "19",
       "series_title": "Y Sioe Fwyd - Cyfres 1",
       "programme_title": "Tara Bethan",
       "short_billing": "Yr actores Tara Bethan sy'n sgwrsio yn y gegin.",
@@ -2016,7 +2016,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "15",
+      "days_to_expire": "14",
       "series_title": "Bethesda: Pobol y Chwarel",
       "programme_title": "",
       "short_billing": "Bywydau cymeriadau yng nghymuned chwarelyddol glos Bethesda.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "12",
+      "days_to_expire": "11",
       "series_title": "Sgwrs Dan y Lloer - Cyfres 5",
       "programme_title": "Sera Cracroft ",
       "short_billing": "Sgwrs gyda'r actores sy'n portreadu Eileen o Pobol y cwm.",
@@ -2111,7 +2111,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "9",
+      "days_to_expire": "8",
       "series_title": "Priodas Pum Mil - Cyfres 7",
       "programme_title": "Abbey & Danial",
       "short_billing": "Abbey a Danial sy'n cael priodas am £5000 y tro ma.",
