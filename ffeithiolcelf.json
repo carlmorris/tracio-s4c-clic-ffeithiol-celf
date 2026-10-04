@@ -1,6 +1,25 @@
 {
   "progs": [
     {
+      "count": "6",
+      "days_to_expire": "149",
+      "series_title": "Pen Petrol - Cyfres 3",
+      "programme_title": "",
+      "short_billing": "Ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'!",
+      "thumbnail_url": "Pen_Petrol_2024S4C_C3_P5.jpg",
+      "duration": "19",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ma' Sian yn cymryd drosodd ac yn cyflwyno dipyn o twist i'r bois. Ti'n gallu deud ma' hwn oedd yr unig ddiwrnod braf gafon ni wrth ffilmio. ",
+      "clic_aired": "3 Hydref 2026",
+      "fav_id": "847578970",
+      "id": "891670514",
+      "series_id": "891670409",
+      "title": "Pen Petrol - Cyfres 3",
+      "date_broadcast": "2026-10-03 23:00:00",
+      "vs": "0"
+    },
+    {
       "count": "3",
       "days_to_expire": "149",
       "series_title": "Teulu Shadog: Tymhorau'r Flwyddyn",
@@ -135,7 +154,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "147",
+      "days_to_expire": "146",
       "series_title": "Athrawon",
       "programme_title": "",
       "short_billing": "Y dyfodol sydd ar feddwl yr athrawon newydd.",
@@ -248,25 +267,6 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "146",
-      "series_title": "Amour & Mynydd",
-      "programme_title": "Apres: Amour & Mynydd 1",
-      "short_billing": "Cipolwg ar y gyfres newydd o Amour & Mynydd.",
-      "thumbnail_url": "Amour_a_Mynydd_2026S4C_Alaw_p6.jpg",
-      "duration": "23",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Cipolwg ar y gyfres newydd gyda Meilir Rhys a Mari Beard. Mae nhw'n crwydro'r Chalet newydd, sgwrsio efo ambell aelod o'r cast a gyda chyflwynydd y gyfres, Elin Fflur.",
-      "clic_aired": "30 Medi 2026",
-      "fav_id": "884734211",
-      "id": "946337855",
-      "series_id": "946337850",
-      "title": "Amour & Mynydd",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "3",
       "days_to_expire": "146",
       "series_title": "Cymru ar Gyffuriau",
@@ -286,8 +286,27 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "10",
       "days_to_expire": "146",
+      "series_title": "Amour & Mynydd",
+      "programme_title": "Apres: Amour & Mynydd 1",
+      "short_billing": "Cipolwg ar y gyfres newydd o Amour & Mynydd.",
+      "thumbnail_url": "Amour_a_Mynydd_2026S4C_Alaw_p6.jpg",
+      "duration": "23",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Cipolwg ar y gyfres newydd gyda Meilir Rhys a Mari Beard. Mae nhw'n crwydro'r Chalet newydd, sgwrsio efo ambell aelod o'r cast a gyda chyflwynydd y gyfres, Elin Fflur.",
+      "clic_aired": "30 Medi 2026",
+      "fav_id": "884734211",
+      "id": "946337855",
+      "series_id": "946337850",
+      "title": "Amour & Mynydd",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "145",
       "series_title": "Am Le i Fyw",
       "programme_title": "Terry a Catrin",
       "short_billing": "Mae angen cymorth y tîm ar Catrin a Terry.",
@@ -325,7 +344,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres sy'n edrych ar y byd amaeth.",
@@ -401,26 +420,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Pen Petrol - Cyfres 3",
-      "programme_title": "",
-      "short_billing": "Ma Craig di cael gafael ar gar mawr.",
-      "thumbnail_url": "Pen_Petrol_2024S4C_C3_P3.jpg",
-      "duration": "21",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Ma' Craig 'di cael gafael ar gar mawr, trwm. Rhy fawr a rhy drwm i rasio fyny allt, 'sa chdi'n feddwl.",
-      "clic_aired": "26 Medi 2026",
-      "fav_id": "847578970",
-      "id": "891670466",
-      "series_id": "891670409",
-      "title": "Pen Petrol - Cyfres 3",
-      "date_broadcast": "2026-09-26 22:55:00",
-      "vs": "0"
-    },
-    {
-      "count": "4",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -458,7 +458,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "142",
+      "days_to_expire": "141",
       "series_title": "Am Dro! - Cyfres 6",
       "programme_title": "",
       "short_billing": "Al, Harri, Jord a Jane sy'n mynd â ni 'Am Dro' y tro hwn.",
@@ -496,7 +496,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "137",
+      "days_to_expire": "136",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Byddwn yn darganfod beth sydd gan Aberaeron i'w gynnig.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Rhaglen drafod materion cyfoes.",
@@ -591,7 +591,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "133",
+      "days_to_expire": "132",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres.",
@@ -629,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "131",
+      "days_to_expire": "130",
       "series_title": "Y Fets: Cyfres 1",
       "programme_title": "Pennod 6",
       "short_billing": "Mae 'na ofid bod gan Pip y Labrador ganser.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "Cefn Gwlad",
       "programme_title": "John Dalton Gelligarneddau",
       "short_billing": "Cawn gipolwg ar fywyd y dyn busnes, John Dalton.",
@@ -819,7 +819,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "118",
+      "days_to_expire": "117",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Mae Chris yn profi danteithion Copenhagen yn Denmarc.",
@@ -895,7 +895,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Rhaglen arbennig yn dathlu taith trawsnewid y criw.",
@@ -971,7 +971,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -1009,7 +1009,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "Yr Afon",
       "programme_title": "Aled ac Afon Nil",
       "short_billing": "Taith Aled Samuel o Gairo hyd at darddiad Afon Nil.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "106",
+      "days_to_expire": "105",
       "series_title": "",
       "programme_title": "Sioe Sir Benfro 2026",
       "short_billing": "Uchafbwyntiau Sioe Sir Benfro 2026.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "",
       "programme_title": "Y Crwydryn",
       "short_billing": "Pererindod gerddorol drwy Gymru wledig, yn archwilio bywyd a marwolaeth drwy lygaid y dyn mwyaf c–l yn sin canu gwlad Cymraeg - Wil Tân.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "98",
+      "days_to_expire": "97",
       "series_title": "Sioe Mon 2026",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau diwrnod olaf Sioe Sir Fôn 2026.",
@@ -1104,7 +1104,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Cefn Gwlad",
       "programme_title": "Teulu Tan Y Bryn",
       "short_billing": "Mari Lovgreen sy'n ail-ymweld â ffarm yn Penllyn.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "94",
+      "days_to_expire": "93",
       "series_title": "",
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol.",
@@ -1161,7 +1161,7 @@
     },
     {
       "count": "12",
-      "days_to_expire": "93",
+      "days_to_expire": "92",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Bydd grwp pop arbennig o'r 60au yn aduno.",
@@ -1199,7 +1199,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "69",
+      "days_to_expire": "68",
       "series_title": "",
       "programme_title": "Alex Humphreys: Epilepsi a Fi",
       "short_billing": "Mae Alex Humphreys yn darganfod mwy am epilepsi.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "67",
+      "days_to_expire": "66",
       "series_title": "",
       "programme_title": "Eisteddfod Llangollen: Cor y Byd 2026",
       "short_billing": "Eisteddfod Ryngwladol Llangollen: Côr y Byd 2026.",
@@ -1484,7 +1484,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "62",
+      "days_to_expire": "61",
       "series_title": "Y Sîn",
       "programme_title": "",
       "short_billing": "Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth.",
@@ -1541,7 +1541,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "60",
+      "days_to_expire": "59",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "Tro hwn: gwledd Gymreig arbennig yn Brooklyn!",
@@ -1560,7 +1560,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "58",
+      "days_to_expire": "57",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -1579,7 +1579,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "57",
+      "days_to_expire": "56",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "50",
+      "days_to_expire": "49",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Caryl Lewis",
       "short_billing": "Tro hwn: yr awdur llwyddiannus, Caryl Lewis.",
@@ -1674,7 +1674,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "48",
+      "days_to_expire": "47",
       "series_title": "Y Llinell Las",
       "programme_title": "6. Bugeilio",
       "short_billing": "Gwaith Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru.",
@@ -1693,7 +1693,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "47",
+      "days_to_expire": "46",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale.",
@@ -1750,7 +1750,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "43",
+      "days_to_expire": "42",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "6. Genova a Portofino",
       "short_billing": "Y diweddglo perffaith i'w hantur Eidalaidd. ",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "40",
+      "days_to_expire": "39",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -1845,7 +1845,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "31",
+      "days_to_expire": "30",
       "series_title": "Tafwyl 2025",
       "programme_title": "Fleur De Lys",
       "short_billing": "Darllediadau o wyl Gymraeg fwyaf Caerdydd: Tafwyl.",
@@ -1921,7 +1921,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Mae Elin Fflur yn croesi'r Iwerydd i sgwrsio gyda Matthew Rhys.",
@@ -1959,18 +1959,18 @@
     },
     {
       "count": "32",
-      "days_to_expire": "23",
+      "days_to_expire": "22",
       "series_title": "Eisteddfod yr Urdd Ynys Mon",
-      "programme_title": "Uchafbwyntiau Dydd Gwener",
+      "programme_title": "Bore Gwener o'r Urdd",
       "short_billing": "Darllediadau amrywiol o Eisteddfod yr Urdd 2026.",
-      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P032_uchaf_gwener_01_028.jpg",
-      "duration": "77",
+      "thumbnail_url": "Eisteddfod_Yr_Urdd_2026S4C_P028_bore_Gwener_01_05-Edit-2.jpg",
+      "duration": "76",
       "genre": "Ffeithiol a'r Celfyddydau",
       "genre_id": "1",
-      "full_billing": "Uchafbwyntiau Dydd Gwener Eisteddfod yr Urdd Ynys Môn 2026 gyda Lloyd Lewis yn crwydro'r maes. ",
+      "full_billing": "Ymunwch â Heledd Cynwal a Trystan Ellis Morris yn fyw ar gyfer dechrau'r cystadlu ar fore olaf yr Wyl ieuenctid.",
       "clic_aired": "29 Mai 2026",
       "fav_id": "534519556",
-      "id": "949381021",
+      "id": "949380993",
       "series_id": "949380799",
       "title": "Eisteddfod yr Urdd Ynys Mon",
       "date_broadcast": "",
@@ -1978,7 +1978,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "19",
+      "days_to_expire": "18",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "11",
+      "days_to_expire": "10",
       "series_title": "Alun, Chris a Kiri yn Seland Newydd",
       "programme_title": "",
       "short_billing": "Ym mhennod olaf y gyfres, bath mwd a gwers syrffio mewn storm.",
@@ -2130,7 +2130,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Nôl i'r Gwersyll",
       "programme_title": "4. Yn 80au",
       "short_billing": "Tro hwn: penwythnos yn yr 80au. ",
@@ -2149,7 +2149,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Adeiladu'r Freuddwyd: Camp Out West",
       "programme_title": "",
       "short_billing": "Taith Emilie a Jon i sefydlu busnes glampio.",
@@ -2244,7 +2244,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "207",
+      "days_to_expire": "206",
       "series_title": "Y Wal",
       "programme_title": "Sbaen a Moroco",
       "short_billing": "Yn Ceuta mae pobl yn croesi o Affrica i Ewrop.",
@@ -2300,6 +2300,25 @@
       "vs": "0"
     },
     {
+      "count": "1",
+      "days_to_expire": "1288",
+      "series_title": "Grid - Cyfres 2",
+      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
+      "short_billing": "Golwg ar hiliaeth o fewn y diwydiant harddwch.",
+      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
+      "duration": "13",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Gofynnwn pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "835003893",
+      "series_id": "835003879",
+      "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
       "count": "2",
       "days_to_expire": "1288",
       "series_title": "Grid - Cyfres 3",
@@ -2339,25 +2358,6 @@
     },
     {
       "count": "1",
-      "days_to_expire": "1288",
-      "series_title": "Grid - Cyfres 2",
-      "programme_title": "Ydy`r diwydiant harddwch yn hiliol?",
-      "short_billing": "Golwg ar hiliaeth o fewn y diwydiant harddwch.",
-      "thumbnail_url": "Grid_2022S4C_P1_Diwydiant_Harddwch_Hiliol.jpg",
-      "duration": "13",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Gofynnwn pa mor gynhwysol yw'r diwydiant harddwch a sut mae diffyg cynrychiolaeth a hiliaeth wedi effeithio menywod du o fewn y diwydiant.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "835003893",
-      "series_id": "835003879",
-      "title": "Grid - Cyfres 2",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
-      "count": "1",
       "days_to_expire": "9659",
       "series_title": "",
       "programme_title": "Dinas, gan Tudur Hallam: Awdl ",
@@ -2377,7 +2377,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "",
       "programme_title": "Ruth Ellis: Y Cariad a'r Crogi",
       "short_billing": "Dogfen yn olrhain bywyd y Gymraes Ruth Ellis.",
