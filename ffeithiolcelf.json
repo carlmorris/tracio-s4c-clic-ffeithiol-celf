@@ -1,6 +1,44 @@
 {
   "progs": [
     {
+      "count": "5",
+      "days_to_expire": "149",
+      "series_title": "Iaith ar Daith - Cyfres 2",
+      "programme_title": "Kiri Pritchard-McLean ",
+      "short_billing": "Seleb-ddysgwyr yn paru fyny gyda llysgenhadwyr a selebs Cymraeg i ddysgu'r iaith - ar daith o amgylch Cymru! ",
+      "thumbnail_url": "Iaith_ar_Daith_2021S4C_P5_Kiri_Pritchar_McLean_a_Maggi_Noggi_1164-Edit.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae Iaith ar Daith yn dychwelyd i S4C yn 2021. Unwaith eto eleni mae chwe dysgwr dewr adnabyddus sydd yn ysu i ddysgu Cymraeg yn teithio ar hyd a lled Cymru gyda mentor neu ffrind adnabyddus wrth eu hochr. Yn y bumed rhaglen y comediwyr Kiri Pritchard-McLean a Maggi Noggi sydd yn mynd â'r Iaith ar Daith.",
+      "clic_aired": "19 Hydref 2026",
+      "fav_id": "814794652",
+      "id": "814794961",
+      "series_id": "814794847",
+      "title": "Iaith ar Daith - Cyfres 2",
+      "date_broadcast": "2026-10-19 22:35:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "149",
+      "series_title": "",
+      "programme_title": "Windrush: Rhwng Dau Fyd",
+      "short_billing": "Edrychwn ar genhedlaeth Windrush Cymru.",
+      "thumbnail_url": "Windrush_Rhwng_Dau_Fyd_2023S4C_001.jpg",
+      "duration": "49",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Ail-ddarllediad i nodi Mis Hanes Pobl Ddu. Beth yw bod yn Gymry' Sut mae siaradwyr Cymraeg yn edrych ' Beth am yr iaith ni'n ei defnyddio' 75 mlynedd ers i fenwnfudwyr o'r Caribi gyrraedd Prydain ar long y Windrush, Emily Pemberton sy'n holi'r cwestiynau, gan dynnu ar brofiadau ei theulu, ffrindiau a chymuned ddoe a heddiw yng Nghaerdydd. ",
+      "clic_aired": "19 Hydref 2026",
+      "fav_id": "875797365",
+      "id": "875797365",
+      "series_id": "",
+      "title": "Windrush: Rhwng Dau Fyd",
+      "date_broadcast": "2026-10-19 21:35:00",
+      "vs": "0"
+    },
+    {
       "count": "4",
       "days_to_expire": "149",
       "series_title": "Cefn Gwlad",
@@ -92,7 +130,7 @@
       "id": "888288107",
       "series_id": "888288070",
       "title": "Gronyn Gobaith: Cymry CERN",
-      "date_broadcast": "2026-10-19 15:05:00",
+      "date_broadcast": "2026-11-03 22:55:00",
       "vs": "0"
     },
     {
@@ -324,27 +362,8 @@
       "vs": "0"
     },
     {
-      "count": "4",
-      "days_to_expire": "143",
-      "series_title": "Iaith ar Daith - Cyfres 2",
-      "programme_title": "Chris Coleman",
-      "short_billing": "Seleb-ddysgwyr yn paru fyny gyda llysgenhadwyr a selebs Cymraeg i ddysgu'r iaith - ar daith o amgylch Cymru! ",
-      "thumbnail_url": "Iaith_ar_Daith_2021S4C_P4_Chris_Coleman_OwainTJ_2001.jpg",
-      "duration": "47",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae Iaith ar Daith yn dychwelyd i S4C yn 2021. Unwaith eto eleni mae chwe dysgwr dewr adnabyddus sydd yn ysu i ddysgu Cymraeg yn teithio ar hyd a lled Cymru gyda mentor neu ffrind adnabyddus wrth eu hochr. Yn y bedwaredd rhaglen cyn rheolwr tîm Pel Droed Cymru Chris Coleman a'r cyn-beldroediwr Owain Tudur Jones sydd yn mynd â'r Iaith ar Daith.",
-      "clic_aired": "12 Hydref 2026",
-      "fav_id": "814794652",
-      "id": "814794935",
-      "series_id": "814794847",
-      "title": "Iaith ar Daith - Cyfres 2",
-      "date_broadcast": "2026-10-12 22:35:00",
-      "vs": "0"
-    },
-    {
       "count": "1",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "",
       "programme_title": "Terfysg yn y Bae",
       "short_billing": "Dogfen am Derfysgoedd Hil Caerdydd 1919. ",
@@ -552,25 +571,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "135",
-      "series_title": "Iaith ar Daith",
-      "programme_title": "Alun Wyn Jones",
-      "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
-      "thumbnail_url": "Iaith_ar_Daith_2025S4C_P1_Alun_Wyn_Jones-7.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn-chwaraewr rygbi Alun Wyn Jones sy'n dysgu Cymraeg efo help yr actor Steffan Rhodri.",
-      "clic_aired": "5 Hydref 2026",
-      "fav_id": "814794652",
-      "id": "940802171",
-      "series_id": "940802161",
-      "title": "Iaith ar Daith",
-      "date_broadcast": "2026-10-13 23:25:00",
-      "vs": "0"
-    },
-    {
       "count": "6",
       "days_to_expire": "135",
       "series_title": "Iaith ar Daith - Cyfres 1",
@@ -587,6 +587,25 @@
       "series_id": "806208075",
       "title": "Iaith ar Daith - Cyfres 1",
       "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "3",
+      "days_to_expire": "135",
+      "series_title": "Iaith ar Daith",
+      "programme_title": "Alun Wyn Jones",
+      "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
+      "thumbnail_url": "Iaith_ar_Daith_2025S4C_P1_Alun_Wyn_Jones-7.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn-chwaraewr rygbi Alun Wyn Jones sy'n dysgu Cymraeg efo help yr actor Steffan Rhodri.",
+      "clic_aired": "5 Hydref 2026",
+      "fav_id": "814794652",
+      "id": "940802171",
+      "series_id": "940802161",
+      "title": "Iaith ar Daith",
+      "date_broadcast": "2026-10-13 23:25:00",
       "vs": "0"
     },
     {
@@ -610,7 +629,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Pen Petrol - Cyfres 3",
       "programme_title": "",
       "short_billing": "Ma' rhywun 'di gosod hydro handbrake mewn car cnebrynga'!",
@@ -800,7 +819,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "127",
+      "days_to_expire": "126",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -933,7 +952,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "Llanw",
       "programme_title": "Defnyddio'r Llanw",
       "short_billing": "Defnyddio'r llanw fydd thema rhaglen ola'r gyfres.",
@@ -971,7 +990,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "Y Fets: Cyfres 1",
       "programme_title": "Pennod 6",
       "short_billing": "Mae 'na ofid bod gan Pip y Labrador ganser.",
@@ -1047,7 +1066,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "108",
+      "days_to_expire": "107",
       "series_title": "Cefn Gwlad",
       "programme_title": "John Dalton Gelligarneddau",
       "short_billing": "Cawn gipolwg ar fywyd y dyn busnes, John Dalton.",
@@ -1237,7 +1256,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "96",
+      "days_to_expire": "95",
       "series_title": "Ty Ffit",
       "programme_title": "",
       "short_billing": "Rhaglen arbennig yn dathlu taith trawsnewid y criw.",
@@ -1313,7 +1332,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "",
       "programme_title": "Cariad Heb Ffiniau: Poliamori a Fi",
       "short_billing": "Dyma olwg ar fywyd agored ag onest Naomi.",
@@ -1351,7 +1370,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "90",
+      "days_to_expire": "89",
       "series_title": "Yr Afon",
       "programme_title": "Aled ac Afon Nil",
       "short_billing": "Taith Aled Samuel o Gairo hyd at darddiad Afon Nil.",
@@ -1408,7 +1427,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "85",
+      "days_to_expire": "84",
       "series_title": "",
       "programme_title": "Y Crwydryn",
       "short_billing": "Pererindod gerddorol drwy Gymru wledig, yn archwilio bywyd a marwolaeth drwy lygaid y dyn mwyaf c–l yn sin canu gwlad Cymraeg - Wil Tân.",
@@ -1465,7 +1484,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "78",
+      "days_to_expire": "77",
       "series_title": "",
       "programme_title": "Dim Byd Fel Hogia'r Wyddfa",
       "short_billing": "Rhaglen materion cyfoes ddychanol.",
@@ -1483,8 +1502,8 @@
       "vs": "0"
     },
     {
-      "count": "10",
-      "days_to_expire": "77",
+      "count": "9",
+      "days_to_expire": "76",
       "series_title": "Gwesty Aduniad - Cyfres 3",
       "programme_title": "",
       "short_billing": "Bydd grwp pop arbennig o'r 60au yn aduno.",
@@ -1522,7 +1541,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "66",
+      "days_to_expire": "65",
       "series_title": "Ar Brawf",
       "programme_title": "Bradley a Tiffany",
       "short_billing": "Cyfres ddogfennol yn edrych ar Y Gwasanaeth Prawf.",
@@ -1807,7 +1826,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "46",
+      "days_to_expire": "45",
       "series_title": "Y Sîn",
       "programme_title": "",
       "short_billing": "Mae Gwenno Llwyd Till yn cychwyn prosiect ffotograffiaeth.",
@@ -1864,7 +1883,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "42",
+      "days_to_expire": "41",
       "series_title": "Strip",
       "programme_title": "Pennod 5",
       "short_billing": "Daw'r merched at ei gilydd ar gyfer noson arbennig.",
@@ -1883,7 +1902,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "41",
+      "days_to_expire": "40",
       "series_title": "Pa Fath o Bobl...",
       "programme_title": "sy'n dilyn y Gêm Genedlaethol?",
       "short_billing": "Mae'n swyddogol - yn ôl arolwg annibynnol, pêl-droed nid rygbi yw camp fwya' poblogaidd Cymru. Garmon ab Ion sy'n edrych ar sut mae'r FAW wedi achub y blaen ar y WRU a dal dychymyg y genedl. Pa fath o berson sy'n dilyn rygbi yng Nghymru'  Oes modd dilyn y ddwy gamp neu yw'r hollt yn rhy ddwfn' Bydd Garmon yn teithio'r wlad a holi cefnogwyr cyn cyflwyno eu sylwadau i'r WRU.",
@@ -2054,7 +2073,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "Ciao! Colleen ag Owain",
       "programme_title": "6. Genova a Portofino",
       "short_billing": "Y diweddglo perffaith i'w hantur Eidalaidd. ",
@@ -2111,7 +2130,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "24",
+      "days_to_expire": "23",
       "series_title": "Pysgod i Bawb",
       "programme_title": "Ynys Mon",
       "short_billing": "Mae'r siwrne yn diweddu ar Ynys Môn.",
@@ -2225,7 +2244,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Bwyd Epic Chris - Cyfres 1",
       "programme_title": "Cyfres 1, Pennod 5",
       "short_billing": "Y tro hwn, coginio mochyn cyfan ar 'spit'.",
@@ -2244,7 +2263,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "7",
+      "days_to_expire": "6",
       "series_title": "",
       "programme_title": "Sgwrs dan y Lloer: Matthew Rhys",
       "short_billing": "Mae Elin Fflur yn croesi'r Iwerydd i sgwrsio gyda Matthew Rhys.",
@@ -2282,7 +2301,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "3",
+      "days_to_expire": "2",
       "series_title": "Arfordir Cymru: Bae Ceredigion",
       "programme_title": "Llangrannog i Aberteifi",
       "short_billing": "Mae Bedwyr yn teithio o Langrannog i Aberteifi.",
@@ -2301,7 +2320,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "2",
+      "days_to_expire": "1",
       "series_title": "Sgwrs dan y Lloer - Cyfres 1",
       "programme_title": "Tudur Owen",
       "short_billing": "Tudur Owen yw'r gwestai y tro hwn.",
@@ -2395,25 +2414,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1272",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1272",
       "series_title": "Grid - Cyfres 2",
@@ -2429,6 +2429,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1272",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
