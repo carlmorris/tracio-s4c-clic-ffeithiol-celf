@@ -40,7 +40,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "149",
+      "days_to_expire": "148",
       "series_title": "Dim Cwsg i Quinnell",
       "programme_title": "",
       "short_billing": "Mae Scott mewn becws yn Rhuthun ac yn Tata Steel. ",
@@ -111,7 +111,7 @@
       "id": "948176180",
       "series_id": "948176161",
       "title": "Cyrraedd Cymru",
-      "date_broadcast": "2026-11-20 15:05:00",
+      "date_broadcast": "2026-11-27 15:05:00",
       "vs": "0"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "146",
+      "days_to_expire": "145",
       "series_title": "Pitts Stop America",
       "programme_title": "",
       "short_billing": "Mae'r brodyr ar drywydd teulu yn ardal Scranton.",
@@ -230,7 +230,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cefn Gwlad",
       "programme_title": "Brett Garner",
       "short_billing": "Pysgotwr prysuraf Pen Llyn-'Brummie' Brett Garner.",
@@ -249,7 +249,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "145",
+      "days_to_expire": "144",
       "series_title": "Cegin Clwyd Bryn Williams",
       "programme_title": "",
       "short_billing": "Cyfres goginio newydd gyda'r cogydd Bryn Williams ",
@@ -325,7 +325,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "143",
+      "days_to_expire": "142",
       "series_title": "Y Cyfweliad",
       "programme_title": "Mike Phillips",
       "short_billing": "Y cyn chwaraewr Rygbi Mike Phillips sy'n cael ei holi.",
@@ -382,7 +382,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "134",
+      "days_to_expire": "133",
       "series_title": "Y Byd yn ei Le",
       "programme_title": "Y Gyllideb: Cyfri'r Ceiniogau",
       "short_billing": "Dadansoddi'r diweddara o'r byd gwleidyddol.",
@@ -477,7 +477,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "124",
+      "days_to_expire": "123",
       "series_title": "",
       "programme_title": "Windrush: Rhwng Dau Fyd",
       "short_billing": "Edrychwn ar genhedlaeth Windrush Cymru.",
@@ -515,7 +515,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "123",
+      "days_to_expire": "122",
       "series_title": "",
       "programme_title": "Alex Jones: Un diwrnod yn Aberfan ",
       "short_billing": "Dogfen ar drychineb Aberfan gydag Alex Jones.",
@@ -572,7 +572,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "117",
+      "days_to_expire": "116",
       "series_title": "",
       "programme_title": "Terfysg yn y Bae",
       "short_billing": "Dogfen am Derfysgoedd Hil Caerdydd 1919. ",
@@ -591,7 +591,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "116",
+      "days_to_expire": "115",
       "series_title": "",
       "programme_title": "Yr Actor A'r Eicon",
       "short_billing": "Yr actor Kimberley Abodunrin sy'n dysgu mwy am Betty Campbell, prifathrawes ddu gyntaf Cymru. ",
@@ -629,7 +629,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "115",
+      "days_to_expire": "114",
       "series_title": "",
       "programme_title": "Dafydd Owain: Ymarfer Byw (I'r Byw)",
       "short_billing": "Mae Dafydd yn ein gwahodd i fyd 'Ymarfer Byw'.",
@@ -686,7 +686,7 @@
     },
     {
       "count": "5",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Athrawon",
       "programme_title": "",
       "short_billing": "Mae'r athrawon yn cyrraedd diwedd eu blwyddyn brawf.",
@@ -705,7 +705,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "112",
+      "days_to_expire": "111",
       "series_title": "Gwalia Aleighcia",
       "programme_title": "",
       "short_billing": "Bydd Aleighcia yn dysgu am ddau hanes cythryblus.",
@@ -743,7 +743,7 @@
     },
     {
       "count": "8",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Ffermio",
       "programme_title": "",
       "short_billing": "Cyfres sy'n edrych ar y byd amaeth.",
@@ -762,7 +762,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "110",
+      "days_to_expire": "109",
       "series_title": "Y Sin",
       "programme_title": "",
       "short_billing": "Mae Joe yn cwrdd â Llyr Evans yng Nghaerdydd.",
@@ -777,25 +777,6 @@
       "series_id": "931525915",
       "title": "Y Sin",
       "date_broadcast": "2026-10-28 23:10:00",
-      "vs": "0"
-    },
-    {
-      "count": "3",
-      "days_to_expire": "109",
-      "series_title": "Iaith ar Daith",
-      "programme_title": "Alun Wyn Jones",
-      "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
-      "thumbnail_url": "Iaith_ar_Daith_2025S4C_P1_Alun_Wyn_Jones-7.jpg",
-      "duration": "48",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Y cyn-chwaraewr rygbi Alun Wyn Jones sy'n dysgu Cymraeg efo help yr actor Steffan Rhodri.",
-      "clic_aired": "5 Hydref 2026",
-      "fav_id": "814794652",
-      "id": "940802171",
-      "series_id": "940802161",
-      "title": "Iaith ar Daith",
-      "date_broadcast": "2026-10-13 23:25:00",
       "vs": "0"
     },
     {
@@ -818,8 +799,27 @@
       "vs": "0"
     },
     {
-      "count": "1",
+      "count": "3",
       "days_to_expire": "109",
+      "series_title": "Iaith ar Daith",
+      "programme_title": "Alun Wyn Jones",
+      "short_billing": "Callum Scott Howells sy'n dysgu Cymraeg. ",
+      "thumbnail_url": "Iaith_ar_Daith_2025S4C_P1_Alun_Wyn_Jones-7.jpg",
+      "duration": "48",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Y cyn-chwaraewr rygbi Alun Wyn Jones sy'n dysgu Cymraeg efo help yr actor Steffan Rhodri.",
+      "clic_aired": "5 Hydref 2026",
+      "fav_id": "814794652",
+      "id": "940802171",
+      "series_id": "940802161",
+      "title": "Iaith ar Daith",
+      "date_broadcast": "2026-10-13 23:25:00",
+      "vs": "0"
+    },
+    {
+      "count": "1",
+      "days_to_expire": "108",
       "series_title": "24 Awr Newidiodd Gymru",
       "programme_title": "Cymru Yn Euro 2016",
       "short_billing": "Dyma stori Cymru'n curo Gwlad Belg yn Euro 2016.",
@@ -932,25 +932,6 @@
       "vs": "0"
     },
     {
-      "count": "3",
-      "days_to_expire": "104",
-      "series_title": "Cymru ar Gyffuriau",
-      "programme_title": "Canabis",
-      "short_billing": "Edrychwn ar effaith ketamine, a'i boblogrwydd.",
-      "thumbnail_url": "Cymru_ar_Gyffuriau_2025S4C_Cyfres_099.jpg",
-      "duration": "20",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "O Gymru i'r Almaen, Zahra Errami sy'n ymchwilio i'r ddadl dros gyfreithloni canabis.",
-      "clic_aired": "30 Medi 2026",
-      "fav_id": "927531099",
-      "id": "927534546",
-      "series_id": "927534538",
-      "title": "Cymru ar Gyffuriau",
-      "date_broadcast": "2026-11-04 23:05:00",
-      "vs": "0"
-    },
-    {
       "count": "10",
       "days_to_expire": "104",
       "series_title": "Amour & Mynydd",
@@ -970,8 +951,27 @@
       "vs": "0"
     },
     {
-      "count": "4",
+      "count": "3",
       "days_to_expire": "104",
+      "series_title": "Cymru ar Gyffuriau",
+      "programme_title": "Canabis",
+      "short_billing": "Edrychwn ar effaith ketamine, a'i boblogrwydd.",
+      "thumbnail_url": "Cymru_ar_Gyffuriau_2025S4C_Cyfres_099.jpg",
+      "duration": "20",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "O Gymru i'r Almaen, Zahra Errami sy'n ymchwilio i'r ddadl dros gyfreithloni canabis.",
+      "clic_aired": "30 Medi 2026",
+      "fav_id": "927531099",
+      "id": "927534546",
+      "series_id": "927534538",
+      "title": "Cymru ar Gyffuriau",
+      "date_broadcast": "2026-11-04 23:05:00",
+      "vs": "0"
+    },
+    {
+      "count": "4",
+      "days_to_expire": "103",
       "series_title": "Am Le i Fyw",
       "programme_title": "Terry a Catrin",
       "short_billing": "Mae angen cymorth y tîm ar Catrin a Terry.",
@@ -990,7 +990,7 @@
     },
     {
       "count": "13",
-      "days_to_expire": "103",
+      "days_to_expire": "102",
       "series_title": "Garddio a Mwy",
       "programme_title": "",
       "short_billing": "Yr hydref yw'r gwanwyn newydd.",
@@ -1028,7 +1028,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "101",
+      "days_to_expire": "100",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 1",
       "programme_title": "Maxine Hughes",
       "short_billing": "Y newyddiadurwr Maxine Hughes sy'n rhannu streuon.",
@@ -1066,7 +1066,7 @@
     },
     {
       "count": "7",
-      "days_to_expire": "100",
+      "days_to_expire": "99",
       "series_title": "Am Dro! - Cyfres 6",
       "programme_title": "",
       "short_billing": "Al, Harri, Jord a Jane sy'n mynd â ni 'Am Dro' y tro hwn.",
@@ -1085,7 +1085,7 @@
     },
     {
       "count": "6",
-      "days_to_expire": "95",
+      "days_to_expire": "94",
       "series_title": "Cynefin - Cyfres 5",
       "programme_title": "Dyffryn Aeron",
       "short_billing": "Byddwn yn darganfod beth sydd gan Aberaeron i'w gynnig.",
@@ -1142,7 +1142,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "92",
+      "days_to_expire": "91",
       "series_title": "Pawb a'i Farn",
       "programme_title": "",
       "short_billing": "Rhaglen drafod materion cyfoes.",
@@ -1275,7 +1275,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "82",
+      "days_to_expire": "81",
       "series_title": "Cefn Gwlad",
       "programme_title": "John Dalton Gelligarneddau",
       "short_billing": "Cawn gipolwg ar fywyd y dyn busnes, John Dalton.",
@@ -1389,7 +1389,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "76",
+      "days_to_expire": "75",
       "series_title": "Siwrna Scandi Chris",
       "programme_title": "Denmarc",
       "short_billing": "Mae Chris yn profi danteithion Copenhagen yn Denmarc.",
@@ -1446,7 +1446,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "72",
+      "days_to_expire": "71",
       "series_title": "Mike Bubbins - Un Mewn Miliwn",
       "programme_title": "Magu Hyder",
       "short_billing": "Cyfle i siarad Cymraeg gyda'r Prif Weinidog.",
@@ -1598,7 +1598,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "64",
+      "days_to_expire": "63",
       "series_title": "",
       "programme_title": "Sioe Sir Benfro 2026",
       "short_billing": "Uchafbwyntiau Sioe Sir Benfro 2026.",
@@ -1636,7 +1636,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "59",
+      "days_to_expire": "58",
       "series_title": "",
       "programme_title": "Y Crwydryn",
       "short_billing": "Pererindod gerddorol drwy Gymru wledig, yn archwilio bywyd a marwolaeth drwy lygaid y dyn mwyaf c–l yn sin canu gwlad Cymraeg - Wil Tân.",
@@ -1655,7 +1655,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "56",
+      "days_to_expire": "55",
       "series_title": "Sioe Mon 2026",
       "programme_title": "",
       "short_billing": "Uchafbwyntiau diwrnod olaf Sioe Sir Fôn 2026.",
@@ -1807,7 +1807,7 @@
     },
     {
       "count": "18",
-      "days_to_expire": "39",
+      "days_to_expire": "38",
       "series_title": "Y Sioe 2026",
       "programme_title": "Uchafbwyntiau'r Wythnos",
       "short_billing": "Uchafbwyntiau Sioe Frenhinol 2026.",
@@ -1864,7 +1864,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "37",
+      "days_to_expire": "36",
       "series_title": "",
       "programme_title": "Eigra",
       "short_billing": "Rhaglen arbennig yn dathlu Eigra Lewis Roberts.",
@@ -1920,8 +1920,8 @@
       "vs": "0"
     },
     {
-      "count": "5",
-      "days_to_expire": "28",
+      "count": "4",
+      "days_to_expire": "27",
       "series_title": "Taclo'r Ty",
       "programme_title": "",
       "short_billing": "Gweddnewid caban pren yng ngorllewin Cymru.",
@@ -1940,7 +1940,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "27",
+      "days_to_expire": "26",
       "series_title": "",
       "programme_title": "Alex Humphreys: Epilepsi a Fi",
       "short_billing": "Mae Alex Humphreys yn darganfod mwy am epilepsi.",
@@ -1997,7 +1997,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "25",
+      "days_to_expire": "24",
       "series_title": "",
       "programme_title": "Eisteddfod Llangollen: Cor y Byd",
       "short_billing": "Eisteddfod Ryngwladol Llangollen: Côr y Byd 2026.",
@@ -2073,7 +2073,7 @@
     },
     {
       "count": "3",
-      "days_to_expire": "18",
+      "days_to_expire": "17",
       "series_title": "Chris a'r Afal Mawr",
       "programme_title": "3. Tân yn Brooklyn",
       "short_billing": "Tro hwn: gwledd Gymreig arbennig yn Brooklyn!",
@@ -2168,7 +2168,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "13",
+      "days_to_expire": "12",
       "series_title": "Pwy Laddodd Hilda Murrell?",
       "programme_title": "",
       "short_billing": "Cyfres ddogfen yn edrych ar lofruddiaeth Hilda Murrell. 2/2.",
@@ -2187,7 +2187,7 @@
     },
     {
       "count": "2",
-      "days_to_expire": "8",
+      "days_to_expire": "7",
       "series_title": "Cyfrinachau'r Llyfrgell - Cyfres 2",
       "programme_title": "Caryl Lewis",
       "short_billing": "Tro hwn: yr awdur llwyddiannus, Caryl Lewis.",
@@ -2206,7 +2206,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "6",
+      "days_to_expire": "5",
       "series_title": "Y Llinell Las",
       "programme_title": "6. Bugeilio",
       "short_billing": "Gwaith Uned Plismona'r Ffyrdd Heddlu Gogledd Cymru.",
@@ -2225,7 +2225,7 @@
     },
     {
       "count": "1",
-      "days_to_expire": "5",
+      "days_to_expire": "4",
       "series_title": "Ceffylau, Sheikhs a Chowbois",
       "programme_title": "Pennod 3",
       "short_billing": "Mae Sue ac Emrys wedi teithio i Scottsdale.",
@@ -2320,7 +2320,7 @@
     },
     {
       "count": "4",
-      "days_to_expire": "165",
+      "days_to_expire": "164",
       "series_title": "Y Wal",
       "programme_title": "Sbaen a Moroco",
       "short_billing": "Yn Ceuta mae pobl yn croesi o Affrica i Ewrop.",
@@ -2376,25 +2376,6 @@
       "vs": "0"
     },
     {
-      "count": "2",
-      "days_to_expire": "1246",
-      "series_title": "Grid - Cyfres 1",
-      "programme_title": "Fy newis i yw gwisgo hijab",
-      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
-      "duration": "10",
-      "genre": "Ffeithiol a'r Celfyddydau",
-      "genre_id": "1",
-      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
-      "clic_aired": "6 Mawrth 2026",
-      "fav_id": "868593616",
-      "id": "810190881",
-      "series_id": "810190766",
-      "title": "Grid - Cyfres 1",
-      "date_broadcast": "",
-      "vs": "0"
-    },
-    {
       "count": "1",
       "days_to_expire": "1246",
       "series_title": "Grid - Cyfres 2",
@@ -2410,6 +2391,25 @@
       "id": "835003893",
       "series_id": "835003879",
       "title": "Grid - Cyfres 2",
+      "date_broadcast": "",
+      "vs": "0"
+    },
+    {
+      "count": "2",
+      "days_to_expire": "1246",
+      "series_title": "Grid - Cyfres 1",
+      "programme_title": "Fy newis i yw gwisgo hijab",
+      "short_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "thumbnail_url": "GRID_2021S4C_P5_Hijab_003.jpg",
+      "duration": "10",
+      "genre": "Ffeithiol a'r Celfyddydau",
+      "genre_id": "1",
+      "full_billing": "Mae merch ifanc yn cwestiynu ei pherthynas gyda'r hijab wrth iddi wynebu rhagfarn o fewn cymdeithas a'i chymuned tra'n ceisio byw bywyd fel mwslim yn yr oes fodern.",
+      "clic_aired": "6 Mawrth 2026",
+      "fav_id": "868593616",
+      "id": "810190881",
+      "series_id": "810190766",
+      "title": "Grid - Cyfres 1",
       "date_broadcast": "",
       "vs": "0"
     },
